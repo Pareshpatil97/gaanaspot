@@ -1,49 +1,79 @@
 import api from './api';
 
+const DEFAULT_ROUNDS = [
+  { song: { _id: 's1', title: 'Kesariya', movie: 'Brahmāstra', artist: 'Arijit Singh', audioUrl: '' }, status: 'pending' },
+  { song: { _id: 's2', title: 'Tum Hi Ho', movie: 'Aashiqui 2', artist: 'Arijit Singh', audioUrl: '' }, status: 'pending' },
+  { song: { _id: 's3', title: 'Channa Mereya', movie: 'Ae Dil Hai Mushkil', artist: 'Arijit Singh', audioUrl: '' }, status: 'pending' },
+  { song: { _id: 's4', title: 'Kal Ho Naa Ho', movie: 'Kal Ho Naa Ho', artist: 'Sonu Nigam', audioUrl: '' }, status: 'pending' },
+  { song: { _id: 's5', title: 'Chaiyya Chaiyya', movie: 'Dil Se..', artist: 'Sukhwinder Singh', audioUrl: '' }, status: 'pending' }
+];
+
 export const gameService = {
-  startGame: async (mode, options = {}) => {
-    // MOCK FOR NOW to allow UI testing
+  startGame: async (mode = 'daily', options = {}) => {
+    try {
+      const response = await api.post('/game/start', { mode, options });
+      const gameData = response.data?.data || response.data;
+      if (gameData && gameData.rounds) {
+        return gameData;
+      }
+    } catch (e) {
+      console.warn('Game start API failed or cold starting, using fallback game structure:', e.message);
+    }
+
     return {
       _id: `game_${Date.now()}`,
       mode,
-      rounds: [
-        { song: { _id: 's1', title: 'Tum Hi Ho', movie: 'Aashiqui 2', audioUrl: 'https://example.com/audio1.mp3', artist: 'Arijit Singh' }, status: 'pending' },
-        { song: { _id: 's2', title: 'Chaiyya Chaiyya', movie: 'Dil Se', audioUrl: 'https://example.com/audio2.mp3', artist: 'Sukhwinder Singh' }, status: 'pending' },
-        { song: { _id: 's3', title: 'Kabira', movie: 'Yeh Jawaani Hai Deewani', audioUrl: 'https://example.com/audio3.mp3', artist: 'Tochi Raina, Rekha Bhardwaj' }, status: 'pending' },
-        { song: { _id: 's4', title: 'Kal Ho Naa Ho', movie: 'Kal Ho Naa Ho', audioUrl: 'https://example.com/audio4.mp3', artist: 'Sonu Nigam' }, status: 'pending' },
-        { song: { _id: 's5', title: 'Agar Tum Saath Ho', movie: 'Tamasha', audioUrl: 'https://example.com/audio5.mp3', artist: 'Alka Yagnik, Arijit Singh' }, status: 'pending' },
-      ],
+      rounds: DEFAULT_ROUNDS,
       currentRound: 0,
       totalScore: 0,
       isComplete: false
     };
-    /*
-    const { data } = await api.post('/games', { mode, ...options });
-    return data;
-    */
   },
-  submitGuess: async (gameId, roundIndex, answerId) => {
-    // const { data } = await api.post(`/games/${gameId}/guess`, { roundIndex, answerId });
-    // return data;
-    return { correct: Math.random() > 0.5 };
+
+  submitGuess: async (gameId, roundIndex, answer) => {
+    try {
+      const queryAnswer = typeof answer === 'string' ? answer : (answer?.title || '');
+      const response = await api.post('/game/guess', { gameId, roundIndex, answer: queryAnswer });
+      return response.data?.data || response.data;
+    } catch (e) {
+      console.warn('Submit guess API failed:', e.message);
+      return null;
+    }
   },
+
   skipRound: async (gameId, roundIndex) => {
-    // const { data } = await api.post(`/games/${gameId}/skip`, { roundIndex });
-    // return data;
-    return { success: true };
+    try {
+      const response = await api.post('/game/skip', { gameId, roundIndex });
+      return response.data?.data || response.data;
+    } catch (e) {
+      return { success: true };
+    }
   },
+
   completeGame: async (gameId) => {
-    // const { data } = await api.post(`/games/${gameId}/complete`);
-    // return data;
-    return { success: true };
+    try {
+      const response = await api.post('/game/complete', { gameId });
+      return response.data?.data || response.data;
+    } catch (e) {
+      return { success: true };
+    }
   },
+
   getDaily: async () => {
-    // const { data } = await api.get('/games/daily');
-    // return data;
-    return { played: false };
+    try {
+      const response = await api.get('/daily');
+      return response.data?.data || response.data;
+    } catch (e) {
+      return { played: false };
+    }
   },
+
   getGameState: async (gameId) => {
-    const { data } = await api.get(`/games/${gameId}`);
-    return data;
+    try {
+      const response = await api.get(`/game/state/${gameId}`);
+      return response.data?.data || response.data;
+    } catch (e) {
+      return null;
+    }
   }
 };

@@ -30,11 +30,11 @@ const RoundResult = ({ result, song, onNext }) => {
           <Disc3 className="w-8 h-8 text-text-muted" />
         </div>
         <div className="text-left flex-1 min-w-0">
-          <p className="font-bold text-lg text-white truncate">{song.title}</p>
-          <p className="text-text-secondary text-sm truncate">{song.movie}</p>
+          <p className="font-bold text-lg text-white truncate">{song?.title || result?.song?.title || 'Hindi Track'}</p>
+          <p className="text-text-secondary text-sm truncate">{song?.movie || result?.song?.movie || 'Bollywood'}</p>
           <div className="flex gap-2 mt-2">
-            <Badge variant="outline">{song.year || 'N/A'}</Badge>
-            <Badge variant="outline">{song.singer || 'Unknown'}</Badge>
+            <Badge variant="outline">{song?.releaseYear || song?.year || result?.song?.releaseYear || 'Hits'}</Badge>
+            <Badge variant="outline">{song?.singer || (Array.isArray(song?.singers) ? song.singers[0] : null) || 'Popular'}</Badge>
           </div>
         </div>
       </div>

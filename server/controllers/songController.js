@@ -58,7 +58,7 @@ const searchSongs = async (req, res, next) => {
     const songs = await Song.find({
       isActive: true,
       title: { $regex: new RegExp(q, 'i') }
-    }).select('title id _id').limit(10);
+    }).select('title movie singers artists releaseYear difficulty _id').limit(10);
 
     res.json({ success: true, data: songs });
   } catch (error) {
