@@ -3,13 +3,13 @@ import { useNavigate } from 'react-router-dom';
 import { useGame } from '../hooks/useGame';
 import GameBoard from '../components/game/GameBoard';
 import RoundResult from '../components/game/RoundResult';
-import ProgressBar from '../components/game/ProgressBar';
-import ScoreDisplay from '../components/game/ScoreDisplay';
 import LoadingSpinner from '../components/ui/LoadingSpinner';
 
 const DailyGamePage = () => {
   const navigate = useNavigate();
   const [loading, setLoading] = useState(true);
+  const [selectedEra, setSelectedEra] = useState('all');
+  const [selectedDifficulty, setSelectedDifficulty] = useState(1);
   
   const {
     game,
@@ -27,7 +27,7 @@ const DailyGamePage = () => {
   } = useGame();
 
   useEffect(() => {
-    startNewGame('daily').then(() => setLoading(false));
+    startNewGame('daily').then(() => setLoading(false)).catch(() => setLoading(false));
   }, [startNewGame]);
 
   useEffect(() => {
@@ -36,44 +36,35 @@ const DailyGamePage = () => {
     }
   }, [isComplete, game, navigate, score, roundResults]);
 
-  if (loading || !game) return <LoadingSpinner text="Loading today's songs..." />;
+  if (loading || !game) return <LoadingSpinner text="Loading today's Bollywood songs..." />;
+
+  const isLastRound = currentRound === (game.rounds?.length || 5) - 1;
 
   return (
-    <div className="max-w-4xl mx-auto pt-4 pb-20 px-4 min-h-[80vh] flex flex-col">
+    <div className="max-w-4xl mx-auto pt-2 pb-20 px-2 sm:px-4 min-h-[85vh] flex flex-col justify-center">
       
-      <div className="flex items-center justify-between mb-8">
-        <div>
-          <h1 className="text-2xl font-bold text-white">Daily 5</h1>
-          <p className="text-text-secondary text-sm">Guess all 5 songs correctly</p>
-        </div>
-        <ScoreDisplay score={score} />
-      </div>
-
-      <ProgressBar 
-        total={game.rounds.length} 
-        current={currentRound} 
-        results={roundResults} 
-      />
-
-      <div className="flex-1 flex flex-col justify-center">
-        {!roundFinished ? (
-          <GameBoard 
-            game={game}
-            currentRound={currentRound}
-            currentAttempt={currentAttempt}
-            allowedDuration={allowedDuration}
-            onGuess={handleGuess}
-            onSkip={handleSkip}
-            roundFinished={roundFinished}
-          />
-        ) : (
-          <RoundResult 
-            result={roundResults[currentRound]} 
-            song={game.rounds[currentRound].song}
-            onNext={nextRound}
-          />
-        )}
-      </div>
+      {!roundFinished ? (
+        <GameBoard 
+          game={game}
+          currentRound={currentRound}
+          currentAttempt={currentAttempt}
+          allowedDuration={allowedDuration}
+          onGuess={handleGuess}
+          onSkip={handleSkip}
+          roundFinished={roundFinished}
+          selectedEra={selectedEra}
+          onSelectEra={setSelectedEra}
+          selectedDifficulty={selectedDifficulty}
+          onSelectDifficulty={setSelectedDifficulty}
+        />
+      ) : (
+        <RoundResult 
+          result={roundResults[currentRound]} 
+          song={game.rounds[currentRound]?.song}
+          onNext={nextRound}
+          isLastRound={isLastRound}
+        />
+      )}
 
     </div>
   );

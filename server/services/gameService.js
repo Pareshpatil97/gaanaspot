@@ -5,8 +5,9 @@ const dailyService = require('./dailyService');
 const { matchAnswer } = require('../utils/answerMatcher');
 const audioProvider = require('./audioProvider');
 
-const SCORING_TABLE = [1200, 975, 750, 525, 300];
-const DURATION_TABLE = [0.1, 0.5, 2, 8, 15];
+const SCORING_TABLE = [1000, 600, 300];
+const DURATION_TABLE = [0.5, 2.0, 8.0];
+const MAX_ATTEMPTS = 3;
 
 class GameService {
   async startGame(userId, mode, options = {}) {
@@ -77,7 +78,7 @@ class GameService {
     
     const round = game.rounds[roundIndex];
     if (!round) throw new Error('Round not found');
-    if (round.correct || round.attempts >= 5) {
+    if (round.correct || round.attempts >= MAX_ATTEMPTS) {
       throw new Error('Round already finished');
     }
 
@@ -91,10 +92,10 @@ class GameService {
 
     if (isCorrect) {
       round.correct = true;
-      round.score = SCORING_TABLE[round.attempts - 1];
-      round.guessedAtDuration = DURATION_TABLE[round.attempts - 1];
+      round.score = SCORING_TABLE[round.attempts - 1] || 300;
+      round.guessedAtDuration = DURATION_TABLE[round.attempts - 1] || 8.0;
       roundOver = true;
-    } else if (round.attempts >= 5) {
+    } else if (round.attempts >= MAX_ATTEMPTS) {
       round.score = 0;
       roundOver = true;
     }
@@ -144,7 +145,7 @@ class GameService {
 
     const state = g.toObject();
     state.rounds = state.rounds.map(round => {
-      const isOver = round.correct || round.attempts >= 5;
+      const isOver = round.correct || round.attempts >= MAX_ATTEMPTS;
       const songData = {
         _id: round.songId._id,
         audioPreviewUrl: audioProvider.getAudioUrl(round.songId)

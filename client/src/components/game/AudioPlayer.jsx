@@ -1,110 +1,103 @@
 import React, { useEffect, useState } from 'react';
-import { Play, Pause, Loader2, RotateCcw } from 'lucide-react';
+import { Play, Pause, Loader2 } from 'lucide-react';
 import { useAudio } from '../../hooks/useAudio';
 
-const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete }) => {
+const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0, totalAttempts = 3 }) => {
   const { loadAudio, playClip, pause, stop, isPlaying, currentTime, isLoading } = useAudio();
-  const [hasPlayed, setHasPlayed] = useState(false);
 
   useEffect(() => {
     loadAudio(audioUrl);
-    setHasPlayed(false);
   }, [audioUrl, loadAudio]);
 
   const handlePlayToggle = () => {
     if (isPlaying) {
       pause();
     } else {
-      setHasPlayed(true);
       playClip(maxDuration);
     }
   };
 
-  const handleRestart = () => {
-    stop();
-    setTimeout(() => {
-      playClip(maxDuration);
-    }, 50);
-  };
-
-  const progress = Math.min((currentTime / maxDuration) * 100, 100);
+  // 3 segments: 0.5s (up to ~6%), 2.0s (up to ~25%), 8.0s (100% of the bar)
+  // Let total track represent 8.0s (max guess duration)
+  const trackMax = 8.0;
+  const currentLimitPercent = Math.min((maxDuration / trackMax) * 100, 100);
+  const activePlayPercent = Math.min((currentTime / trackMax) * 100, currentLimitPercent);
 
   return (
-    <div className="flex flex-col items-center gap-6 w-full select-none">
-      <div className="relative flex items-center justify-center">
-        {/* Restart button if already played partially */}
-        {currentTime > 0 && !isPlaying && (
-          <button
-            onClick={handleRestart}
-            title="Replay from start"
-            className="absolute -left-14 p-3 rounded-full bg-surface border border-white/10 text-text-secondary hover:text-white hover:bg-surface-hover transition-all"
+    <div className="flex flex-col items-center gap-8 w-full max-w-lg mx-auto select-none my-2">
+      
+      {/* Songspot-style segmented timeline bar */}
+      <div className="w-full relative px-2">
+        {/* Background track */}
+        <div className="h-5 w-full bg-[#1e2320] rounded-full overflow-hidden relative border border-white/5 flex items-center">
+          
+          {/* Unlocked / Allowed region (Emerald green dimmed/highlighted) */}
+          <div 
+            className="h-full bg-[#34d399]/40 rounded-l-full relative transition-all duration-300"
+            style={{ width: `${currentLimitPercent}%` }}
           >
-            <RotateCcw className="w-5 h-5" />
-          </button>
-        )}
+            {/* Active Playback fill */}
+            <div 
+              className="h-full bg-[#10b981] rounded-l-full shadow-[0_0_12px_rgba(16,185,129,0.8)] transition-all duration-75 ease-linear"
+              style={{ width: isPlaying || currentTime > 0 ? `${(activePlayPercent / currentLimitPercent) * 100}%` : '100%' }}
+            />
+          </div>
 
-        {/* Main Play/Pause Button */}
+          {/* Segment Notches for 0.5s, 2s, 8s */}
+          <div 
+            className="absolute top-0 bottom-0 w-[2px] bg-black/60"
+            style={{ left: `${(0.5 / trackMax) * 100}%` }}
+          />
+          <div 
+            className="absolute top-0 bottom-0 w-[2px] bg-black/60"
+            style={{ left: `${(2.0 / trackMax) * 100}%` }}
+          />
+        </div>
+
+        {/* Marker indicator triangle pointing up at current cutoff */}
+        <div 
+          className="absolute -bottom-6 flex flex-col items-center -translate-x-1/2 transition-all duration-300 pointer-events-none"
+          style={{ left: `${currentLimitPercent}%` }}
+        >
+          <span className="text-[#10b981] text-xs font-bold leading-none">▲</span>
+          <span className="text-[#10b981] text-xs font-extrabold tracking-tight mt-0.5">{maxDuration}s</span>
+        </div>
+      </div>
+
+      {/* Large Glowing Songspot Circular Play/Pause Button with Duration Tag */}
+      <div className="flex items-center justify-center gap-5 mt-6 mb-2">
         <button
           onClick={handlePlayToggle}
           disabled={isLoading}
           aria-label={isPlaying ? 'Pause' : 'Play'}
-          className={`w-24 h-24 rounded-full flex items-center justify-center transition-all transform active:scale-95 ${
+          className={`w-28 h-28 rounded-full flex items-center justify-center transition-all transform active:scale-95 ${
             isLoading 
-              ? 'bg-surface-hover cursor-not-allowed' 
+              ? 'bg-[#181d19] cursor-not-allowed text-gray-500' 
               : isPlaying
-                ? 'bg-gradient-to-r from-primary to-secondary shadow-2xl shadow-primary/40 scale-105'
-                : 'bg-primary hover:bg-primary-hover hover:scale-105 shadow-xl shadow-primary/20'
+                ? 'bg-[#10b981] shadow-[0_0_40px_rgba(16,185,129,0.7)] scale-105 text-black'
+                : 'bg-[#10b981] hover:bg-[#059669] hover:scale-105 shadow-[0_0_30px_rgba(16,185,129,0.4)] text-black'
           }`}
         >
           {isLoading ? (
-            <Loader2 className="w-9 h-9 text-white animate-spin" />
+            <Loader2 className="w-11 h-11 text-black animate-spin" />
           ) : isPlaying ? (
-            <Pause className="w-9 h-9 text-white fill-white" />
+            <Pause className="w-11 h-11 fill-current" />
           ) : (
-            <Play className="w-9 h-9 text-white fill-white ml-1.5" />
+            <Play className="w-11 h-11 fill-current ml-2" />
           )}
         </button>
-        
-        {/* Animated outer glowing ring when playing */}
-        {isPlaying && (
-          <>
-            <div className="absolute inset-0 rounded-full border-2 border-primary/80 animate-ping opacity-60 pointer-events-none"></div>
-            <div className="absolute -inset-3 rounded-full border border-secondary/40 animate-pulse pointer-events-none"></div>
-          </>
-        )}
-      </div>
 
-      {/* Dynamic Instruction / Status Text */}
-      <div className="text-center">
-        {isPlaying ? (
-          <p className="text-primary font-semibold text-sm animate-pulse">
-            🎵 Listening... ({currentTime.toFixed(1)}s / {maxDuration}s)
+        {/* 8s / 2s / 0.5s indicator right next to button */}
+        <div className="text-left">
+          <span className="text-2xl font-black text-[#10b981] tracking-tight">
+            {maxDuration}s
+          </span>
+          <p className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">
+            {isPlaying ? 'Playing...' : 'Clip length'}
           </p>
-        ) : hasPlayed ? (
-          <p className="text-text-muted text-sm">
-            Tap button to resume or replay clip
-          </p>
-        ) : (
-          <p className="text-text-muted text-sm">
-            ▶ Tap to listen to the {maxDuration}s clip
-          </p>
-        )}
-      </div>
-
-      {/* Progress Bar & Timers */}
-      <div className="w-full max-w-md space-y-2">
-        <div className="flex justify-between text-xs font-semibold text-text-secondary">
-          <span className={isPlaying ? 'text-primary font-bold' : ''}>{currentTime.toFixed(1)}s</span>
-          <span className="text-text-muted">{maxDuration}s limit</span>
-        </div>
-        
-        <div className="h-3 w-full bg-surface-hover/80 rounded-full overflow-hidden border border-white/5 p-0.5">
-          <div 
-            className="h-full bg-gradient-to-r from-primary via-secondary to-primary rounded-full transition-all duration-75 ease-linear"
-            style={{ width: `${progress}%` }}
-          />
         </div>
       </div>
+
     </div>
   );
 };
