@@ -1,6 +1,7 @@
 import { useState, useCallback } from 'react';
 import { gameService } from '../services/gameService';
-import { MAX_ATTEMPTS, ATTEMPT_DURATIONS, ATTEMPT_SCORES } from '../utils/constants';
+import { MAX_ATTEMPTS, ATTEMPT_SCORES } from '../utils/constants';
+import { getAdaptiveDuration } from '../utils/adaptiveAlgorithm';
 
 export const useGame = () => {
   const [game, setGame] = useState(null);
@@ -141,7 +142,7 @@ export const useGame = () => {
     isComplete,
     roundResults,
     roundFinished,
-    allowedDuration: ATTEMPT_DURATIONS[currentAttempt] || 15,
+    allowedDuration: getAdaptiveDuration(currentAttempt, game?.rounds?.[currentRound]?.song),
     startNewGame,
     handleGuess,
     handleSkip,

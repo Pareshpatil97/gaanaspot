@@ -93,8 +93,9 @@ const GameBoard = ({
 
         {/* Audio Player with segmented timeline & glowing play/pause */}
         <AudioPlayer 
-          audioUrl={currentSong.audioPreviewUrl || currentSong.audioUrl || ''} 
+          audioUrl={currentSong?.audioPreviewUrl || currentSong?.audioUrl || ''} 
           maxDuration={allowedDuration}
+          currentSong={currentSong}
           currentAttempt={currentAttempt}
           totalAttempts={MAX_ATTEMPTS}
         />

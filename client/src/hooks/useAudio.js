@@ -97,8 +97,8 @@ export const useAudio = () => {
     }
   };
 
-  // Play clip with precise duration control and pause/play toggle support
-  const playClip = useCallback(async (maxDuration) => {
+  // Play clip with precise duration control and optional AI start offset
+  const playClip = useCallback(async (maxDuration, startOffset = 0) => {
     maxDurationRef.current = maxDuration;
 
     if (isPlaying) {
@@ -115,7 +115,7 @@ export const useAudio = () => {
 
       if (audioRef.current) {
         if (!isResume) {
-          audioRef.current.currentTime = 0;
+          audioRef.current.currentTime = startOffset;
         }
         await audioRef.current.play();
       } else {

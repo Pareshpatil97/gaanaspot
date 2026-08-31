@@ -1,8 +1,9 @@
 import React, { useEffect } from 'react';
 import { Play, Pause, Loader2 } from 'lucide-react';
 import { useAudio } from '../../hooks/useAudio';
+import { getAdaptiveStartOffset } from '../../utils/adaptiveAlgorithm';
 
-const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0, totalAttempts = 5 }) => {
+const AudioPlayer = ({ audioUrl, maxDuration, currentSong = {}, onPlayComplete, currentAttempt = 0, totalAttempts = 5 }) => {
   const { loadAudio, playClip, pause, stop, isPlaying, currentTime, isLoading } = useAudio();
 
   useEffect(() => {
@@ -13,7 +14,8 @@ const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0
     if (isPlaying) {
       pause();
     } else {
-      playClip(maxDuration);
+      const offset = getAdaptiveStartOffset(currentSong);
+      playClip(maxDuration, offset);
     }
   };
 
