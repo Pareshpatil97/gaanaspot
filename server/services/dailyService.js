@@ -48,6 +48,7 @@ class DailyService {
   }
 
   async hasPlayedToday(userId) {
+    if (!userId) return false;
     const dateStr = this.getTodayDateStr();
     const game = await Game.findOne({ userId, mode: 'daily', date: dateStr }).exec();
     return !!game;

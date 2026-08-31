@@ -16,9 +16,11 @@ class GameService {
 
     if (mode === 'daily') {
       date = dailyService.getTodayDateStr();
-      const hasPlayed = await dailyService.hasPlayedToday(userId);
-      if (hasPlayed) {
-        throw new Error('Already played daily game today');
+      if (userId) {
+        const hasPlayed = await dailyService.hasPlayedToday(userId);
+        if (hasPlayed) {
+          throw new Error('Already played daily game today');
+        }
       }
       songs = await dailyService.getDailySongs(date);
     } else if (mode === 'challenge') {
