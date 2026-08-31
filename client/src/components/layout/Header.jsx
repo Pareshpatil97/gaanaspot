@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Music2, Menu, X, Gamepad2, Target, Trophy, Sparkles } from 'lucide-react';
+import { Menu, X, Gamepad2, Target, Trophy, Sparkles } from 'lucide-react';
+import Logo from '../ui/Logo';
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -13,17 +14,12 @@ const Header = () => {
   ];
 
   return (
-    <header className="fixed top-0 w-full z-40 glass-panel border-b-0 border-white/5">
+    <header className="fixed top-0 w-full z-40 glass-panel border-b border-white/5 bg-[#0a0d0b]/90 backdrop-blur-xl">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2 group">
-            <div className="bg-primary/20 p-2 rounded-lg group-hover:bg-primary/30 transition-colors">
-              <Music2 className="text-primary w-6 h-6" />
-            </div>
-            <span className="font-bold text-xl tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
-              GaanaSpot
-            </span>
+          <Link to="/" className="flex items-center group">
+            <Logo size="md" />
           </Link>
 
           {/* Desktop Nav */}

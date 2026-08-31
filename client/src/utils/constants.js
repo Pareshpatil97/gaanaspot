@@ -1,7 +1,7 @@
-export const ATTEMPT_DURATIONS = [0.5, 2.0, 8.0];
-export const ATTEMPT_SCORES = [1000, 600, 300];
-export const MAX_ATTEMPTS = 3;
-export const MAX_SCORE = 5000;
+export const ATTEMPT_DURATIONS = [0.5, 2.0, 8.0, 15.0];
+export const ATTEMPT_SCORES = [1200, 800, 500, 200];
+export const MAX_ATTEMPTS = 4;
+export const MAX_SCORE = 6000;
 
 export const ERAS = [
   { id: 'all', label: 'Any era' },

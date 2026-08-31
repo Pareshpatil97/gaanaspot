@@ -1,6 +1,7 @@
 import React from 'react';
 import AudioPlayer from './AudioPlayer';
 import AnswerInput from './AnswerInput';
+import Logo from '../ui/Logo';
 import { ATTEMPT_DURATIONS, MAX_ATTEMPTS, ERAS, DIFFICULTIES } from '../../utils/constants';
 
 const GameBoard = ({ 
@@ -23,10 +24,10 @@ const GameBoard = ({
   return (
     <div className="flex flex-col items-center w-full max-w-2xl mx-auto px-4 select-none animate-fadeIn">
       
-      {/* Top Header Title */}
-      <h1 className="text-4xl sm:text-5xl font-black text-white/90 tracking-tight text-center mb-6 drop-shadow-md">
-        gaanaspot
-      </h1>
+      {/* Top Header Logo */}
+      <div className="flex justify-center mb-6">
+        <Logo size="lg" />
+      </div>
 
       {/* Eras Selector Row (e.g. 2020s, 2010s, Any era, Classic, 90s) */}
       <div className="flex items-center justify-center gap-3 md:gap-5 overflow-x-auto w-full max-w-full pb-2 mb-4 scrollbar-none text-xs sm:text-sm font-semibold text-gray-400">

@@ -1,44 +1,24 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import { Music2, Trophy, Flame, Play, Target, Users } from 'lucide-react';
-import { profileService } from '../services/profileService';
+import { Trophy, Flame, Play, Target, Users, Sparkles } from 'lucide-react';
+import Logo from '../components/ui/Logo';
 
 const HomePage = () => {
-  const [stats, setStats] = useState(null);
-
-  useEffect(() => {
-    // Try to fetch stats — will silently fail if not logged in
-    profileService.getStats()
-      .then(res => setStats(res?.data || res))
-      .catch(() => {}); // Not logged in, no stats — that's fine
-  }, []);
-
   return (
-    <div className="flex flex-col items-center pb-20">
+    <div className="flex flex-col items-center pb-20 select-none">
       
       {/* Hero Section */}
-      <section className="w-full max-w-4xl mx-auto text-center mt-12 mb-20 animate-fadeIn">
+      <section className="w-full max-w-4xl mx-auto text-center mt-12 mb-16 animate-fadeIn">
         <div className="flex justify-center mb-6">
-          <div className="relative">
-            <div className="absolute inset-0 bg-primary/30 blur-2xl rounded-full"></div>
-            <div className="bg-gradient-to-br from-surface to-surface-hover p-4 rounded-2xl border border-white/10 relative shadow-2xl animate-bounce-gentle">
-              <Music2 className="w-16 h-16 text-primary" />
-            </div>
-          </div>
+          <Logo size="lg" />
         </div>
         
-        <h1 className="text-5xl md:text-7xl font-black mb-6 tracking-tight">
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-secondary to-primary animate-shimmer" style={{ backgroundSize: '200% auto' }}>GaanaSpot</span>
-        </h1>
-        
         <p className="text-xl md:text-2xl text-text-secondary mb-2 font-medium">How quickly can you recognize the song?</p>
-        <p className="text-text-muted mb-10">Listen. Guess. Score.</p>
+        <p className="text-text-muted mb-8">Listen. Guess. Score.</p>
 
-        {/* Timeline Visual */}
+        {/* Timeline Visual (0.5s -> 2s -> 8s -> 15s) */}
         <div className="flex justify-center items-center gap-2 md:gap-4 mb-12 text-sm font-bold text-text-muted">
-          <span className="text-primary border border-primary/30 bg-primary/10 px-3 py-1 rounded-full">0.1s</span>
-          <span className="w-4 md:w-8 h-[1px] bg-border"></span>
-          <span className="border border-white/10 bg-surface px-3 py-1 rounded-full">0.5s</span>
+          <span className="text-emerald-400 border border-emerald-500/40 bg-emerald-500/10 px-3 py-1 rounded-full">0.5s</span>
           <span className="w-4 md:w-8 h-[1px] bg-border"></span>
           <span className="border border-white/10 bg-surface px-3 py-1 rounded-full">2.0s</span>
           <span className="w-4 md:w-8 h-[1px] bg-border"></span>

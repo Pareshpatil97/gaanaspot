@@ -5,9 +5,9 @@ const dailyService = require('./dailyService');
 const { matchAnswer } = require('../utils/answerMatcher');
 const audioProvider = require('./audioProvider');
 
-const SCORING_TABLE = [1000, 600, 300];
-const DURATION_TABLE = [0.5, 2.0, 8.0];
-const MAX_ATTEMPTS = 3;
+const SCORING_TABLE = [1200, 800, 500, 200];
+const DURATION_TABLE = [0.5, 2.0, 8.0, 15.0];
+const MAX_ATTEMPTS = 4;
 
 class GameService {
   async startGame(userId, mode, options = {}) {
@@ -92,8 +92,8 @@ class GameService {
 
     if (isCorrect) {
       round.correct = true;
-      round.score = SCORING_TABLE[round.attempts - 1] || 300;
-      round.guessedAtDuration = DURATION_TABLE[round.attempts - 1] || 8.0;
+      round.score = SCORING_TABLE[round.attempts - 1] || 200;
+      round.guessedAtDuration = DURATION_TABLE[round.attempts - 1] || 15.0;
       roundOver = true;
     } else if (round.attempts >= MAX_ATTEMPTS) {
       round.score = 0;
@@ -111,7 +111,15 @@ class GameService {
     };
 
     if (roundOver) {
-      response.song = song;
+      response.song = {
+        _id: song._id,
+        title: song.title,
+        movie: song.movie || 'Bollywood',
+        singers: song.singers || [],
+        singer: Array.isArray(song.singers) ? song.singers.join(', ') : (song.singers || ''),
+        releaseYear: song.releaseYear || 2020,
+        artworkUrl: song.artworkUrl || audioProvider.getArtworkUrl(song)
+      };
     }
 
     return response;

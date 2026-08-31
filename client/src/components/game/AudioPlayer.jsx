@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import { Play, Pause, Loader2 } from 'lucide-react';
 import { useAudio } from '../../hooks/useAudio';
 
-const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0, totalAttempts = 3 }) => {
+const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0, totalAttempts = 4 }) => {
   const { loadAudio, playClip, pause, stop, isPlaying, currentTime, isLoading } = useAudio();
 
   useEffect(() => {
@@ -17,21 +17,20 @@ const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0
     }
   };
 
-  // 3 segments: 0.5s (up to ~6%), 2.0s (up to ~25%), 8.0s (100% of the bar)
-  // Let total track represent 8.0s (max guess duration)
-  const trackMax = 8.0;
+  // Progression: 0.5s -> 2.0s -> 8.0s -> 15.0s
+  const trackMax = 15.0;
   const currentLimitPercent = Math.min((maxDuration / trackMax) * 100, 100);
   const activePlayPercent = Math.min((currentTime / trackMax) * 100, currentLimitPercent);
 
   return (
     <div className="flex flex-col items-center gap-8 w-full max-w-lg mx-auto select-none my-2">
       
-      {/* Songspot-style segmented timeline bar */}
+      {/* Songspot-style segmented timeline bar (0.5s, 2s, 8s, 15s) */}
       <div className="w-full relative px-2">
         {/* Background track */}
         <div className="h-5 w-full bg-[#1e2320] rounded-full overflow-hidden relative border border-white/5 flex items-center">
           
-          {/* Unlocked / Allowed region (Emerald green dimmed/highlighted) */}
+          {/* Unlocked / Allowed region (Emerald green highlighted) */}
           <div 
             className="h-full bg-[#34d399]/40 rounded-l-full relative transition-all duration-300"
             style={{ width: `${currentLimitPercent}%` }}
@@ -52,6 +51,10 @@ const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0
             className="absolute top-0 bottom-0 w-[2px] bg-black/60"
             style={{ left: `${(2.0 / trackMax) * 100}%` }}
           />
+          <div 
+            className="absolute top-0 bottom-0 w-[2px] bg-black/60"
+            style={{ left: `${(8.0 / trackMax) * 100}%` }}
+          />
         </div>
 
         {/* Marker indicator triangle pointing up at current cutoff */}
@@ -64,7 +67,7 @@ const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0
         </div>
       </div>
 
-      {/* Large Glowing Songspot Circular Play/Pause Button with Duration Tag */}
+      {/* Large Glowing Songspot Circular Play/Pause Button with Active Duration Indicator Badge */}
       <div className="flex items-center justify-center gap-5 mt-6 mb-2">
         <button
           onClick={handlePlayToggle}
@@ -87,9 +90,9 @@ const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete, currentAttempt = 0
           )}
         </button>
 
-        {/* 8s / 2s / 0.5s indicator right next to button */}
+        {/* 15s / 8s / 2s / 0.5s indicator right next to button */}
         <div className="text-left">
-          <span className="text-2xl font-black text-[#10b981] tracking-tight">
+          <span className="text-3xl font-black text-[#10b981] tracking-tight">
             {maxDuration}s
           </span>
           <p className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider">
