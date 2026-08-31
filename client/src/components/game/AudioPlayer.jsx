@@ -1,16 +1,14 @@
 import React, { useEffect, useState } from 'react';
-import { Play, Pause, Loader2 } from 'lucide-react';
+import { Play, Pause, Loader2, Volume2 } from 'lucide-react';
 import { useAudio } from '../../hooks/useAudio';
 
 const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete }) => {
-  const { loadAudio, playClip, stop, isPlaying, currentTime, isLoading } = useAudio();
+  const { loadAudio, playClip, stop, isPlaying, currentTime, isLoading, hasAudio } = useAudio();
   const [hasPlayed, setHasPlayed] = useState(false);
 
   useEffect(() => {
-    if (audioUrl) {
-      loadAudio(audioUrl);
-      setHasPlayed(false);
-    }
+    loadAudio(audioUrl);
+    setHasPlayed(false);
   }, [audioUrl]);
 
   const handlePlayPause = () => {
@@ -55,6 +53,11 @@ const AudioPlayer = ({ audioUrl, maxDuration, onPlayComplete }) => {
           </>
         )}
       </div>
+
+      {/* Hint text */}
+      {!hasPlayed && !isPlaying && !isLoading && (
+        <p className="text-text-muted text-sm animate-pulse">🎵 Tap play to hear the clip</p>
+      )}
 
       <div className="w-full max-w-md space-y-2">
         <div className="flex justify-between text-xs font-medium text-text-secondary">
