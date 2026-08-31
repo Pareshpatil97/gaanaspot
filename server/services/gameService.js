@@ -5,9 +5,9 @@ const dailyService = require('./dailyService');
 const { matchAnswer } = require('../utils/answerMatcher');
 const audioProvider = require('./audioProvider');
 
-const SCORING_TABLE = [1200, 800, 500, 200];
-const DURATION_TABLE = [0.5, 2.0, 8.0, 15.0];
-const MAX_ATTEMPTS = 4;
+const SCORING_TABLE = [1200, 975, 750, 525, 300];
+const DURATION_TABLE = [0.1, 0.5, 2.0, 8.0, 15.0];
+const MAX_ATTEMPTS = 5;
 
 class GameService {
   async startGame(userId, mode, options = {}) {

@@ -30,10 +30,10 @@ const skipRound = async (req, res, next) => {
   try {
     const { gameId, roundIndex } = req.body;
     let result;
-    for (let i = 0; i < 4; i++) {
+    for (let i = 0; i < 5; i++) {
       try {
         result = await gameService.submitGuess(gameId, roundIndex, '');
-        if (result.attempts >= 4 || result.correct) break;
+        if (result.attempts >= 5 || result.correct) break;
       } catch (err) {
         break;
       }

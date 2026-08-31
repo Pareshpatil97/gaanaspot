@@ -1,6 +1,6 @@
-export const ATTEMPT_DURATIONS = [0.5, 2.0, 8.0, 15.0];
-export const ATTEMPT_SCORES = [1200, 800, 500, 200];
-export const MAX_ATTEMPTS = 4;
+export const ATTEMPT_DURATIONS = [0.1, 0.5, 2.0, 8.0, 15.0];
+export const ATTEMPT_SCORES = [1200, 975, 750, 525, 300];
+export const MAX_ATTEMPTS = 5;
 export const MAX_SCORE = 6000;
 
 export const ERAS = [
@@ -44,6 +44,6 @@ export const ACHIEVEMENTS = {
   FIRST_BLOOD: { emoji: '🩸', title: 'First Blood', description: 'Play your first game' },
   PERFECT_SCORE: { emoji: '👑', title: 'Perfect Pitch', description: 'Get a perfect score in a game' },
   STREAK_7: { emoji: '🔥', title: 'On Fire', description: 'Maintain a 7-day streak' },
-  QUICK_EAR: { emoji: '⚡', title: 'Super Ear', description: 'Guess correctly on the 0.5s attempt' },
+  QUICK_EAR: { emoji: '⚡', title: 'Super Ear', description: 'Guess correctly on the 0.1s attempt' },
   MUSIC_NERD: { emoji: '🤓', title: 'Music Nerd', description: 'Play 50 games' },
 };

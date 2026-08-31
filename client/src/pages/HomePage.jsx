@@ -16,14 +16,16 @@ const HomePage = () => {
         <p className="text-xl md:text-2xl text-text-secondary mb-2 font-medium">How quickly can you recognize the song?</p>
         <p className="text-text-muted mb-8">Listen. Guess. Score.</p>
 
-        {/* Timeline Visual (0.5s -> 2s -> 8s -> 15s) */}
-        <div className="flex justify-center items-center gap-2 md:gap-4 mb-12 text-sm font-bold text-text-muted">
-          <span className="text-emerald-400 border border-emerald-500/40 bg-emerald-500/10 px-3 py-1 rounded-full">0.5s</span>
-          <span className="w-4 md:w-8 h-[1px] bg-border"></span>
+        {/* Timeline Visual (0.1s -> 0.5s -> 2s -> 8s -> 15s) */}
+        <div className="flex justify-center items-center gap-2 md:gap-3 mb-12 text-sm font-bold text-text-muted flex-wrap">
+          <span className="text-emerald-400 border border-emerald-500/40 bg-emerald-500/10 px-3 py-1 rounded-full">0.1s</span>
+          <span className="w-3 md:w-6 h-[1px] bg-border"></span>
+          <span className="border border-white/10 bg-surface px-3 py-1 rounded-full">0.5s</span>
+          <span className="w-3 md:w-6 h-[1px] bg-border"></span>
           <span className="border border-white/10 bg-surface px-3 py-1 rounded-full">2.0s</span>
-          <span className="w-4 md:w-8 h-[1px] bg-border"></span>
+          <span className="w-3 md:w-6 h-[1px] bg-border"></span>
           <span className="border border-white/10 bg-surface px-3 py-1 rounded-full">8.0s</span>
-          <span className="w-4 md:w-8 h-[1px] bg-border"></span>
+          <span className="w-3 md:w-6 h-[1px] bg-border"></span>
           <span className="border border-white/10 bg-surface px-3 py-1 rounded-full">15s</span>
         </div>
 
