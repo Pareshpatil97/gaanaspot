@@ -31,17 +31,31 @@ class GameService {
       songs = challenge.songIds;
       challengeCode = challenge.code;
     } else {
-      // practice mode
+      // practice mode with progressive difficulty
       const query = { isActive: true };
       if (options.genre) query.genre = options.genre;
       if (options.decade) query.decade = options.decade;
-      if (options.difficulty) query.difficulty = options.difficulty;
 
-      const count = await Song.countDocuments(query);
-      if (count < 5) {
-        songs = await Song.aggregate([{ $match: { isActive: true } }, { $sample: { size: 5 } }]);
-      } else {
+      if (options.difficulty) {
+        query.difficulty = parseInt(options.difficulty);
         songs = await Song.aggregate([{ $match: query }, { $sample: { size: 5 } }]);
+      } else {
+        // Select 5 songs progressively by difficulty
+        const diffs = [1, 2, 3, 4, 3];
+        const progressiveSongs = [];
+        for (const diff of diffs) {
+          const diffQuery = { ...query, difficulty: diff };
+          let pick = await Song.aggregate([{ $match: diffQuery }, { $sample: { size: 1 } }]);
+          if (!pick || pick.length === 0) {
+            pick = await Song.aggregate([{ $match: { isActive: true } }, { $sample: { size: 1 } }]);
+          }
+          if (pick && pick.length > 0) progressiveSongs.push(pick[0]);
+        }
+        songs = progressiveSongs;
+      }
+
+      if (songs.length < 5) {
+        songs = await Song.aggregate([{ $match: { isActive: true } }, { $sample: { size: 5 } }]);
       }
     }
 
@@ -86,7 +100,7 @@ class GameService {
     round.guesses.push(guess);
 
     const song = round.songId;
-    const isCorrect = matchAnswer(guess, song.title, song.aliases);
+    const isCorrect = matchAnswer(guess, song.title, song.aliases, song._id);
 
     let roundOver = false;
 

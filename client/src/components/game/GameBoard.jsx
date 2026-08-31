@@ -49,7 +49,8 @@ const GameBoard = ({
       {/* Difficulty Pills with Custom Glowing Styles (Songspot style) */}
       <div className="flex items-center justify-center gap-2 sm:gap-3 flex-wrap mb-8">
         {DIFFICULTIES.map((diff) => {
-          const isSelected = selectedDifficulty === diff.id;
+          const currentRoundDiff = Math.min(currentRound + 1, 5);
+          const isSelected = selectedDifficulty ? selectedDifficulty === diff.id : currentRoundDiff === diff.id;
           return (
             <button
               key={diff.id}
