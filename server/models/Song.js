@@ -23,7 +23,7 @@ const SongSchema = new mongoose.Schema({
   createdAt: { type: Date, default: Date.now }
 });
 
-SongSchema.index({ normalizedTitle: 'text' });
+SongSchema.index({ normalizedTitle: 'text' }, { default_language: 'none', language_override: 'none' });
 SongSchema.index({ genre: 1 });
 SongSchema.index({ decade: 1 });
 SongSchema.index({ difficulty: 1 });

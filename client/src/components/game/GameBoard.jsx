@@ -38,7 +38,7 @@ const GameBoard = ({ game, currentRound, currentAttempt, allowedDuration, onGues
       </div>
 
       <AudioPlayer 
-        audioUrl={currentSong.audioUrl} 
+        audioUrl={currentSong?.audioPreviewUrl || currentSong?.audioUrl || ''} 
         maxDuration={allowedDuration}
       />
 
