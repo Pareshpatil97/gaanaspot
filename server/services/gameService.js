@@ -40,12 +40,15 @@ class GameService {
         query.difficulty = parseInt(options.difficulty);
         songs = await Song.aggregate([{ $match: query }, { $sample: { size: 5 } }]);
       } else {
-        // Select 5 songs progressively by difficulty
-        const diffs = [1, 2, 3, 4, 3];
+        // Select 5 songs progressively by difficulty (Easy -> Medium -> Hard -> Expert -> Impossible)
+        const diffs = [1, 2, 3, 4, 5];
         const progressiveSongs = [];
         for (const diff of diffs) {
           const diffQuery = { ...query, difficulty: diff };
           let pick = await Song.aggregate([{ $match: diffQuery }, { $sample: { size: 1 } }]);
+          if (!pick || pick.length === 0) {
+            pick = await Song.aggregate([{ $match: { isActive: true, difficulty: diff } }, { $sample: { size: 1 } }]);
+          }
           if (!pick || pick.length === 0) {
             pick = await Song.aggregate([{ $match: { isActive: true } }, { $sample: { size: 1 } }]);
           }

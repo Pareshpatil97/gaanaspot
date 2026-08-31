@@ -8,20 +8,35 @@ class DailyService {
   }
 
   async getDailySongs() {
-    const activeSongs = await Song.find({ isActive: true }).exec();
+    const diffs = [1, 2, 3, 4, 5];
+    const songs = [];
 
-    if (activeSongs.length < 5) {
-      return activeSongs;
+    for (const diff of diffs) {
+      let pick = await Song.aggregate([
+        { $match: { isActive: true, difficulty: diff } },
+        { $sample: { size: 1 } }
+      ]);
+
+      if (!pick || pick.length === 0) {
+        pick = await Song.aggregate([
+          { $match: { isActive: true } },
+          { $sample: { size: 1 } }
+        ]);
+      }
+
+      if (pick && pick.length > 0) {
+        songs.push(pick[0]);
+      }
     }
 
-    // Pure Fisher-Yates shuffle with Math.random() for fresh new songs every game session
-    const shuffled = [...activeSongs];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    if (songs.length < 5) {
+      return await Song.aggregate([
+        { $match: { isActive: true } },
+        { $sample: { size: 5 } }
+      ]);
     }
 
-    return shuffled.slice(0, 5);
+    return songs;
   }
 
   async hasPlayedToday(userId) {

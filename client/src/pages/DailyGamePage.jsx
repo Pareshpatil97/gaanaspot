@@ -9,7 +9,7 @@ const DailyGamePage = () => {
   const navigate = useNavigate();
   const [loading, setLoading] = useState(true);
   const [selectedEra, setSelectedEra] = useState('all');
-  const [selectedDifficulty, setSelectedDifficulty] = useState(1);
+  const [selectedDifficulty, setSelectedDifficulty] = useState(null);
   
   const {
     game,

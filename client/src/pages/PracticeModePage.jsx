@@ -9,7 +9,7 @@ const PracticeModePage = () => {
   const navigate = useNavigate();
   const [isPlaying, setIsPlaying] = useState(false);
   const [selectedEra, setSelectedEra] = useState('all');
-  const [selectedDifficulty, setSelectedDifficulty] = useState(1);
+  const [selectedDifficulty, setSelectedDifficulty] = useState(null);
   
   const {
     game, currentRound, currentAttempt, score, isComplete, roundResults, roundFinished,
