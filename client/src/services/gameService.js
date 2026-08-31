@@ -1,12 +1,28 @@
 import api from './api';
 
-const DEFAULT_ROUNDS = [
-  { song: { _id: 's1', title: 'Kesariya', movie: 'Brahmāstra', artist: 'Arijit Singh', audioUrl: '' }, status: 'pending' },
-  { song: { _id: 's2', title: 'Tum Hi Ho', movie: 'Aashiqui 2', artist: 'Arijit Singh', audioUrl: '' }, status: 'pending' },
-  { song: { _id: 's3', title: 'Channa Mereya', movie: 'Ae Dil Hai Mushkil', artist: 'Arijit Singh', audioUrl: '' }, status: 'pending' },
-  { song: { _id: 's4', title: 'Kal Ho Naa Ho', movie: 'Kal Ho Naa Ho', artist: 'Sonu Nigam', audioUrl: '' }, status: 'pending' },
-  { song: { _id: 's5', title: 'Chaiyya Chaiyya', movie: 'Dil Se..', artist: 'Sukhwinder Singh', audioUrl: '' }, status: 'pending' }
+const FALLBACK_SONG_POOL = [
+  { _id: 's1', title: 'Kesariya', movie: 'Brahmāstra', singers: ['Arijit Singh'], releaseYear: 2022, audioUrl: '' },
+  { _id: 's2', title: 'Tum Hi Ho', movie: 'Aashiqui 2', singers: ['Arijit Singh'], releaseYear: 2013, audioUrl: '' },
+  { _id: 's3', title: 'Channa Mereya', movie: 'Ae Dil Hai Mushkil', singers: ['Arijit Singh'], releaseYear: 2016, audioUrl: '' },
+  { _id: 's4', title: 'Kal Ho Naa Ho', movie: 'Kal Ho Naa Ho', singers: ['Sonu Nigam'], releaseYear: 2003, audioUrl: '' },
+  { _id: 's5', title: 'Chaiyya Chaiyya', movie: 'Dil Se..', singers: ['Sukhwinder Singh'], releaseYear: 1998, audioUrl: '' },
+  { _id: 's6', title: 'Apna Bana Le', movie: 'Bhediya', singers: ['Arijit Singh'], releaseYear: 2022, audioUrl: '' },
+  { _id: 's7', title: 'Chaleya', movie: 'Jawan', singers: ['Arijit Singh'], releaseYear: 2023, audioUrl: '' },
+  { _id: 's8', title: 'Satranga', movie: 'Animal', singers: ['Arijit Singh'], releaseYear: 2023, audioUrl: '' },
+  { _id: 's9', title: 'Tere Vaaste', movie: 'Zara Hatke Zara Bachke', singers: ['Varun Jain'], releaseYear: 2023, audioUrl: '' },
+  { _id: 's10', title: 'Kabira', movie: 'Yeh Jawaani Hai Deewani', singers: ['Tochi Raina'], releaseYear: 2013, audioUrl: '' },
+  { _id: 's11', title: 'Tujhe Dekha Toh', movie: 'DDLJ', singers: ['Kumar Sanu'], releaseYear: 1995, audioUrl: '' },
+  { _id: 's12', title: 'Yeh Dosti', movie: 'Sholay', singers: ['Kishore Kumar'], releaseYear: 1975, audioUrl: '' }
 ];
+
+const getRandomRounds = () => {
+  const shuffled = [...FALLBACK_SONG_POOL];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled.slice(0, 5).map(song => ({ song, status: 'pending' }));
+};
 
 export const gameService = {
   startGame: async (mode = 'daily', options = {}) => {
@@ -17,13 +33,13 @@ export const gameService = {
         return gameData;
       }
     } catch (e) {
-      console.warn('Game start API failed or cold starting, using fallback game structure:', e.message);
+      console.warn('Game start API failed or cold starting, using randomized fallback:', e.message);
     }
 
     return {
-      _id: `game_${Date.now()}`,
+      _id: `game_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`,
       mode,
-      rounds: DEFAULT_ROUNDS,
+      rounds: getRandomRounds(),
       currentRound: 0,
       totalScore: 0,
       isComplete: false

@@ -7,40 +7,17 @@ class DailyService {
     return now.toISOString().split('T')[0];
   }
 
-  _hashCode(str) {
-    let hash = 0;
-    for (let i = 0; i < str.length; i++) {
-      const char = str.charCodeAt(i);
-      hash = ((hash << 5) - hash) + char;
-      hash = hash & hash; // Convert to 32bit integer
-    }
-    return Math.abs(hash);
-  }
-
-  _seededRandom(seed) {
-    // Mulberry32 PRNG - much better distribution than sin-based
-    let t = seed + 0x6D2B79F5;
-    return () => {
-      t = Math.imul(t ^ (t >>> 15), t | 1);
-      t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
-      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-    };
-  }
-
-  async getDailySongs(dateStr) {
-    const seed = this._hashCode(dateStr || this.getTodayDateStr());
-    const random = this._seededRandom(seed);
-
+  async getDailySongs() {
     const activeSongs = await Song.find({ isActive: true }).exec();
 
     if (activeSongs.length < 5) {
       return activeSongs;
     }
 
-    // Fisher-Yates shuffle using seeded PRNG
+    // Pure Fisher-Yates shuffle with Math.random() for fresh new songs every game session
     const shuffled = [...activeSongs];
     for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(random() * (i + 1));
+      const j = Math.floor(Math.random() * (i + 1));
       [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
 
