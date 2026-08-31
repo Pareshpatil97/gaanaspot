@@ -2890,33 +2890,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Brahmastra (Instrumental)",
-    "movie": "impetus (Instrumental)",
-    "singers": [
-      "Collude"
-    ],
-    "artists": [
-      "Collude"
-    ],
-    "composers": [
-      "Collude"
-    ],
-    "lyricist": "Collude",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/4a/4d/fd4a4db4-1114-cf77-66e1-26a8193c4ccf/mzaf_16391591981903334157.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/9c/3e/339c3e77-e4d6-ae53-f180-54bcd1a90a31/artwork.jpg/400x400bb.jpg",
-    "aliases": [
-      "Brahmastra (Instrumental)",
-      "Brahmastra (Instrumental)"
-    ]
-  },
-  {
     "title": "Bhool Bhulaiyaa 2",
     "movie": "Bang Bang",
     "singers": [
@@ -3835,141 +3808,6 @@ module.exports = [
     ]
   },
   {
-    "title": "I just threw out the love of my dreams (live at 3 idiots at work)",
-    "movie": "The Silver Bullets Live at 3 idiots at work - EP",
-    "singers": [
-      "The Silver Bullets"
-    ],
-    "artists": [
-      "The Silver Bullets"
-    ],
-    "composers": [
-      "The Silver Bullets"
-    ],
-    "lyricist": "The Silver Bullets",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9b/7e/3d/9b7e3d35-b1ce-b04d-1bb4-de540cd05dc2/mzaf_10272367248879758102.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/26/9b/22269b9c-220f-f93f-2b9f-a48f61d737ba/artwork.jpg/400x400bb.jpg",
-    "aliases": [
-      "I just threw out the love of my dreams (live at 3 idiots at work) [Live]",
-      "I just threw out the love of my dreams (live at 3 idiots at work)"
-    ]
-  },
-  {
-    "title": "Bowling Alleys Of the Midwest (live at 3 idiots at work)",
-    "movie": "The Silver Bullets Live at 3 idiots at work - EP",
-    "singers": [
-      "The Silver Bullets"
-    ],
-    "artists": [
-      "The Silver Bullets"
-    ],
-    "composers": [
-      "The Silver Bullets"
-    ],
-    "lyricist": "The Silver Bullets",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/79/28/817928f5-0747-8c51-4b4b-68ab53a58dd3/mzaf_9683712306302407080.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/26/9b/22269b9c-220f-f93f-2b9f-a48f61d737ba/artwork.jpg/400x400bb.jpg",
-    "aliases": [
-      "Bowling Alleys Of the Midwest (live at 3 idiots at work) [Live]",
-      "Bowling Alleys Of the Midwest (live at 3 idiots at work)"
-    ]
-  },
-  {
-    "title": "Telephone (live at 3 idiots at work)",
-    "movie": "The Silver Bullets Live at 3 idiots at work - EP",
-    "singers": [
-      "The Silver Bullets"
-    ],
-    "artists": [
-      "The Silver Bullets"
-    ],
-    "composers": [
-      "The Silver Bullets"
-    ],
-    "lyricist": "The Silver Bullets",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/11/54/b5115425-e196-82f6-c185-e20ab6753842/mzaf_9542605845302127615.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/26/9b/22269b9c-220f-f93f-2b9f-a48f61d737ba/artwork.jpg/400x400bb.jpg",
-    "aliases": [
-      "Telephone (live at 3 idiots at work) [Live]",
-      "Telephone (live at 3 idiots at work)"
-    ]
-  },
-  {
-    "title": "Heavy Hail (live at 3 idiots at work)",
-    "movie": "The Silver Bullets Live at 3 idiots at work - EP",
-    "singers": [
-      "The Silver Bullets"
-    ],
-    "artists": [
-      "The Silver Bullets"
-    ],
-    "composers": [
-      "The Silver Bullets"
-    ],
-    "lyricist": "The Silver Bullets",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/c2/c6/7dc2c684-bf82-0386-f163-91a431d1ec03/mzaf_8154003908499178003.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/26/9b/22269b9c-220f-f93f-2b9f-a48f61d737ba/artwork.jpg/400x400bb.jpg",
-    "aliases": [
-      "Heavy Hail (live at 3 idiots at work) [Live]",
-      "Heavy Hail (live at 3 idiots at work)"
-    ]
-  },
-  {
-    "title": "More than what we were (live at 3 idiots at work)",
-    "movie": "The Silver Bullets Live at 3 idiots at work - EP",
-    "singers": [
-      "The Silver Bullets"
-    ],
-    "artists": [
-      "The Silver Bullets"
-    ],
-    "composers": [
-      "The Silver Bullets"
-    ],
-    "lyricist": "The Silver Bullets",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/77/a7/2a77a7d1-e390-ff0b-fc4a-7655c7a901c2/mzaf_11862742698499505540.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/26/9b/22269b9c-220f-f93f-2b9f-a48f61d737ba/artwork.jpg/400x400bb.jpg",
-    "aliases": [
-      "More than what we were (live at 3 idiots at work) [Live]",
-      "More than what we were (live at 3 idiots at work)"
-    ]
-  },
-  {
     "title": "Dude's Arrival",
     "movie": "3 Idiots - EP",
     "singers": [
@@ -4642,33 +4480,6 @@ module.exports = [
     "aliases": [
       "Sholay (Title soundtrack) [Orchestral version]",
       "Sholay (Title soundtrack)"
-    ]
-  },
-  {
-    "title": "Santa",
-    "movie": "Santa - Single",
-    "singers": [
-      "Rvssian, Rauw Alejandro & Ayra Starr"
-    ],
-    "artists": [
-      "Rvssian, Rauw Alejandro & Ayra Starr"
-    ],
-    "composers": [
-      "Rvssian, Rauw Alejandro & Ayra Starr"
-    ],
-    "lyricist": "Rvssian, Rauw Alejandro & Ayra Starr",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/de/51/f2de510d-5955-506c-7d0e-1a07c7e67d2f/mzaf_7850984270634383893.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/3b/65/783b6546-bf40-4583-1064-1d4946a82f50/196871978293.jpg/400x400bb.jpg",
-    "aliases": [
-      "Santa",
-      "Santa"
     ]
   },
   {
@@ -8641,33 +8452,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Main Hoon Na (Guitar Instrumental)",
-    "movie": "Main Hoon Na (Guitar Instrumental) - Single",
-    "singers": [
-      "Tapadyoti Das"
-    ],
-    "artists": [
-      "Tapadyoti Das"
-    ],
-    "composers": [
-      "Tapadyoti Das"
-    ],
-    "lyricist": "Tapadyoti Das",
-    "releaseYear": 2024,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/a9/03/ada90321-d845-195d-ab6c-8710132205d9/mzaf_15352563718595514055.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/c7/e9/17c7e91b-b8b2-9cf1-9759-c42bd8f59a9d/5063473800817_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Main Hoon Na (Guitar Instrumental)",
-      "Main Hoon Na (Guitar Instrumental)"
-    ]
-  },
-  {
     "title": "New Friends (feat. 3 IDIOTS)",
     "movie": "funKI Sloth",
     "singers": [
@@ -9151,33 +8935,6 @@ module.exports = [
     "aliases": [
       "Disco Dancer (The Disco Pirates Edit) [Mixed]",
       "Disco Dancer (The Disco Pirates Edit)"
-    ]
-  },
-  {
-    "title": "Once Upon a Time in the West (Live at Hammersmith Odeon, London, UK, 1983)",
-    "movie": "Live 1978–1992 (2023 Remasters)",
-    "singers": [
-      "Dire Straits"
-    ],
-    "artists": [
-      "Dire Straits"
-    ],
-    "composers": [
-      "Dire Straits"
-    ],
-    "lyricist": "Dire Straits",
-    "releaseYear": 2024,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/84/96/1a849697-c3c6-a795-d71f-64115b14bdc3/mzaf_13945337918085790387.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/86/5c/8f865cd1-7007-f321-9a96-8a400974609c/603497825622.jpg/400x400bb.jpg",
-    "aliases": [
-      "Once Upon a Time in the West (Live at Hammersmith Odeon, London, UK, 1983)",
-      "Once Upon a Time in the West (Live at Hammersmith Odeon, London, UK, 1983)"
     ]
   },
   {
@@ -11962,33 +11719,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Shershaah Instrumental Medley",
-    "movie": "Shershaah Instrumental Medley - Single",
-    "singers": [
-      "Naman Paliwal"
-    ],
-    "artists": [
-      "Naman Paliwal"
-    ],
-    "composers": [
-      "Naman Paliwal"
-    ],
-    "lyricist": "Naman Paliwal",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8e/6d/71/8e6d7143-2ab7-b6d4-c5ea-110c87f61fbd/mzaf_16433455563961099045.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/fa/6c/06fa6cfc-a45a-2ed1-ecb3-b8eef3ae8ab5/196589950536.jpg/400x400bb.jpg",
-    "aliases": [
-      "Shershaah Instrumental Medley",
-      "Shershaah Instrumental Medley"
-    ]
-  },
-  {
     "title": "Phir Aur Kya Chahiye",
     "movie": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Single",
     "singers": [
@@ -13312,33 +13042,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Kal Ho Naa Ho (Instrumental)",
-    "movie": "Bollywood Instrumental Hits",
-    "singers": [
-      "Rishi Kumar Instrumentals & Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Rishi Kumar Instrumentals & Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Rishi Kumar Instrumentals & Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Rishi Kumar Instrumentals & Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/c9/bc/36c9bce3-0ea5-5bc9-1ac1-97065353e480/mzaf_5234147925659525910.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/22/ed/4f22ed3a-954b-71d1-637b-33855bd756c8/ticket.xdqudfpm.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kal Ho Naa Ho (Instrumental)",
-      "Kal Ho Naa Ho (Instrumental)"
-    ]
-  },
-  {
     "title": "kal Ho Naa Ho (piano)",
     "movie": "kal Ho Naa Ho (piano) - Single",
     "singers": [
@@ -13363,33 +13066,6 @@ module.exports = [
     "aliases": [
       "kal Ho Naa Ho (piano)",
       "kal Ho Naa Ho (piano)"
-    ]
-  },
-  {
-    "title": "Kal Ho Naa Ho (Instrumental Version)",
-    "movie": "Kal Ho Naa Ho (Instrumental Version) - Single",
-    "singers": [
-      "Sujan Lama"
-    ],
-    "artists": [
-      "Sujan Lama"
-    ],
-    "composers": [
-      "Sujan Lama"
-    ],
-    "lyricist": "Sujan Lama",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/29/2f/ed/292fed46-6587-59ec-1aaa-ce8e8c963484/mzaf_7628824058613592310.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/44/4f/fa444f67-a5a5-2173-be48-f65a96366d55/fc221e7d-118d-48d7-b02d-c170daa188c5.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kal Ho Naa Ho (Instrumental Version)",
-      "Kal Ho Naa Ho (Instrumental Version)"
     ]
   },
   {
@@ -13471,168 +13147,6 @@ module.exports = [
     "aliases": [
       "3 IDIOTS",
       "3 IDIOTS"
-    ]
-  },
-  {
-    "title": "Bunty Aur Babli - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/32/8d/79/328d7981-ee98-d9d1-7ea9-e05dc950613f/mzaf_14393855773814057647.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Bunty Aur Babli - Instrumental",
-      "Bunty Aur Babli - Instrumental"
-    ]
-  },
-  {
-    "title": "Dhadak Dhadak (Harmonium Version) - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3e/04/02/3e0402c6-c1e4-00d5-e945-75ce908b258e/mzaf_17245752798955821226.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Dhadak Dhadak (Harmonium Version) - Instrumental",
-      "Dhadak Dhadak (Harmonium Version) - Instrumental"
-    ]
-  },
-  {
-    "title": "Kajra Re (Harmonium Version) - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/cd/f2/69/cdf26920-6e6c-6637-a665-b8ed3f4cab94/mzaf_15938153764436439939.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kajra Re (Harmonium Version) - Instrumental",
-      "Kajra Re (Harmonium Version) - Instrumental"
-    ]
-  },
-  {
-    "title": "Nach Baliye - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ef/79/3c/ef793c84-467c-f35b-a90a-545844273ab4/mzaf_15744106691115202449.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Nach Baliye - Instrumental",
-      "Nach Baliye - Instrumental"
-    ]
-  },
-  {
-    "title": "Kajra Re (Guitar Version) - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0d/6f/0f/0d6f0f58-f967-de4a-867d-7de856ef0304/mzaf_9419323907000868409.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kajra Re (Guitar Version) - Instrumental",
-      "Kajra Re (Guitar Version) - Instrumental"
-    ]
-  },
-  {
-    "title": "Dhadak Dhadak (Guitar Version) - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d5/3c/d7/d53cd74c-85aa-cdbc-8fac-6c1d71b8ee55/mzaf_18290130976349148160.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Dhadak Dhadak (Guitar Version) - Instrumental",
-      "Dhadak Dhadak (Guitar Version) - Instrumental"
     ]
   },
   {
@@ -14335,249 +13849,6 @@ module.exports = [
     "aliases": [
       "Laj Lage Bhauji",
       "Laj Lage Bhauji"
-    ]
-  },
-  {
-    "title": "Bad Blood (Taylor's Version)",
-    "movie": "1989 (Taylor's Version) [Deluxe]",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/5e/7b/2e5e7ba7-7b7f-ab7f-eab7-3ccf4ad12478/mzaf_17636575405914632989.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Bad Blood (Taylor's Version) [feat. Kendrick Lamar]",
-      "Bad Blood (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Is It Over Now? (Taylor's Version)",
-    "movie": "1989 (Taylor's Version) [Deluxe]",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/e2/aa/9de2aacc-36ff-6527-4d2e-be0c832dcb91/mzaf_18039849064642187364.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Is It Over Now? (Taylor's Version) [From The Vault]",
-      "Is It Over Now? (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Style (Taylor's Version)",
-    "movie": "1989 (Taylor's Version)",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/5d/72/bd5d726f-f082-732a-bfac-102ab3739ec7/mzaf_13805328136345741566.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Style (Taylor's Version)",
-      "Style (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Blank Space (Taylor's Version)",
-    "movie": "1989 (Taylor's Version)",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/dd/3a/f1dd3add-0fc5-2e35-3460-923fb707f21e/mzaf_7924539200493199372.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Blank Space (Taylor's Version)",
-      "Blank Space (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Now That We Don't Talk (Taylor's Version)",
-    "movie": "1989 (Taylor's Version) [Deluxe]",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/33/32/18333271-5c9a-b794-27ed-be9b3a1c340e/mzaf_4581353890558777841.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Now That We Don't Talk (Taylor's Version) [From The Vault]",
-      "Now That We Don't Talk (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Wildest Dreams (Taylor's Version)",
-    "movie": "1989 (Taylor's Version)",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/7f/4d/7e7f4df4-6626-45c5-6d58-396e694b0ef1/mzaf_2321596346210779231.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Wildest Dreams (Taylor's Version)",
-      "Wildest Dreams (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "\"Slut!\" (Taylor's Version)",
-    "movie": "1989 (Taylor's Version)",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/7d/d8/037dd885-c541-84ec-5155-c1ead3dc809d/mzaf_1355345805178358367.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "\"Slut!\" (Taylor's Version) [From The Vault]",
-      "\"Slut!\" (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Say Don't Go (Taylor's Version)",
-    "movie": "1989 (Taylor's Version) [Deluxe]",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/80/b6/ca80b61d-0cd9-1258-f921-5661e25417a1/mzaf_12707476446883977649.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Say Don't Go (Taylor's Version) [From The Vault]",
-      "Say Don't Go (Taylor's Version)"
-    ]
-  },
-  {
-    "title": "Out Of The Woods (Taylor's Version)",
-    "movie": "1989 (Taylor's Version)",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2023,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/66/d5/0066d530-75b3-5237-23fb-a09b71297a76/mzaf_12894130507851736868.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Out Of The Woods (Taylor's Version)",
-      "Out Of The Woods (Taylor's Version)"
     ]
   },
   {
@@ -21898,33 +21169,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Aashiqui2 (Instrumental)",
-    "movie": "Aashiqui2 (Instrumental) - Single",
-    "singers": [
-      "Yuvaraj M"
-    ],
-    "artists": [
-      "Yuvaraj M"
-    ],
-    "composers": [
-      "Yuvaraj M"
-    ],
-    "lyricist": "Yuvaraj M",
-    "releaseYear": 2021,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/2d/3a/542d3ab7-0aa2-57e8-f76c-3577d99112fd/mzaf_10962910213813606061.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/b2/ff/24b2ff25-c64d-795e-8328-466037a274a6/7316219603417.png/400x400bb.jpg",
-    "aliases": [
-      "Aashiqui2 (Instrumental)",
-      "Aashiqui2 (Instrumental)"
-    ]
-  },
-  {
     "title": "Chandigarh Kare Aashiqui 2.0",
     "movie": "Chandigarh Kare Aashiqui 2.0 - Single",
     "singers": [
@@ -23869,33 +23113,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Kuch Kuch Hota Hai (Instrumental)",
-    "movie": "Kuch Kuch Hota Hai (Instrumental) - Single",
-    "singers": [
-      "Basil M Jose"
-    ],
-    "artists": [
-      "Basil M Jose"
-    ],
-    "composers": [
-      "Basil M Jose"
-    ],
-    "lyricist": "Basil M Jose",
-    "releaseYear": 2020,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/61/72/4161721c-158a-5fac-8e08-3a6d7c77d2ec/mzaf_8472783859629968092.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/54/c3/a654c335-47fa-21e5-44c5-31f846f57205/185800.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kuch Kuch Hota Hai (Instrumental)",
-      "Kuch Kuch Hota Hai (Instrumental)"
-    ]
-  },
-  {
     "title": "Baazigar (feat. Likhari)",
     "movie": "Baazigar (Freestyle) [feat. Likhari] - Single",
     "singers": [
@@ -24883,62 +24100,6 @@ module.exports = [
     "aliases": [
       "Jai Jai Shivshankar (From \"War\")",
       "Jai Jai Shivshankar"
-    ]
-  },
-  {
-    "title": "War Theme (Instrumental)",
-    "movie": "War",
-    "singers": [
-      "Sanchit Balhara"
-    ],
-    "artists": [
-      "Sanchit Balhara"
-    ],
-    "composers": [
-      "Sanchit Balhara"
-    ],
-    "lyricist": "Sanchit Balhara",
-    "releaseYear": 2019,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/a2/7e/a7a27e78-75e7-948e-d25e-eaffa36d4340/mzaf_17356560441398172151.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/03/a0/3603a004-3288-484c-9783-305ffebc91ba/849486006348_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "War Theme (Instrumental)",
-      "War Theme (Instrumental)"
-    ]
-  },
-  {
-    "title": "Kabir's Theme (Instrumental)",
-    "movie": "War",
-    "singers": [
-      "Sanchit Balhara"
-    ],
-    "artists": [
-      "Sanchit Balhara"
-    ],
-    "composers": [
-      "Sanchit Balhara"
-    ],
-    "lyricist": "Sanchit Balhara",
-    "releaseYear": 2019,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/e0/9c/f7e09c59-05ba-4679-95c0-e0693071d854/mzaf_17304568992359535353.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/03/a0/3603a004-3288-484c-9783-305ffebc91ba/849486006348_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kabir's Theme (Instrumental)",
-      "Kabir's Theme (Instrumental)"
     ]
   },
   {
@@ -28190,34 +27351,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Ae Dil Hai Mushkil (Instrumental)",
-    "movie": "Ae Dil Hai Mushkil (Instrumental) [Original Motion Picture Soundtrack]",
-    "singers": [
-      "Pritam & Ajay Singha"
-    ],
-    "artists": [
-      "Pritam & Ajay Singha"
-    ],
-    "composers": [
-      "Pritam & Ajay Singha"
-    ],
-    "lyricist": "Pritam & Ajay Singha",
-    "releaseYear": 2018,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/71/17/0a711748-b90b-7e0f-5001-0ee09735dd0a/mzaf_10652865721276081302.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/64/d4/5264d4b1-b4fc-2728-f200-b9b7bc5ee19d/886446956060.jpg/400x400bb.jpg",
-    "aliases": [
-      "Ae Dil Hai Mushkil (Instrumental)",
-      "Ae Dil Hai Mushkil (Instrumental)"
-    ]
-  },
-  {
     "title": "Allah Duhai Hai",
     "movie": "Race 3",
     "singers": [
@@ -28610,34 +27743,6 @@ module.exports = [
     ]
   },
   {
-    "title": "\"Heroes\" (Live '83)",
-    "movie": "Serious Moonlight (Live '83)",
-    "singers": [
-      "David Bowie"
-    ],
-    "artists": [
-      "David Bowie"
-    ],
-    "composers": [
-      "David Bowie"
-    ],
-    "lyricist": "David Bowie",
-    "releaseYear": 2018,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/93/ea/d7/93ead774-2bb2-bbf6-6fb7-41513601d330/mzaf_8614146794946369511.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bc/47/ba/bc47badd-fbed-54a9-cdc7-395ca9f3d7f1/190295671525.jpg/400x400bb.jpg",
-    "aliases": [
-      "\"Heroes\" (Live '83)",
-      "\"Heroes\" (Live '83)"
-    ]
-  },
-  {
     "title": "Shining Star (Makin' My Love)",
     "movie": "Never Let Me Down (2018)",
     "singers": [
@@ -28663,34 +27768,6 @@ module.exports = [
     "aliases": [
       "Shining Star (Makin' My Love) [2018]",
       "Shining Star (Makin' My Love)"
-    ]
-  },
-  {
-    "title": "Young Americans (Live '83)",
-    "movie": "Serious Moonlight (Live '83)",
-    "singers": [
-      "David Bowie"
-    ],
-    "artists": [
-      "David Bowie"
-    ],
-    "composers": [
-      "David Bowie"
-    ],
-    "lyricist": "David Bowie",
-    "releaseYear": 2018,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/86/08/a88608ed-03e6-8c7e-dfb9-5dcfd121a884/mzaf_3868082841926797907.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bc/47/ba/bc47badd-fbed-54a9-cdc7-395ca9f3d7f1/190295671525.jpg/400x400bb.jpg",
-    "aliases": [
-      "Young Americans (Live '83)",
-      "Young Americans (Live '83)"
     ]
   },
   {
@@ -29475,174 +28552,6 @@ module.exports = [
     "aliases": [
       "DANCE (You See It)",
       "DANCE (You See It)"
-    ]
-  },
-  {
-    "title": "The Creeper (Live)",
-    "movie": "Live at Dunk!Fest 2016",
-    "singers": [
-      "Pelican"
-    ],
-    "artists": [
-      "Pelican"
-    ],
-    "composers": [
-      "Pelican"
-    ],
-    "lyricist": "Pelican",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/cd/06/abcd0616-0a4c-1fa9-534c-9ccc76668ef6/mzaf_5362265791888776051.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/b2/57/0b/b2570bb8-bb03-1396-473e-076784cc9908/859721699051_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "The Creeper (Live)",
-      "The Creeper (Live)"
-    ]
-  },
-  {
-    "title": "Deficit (Live)",
-    "movie": "Live at Dunk! Fest",
-    "singers": [
-      "Russian Circles"
-    ],
-    "artists": [
-      "Russian Circles"
-    ],
-    "composers": [
-      "Russian Circles"
-    ],
-    "lyricist": "Russian Circles",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/93/e7/c593e758-835b-102b-1b74-1f6579c5c105/mzaf_244687874223743523.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/4d/6b/564d6b50-2b17-47b4-4259-7f480d05efd1/113825.jpg/400x400bb.jpg",
-    "aliases": [
-      "Deficit (Live)",
-      "Deficit (Live)"
-    ]
-  },
-  {
-    "title": "Harper Lewis (Live)",
-    "movie": "Live at Dunk! Fest",
-    "singers": [
-      "Russian Circles"
-    ],
-    "artists": [
-      "Russian Circles"
-    ],
-    "composers": [
-      "Russian Circles"
-    ],
-    "lyricist": "Russian Circles",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/83/d8/a983d81f-0c3a-356c-8424-8d48e7fd7867/mzaf_15002783079370923714.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/4d/6b/564d6b50-2b17-47b4-4259-7f480d05efd1/113825.jpg/400x400bb.jpg",
-    "aliases": [
-      "Harper Lewis (Live)",
-      "Harper Lewis (Live)"
-    ]
-  },
-  {
-    "title": "Afrika (Live)",
-    "movie": "Live at Dunk! Fest",
-    "singers": [
-      "Russian Circles"
-    ],
-    "artists": [
-      "Russian Circles"
-    ],
-    "composers": [
-      "Russian Circles"
-    ],
-    "lyricist": "Russian Circles",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/29/a6/8229a686-377c-8eb8-8a17-f584669e92ed/mzaf_12772923615472677856.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/4d/6b/564d6b50-2b17-47b4-4259-7f480d05efd1/113825.jpg/400x400bb.jpg",
-    "aliases": [
-      "Afrika (Live)",
-      "Afrika (Live)"
-    ]
-  },
-  {
-    "title": "309 (Live)",
-    "movie": "Live at Dunk! Fest",
-    "singers": [
-      "Russian Circles"
-    ],
-    "artists": [
-      "Russian Circles"
-    ],
-    "composers": [
-      "Russian Circles"
-    ],
-    "lyricist": "Russian Circles",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/c9/79/69c979e6-44c8-bbcb-0716-86cdb859c773/mzaf_7572557172852756341.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/4d/6b/564d6b50-2b17-47b4-4259-7f480d05efd1/113825.jpg/400x400bb.jpg",
-    "aliases": [
-      "309 (Live)",
-      "309 (Live)"
-    ]
-  },
-  {
-    "title": "Geneva (Live)",
-    "movie": "Live at Dunk! Fest",
-    "singers": [
-      "Russian Circles"
-    ],
-    "artists": [
-      "Russian Circles"
-    ],
-    "composers": [
-      "Russian Circles"
-    ],
-    "lyricist": "Russian Circles",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/87/90/a08790e4-d311-14cb-6562-d30a4ce44b3f/mzaf_15202880046633322191.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/4d/6b/564d6b50-2b17-47b4-4259-7f480d05efd1/113825.jpg/400x400bb.jpg",
-    "aliases": [
-      "Geneva (Live)",
-      "Geneva (Live)"
     ]
   },
   {
@@ -36338,34 +35247,6 @@ module.exports = [
     ]
   },
   {
-    "title": "#Selfie (Instrumental Mix)",
-    "movie": "#Selfie (Instrumental Mix) - Single",
-    "singers": [
-      "The Chainsmokers"
-    ],
-    "artists": [
-      "The Chainsmokers"
-    ],
-    "composers": [
-      "The Chainsmokers"
-    ],
-    "lyricist": "The Chainsmokers",
-    "releaseYear": 2014,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/65/bc/24/65bc2462-13c3-025d-26db-29d8f6df2cc3/mzaf_4101126930846161895.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0c/8f/56/0c8f5664-fba1-0df4-4abf-bb1baa0a0a27/14UMGIM10145.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "#Selfie (Instrumental Mix)",
-      "#Selfie (Instrumental Mix)"
-    ]
-  },
-  {
     "title": "Selfie (Workout Mix)",
     "movie": "55 Smash Hits! - Running Mixes!",
     "singers": [
@@ -37007,34 +35888,6 @@ module.exports = [
     "aliases": [
       "1234 Get On the Dance Floor (In the Style of Chennai Express) [Karaoke Backing Track]",
       "1234 Get On the Dance Floor (In the Style of Chennai Express)"
-    ]
-  },
-  {
-    "title": "Chup Chup Ke - Instrumental",
-    "movie": "Bunty Aur Babli: Instrumentals",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2014,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/99/e7/2399e784-7230-993d-5eb8-0565233c8373/mzaf_9784180456292351566.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/19/9d/88199d42-6e7a-83f5-c7a7-1729bfdfda59/Bunty_Aur_Babli_Instrumentals.jpg/400x400bb.jpg",
-    "aliases": [
-      "Chup Chup Ke - Instrumental",
-      "Chup Chup Ke - Instrumental"
     ]
   },
   {
@@ -39726,34 +38579,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Dilwale Dulhania Le Jayenge Theme (Instrumental)",
-    "movie": "Dilwale Dulhania Le Jayenge [Dialogues Version]",
-    "singers": [
-      "Jatin-Lalit"
-    ],
-    "artists": [
-      "Jatin-Lalit"
-    ],
-    "composers": [
-      "Jatin-Lalit"
-    ],
-    "lyricist": "Jatin-Lalit",
-    "releaseYear": 2013,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/53/25/435325ae-ac9e-f35e-28ee-0721289acc5c/mzaf_14307732164911455554.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/46/58/97/465897ed-fe10-e218-4cac-02c69ca36ad0/191773207717.jpg/400x400bb.jpg",
-    "aliases": [
-      "Dilwale Dulhania Le Jayenge Theme (Instrumental)",
-      "Dilwale Dulhania Le Jayenge Theme (Instrumental)"
-    ]
-  },
-  {
     "title": "Agar Yeh Tujhe Pyar Karti (Dialogues)",
     "movie": "Dilwale Dulhania Le Jayenge [Dialogues Version]",
     "singers": [
@@ -40171,34 +38996,6 @@ module.exports = [
     "aliases": [
       "Haré Rama, Haré Krishna",
       "Haré Rama, Haré Krishna"
-    ]
-  },
-  {
-    "title": "Long Gone (Live at the Marquee Club, London, 16 November 1980)",
-    "movie": "Hot 'N' Live: The Chrysalis Live Anthology 1974-1983",
-    "singers": [
-      "UFO"
-    ],
-    "artists": [
-      "UFO"
-    ],
-    "composers": [
-      "UFO"
-    ],
-    "lyricist": "UFO",
-    "releaseYear": 2013,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d1/76/52/d176525e-9090-1919-3bd4-19326a6eee1a/mzaf_18046313963459909289.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/2c/38/812c387b-09c8-3834-ae40-771997ec08fc/0810098501149.png/400x400bb.jpg",
-    "aliases": [
-      "Long Gone (Live at the Marquee Club, London, 16 November 1980)",
-      "Long Gone (Live at the Marquee Club, London, 16 November 1980)"
     ]
   },
   {
@@ -41179,62 +39976,6 @@ module.exports = [
     "aliases": [
       "On Top of the World",
       "On Top of the World"
-    ]
-  },
-  {
-    "title": "My Heroes Have Always Been Cowboys (Live)",
-    "movie": "Live At the US Festival, 1983",
-    "singers": [
-      "Willie Nelson"
-    ],
-    "artists": [
-      "Willie Nelson"
-    ],
-    "composers": [
-      "Willie Nelson"
-    ],
-    "lyricist": "Willie Nelson",
-    "releaseYear": 2012,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/e0/5e/49e05e2f-2d1a-2ad8-a0d0-e9df127dd579/mzaf_15793341319216598168.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9c/69/ea/9c69ea3f-e3b3-66a6-147f-cf61e7076703/00826663131215.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "My Heroes Have Always Been Cowboys (Live)",
-      "My Heroes Have Always Been Cowboys (Live)"
-    ]
-  },
-  {
-    "title": "Honky Tonk Heroes (Live)",
-    "movie": "Live At the US Festival, 1983 (Live From San Bernadino/1983)",
-    "singers": [
-      "Waylon Jennings"
-    ],
-    "artists": [
-      "Waylon Jennings"
-    ],
-    "composers": [
-      "Waylon Jennings"
-    ],
-    "lyricist": "Waylon Jennings",
-    "releaseYear": 2012,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/78/1e/8e781eb4-dc81-0c93-ba2e-c402ebbb1e47/mzaf_2962796597371160453.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/03/24/82/03248291-7726-a510-88b2-48ea0304e812/00826663131222.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Honky Tonk Heroes (Live)",
-      "Honky Tonk Heroes (Live)"
     ]
   },
   {
@@ -43198,34 +41939,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Baby (feat. Ludacris)",
-    "movie": "My World 2.0 (Bonus Track Version)",
-    "singers": [
-      "Justin Bieber"
-    ],
-    "artists": [
-      "Justin Bieber"
-    ],
-    "composers": [
-      "Justin Bieber"
-    ],
-    "lyricist": "Justin Bieber",
-    "releaseYear": 2010,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/66/d3/8966d3cb-68eb-5f2c-fef8-4ac420721387/mzaf_3044382270474258872.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/0a/b4/b90ab45a-07b1-0bcc-331c-c496a21d07e4/10UMGIM01134.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Baby (feat. Ludacris)",
-      "Baby (feat. Ludacris)"
-    ]
-  },
-  {
     "title": "Munni Badnaam",
     "movie": "Dabangg",
     "singers": [
@@ -43590,34 +42303,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Pichle Saat Dinon Mein (Live Version)",
-    "movie": "Rock On",
-    "singers": [
-      "Farhan Akhtar"
-    ],
-    "artists": [
-      "Farhan Akhtar"
-    ],
-    "composers": [
-      "Farhan Akhtar"
-    ],
-    "lyricist": "Farhan Akhtar",
-    "releaseYear": 2010,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/34/9a/a1349ad9-ee5b-5853-aafc-edb489a26091/mzaf_15333604644643561835.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/72/55/ff/7255ff0a-2418-5540-aeda-6b01e0165732/8902894686266_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Pichle Saat Dinon Mein (Live Version)",
-      "Pichle Saat Dinon Mein (Live Version)"
-    ]
-  },
-  {
     "title": "Kuch Kuch Hota Hai (Pocket Cinema)",
     "movie": "Kuch Kuch Hota Hai (Pocket Cinema) - EP",
     "singers": [
@@ -43671,34 +42356,6 @@ module.exports = [
     "aliases": [
       "Bahara",
       "Bahara"
-    ]
-  },
-  {
-    "title": "Sholay (Live in Studio)",
-    "movie": "Miss Gifty (Live in Studio)",
-    "singers": [
-      "Rajdeep Gifty"
-    ],
-    "artists": [
-      "Rajdeep Gifty"
-    ],
-    "composers": [
-      "Rajdeep Gifty"
-    ],
-    "lyricist": "Rajdeep Gifty",
-    "releaseYear": 2010,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/ec/a9/45eca921-b888-0756-df1d-e6fad131a94a/mzaf_16913954199524944106.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6e/8d/8a/6e8d8ad7-e7d4-969b-41e9-eb51f5321880/3614593980792.jpg/400x400bb.jpg",
-    "aliases": [
-      "Sholay (Live in Studio)",
-      "Sholay (Live in Studio)"
     ]
   },
   {
@@ -45530,58 +44187,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Couldn't Get It Right (Live at the Hammersmith Odeon, 15 April 1983)",
-    "movie": "Headstone: Live at Hammersmith 1983",
-    "singers": [
-      "UFO"
-    ],
-    "artists": [
-      "UFO"
-    ],
-    "composers": [
-      "UFO"
-    ],
-    "lyricist": "UFO",
-    "releaseYear": 2009,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/9e/03/19/9e031965-0d66-13b9-82d7-b39f79938b56/mzaf_7991227391640456880.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/45/b7/26/45b72671-c7bc-d394-5d29-b1e875c13993/5054526576681.png/400x400bb.jpg",
-    "aliases": [
-      "Couldn't Get It Right (Live at the Hammersmith Odeon, 15 April 1983)",
-      "Couldn't Get It Right (Live at the Hammersmith Odeon, 15 April 1983)"
-    ]
-  },
-  {
-    "title": "Long Gone (Live at the Hammersmith Odeon, 15 April 1983)",
-    "movie": "Headstone: Live at Hammersmith 1983",
-    "singers": [
-      "UFO"
-    ],
-    "artists": [
-      "UFO"
-    ],
-    "composers": [
-      "UFO"
-    ],
-    "lyricist": "UFO",
-    "releaseYear": 2009,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/57/1d/a9/571da9fe-6f4c-8b73-8229-16be0ec7ca3f/mzaf_4644007564806688.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/45/b7/26/45b72671-c7bc-d394-5d29-b1e875c13993/5054526576681.png/400x400bb.jpg",
-    "aliases": [
-      "Long Gone (Live at the Hammersmith Odeon, 15 April 1983)",
-      "Long Gone (Live at the Hammersmith Odeon, 15 April 1983)"
-    ]
-  },
-  {
     "title": "Shukran Allah",
     "movie": "Kurbaan",
     "singers": [
@@ -46021,32 +44626,6 @@ module.exports = [
     "aliases": [
       "Latoo",
       "Latoo"
-    ]
-  },
-  {
-    "title": "Kaise Mujhe (Instrumental)",
-    "movie": "Ghajini",
-    "singers": [
-      "A.R. Rahman"
-    ],
-    "artists": [
-      "A.R. Rahman"
-    ],
-    "composers": [
-      "A.R. Rahman"
-    ],
-    "lyricist": "A.R. Rahman",
-    "releaseYear": 2008,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/a8/62/41a862dd-ef2c-a052-bffb-63b13d1007eb/mzaf_1607878975641610040.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/2a/54/b12a5476-65db-75b9-be67-611bede2596e/8902894628464_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kaise Mujhe (Instrumental)",
-      "Kaise Mujhe (Instrumental)"
     ]
   },
   {
@@ -46830,32 +45409,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Love Story (Live From Clear Channel Stripped 2008)",
-    "movie": "Live From Clear Channel Stripped 2008",
-    "singers": [
-      "Taylor Swift"
-    ],
-    "artists": [
-      "Taylor Swift"
-    ],
-    "composers": [
-      "Taylor Swift"
-    ],
-    "lyricist": "Taylor Swift",
-    "releaseYear": 2008,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/34/be/4334bef2-831c-a878-bb15-4ec3f300b506/mzaf_5711611385464993353.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/e4/1c/26e41ced-ab49-e981-b738-c1b5c056e759/20OPBMR01217.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Love Story (Live From Clear Channel Stripped 2008)",
-      "Love Story (Live From Clear Channel Stripped 2008)"
-    ]
-  },
-  {
     "title": "I Kissed a Girl",
     "movie": "One of the Boys",
     "singers": [
@@ -47402,32 +45955,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Tum Se Hi (Instrumental)",
-    "movie": "Jab We Met",
-    "singers": [
-      "Pritam"
-    ],
-    "artists": [
-      "Pritam"
-    ],
-    "composers": [
-      "Pritam"
-    ],
-    "lyricist": "Pritam",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/de/1c/47de1c87-d0aa-ceba-202a-4a2ce0017dfb/mzaf_5600749277639785390.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Tum Se Hi (Instrumental)",
-      "Tum Se Hi (Instrumental)"
-    ]
-  },
-  {
     "title": "Mauja Hi Mauja (Remix)",
     "movie": "Jab We Met",
     "singers": [
@@ -47714,266 +46241,6 @@ module.exports = [
     ]
   },
   {
-    "title": "The Love Legend Theme (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/67/e1/df/67e1dff7-37dd-5ad5-d9df-07634a78db8e/mzaf_4765537396975301967.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "The Love Legend Theme (Instrumental)",
-      "The Love Legend Theme (Instrumental)"
-    ]
-  },
-  {
-    "title": "Veer-Zaara Part At Station (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/04/98/d4/0498d48c-85e7-145b-c9dc-43a7991c763d/mzaf_784568215701986771.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Veer-Zaara Part At Station (Instrumental)",
-      "Veer-Zaara Part At Station (Instrumental)"
-    ]
-  },
-  {
-    "title": "Veer's Court Room Poem Theme (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/ee/fa/44eefabd-b5d9-213d-8bfc-feccca2ae8f9/mzaf_12881058733163803403.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Veer's Court Room Poem Theme (Instrumental)",
-      "Veer's Court Room Poem Theme (Instrumental)"
-    ]
-  },
-  {
-    "title": "Zaara-Bauji Theme (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/65/6f/8e656f66-a1a0-c73c-658e-d500ff522d40/mzaf_3997370077798721681.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Zaara-Bauji Theme (Instrumental)",
-      "Zaara-Bauji Theme (Instrumental)"
-    ]
-  },
-  {
-    "title": "Veer's Story – Saamiya's Theme (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/94/38/a494389e-4768-7e2e-f61b-db84877960c3/mzaf_5068147427227842900.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Veer's Story – Saamiya's Theme (Instrumental)",
-      "Veer's Story – Saamiya's Theme (Instrumental)"
-    ]
-  },
-  {
-    "title": "Bebe's Theme (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/5c/ea/1e5cea7b-d9a9-c003-4a01-80bcdfb1a11d/mzaf_5437538800258060727.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Bebe's Theme (Instrumental)",
-      "Bebe's Theme (Instrumental)"
-    ]
-  },
-  {
-    "title": "Veer-Zaara Part Again (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/61/8c/4e/618c4e3f-3d99-501d-ceb4-7e430773fea4/mzaf_15002368901831825349.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Veer-Zaara Part Again (Instrumental)",
-      "Veer-Zaara Part Again (Instrumental)"
-    ]
-  },
-  {
-    "title": "Zaara Reveals Her Love To Her Mother (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/46/c9/ad/46c9ad87-91b0-a570-98bb-0fb591da1719/mzaf_10866339906758388866.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Zaara Reveals Her Love To Her Mother (Instrumental)",
-      "Zaara Reveals Her Love To Her Mother (Instrumental)"
-    ]
-  },
-  {
-    "title": "Veer-Zaara United At Last (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/bc/43/63bc4334-6913-a3c7-8e35-1edc5aa1edc2/mzaf_1473833997569824649.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Veer-Zaara United At Last (Instrumental)",
-      "Veer-Zaara United At Last (Instrumental)"
-    ]
-  },
-  {
-    "title": "Zaara's Mother's Plea To Veer (Instrumental)",
-    "movie": "The Love Legend Themes: Veer-Zaara Themes & Instrumental Scores",
-    "singers": [
-      "Madan Mohan"
-    ],
-    "artists": [
-      "Madan Mohan"
-    ],
-    "composers": [
-      "Madan Mohan"
-    ],
-    "lyricist": "Madan Mohan",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/46/01/ed4601bd-57ec-b949-3f4c-c67d9a12bb88/mzaf_8405551147754100126.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/ff/9d/2aff9d55-d553-970b-20b2-07fb985ad7a7/The_Love_Legend_Themes.jpg/400x400bb.jpg",
-    "aliases": [
-      "Zaara's Mother's Plea To Veer (Instrumental)",
-      "Zaara's Mother's Plea To Veer (Instrumental)"
-    ]
-  },
-  {
     "title": "Maula Mere Lele Meri Jaan",
     "movie": "Chak De India",
     "singers": [
@@ -48205,32 +46472,6 @@ module.exports = [
     "aliases": [
       "Wo Ajnabee",
       "Wo Ajnabee"
-    ]
-  },
-  {
-    "title": "\"Heroes\" (Live Montreal '87)",
-    "movie": "Glass Spider (Live Montreal '87)",
-    "singers": [
-      "David Bowie"
-    ],
-    "artists": [
-      "David Bowie"
-    ],
-    "composers": [
-      "David Bowie"
-    ],
-    "lyricist": "David Bowie",
-    "releaseYear": 2007,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ed/f4/b3/edf4b32d-b2d7-f882-98f6-74f5b4339124/mzaf_5572275957653807246.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/05/0d/20/050d207f-8459-8305-1670-80bc3fed46a1/190295671303.jpg/400x400bb.jpg",
-    "aliases": [
-      "\"Heroes\" (Live Montreal '87)",
-      "\"Heroes\" (Live Montreal '87)"
     ]
   },
   {
@@ -49118,32 +47359,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Destroyed In Love (Instrumental)",
-    "movie": "Fanaa",
-    "singers": [
-      "Jatin-Lalit"
-    ],
-    "artists": [
-      "Jatin-Lalit"
-    ],
-    "composers": [
-      "Jatin-Lalit"
-    ],
-    "lyricist": "Jatin-Lalit",
-    "releaseYear": 2006,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/ae/9d/fbae9d72-3d3c-1e80-1958-b6177199a2a2/mzaf_11957808479120532803.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6c/aa/dc/6caadc6b-8c42-a122-b3e1-41e6f14f0c22/849486005921_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Destroyed In Love [Lounge Mix] (Instrumental)",
-      "Destroyed In Love (Instrumental)"
-    ]
-  },
-  {
     "title": "Raja I Love You",
     "movie": "Hum Dil De Chuke Sanam",
     "singers": [
@@ -49193,32 +47408,6 @@ module.exports = [
     "aliases": [
       "Savaiyaa Chhota Sa Saajan",
       "Savaiyaa Chhota Sa Saajan"
-    ]
-  },
-  {
-    "title": "Yaadon Ki Baaraat (Instrumental)",
-    "movie": "Instrumental - Charanjit Singh",
-    "singers": [
-      "Charanjit Singh"
-    ],
-    "artists": [
-      "Charanjit Singh"
-    ],
-    "composers": [
-      "Charanjit Singh"
-    ],
-    "lyricist": "Charanjit Singh",
-    "releaseYear": 2006,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/cc/64/bacc6418-6221-8180-ead7-92dcd691e571/mzaf_6980023080324564551.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/be/56/61/be5661c2-d54c-7f69-150d-6d7e73bbd341/191773323387.jpg/400x400bb.jpg",
-    "aliases": [
-      "Yaadon Ki Baaraat (Instrumental)",
-      "Yaadon Ki Baaraat (Instrumental)"
     ]
   },
   {
@@ -50522,240 +48711,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Tere Liye (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e6/e1/67/e6e1673d-d37c-3242-27cb-f9b6fe495a6a/mzaf_7123680260850829577.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Tere Liye (Instrumental)",
-      "Tere Liye (Instrumental)"
-    ]
-  },
-  {
-    "title": "Do Pal (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/fb/90/88fb90e5-6518-246c-f6be-7ccedd0a6ac4/mzaf_4991005685128451281.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Do Pal (Instrumental)",
-      "Do Pal (Instrumental)"
-    ]
-  },
-  {
-    "title": "Jaane Kyon (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/81/d8/64/81d8640d-36b2-a9f5-55f3-dddf40c241c8/mzaf_13616109137523800922.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Jaane Kyon (Instrumental)",
-      "Jaane Kyon (Instrumental)"
-    ]
-  },
-  {
-    "title": "Main Yahaan Hoon (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f8/61/00/f8610074-c185-dc0b-206f-09f85b017a3d/mzaf_6281085915107481588.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Main Yahaan Hoon (Instrumental)",
-      "Main Yahaan Hoon (Instrumental)"
-    ]
-  },
-  {
-    "title": "Kyon Hawa (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cb/c3/d7/cbc3d7c4-ac79-5e9f-6a3d-f238372e1fde/mzaf_6952291195494735816.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kyon Hawa (Instrumental)",
-      "Kyon Hawa (Instrumental)"
-    ]
-  },
-  {
-    "title": "Yeh Hum Aa Gaye Hain Kahaan (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cc/1c/aa/cc1caaff-b7d6-fabb-02e3-8693ae5cafb6/mzaf_3601713692150714050.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Yeh Hum Aa Gaye Hain Kahaan (Instrumental)",
-      "Yeh Hum Aa Gaye Hain Kahaan (Instrumental)"
-    ]
-  },
-  {
-    "title": "Aisa Des Hai Mera (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f1/68/80/f1688064-a35a-96f5-b99a-be05b40719fa/mzaf_2828800935568026237.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Aisa Des Hai Mera (Instrumental)",
-      "Aisa Des Hai Mera (Instrumental)"
-    ]
-  },
-  {
-    "title": "Hum To Bhai Jaise Hain (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fa/3d/da/fa3dda7f-a354-8a5b-862a-c521b104fef3/mzaf_9708021166606021309.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Hum To Bhai Jaise Hain (Instrumental)",
-      "Hum To Bhai Jaise Hain (Instrumental)"
-    ]
-  },
-  {
-    "title": "Tum Paas Aa Rahe Ho (Instrumental)",
-    "movie": "Romancing the Legend: Veer-Zaara Instrumental",
-    "singers": [
-      "Late Madan Mohan"
-    ],
-    "artists": [
-      "Late Madan Mohan"
-    ],
-    "composers": [
-      "Late Madan Mohan"
-    ],
-    "lyricist": "Late Madan Mohan",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/00/0f/a0000f9b-7a3e-c433-e239-f5adfa3bc21c/mzaf_10356499409179522410.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/e2/98/71e29873-df70-a00b-0eb1-c6f309308b54/Romancing_The_Legend_Veer-Zaara_Instrumental.jpg/400x400bb.jpg",
-    "aliases": [
-      "Tum Paas Aa Rahe Ho (Instrumental)",
-      "Tum Paas Aa Rahe Ho (Instrumental)"
-    ]
-  },
-  {
     "title": "Chak De India",
     "movie": "Chak De India",
     "singers": [
@@ -50805,110 +48760,6 @@ module.exports = [
     "aliases": [
       "Mere Khwabon Mein",
       "Mere Khwabon Mein"
-    ]
-  },
-  {
-    "title": "Ek Ladki Ko Dekha (Instrumental)",
-    "movie": "1942 a Love Story Sing Along - EP",
-    "singers": [
-      "R.D. Burman"
-    ],
-    "artists": [
-      "R.D. Burman"
-    ],
-    "composers": [
-      "R.D. Burman"
-    ],
-    "lyricist": "R.D. Burman",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9d/03/13/9d031368-15fb-3252-64a3-64a163617069/mzaf_9097472466103933380.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/73/49/997349c8-318a-f62c-7282-a34087cde5a1/191773323561.jpg/400x400bb.jpg",
-    "aliases": [
-      "Ek Ladki Ko Dekha (Instrumental)",
-      "Ek Ladki Ko Dekha (Instrumental)"
-    ]
-  },
-  {
-    "title": "Kuchh Na Kaho (Instrumental)",
-    "movie": "1942 a Love Story Sing Along - EP",
-    "singers": [
-      "R.D. Burman"
-    ],
-    "artists": [
-      "R.D. Burman"
-    ],
-    "composers": [
-      "R.D. Burman"
-    ],
-    "lyricist": "R.D. Burman",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c7/e8/f8/c7e8f823-7bdb-1723-8e32-4123e2ee962b/mzaf_6912303948662354676.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/73/49/997349c8-318a-f62c-7282-a34087cde5a1/191773323561.jpg/400x400bb.jpg",
-    "aliases": [
-      "Kuchh Na Kaho (Instrumental)",
-      "Kuchh Na Kaho (Instrumental)"
-    ]
-  },
-  {
-    "title": "Pyar Hua Chupke Se (Instrumental)",
-    "movie": "1942 a Love Story Sing Along - EP",
-    "singers": [
-      "R.D. Burman"
-    ],
-    "artists": [
-      "R.D. Burman"
-    ],
-    "composers": [
-      "R.D. Burman"
-    ],
-    "lyricist": "R.D. Burman",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/3d/20/023d2079-4ab8-ed9c-1f36-38619af2fdbe/mzaf_18119898389935999845.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/73/49/997349c8-318a-f62c-7282-a34087cde5a1/191773323561.jpg/400x400bb.jpg",
-    "aliases": [
-      "Pyar Hua Chupke Se (Instrumental)",
-      "Pyar Hua Chupke Se (Instrumental)"
-    ]
-  },
-  {
-    "title": "Rooth Na Jana (Instrumental)",
-    "movie": "1942 a Love Story Sing Along - EP",
-    "singers": [
-      "R.D. Burman"
-    ],
-    "artists": [
-      "R.D. Burman"
-    ],
-    "composers": [
-      "R.D. Burman"
-    ],
-    "lyricist": "R.D. Burman",
-    "releaseYear": 2005,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/46/ca/7646ca1c-5c49-4087-ec89-e851b4d1b1c7/mzaf_10920167453953422584.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/99/73/49/997349c8-318a-f62c-7282-a34087cde5a1/191773323561.jpg/400x400bb.jpg",
-    "aliases": [
-      "Rooth Na Jana (Instrumental)",
-      "Rooth Na Jana (Instrumental)"
     ]
   },
   {
@@ -53590,32 +51441,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Heartbeat (Instrumental)",
-    "movie": "Kal Ho Naa Ho",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2003,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/2d/38/1e2d38bc-c1aa-b4a3-ff52-b4e2bc99f4a9/mzaf_10397478500799257114.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/82/da/fb82dab1-d0cd-714c-000c-6450774fd5d4/888880945587.jpg/400x400bb.jpg",
-    "aliases": [
-      "Heartbeat (Instrumental)",
-      "Heartbeat (Instrumental)"
-    ]
-  },
-  {
     "title": "Mann Ki Lagan",
     "movie": "Paap",
     "singers": [
@@ -53717,32 +51542,6 @@ module.exports = [
     "aliases": [
       "Saajan Saajan (Jaspinder Narula Version)",
       "Saajan Saajan (Jaspinder Narula Version)"
-    ]
-  },
-  {
-    "title": "Never Surrender (Live At The US Festival, San Bernardino, CA / May 29, 1983)",
-    "movie": "Live At The US Festival (Live At The US Festival, San Bernardino, California / May 29, 1983)",
-    "singers": [
-      "Triumph"
-    ],
-    "artists": [
-      "Triumph"
-    ],
-    "composers": [
-      "Triumph"
-    ],
-    "lyricist": "Triumph",
-    "releaseYear": 2003,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/07/3d/f7073dc2-bcb3-be3e-d726-4f6ad5d14fa4/mzaf_5977904875436820473.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/e5/20/d9e520b5-ec17-184b-7039-6c75929809cc/24CRGIM41921.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Never Surrender (Live At The US Festival, San Bernardino, CA / May 29, 1983)",
-      "Never Surrender (Live At The US Festival, San Bernardino, CA / May 29, 1983)"
     ]
   },
   {
@@ -55410,32 +53209,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Soul of K3G (Instrumental)",
-    "movie": "Kabhi Khushi Kabhie Gham",
-    "singers": [
-      "Sandesh Shandilya"
-    ],
-    "artists": [
-      "Sandesh Shandilya"
-    ],
-    "composers": [
-      "Sandesh Shandilya"
-    ],
-    "lyricist": "Sandesh Shandilya",
-    "releaseYear": 2001,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/1e/a3/df1ea350-9d93-02c1-c24f-afb6b25acf76/mzaf_15441001917934313373.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/86/d3/96/86d396fd-9230-aab9-115b-bada9149d8de/888880945778.jpg/400x400bb.jpg",
-    "aliases": [
-      "Soul of K3G (Instrumental)",
-      "Soul of K3G (Instrumental)"
-    ]
-  },
-  {
     "title": "Kabhi Khushi Kabhie Gham, Pt. 2 (Sad Version 2)",
     "movie": "Kabhi Khushi Kabhie Gham",
     "singers": [
@@ -55667,32 +53440,6 @@ module.exports = [
     "aliases": [
       "Tanhayee",
       "Tanhayee"
-    ]
-  },
-  {
-    "title": "Rockin' Goa (Instrumental)",
-    "movie": "Dil Chahta Hai",
-    "singers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "artists": [
-      "Shankar Ehsaan Loy"
-    ],
-    "composers": [
-      "Shankar Ehsaan Loy"
-    ],
-    "lyricist": "Shankar Ehsaan Loy",
-    "releaseYear": 2001,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/a9/a0/69a9a023-68ba-9871-58ed-7e534faf640d/mzaf_11656816681353453981.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/df/62/2bdf6213-3d11-5f01-cc5e-ddfcc15923b4/8902894114844_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Rockin' Goa (Instrumental)",
-      "Rockin' Goa (Instrumental)"
     ]
   },
   {
@@ -56873,33 +54620,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Believe In Love Theme (Instrumental)",
-    "movie": "Kaho Naa Pyaar Hai",
-    "singers": [
-      "Rajesh Roshan"
-    ],
-    "artists": [
-      "Rajesh Roshan"
-    ],
-    "composers": [
-      "Rajesh Roshan"
-    ],
-    "lyricist": "Rajesh Roshan",
-    "releaseYear": 1999,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/16/d7/5016d7ed-f3fe-16c9-8b81-efcd675dff66/mzaf_16541331443066876393.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/a5/e0/57a5e064-f087-e318-582f-27ab8eb71496/192562328149.jpg/400x400bb.jpg",
-    "aliases": [
-      "Believe In Love Theme (Instrumental)",
-      "Believe In Love Theme (Instrumental)"
-    ]
-  },
-  {
     "title": "Taal Se Taal (Western Version)",
     "movie": "Taal",
     "singers": [
@@ -57734,33 +55454,6 @@ module.exports = [
     "aliases": [
       "Yeh Jawani Hadd Kar De",
       "Yeh Jawani Hadd Kar De"
-    ]
-  },
-  {
-    "title": "Jo Haal Dil Ka (Instrumental)",
-    "movie": "Sarfarosh",
-    "singers": [
-      "Jatin-Lalit"
-    ],
-    "artists": [
-      "Jatin-Lalit"
-    ],
-    "composers": [
-      "Jatin-Lalit"
-    ],
-    "lyricist": "Jatin-Lalit",
-    "releaseYear": 1999,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/50/9f/80509f9a-b2e7-ff2e-3633-cf733c622b81/mzaf_5792173358605299183.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/79/bf/0279bf29-5473-7874-cfc8-f5441dd6b79a/8901854011223.jpg/400x400bb.jpg",
-    "aliases": [
-      "Jo Haal Dil Ka (Instrumental)",
-      "Jo Haal Dil Ka (Instrumental)"
     ]
   },
   {
@@ -58763,33 +56456,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Tiger (Live)",
-    "movie": "Live in Boston: Remastered, Vol. 3",
-    "singers": [
-      "Fleetwood Mac"
-    ],
-    "artists": [
-      "Fleetwood Mac"
-    ],
-    "composers": [
-      "Fleetwood Mac"
-    ],
-    "lyricist": "Fleetwood Mac",
-    "releaseYear": 1998,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/85/8c/f6858c39-0cd0-f03f-7edc-23216e1ebad9/mzaf_3373637594638782942.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/73/be/21/73be2128-bf28-76d8-048c-fd1cead63426/669910121566.jpg/400x400bb.jpg",
-    "aliases": [
-      "Tiger (Live)",
-      "Tiger (Live)"
-    ]
-  },
-  {
     "title": "Dil Se Re",
     "movie": "Dil Se",
     "singers": [
@@ -59357,33 +57023,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Soldier Soldier (Instrumental)",
-    "movie": "Soldier",
-    "singers": [
-      "Anu Malik"
-    ],
-    "artists": [
-      "Anu Malik"
-    ],
-    "composers": [
-      "Anu Malik"
-    ],
-    "lyricist": "Anu Malik",
-    "releaseYear": 1998,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/98/dc/02/98dc02ad-9a0e-7ef1-2357-1a77049db82e/mzaf_14975836182295076091.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/ac/48/8cac489b-38ac-fb93-cb12-16bc0496deb8/8901854004508.jpg/400x400bb.jpg",
-    "aliases": [
-      "Soldier Soldier (Instrumental)",
-      "Soldier Soldier (Instrumental)"
-    ]
-  },
-  {
     "title": "Soldier Soldier Meethi Baaten (Remix)",
     "movie": "Soldier",
     "singers": [
@@ -59462,33 +57101,6 @@ module.exports = [
     "aliases": [
       "Mehfil Mein Baar Baar (Remix)",
       "Mehfil Mein Baar Baar (Remix)"
-    ]
-  },
-  {
-    "title": "Theme Of Soldier (Instrumental)",
-    "movie": "Soldier",
-    "singers": [
-      "Anu Malik"
-    ],
-    "artists": [
-      "Anu Malik"
-    ],
-    "composers": [
-      "Anu Malik"
-    ],
-    "lyricist": "Anu Malik",
-    "releaseYear": 1998,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/c7/de/48c7de51-5639-e8f9-73dc-b8c19f28d784/mzaf_8161000353449313300.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/ac/48/8cac489b-38ac-fb93-cb12-16bc0496deb8/8901854004508.jpg/400x400bb.jpg",
-    "aliases": [
-      "Theme Of Soldier (Instrumental)",
-      "Theme Of Soldier (Instrumental)"
     ]
   },
   {
@@ -61814,33 +59426,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Spirit Of Rangeela (Instrumental)",
-    "movie": "Rangeela",
-    "singers": [
-      "A.R. Rahman"
-    ],
-    "artists": [
-      "A.R. Rahman"
-    ],
-    "composers": [
-      "A.R. Rahman"
-    ],
-    "lyricist": "A.R. Rahman",
-    "releaseYear": 1995,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/b7/4c/9bb74c6a-5d83-9418-2fd2-e0d336782954/mzaf_822919743836790525.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/c2/7d/bac27dfe-7eb9-286e-0fb3-5c370d7311c0/8901854004461.jpg/400x400bb.jpg",
-    "aliases": [
-      "Spirit Of Rangeela (Instrumental)",
-      "Spirit Of Rangeela (Instrumental)"
-    ]
-  },
-  {
     "title": "Kya Kare Kya Na Kare",
     "movie": "Rangeela",
     "singers": [
@@ -62810,33 +60395,6 @@ module.exports = [
     "aliases": [
       "Subah Se Lekar (With Jhankar Beats)",
       "Subah Se Lekar (With Jhankar Beats)"
-    ]
-  },
-  {
-    "title": "Tip Tip Barsa Paani (Instrumental)",
-    "movie": "Mohra (Instrumental)",
-    "singers": [
-      "Viju Shah"
-    ],
-    "artists": [
-      "Viju Shah"
-    ],
-    "composers": [
-      "Viju Shah"
-    ],
-    "lyricist": "Viju Shah",
-    "releaseYear": 1994,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ef/87/dd/ef87dd4b-cdfe-a983-9010-0552a3251a87/mzaf_17275528165047243420.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/34/b9/69/34b969a8-babc-c56c-ad12-45b9f85764e7/cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Tip Tip Barsa Paani (Instrumental)",
-      "Tip Tip Barsa Paani (Instrumental)"
     ]
   },
   {
@@ -64565,33 +62123,6 @@ module.exports = [
     "aliases": [
       "Tumse Milne Ki Tamanna Hai (With Jhankar Beats)",
       "Tumse Milne Ki Tamanna Hai (With Jhankar Beats)"
-    ]
-  },
-  {
-    "title": "Main Khiladi Tu Anari (Instrumental)",
-    "movie": "Instrumental 1994, Vol. 2",
-    "singers": [
-      "Manohari Singh & Joseph Monsarate"
-    ],
-    "artists": [
-      "Manohari Singh & Joseph Monsarate"
-    ],
-    "composers": [
-      "Manohari Singh & Joseph Monsarate"
-    ],
-    "lyricist": "Manohari Singh & Joseph Monsarate",
-    "releaseYear": 1993,
-    "decade": "1990s",
-    "genre": [
-      "Bollywood",
-      "Retro"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/2d/21/d82d21f4-cc6e-5eae-f720-d45f25b84544/mzaf_4633460466447982413.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/20/d3/1a20d3e8-f80a-a979-b0ff-6faed14d81d7/cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Main Khiladi Tu Anari (Instrumental)",
-      "Main Khiladi Tu Anari (Instrumental)"
     ]
   },
   {
@@ -67118,146 +64649,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Gali Gali Mein (Instrumental)",
-    "movie": "Tridev",
-    "singers": [
-      "Kalyanji-Anandji"
-    ],
-    "artists": [
-      "Kalyanji-Anandji"
-    ],
-    "composers": [
-      "Kalyanji-Anandji"
-    ],
-    "lyricist": "Kalyanji-Anandji",
-    "releaseYear": 1989,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/26/66/57266604-6eb5-0749-7b02-d874f28edb1c/mzaf_14611094837813845610.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b4/64/03/b46403d5-61ff-a12e-36de-41e7d7cf5c87/8902894685573_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Gali Gali Mein (Instrumental)",
-      "Gali Gali Mein (Instrumental)"
-    ]
-  },
-  {
-    "title": "Main Teri Mohabbat Mein (Instrumental)",
-    "movie": "Tridev",
-    "singers": [
-      "Kalyanji-Anandji"
-    ],
-    "artists": [
-      "Kalyanji-Anandji"
-    ],
-    "composers": [
-      "Kalyanji-Anandji"
-    ],
-    "lyricist": "Kalyanji-Anandji",
-    "releaseYear": 1989,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/38/46/36384605-8ef5-880f-428c-506d0c4fe377/mzaf_16912079244891893490.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b4/64/03/b46403d5-61ff-a12e-36de-41e7d7cf5c87/8902894685573_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Main Teri Mohabbat Mein (Instrumental)",
-      "Main Teri Mohabbat Mein (Instrumental)"
-    ]
-  },
-  {
-    "title": "Tirchi Topiwale (Instrumental)",
-    "movie": "Tridev",
-    "singers": [
-      "Kalyanji-Anandji"
-    ],
-    "artists": [
-      "Kalyanji-Anandji"
-    ],
-    "composers": [
-      "Kalyanji-Anandji"
-    ],
-    "lyricist": "Kalyanji-Anandji",
-    "releaseYear": 1989,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/90/ce/f490ce9c-97e4-4b02-5ec3-7fd762975517/mzaf_2711440731129689850.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b4/64/03/b46403d5-61ff-a12e-36de-41e7d7cf5c87/8902894685573_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Tirchi Topiwale (Instrumental)",
-      "Tirchi Topiwale (Instrumental)"
-    ]
-  },
-  {
-    "title": "Gazar Ne Kiya Hai Ishara (Instrumental)",
-    "movie": "Tridev",
-    "singers": [
-      "Kalyanji-Anandji"
-    ],
-    "artists": [
-      "Kalyanji-Anandji"
-    ],
-    "composers": [
-      "Kalyanji-Anandji"
-    ],
-    "lyricist": "Kalyanji-Anandji",
-    "releaseYear": 1989,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/b2/79/1eb27938-e16c-b234-cc26-eb9c89a23d46/mzaf_10736967109135300516.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b4/64/03/b46403d5-61ff-a12e-36de-41e7d7cf5c87/8902894685573_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Gazar Ne Kiya Hai Ishara (Instrumental)",
-      "Gazar Ne Kiya Hai Ishara (Instrumental)"
-    ]
-  },
-  {
-    "title": "Title Music (Instrumental)",
-    "movie": "Tridev",
-    "singers": [
-      "Kalyanji-Anandji"
-    ],
-    "artists": [
-      "Kalyanji-Anandji"
-    ],
-    "composers": [
-      "Kalyanji-Anandji"
-    ],
-    "lyricist": "Kalyanji-Anandji",
-    "releaseYear": 1989,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/a2/b6/1aa2b6a5-32b8-3ec9-4ac2-82e40a2c126c/mzaf_17885564001178684803.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b4/64/03/b46403d5-61ff-a12e-36de-41e7d7cf5c87/8902894685573_cover.jpg/400x400bb.jpg",
-    "aliases": [
-      "Title Music (Instrumental)",
-      "Title Music (Instrumental)"
-    ]
-  },
-  {
     "title": "Main Teri Mohabbat Mein - 1",
     "movie": "Remembering Kalyan Ji",
     "singers": [
@@ -68014,34 +65405,6 @@ module.exports = [
     ]
   },
   {
-    "title": "My Name Is Lakhan Theme (Instrumental)",
-    "movie": "Ram Lakhan",
-    "singers": [
-      "Laxmikant-Pyarelal"
-    ],
-    "artists": [
-      "Laxmikant-Pyarelal"
-    ],
-    "composers": [
-      "Laxmikant-Pyarelal"
-    ],
-    "lyricist": "Laxmikant-Pyarelal",
-    "releaseYear": 1988,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ba/8e/81/ba8e813d-9f8f-d2e6-6461-a53718c83617/mzaf_8544815200940325465.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/f8/08/7df80826-7872-1d5e-7ba8-9751af05c623/191773207809.jpg/400x400bb.jpg",
-    "aliases": [
-      "My Name Is Lakhan Theme (Instrumental)",
-      "My Name Is Lakhan Theme (Instrumental)"
-    ]
-  },
-  {
     "title": "Mere Pyar Ki Umar Ho Itnee Sanam",
     "movie": "Bollywood Retro Hits of 80'S",
     "singers": [
@@ -68123,34 +65486,6 @@ module.exports = [
     "aliases": [
       "Shining Star (12\" Mix)",
       "Shining Star (12\" Mix)"
-    ]
-  },
-  {
-    "title": "Wanted Dead or Alive",
-    "movie": "Slippery When Wet",
-    "singers": [
-      "Bon Jovi"
-    ],
-    "artists": [
-      "Bon Jovi"
-    ],
-    "composers": [
-      "Bon Jovi"
-    ],
-    "lyricist": "Bon Jovi",
-    "releaseYear": 1986,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/63/ab/8563abfc-d3b5-b02a-497e-9371b93ddb63/mzaf_6575138492792000277.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/16/3e/40163e24-6985-b785-d4ea-cbae07d74812/06UMGIM05422.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Wanted Dead or Alive",
-      "Wanted Dead or Alive"
     ]
   },
   {
@@ -68770,34 +66105,6 @@ module.exports = [
     ]
   },
   {
-    "title": "John Wayne Was a Nazi (Live at CBGB's, 1983)",
-    "movie": "Millions of Dead Cops (Millennium Edition) [Remastered 2014]",
-    "singers": [
-      "MDC"
-    ],
-    "artists": [
-      "MDC"
-    ],
-    "composers": [
-      "MDC"
-    ],
-    "lyricist": "MDC",
-    "releaseYear": 1982,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/95/66/eb956622-bf04-6ff1-bc59-b13b20fe0240/mzaf_5115045622017341855.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5a/3d/ec/5a3dec7b-1ded-8287-04e0-4f68a0648868/650557017527.jpg/400x400bb.jpg",
-    "aliases": [
-      "John Wayne Was a Nazi (Live at CBGB's, 1983) [Remastered 2014]",
-      "John Wayne Was a Nazi (Live at CBGB's, 1983)"
-    ]
-  },
-  {
     "title": "Aisa Kabhie Hua Nahin",
     "movie": "Yeh Vaada Raha",
     "singers": [
@@ -69246,34 +66553,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Silsila Theme, Pt. 2 (Instrumental)",
-    "movie": "Silsila",
-    "singers": [
-      "Pandit Shivkumar Sharma"
-    ],
-    "artists": [
-      "Pandit Shivkumar Sharma"
-    ],
-    "composers": [
-      "Pandit Shivkumar Sharma"
-    ],
-    "lyricist": "Pandit Shivkumar Sharma",
-    "releaseYear": 1981,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/3f/0e/433f0e7c-196d-4368-2601-9f66a65732d3/mzaf_15393018794710865826.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/10/ae/4610ae2a-c419-bb77-9128-e2eac5291b05/191773204372.jpg/400x400bb.jpg",
-    "aliases": [
-      "Silsila Theme, Pt. 2 (Instrumental)",
-      "Silsila Theme, Pt. 2 (Instrumental)"
-    ]
-  },
-  {
     "title": "Dekha Ek Khwab",
     "movie": "Diamonds Forever - Lata Mangeshkar",
     "singers": [
@@ -69299,62 +66578,6 @@ module.exports = [
     "aliases": [
       "Dekha Ek Khwab (From \"Silsila\")",
       "Dekha Ek Khwab"
-    ]
-  },
-  {
-    "title": "Silsila Theme, Pt. 1 (Instrumental)",
-    "movie": "Silsila",
-    "singers": [
-      "Shiv-Hari"
-    ],
-    "artists": [
-      "Shiv-Hari"
-    ],
-    "composers": [
-      "Shiv-Hari"
-    ],
-    "lyricist": "Shiv-Hari",
-    "releaseYear": 1981,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/f9/e1/28f9e171-9adc-20af-b676-b8bb1552fd3b/mzaf_12284979836322440702.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/10/ae/4610ae2a-c419-bb77-9128-e2eac5291b05/191773204372.jpg/400x400bb.jpg",
-    "aliases": [
-      "Silsila Theme, Pt. 1 (Instrumental)",
-      "Silsila Theme, Pt. 1 (Instrumental)"
-    ]
-  },
-  {
-    "title": "Silsila Theme, Pt. 3 (Instrumental)",
-    "movie": "Silsila",
-    "singers": [
-      "Pandit Hariprasad Chaurasia"
-    ],
-    "artists": [
-      "Pandit Hariprasad Chaurasia"
-    ],
-    "composers": [
-      "Pandit Hariprasad Chaurasia"
-    ],
-    "lyricist": "Pandit Hariprasad Chaurasia",
-    "releaseYear": 1981,
-    "decade": "1980s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/fe/6c/15fe6c7d-2d6b-6ad0-361f-ffc92d37f6cf/mzaf_16259726136630270924.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/10/ae/4610ae2a-c419-bb77-9128-e2eac5291b05/191773204372.jpg/400x400bb.jpg",
-    "aliases": [
-      "Silsila Theme, Pt. 3 (Instrumental)",
-      "Silsila Theme, Pt. 3 (Instrumental)"
     ]
   },
   {
@@ -71850,34 +69073,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Hum Kisise Kum Naheen Theme (Instrumental)",
-    "movie": "Hum Kisise Kum Naheen",
-    "singers": [
-      "R.D. Burman"
-    ],
-    "artists": [
-      "R.D. Burman"
-    ],
-    "composers": [
-      "R.D. Burman"
-    ],
-    "lyricist": "R.D. Burman",
-    "releaseYear": 1977,
-    "decade": "1970s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/74/de/cc/74decc25-c580-ff46-0c67-6b7a97cb982e/mzaf_1759080854267708998.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/c5/16/5cc516ed-f073-82ec-bf7d-7ff212a26403/191773204099.jpg/400x400bb.jpg",
-    "aliases": [
-      "Hum Kisise Kum Naheen Theme (Instrumental)",
-      "Hum Kisise Kum Naheen Theme (Instrumental)"
-    ]
-  },
-  {
     "title": "Bachna Ae Hasino Lo Main Aa Gaya",
     "movie": "Tribute To Rishi Kapoor",
     "singers": [
@@ -73863,34 +71058,6 @@ module.exports = [
     "aliases": [
       "Ye Jawani Hai Diwani (From \"Jawani Diwani\")",
       "Ye Jawani Hai Diwani"
-    ]
-  },
-  {
-    "title": "What's Going On (Live)",
-    "movie": "Live",
-    "singers": [
-      "Donny Hathaway"
-    ],
-    "artists": [
-      "Donny Hathaway"
-    ],
-    "composers": [
-      "Donny Hathaway"
-    ],
-    "lyricist": "Donny Hathaway",
-    "releaseYear": 1972,
-    "decade": "1970s",
-    "genre": [
-      "Bollywood",
-      "Retro",
-      "Classical"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/38/43/ed/3843edf0-be08-f1a7-0cef-5b1a33a2bc02/mzaf_12246765934361137948.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/56/27/d8/5627d82f-b54c-60d6-5140-ed049ef44ada/075678027222.jpg/400x400bb.jpg",
-    "aliases": [
-      "What's Going On (Live)",
-      "What's Going On (Live)"
     ]
   },
   {

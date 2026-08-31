@@ -1,22 +1,34 @@
 import React, { useEffect, useState } from 'react';
-import { Share2, ArrowRight, Disc3 } from 'lucide-react';
+import { Share2, ArrowRight } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { songService } from '../../services/songService';
 
 const RoundResult = ({ result, song, onNext, isLastRound = false }) => {
   const navigate = useNavigate();
   const [show, setShow] = useState(false);
+  const [fetchedSong, setFetchedSong] = useState(null);
+  
   const isCorrect = result?.status === 'correct';
   
-  const currentSong = song || result?.song || {};
-  const songTitle = currentSong.title || 'Bollywood Track';
-  const movieName = currentSong.movie || 'Bollywood';
-  const singersList = Array.isArray(currentSong.singers) 
-    ? currentSong.singers.join(', ') 
-    : (currentSong.singer || currentSong.artists?.[0] || 'Bollywood Artist');
+  const currentSong = fetchedSong || song || result?.song || {};
+  const songId = currentSong._id || currentSong.id;
 
   useEffect(() => {
     setShow(true);
-  }, []);
+
+    // If title is missing or generic, fetch full song details by ID
+    if (songId && (!currentSong.title || currentSong.title === 'Bollywood Track')) {
+      songService.getSong(songId).then(data => {
+        if (data) setFetchedSong(data);
+      }).catch(() => {});
+    }
+  }, [songId, currentSong.title]);
+
+  const songTitle = currentSong.title || 'Hindi Bollywood Song';
+  const movieName = currentSong.movie || 'Bollywood Hit';
+  const singersList = Array.isArray(currentSong.singers) 
+    ? currentSong.singers.join(', ') 
+    : (currentSong.singer || currentSong.artists?.[0] || 'Bollywood Artist');
 
   const handleChallengeClick = () => {
     navigate('/challenge/create');
@@ -73,8 +85,7 @@ const RoundResult = ({ result, song, onNext, isLastRound = false }) => {
             onClick={onNext}
             className="w-full py-4 px-5 rounded-2xl bg-[#1c2420] hover:bg-[#28342e] text-rose-400 hover:text-rose-300 font-bold text-sm sm:text-base flex items-center justify-center gap-2 border border-white/10 transition-all active:scale-95 shadow-md group"
           >
-            <span>{isLastRound ? 'See Results' : 'Next'}</span>
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            <span>{isLastRound ? 'See Results' : 'Next →'}</span>
           </button>
 
         </div>

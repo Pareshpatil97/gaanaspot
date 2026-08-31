@@ -2,12 +2,28 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Search, SkipForward } from 'lucide-react';
 import { songService } from '../../services/songService';
 
-const AnswerInput = ({ onSubmit, onSkip, disabled, currentAttempt = 0, maxAttempts = 3 }) => {
+const AnswerInput = ({ onSubmit, onSkip, disabled, currentAttempt = 0, maxAttempts = 5 }) => {
   const [query, setQuery] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
   const [activeIndex, setActiveIndex] = useState(-1);
+  const [isShaking, setIsShaking] = useState(false);
   const wrapperRef = useRef(null);
+  const prevAttemptRef = useRef(currentAttempt);
+
+  // Trigger shake & vibration when attempt increments (wrong guess or skip)
+  useEffect(() => {
+    if (currentAttempt > prevAttemptRef.current) {
+      setIsShaking(true);
+      if (typeof window !== 'undefined' && window.navigator && window.navigator.vibrate) {
+        try { window.navigator.vibrate([100, 50, 100]); } catch (e) {}
+      }
+      const timer = setTimeout(() => setIsShaking(false), 550);
+      prevAttemptRef.current = currentAttempt;
+      return () => clearTimeout(timer);
+    }
+    prevAttemptRef.current = currentAttempt;
+  }, [currentAttempt]);
 
   useEffect(() => {
     const fetchSuggestions = async () => {
@@ -21,7 +37,7 @@ const AnswerInput = ({ onSubmit, onSkip, disabled, currentAttempt = 0, maxAttemp
       }
     };
     
-    const timeoutId = setTimeout(fetchSuggestions, 200);
+    const timeoutId = setTimeout(fetchSuggestions, 180);
     return () => clearTimeout(timeoutId);
   }, [query]);
 
@@ -58,8 +74,8 @@ const AnswerInput = ({ onSubmit, onSkip, disabled, currentAttempt = 0, maxAttemp
   return (
     <div className="w-full max-w-xl mx-auto relative select-none" ref={wrapperRef}>
       
-      {/* Side-by-Side Search Input & Skip Button (Exact Songspot Style) */}
-      <div className="flex items-center gap-3 w-full">
+      {/* Side-by-Side Search Input & Skip Button (With Wrong-Guess Shake Animation) */}
+      <div className={`flex items-center gap-3 w-full transition-transform ${isShaking ? 'animate-shake' : ''}`}>
         
         {/* Search input */}
         <div className="relative flex-1">
@@ -69,7 +85,11 @@ const AnswerInput = ({ onSubmit, onSkip, disabled, currentAttempt = 0, maxAttemp
           
           <input
             type="text"
-            className="w-full rounded-2xl bg-[#141815] border border-white/10 hover:border-white/20 focus:border-[#10b981] focus:ring-2 focus:ring-[#10b981]/20 pl-12 pr-4 py-4 text-base md:text-lg text-white placeholder-gray-500 transition-all outline-none"
+            className={`w-full rounded-2xl bg-[#141815] border pl-12 pr-4 py-4 text-base md:text-lg text-white placeholder-gray-500 transition-all outline-none ${
+              isShaking 
+                ? 'border-rose-500 ring-2 ring-rose-500/40 shadow-[0_0_20px_rgba(244,63,94,0.4)]' 
+                : 'border-white/10 hover:border-white/20 focus:border-[#10b981] focus:ring-2 focus:ring-[#10b981]/20'
+            }`}
             placeholder="Name that track..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
@@ -118,7 +138,9 @@ const AnswerInput = ({ onSubmit, onSkip, disabled, currentAttempt = 0, maxAttemp
 
       {/* Attempts remaining indicator */}
       <div className="flex justify-between items-center px-3 mt-3 text-xs font-medium text-gray-400">
-        <span>Chance {currentAttempt + 1} of {maxAttempts}</span>
+        <span className={isShaking ? 'text-rose-400 font-bold' : ''}>
+          {isShaking ? '❌ Wrong guess! Try next snippet' : `Chance ${currentAttempt + 1} of ${maxAttempts}`}
+        </span>
         <span>{maxAttempts - currentAttempt - 1} skips left</span>
       </div>
 
