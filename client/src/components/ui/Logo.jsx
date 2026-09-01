@@ -29,12 +29,12 @@ const Logo = ({ size = 'md', showText = true, className = '' }) => {
 
       {showText && (
         <div className="flex flex-col text-left">
-          <span className={`font-black tracking-tight ${isLarge ? 'text-4xl' : isSmall ? 'text-lg' : 'text-2xl'} text-white`}>
-            gaana<span className="text-emerald-400">spot</span>
+          <span className={`font-black tracking-tight ${isLarge ? 'text-4xl sm:text-5xl' : isSmall ? 'text-lg' : 'text-2xl'} text-white`}>
+            Gaana<span className="text-emerald-400">Spot</span>
           </span>
           {isLarge && (
-            <span className="text-[10px] font-bold uppercase tracking-[0.25em] text-emerald-500/90 -mt-1">
-              Hindi Song Guesser
+            <span className="text-xs sm:text-sm font-bold uppercase tracking-[0.18em] text-emerald-400/90 mt-1.5 block">
+              The Ultimate Bollywood Song Guesser
             </span>
           )}
         </div>

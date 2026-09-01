@@ -14,7 +14,7 @@ const SongSchema = new mongoose.Schema({
     type: String,
     enum: ['Romantic', 'Party', 'Sad', 'Classical', 'Devotional', 'Retro', 'Bollywood', 'Indie Hindi']
   }],
-  difficulty: { type: Number, enum: [1, 2, 3, 4], default: 2 },
+  difficulty: { type: Number, enum: [1, 2, 3, 4, 5], default: 2 },
   language: { type: String, default: 'Hindi' },
   audioPreviewUrl: { type: String },
   artworkUrl: { type: String },

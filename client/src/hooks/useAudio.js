@@ -9,8 +9,9 @@ export const useAudio = () => {
   const timerRef = useRef(null);
   const maxDurationRef = useRef(0.1);
   const audioContextRef = useRef(null);
+  const startOffsetRef = useRef(0);
 
-  // Stop everything immediately
+  // Stop / Pause playback and always reset to beginning
   const stop = useCallback(() => {
     if (timerRef.current) {
       clearInterval(timerRef.current);
@@ -18,7 +19,7 @@ export const useAudio = () => {
     }
     if (audioRef.current) {
       audioRef.current.pause();
-      audioRef.current.currentTime = 0;
+      audioRef.current.currentTime = startOffsetRef.current || 0;
     }
     if (audioContextRef.current && audioContextRef.current.state !== 'closed') {
       try {
@@ -30,22 +31,9 @@ export const useAudio = () => {
     setCurrentTime(0);
   }, []);
 
-  // Pause playback at current position
   const pause = useCallback(() => {
-    if (timerRef.current) {
-      clearInterval(timerRef.current);
-      timerRef.current = null;
-    }
-    if (audioRef.current) {
-      audioRef.current.pause();
-    }
-    if (audioContextRef.current && audioContextRef.current.state === 'running') {
-      try {
-        audioContextRef.current.suspend();
-      } catch (e) {}
-    }
-    setIsPlaying(false);
-  }, []);
+    stop();
+  }, [stop]);
 
   // Load a new audio URL
   const loadAudio = useCallback((url) => {
@@ -74,52 +62,50 @@ export const useAudio = () => {
   }, [stop]);
 
   // Web Audio synth tone fallback if no mp3/aac file
-  const startSynthTone = (duration, startOffset = 0) => {
+  const startSynthTone = (duration) => {
     try {
       const ctx = new (window.AudioContext || window.webkitAudioContext)();
       audioContextRef.current = ctx;
       const now = ctx.currentTime;
-      const remaining = Math.max(0, duration - startOffset);
 
       const osc1 = ctx.createOscillator();
       const gain1 = ctx.createGain();
       osc1.type = 'sine';
       osc1.frequency.setValueAtTime(220, now);
-      osc1.frequency.exponentialRampToValueAtTime(440, now + remaining);
+      osc1.frequency.exponentialRampToValueAtTime(440, now + duration);
       gain1.gain.setValueAtTime(0.2, now);
-      gain1.gain.exponentialRampToValueAtTime(0.01, now + remaining);
+      gain1.gain.exponentialRampToValueAtTime(0.01, now + duration);
 
       osc1.connect(gain1).connect(ctx.destination);
       osc1.start(now);
-      osc1.stop(now + remaining);
+      osc1.stop(now + duration);
     } catch (e) {
       console.warn('Synth tone failed', e);
     }
   };
 
-  // Play clip with precise duration control and optional AI start offset
+  // Play clip always starting fresh from the beginning (0 to maxDuration)
   const playClip = useCallback(async (maxDuration, startOffset = 0) => {
     maxDurationRef.current = maxDuration;
+    startOffsetRef.current = startOffset;
 
     if (isPlaying) {
-      pause();
+      stop();
       return;
     }
 
     try {
+      stop(); // Ensure clean reset
       setIsPlaying(true);
+      setCurrentTime(0);
 
-      const isResume = currentTime > 0 && currentTime < maxDuration;
-      const startAt = isResume ? currentTime : 0;
-      const startTime = Date.now() - (startAt * 1000);
+      const startTime = Date.now();
 
       if (audioRef.current) {
-        if (!isResume) {
-          audioRef.current.currentTime = startOffset;
-        }
+        audioRef.current.currentTime = startOffset || 0;
         await audioRef.current.play();
       } else {
-        startSynthTone(maxDuration, startAt);
+        startSynthTone(maxDuration);
       }
 
       if (timerRef.current) clearInterval(timerRef.current);
@@ -135,8 +121,9 @@ export const useAudio = () => {
     } catch (err) {
       console.warn('Playback notice:', err.message);
       setIsPlaying(false);
+      setCurrentTime(0);
     }
-  }, [isPlaying, currentTime, pause, stop]);
+  }, [isPlaying, stop]);
 
   useEffect(() => {
     return () => {
