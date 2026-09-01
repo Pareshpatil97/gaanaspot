@@ -4,7 +4,8 @@ const gameService = require('../services/gameService');
 const createChallenge = async (req, res, next) => {
   try {
     const userId = req.user ? req.user._id : null;
-    const code = await challengeService.createChallenge(userId);
+    const creatorName = req.body?.creatorName || (req.user ? req.user.username : 'Challenger');
+    const code = await challengeService.createChallenge(userId, creatorName);
     res.status(201).json({ success: true, data: { code, url: `/challenge/${code}` } });
   } catch (error) {
     res.status(400);
@@ -35,10 +36,11 @@ const joinChallenge = async (req, res, next) => {
 
 const completeChallenge = async (req, res, next) => {
   try {
-    const { score, rounds } = req.body;
+    const { score, rounds, username, avatar } = req.body;
     const userId = req.user ? req.user._id : null;
-    const username = req.user ? req.user.username : 'Guest';
-    const challenge = await challengeService.completeChallenge(req.params.code, userId, score, rounds, username);
+    const playerName = username || (req.user ? req.user.username : 'Guest Player');
+    const playerAvatar = avatar || '🎵';
+    const challenge = await challengeService.completeChallenge(req.params.code, userId, score, rounds, playerName, playerAvatar);
     res.json({ success: true, data: challenge });
   } catch (error) {
     res.status(400);

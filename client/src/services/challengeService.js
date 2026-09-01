@@ -1,8 +1,8 @@
 import api from './api';
 
 export const challengeService = {
-  createChallenge: async () => {
-    const { data } = await api.post('/challenge');
+  createChallenge: async (creatorName = 'Challenger') => {
+    const { data } = await api.post('/challenge', { creatorName });
     return data;
   },
 
