@@ -730,6 +730,789 @@ module.exports = [
     ]
   },
   {
+    "title": "Tu Hi Disda",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Pritam, Arijit Singh, Nikhita Gandhi & Kumaar"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh, Nikhita Gandhi & Kumaar"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh, Nikhita Gandhi & Kumaar"
+    ],
+    "lyricist": "Pritam, Arijit Singh, Nikhita Gandhi & Kumaar",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/26/5c/86265c21-c361-5b67-cde7-121c13ca96cd/mzaf_399762395437433422.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Tu Hi Disda",
+      "Tu Hi Disda"
+    ]
+  },
+  {
+    "title": "Zaroorat Se Zyada - Duet",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Amaal Mallik, Arijit Singh, Shreya Ghoshal & Kunaal Vermaa"
+    ],
+    "artists": [
+      "Amaal Mallik, Arijit Singh, Shreya Ghoshal & Kunaal Vermaa"
+    ],
+    "composers": [
+      "Amaal Mallik, Arijit Singh, Shreya Ghoshal & Kunaal Vermaa"
+    ],
+    "lyricist": "Amaal Mallik, Arijit Singh, Shreya Ghoshal & Kunaal Vermaa",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/22/0f/82/220f822b-4938-c823-a262-96b95d6b62cd/mzaf_11766309149463298779.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Zaroorat Se Zyada - Duet",
+      "Zaroorat Se Zyada - Duet"
+    ]
+  },
+  {
+    "title": "Shaayraana - Lofi Mix by Deepanshu Ruhela",
+    "movie": "Bollywood Lofi Lounge",
+    "singers": [
+      "Pritam, Arijit Singh & Irshad Kamil"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Irshad Kamil"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Irshad Kamil"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Irshad Kamil",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/19/13/071913be-1b65-9d71-348f-1dd7f332f3b2/mzaf_8234349397974386789.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/cd/d5/65cdd50e-324e-c5ad-7f80-759630fb0ae9/8909024120911.png/400x400bb.jpg",
+    "aliases": [
+      "Shaayraana - Lofi Mix by Deepanshu Ruhela",
+      "Shaayraana - Lofi Mix by Deepanshu Ruhela"
+    ]
+  },
+  {
+    "title": "Kalank Lofi Mix by Trosk",
+    "movie": "Bollywood Lofi Lounge",
+    "singers": [
+      "Pritam, Arijit Singh, Amitabh Bhattacharya & Trosk"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh, Amitabh Bhattacharya & Trosk"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh, Amitabh Bhattacharya & Trosk"
+    ],
+    "lyricist": "Pritam, Arijit Singh, Amitabh Bhattacharya & Trosk",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/12/dd/da12ddbc-1708-d82b-1976-018c6e89304d/mzaf_12301225419871888949.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/cd/d5/65cdd50e-324e-c5ad-7f80-759630fb0ae9/8909024120911.png/400x400bb.jpg",
+    "aliases": [
+      "Kalank Lofi Mix by Trosk",
+      "Kalank Lofi Mix by Trosk"
+    ]
+  },
+  {
+    "title": "Tainu Khabar Nahi",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Sachin-Jigar, Arijit Singh & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Arijit Singh & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Arijit Singh & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Sachin-Jigar, Arijit Singh & Amitabh Bhattacharya",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/4d/7a/6c4d7aec-14db-7d12-5a20-882282f91c2e/mzaf_6917026290861850430.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Tainu Khabar Nahi",
+      "Tainu Khabar Nahi"
+    ]
+  },
+  {
+    "title": "Hum Aapke Bina",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Pritam, Arijit Singh & Sameer Anjaan"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Sameer Anjaan"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Sameer Anjaan"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Sameer Anjaan",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/f7/0a/c7f70a1f-34ae-9770-a2be-cbd87799f0c4/mzaf_6829286520671488639.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Hum Aapke Bina",
+      "Hum Aapke Bina"
+    ]
+  },
+  {
+    "title": "Hazaar Baar",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Arijit Singh, Shreya Ghoshal, S.S. Thaman & Irshad Kamil"
+    ],
+    "artists": [
+      "Arijit Singh, Shreya Ghoshal, S.S. Thaman & Irshad Kamil"
+    ],
+    "composers": [
+      "Arijit Singh, Shreya Ghoshal, S.S. Thaman & Irshad Kamil"
+    ],
+    "lyricist": "Arijit Singh, Shreya Ghoshal, S.S. Thaman & Irshad Kamil",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/83/46/738346ec-e484-0389-b447-da0e58abc8db/mzaf_6317948039674995708.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Hazaar Baar",
+      "Hazaar Baar"
+    ]
+  },
+  {
+    "title": "Apna Bana Le Lofi Mix by Trosk",
+    "movie": "Bollywood Lofi Lounge",
+    "singers": [
+      "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya & Trosk"
+    ],
+    "artists": [
+      "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya & Trosk"
+    ],
+    "composers": [
+      "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya & Trosk"
+    ],
+    "lyricist": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya & Trosk",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/78/05/3a7805cd-5155-e5e6-7d82-d281d64f54d1/mzaf_2255060023381187225.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/cd/d5/65cdd50e-324e-c5ad-7f80-759630fb0ae9/8909024120911.png/400x400bb.jpg",
+    "aliases": [
+      "Apna Bana Le Lofi Mix by Trosk",
+      "Apna Bana Le Lofi Mix by Trosk"
+    ]
+  },
+  {
+    "title": "Khwaab Dekhoon",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Arijit Singh, Ram Sampath, Irshad Kamil & Tarannum Malik Jain"
+    ],
+    "artists": [
+      "Arijit Singh, Ram Sampath, Irshad Kamil & Tarannum Malik Jain"
+    ],
+    "composers": [
+      "Arijit Singh, Ram Sampath, Irshad Kamil & Tarannum Malik Jain"
+    ],
+    "lyricist": "Arijit Singh, Ram Sampath, Irshad Kamil & Tarannum Malik Jain",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/cb/55/7ccb55e5-2f67-99df-73fa-d8b7f1431d5e/mzaf_6762698623128662560.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Khwaab Dekhoon",
+      "Khwaab Dekhoon"
+    ]
+  },
+  {
+    "title": "Prabhu Mere Ghar Ko",
+    "movie": "Jai Shri Krishna Utsav",
+    "singers": [
+      "Shreya Ghoshal"
+    ],
+    "artists": [
+      "Shreya Ghoshal"
+    ],
+    "composers": [
+      "Shreya Ghoshal"
+    ],
+    "lyricist": "Shreya Ghoshal",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/44/ce/f844ce84-9853-2696-a0be-ef35564b5f70/mzaf_16871844069166130539.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/70/11/377011ca-21e5-73c7-5265-29261de7f661/8909024121185.png/400x400bb.jpg",
+    "aliases": [
+      "Prabhu Mere Ghar Ko",
+      "Prabhu Mere Ghar Ko"
+    ]
+  },
+  {
+    "title": "Aakhri Ishq",
+    "movie": "Aakhri Ishq (From \"Dhurandhar The Revenge\") - Single",
+    "singers": [
+      "Shashwat Sachdev, Jubin Nautiyal & Irshad Kamil"
+    ],
+    "artists": [
+      "Shashwat Sachdev, Jubin Nautiyal & Irshad Kamil"
+    ],
+    "composers": [
+      "Shashwat Sachdev, Jubin Nautiyal & Irshad Kamil"
+    ],
+    "lyricist": "Shashwat Sachdev, Jubin Nautiyal & Irshad Kamil",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/0d/00/5d0d00ef-fbdd-14e2-cdc3-f0488c0e329f/mzaf_7282546856233968287.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/4d/34/b14d3476-d18a-944d-381d-ab769cbc1dbb/8903431190635_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aakhri Ishq (From \"Dhurandhar The Revenge\")",
+      "Aakhri Ishq"
+    ]
+  },
+  {
+    "title": "Ghar Kab Aaoge",
+    "movie": "BORDER 2",
+    "singers": [
+      "Anu Malik, Mithoon, Sonu Nigam, Arijit Singh, Roop Kumar Rathod, Vishal Mishra, Diljit Dosanjh, Javed Akhtar & Manoj Muntashir"
+    ],
+    "artists": [
+      "Anu Malik, Mithoon, Sonu Nigam, Arijit Singh, Roop Kumar Rathod, Vishal Mishra, Diljit Dosanjh, Javed Akhtar & Manoj Muntashir"
+    ],
+    "composers": [
+      "Anu Malik, Mithoon, Sonu Nigam, Arijit Singh, Roop Kumar Rathod, Vishal Mishra, Diljit Dosanjh, Javed Akhtar & Manoj Muntashir"
+    ],
+    "lyricist": "Anu Malik, Mithoon, Sonu Nigam, Arijit Singh, Roop Kumar Rathod, Vishal Mishra, Diljit Dosanjh, Javed Akhtar & Manoj Muntashir",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/1b/8e/b91b8e8c-d8df-bd28-d27e-d419f7096859/mzaf_3784636070545329840.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/7d/43/957d4338-b639-392b-c899-22d38b5917ef/8902894362795_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ghar Kab Aaoge",
+      "Ghar Kab Aaoge"
+    ]
+  },
+  {
+    "title": "Toh Phir Aao - New Version",
+    "movie": "Awarapan 2",
+    "singers": [
+      "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri & Subodhh Sharma"
+    ],
+    "artists": [
+      "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri & Subodhh Sharma"
+    ],
+    "composers": [
+      "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri & Subodhh Sharma"
+    ],
+    "lyricist": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri & Subodhh Sharma",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/ed/8d/fbed8d0f-39ab-0e45-68fc-a78350b2c4d6/mzaf_5348505392082321392.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/14/be/4114be84-436d-73b3-a10b-60ed9ae7c6c6/196874692820.jpg/400x400bb.jpg",
+    "aliases": [
+      "Toh Phir Aao - New Version",
+      "Toh Phir Aao - New Version"
+    ]
+  },
+  {
+    "title": "Tera Mera Rishta - New Version",
+    "movie": "Tera Mera Rishta - New Version (From \"Awarapan 2\") - Single",
+    "singers": [
+      "Mithoon, Saaj Bhatt, Subodhh Sharma, Pritam, Sayeed Quadri & Mustafa Zahid"
+    ],
+    "artists": [
+      "Mithoon, Saaj Bhatt, Subodhh Sharma, Pritam, Sayeed Quadri & Mustafa Zahid"
+    ],
+    "composers": [
+      "Mithoon, Saaj Bhatt, Subodhh Sharma, Pritam, Sayeed Quadri & Mustafa Zahid"
+    ],
+    "lyricist": "Mithoon, Saaj Bhatt, Subodhh Sharma, Pritam, Sayeed Quadri & Mustafa Zahid",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/b2/4d/3cb24db1-2d56-f614-00a2-7f9838714d54/mzaf_13697846887168356513.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/73/e8/c073e8af-d57c-64b1-aaef-427ec7401f74/ticket.wjwnjjti.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+      "Tera Mera Rishta - New Version"
+    ]
+  },
+  {
+    "title": "Jaate Hue Lamhon",
+    "movie": "BORDER 2",
+    "singers": [
+      "Anu Malik, Mithoon, Vishal Mishra, Roop Kumar Rathod & Javed Akhtar"
+    ],
+    "artists": [
+      "Anu Malik, Mithoon, Vishal Mishra, Roop Kumar Rathod & Javed Akhtar"
+    ],
+    "composers": [
+      "Anu Malik, Mithoon, Vishal Mishra, Roop Kumar Rathod & Javed Akhtar"
+    ],
+    "lyricist": "Anu Malik, Mithoon, Vishal Mishra, Roop Kumar Rathod & Javed Akhtar",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/e0/48/abe048b6-643d-97c5-7ca4-3cc2b508567d/mzaf_13013880565472283934.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/7d/43/957d4338-b639-392b-c899-22d38b5917ef/8902894362795_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jaate Hue Lamhon",
+      "Jaate Hue Lamhon"
+    ]
+  },
+  {
+    "title": "Ve Junoon",
+    "movie": "Ve Junoon (From \"Awarapan 2\") - Single",
+    "singers": [
+      "Mithoon, Sayeed Quadri & Subodhh Sharma"
+    ],
+    "artists": [
+      "Mithoon, Sayeed Quadri & Subodhh Sharma"
+    ],
+    "composers": [
+      "Mithoon, Sayeed Quadri & Subodhh Sharma"
+    ],
+    "lyricist": "Mithoon, Sayeed Quadri & Subodhh Sharma",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/1f/d8/db1fd8ec-a453-15ac-7de3-3ccf98bdfff6/mzaf_6432637897218802462.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/88/51/5d885117-05d4-943c-b38a-f7dcb4c007a7/196874573655.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ve Junoon (From \"Awarapan 2\")",
+      "Ve Junoon"
+    ]
+  },
+  {
+    "title": "Tujhko",
+    "movie": "Tujhko (From “Cocktail 2”) - Single",
+    "singers": [
+      "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/92/d4/ac92d4a3-7aa8-5934-ef50-2c64892b0bf3/mzaf_17625097307893459885.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/26/18/4326187c-66a0-7c94-fb3c-c092337e7e15/26UMGIM67498.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tujhko (From “Cocktail 2”)",
+      "Tujhko"
+    ]
+  },
+  {
+    "title": "Massa Massa",
+    "movie": "Peddi - TELUGU",
+    "singers": [
+      "A.R. Rahman, Vishal Mishra & Anantha Sriram"
+    ],
+    "artists": [
+      "A.R. Rahman, Vishal Mishra & Anantha Sriram"
+    ],
+    "composers": [
+      "A.R. Rahman, Vishal Mishra & Anantha Sriram"
+    ],
+    "lyricist": "A.R. Rahman, Vishal Mishra & Anantha Sriram",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/50/9d/da509d53-1c86-a099-1c3c-7e038ef72506/mzaf_2795513759439521124.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/36/4f/55364f82-ce0b-eff7-83ee-e8542ca4c119/8903431148698_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Massa Massa",
+      "Massa Massa"
+    ]
+  },
+  {
+    "title": "Pyaari Lage",
+    "movie": "BORDER 2",
+    "singers": [
+      "Vishal Mishra, Tulsi Kumar & Manoj Muntashir"
+    ],
+    "artists": [
+      "Vishal Mishra, Tulsi Kumar & Manoj Muntashir"
+    ],
+    "composers": [
+      "Vishal Mishra, Tulsi Kumar & Manoj Muntashir"
+    ],
+    "lyricist": "Vishal Mishra, Tulsi Kumar & Manoj Muntashir",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/ed/6a/9ced6ad4-cd6b-1d1c-22f1-c8230b35b35f/mzaf_11850851287252415741.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/7d/43/957d4338-b639-392b-c899-22d38b5917ef/8902894362795_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pyaari Lage",
+      "Pyaari Lage"
+    ]
+  },
+  {
+    "title": "Raga of Madness",
+    "movie": "DC",
+    "singers": [
+      "Anirudh Ravichander & Vishal Mishra"
+    ],
+    "artists": [
+      "Anirudh Ravichander & Vishal Mishra"
+    ],
+    "composers": [
+      "Anirudh Ravichander & Vishal Mishra"
+    ],
+    "lyricist": "Anirudh Ravichander & Vishal Mishra",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/1d/2b/231d2baa-3325-6ea5-74b4-1b48c203ef65/mzaf_16654508546858570909.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/25/b4/5525b4ec-5854-7526-a2c9-df9d78fc89ec/885288108606.jpg/400x400bb.jpg",
+    "aliases": [
+      "Raga of Madness",
+      "Raga of Madness"
+    ]
+  },
+  {
+    "title": "Ishq Da Chehra",
+    "movie": "BORDER 2",
+    "singers": [
+      "Diljit Dosanjh, Sachet Tandon, Parampara Tandon & Kausar Munir"
+    ],
+    "artists": [
+      "Diljit Dosanjh, Sachet Tandon, Parampara Tandon & Kausar Munir"
+    ],
+    "composers": [
+      "Diljit Dosanjh, Sachet Tandon, Parampara Tandon & Kausar Munir"
+    ],
+    "lyricist": "Diljit Dosanjh, Sachet Tandon, Parampara Tandon & Kausar Munir",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/06/51/570651be-85d9-1088-b7e0-029aee363acb/mzaf_10656899836580817689.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/7d/43/957d4338-b639-392b-c899-22d38b5917ef/8902894362795_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Da Chehra",
+      "Ishq Da Chehra"
+    ]
+  },
+  {
+    "title": "Kya Kamaal Hai",
+    "movie": "Main Vaapas Aaunga",
+    "singers": [
+      "A.R. Rahman, Diljit Dosanjh & Irshad Kamil"
+    ],
+    "artists": [
+      "A.R. Rahman, Diljit Dosanjh & Irshad Kamil"
+    ],
+    "composers": [
+      "A.R. Rahman, Diljit Dosanjh & Irshad Kamil"
+    ],
+    "lyricist": "A.R. Rahman, Diljit Dosanjh & Irshad Kamil",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/89/22/f5892281-458a-d824-f7c6-0490bdae6b03/mzaf_1328961908474317472.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/c7/06/f6c706f2-db41-1579-f928-75133e0d2a9e/8901854117178.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kya Kamaal Hai (From \"Main Vaapas Aaunga\")",
+      "Kya Kamaal Hai"
+    ]
+  },
+  {
+    "title": "Maskara",
+    "movie": "Maskara (From \"Main Vaapas Aaunga\") - Single",
+    "singers": [
+      "A.R. Rahman, Vedang Raina, Nilanjana Ghosh & Irshad Kamil"
+    ],
+    "artists": [
+      "A.R. Rahman, Vedang Raina, Nilanjana Ghosh & Irshad Kamil"
+    ],
+    "composers": [
+      "A.R. Rahman, Vedang Raina, Nilanjana Ghosh & Irshad Kamil"
+    ],
+    "lyricist": "A.R. Rahman, Vedang Raina, Nilanjana Ghosh & Irshad Kamil",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/0b/3d/7b0b3d69-98f6-db50-7601-4162850896ef/mzaf_1258586503344729813.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/ca/04/12ca04ed-c182-a373-7f5f-1d3656682841/8901854115952.jpg/400x400bb.jpg",
+    "aliases": [
+      "Maskara (From \"Main Vaapas Aaunga\")",
+      "Maskara"
+    ]
+  },
+  {
+    "title": "Morni",
+    "movie": "The Call of Panjab - EP",
+    "singers": [
+      "Diljit Dosanjh, Chani Nattan & Tru-Skool"
+    ],
+    "artists": [
+      "Diljit Dosanjh, Chani Nattan & Tru-Skool"
+    ],
+    "composers": [
+      "Diljit Dosanjh, Chani Nattan & Tru-Skool"
+    ],
+    "lyricist": "Diljit Dosanjh, Chani Nattan & Tru-Skool",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/6e/e4/f56ee414-2027-b605-7455-a24fbc433373/mzaf_3937962578481238111.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/86/86/97868694-9413-a543-514a-a6374469ff97/859736427250_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Morni",
+      "Morni"
+    ]
+  },
+  {
+    "title": "Dealer",
+    "movie": "Dealer - Single",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/f5/36/c9f53664-7e5f-1646-347a-a3836c6b24b4/mzaf_14025775664665894818.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/2e/84/342e8467-23ad-5338-95a6-13cfb3db50d7/859733419234_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dealer",
+      "Dealer"
+    ]
+  },
+  {
+    "title": "Tere Paas Main - Female Version",
+    "movie": "Main Vaapas Aaunga",
+    "singers": [
+      "A.R. Rahman, Irshad Kamil & Deepali Sahay"
+    ],
+    "artists": [
+      "A.R. Rahman, Irshad Kamil & Deepali Sahay"
+    ],
+    "composers": [
+      "A.R. Rahman, Irshad Kamil & Deepali Sahay"
+    ],
+    "lyricist": "A.R. Rahman, Irshad Kamil & Deepali Sahay",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/3a/b5/883ab525-91bd-d345-b4e8-c611116978fe/mzaf_9986605829547228296.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/c7/06/f6c706f2-db41-1579-f928-75133e0d2a9e/8901854117178.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+      "Tere Paas Main - Female Version"
+    ]
+  },
+  {
+    "title": "Inaam",
+    "movie": "Inaam - Single",
+    "singers": [
+      "Jasleen Royal, Badshah & Ansh Chahal"
+    ],
+    "artists": [
+      "Jasleen Royal, Badshah & Ansh Chahal"
+    ],
+    "composers": [
+      "Jasleen Royal, Badshah & Ansh Chahal"
+    ],
+    "lyricist": "Jasleen Royal, Badshah & Ansh Chahal",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/7b/e4/ee7be443-44cf-174f-a86f-6861ace79089/mzaf_17962040678897177056.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/a9/12/f4a912ff-6c53-8470-24c6-13420fc1e2b6/25UM1IM99115.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Inaam",
+      "Inaam"
+    ]
+  },
+  {
+    "title": "Koi Naam",
+    "movie": "Koi Naam - Single",
+    "singers": [
+      "Jasleen Royal & Aditya Sharma"
+    ],
+    "artists": [
+      "Jasleen Royal & Aditya Sharma"
+    ],
+    "composers": [
+      "Jasleen Royal & Aditya Sharma"
+    ],
+    "lyricist": "Jasleen Royal & Aditya Sharma",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/85/74/7c8574e8-f32d-a81d-51eb-eb3f7c821b47/mzaf_2041276646196653007.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/85/42/3a854208-2748-b5a5-a185-dc53a1d7ac65/25UM2IM10580.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Koi Naam",
+      "Koi Naam"
+    ]
+  },
+  {
+    "title": "Bheegi Bheegi",
+    "movie": "Bheegi Bheegi - Single",
+    "singers": [
+      "A.R. Ameen, A.R. Rahman & Jasleen Royal"
+    ],
+    "artists": [
+      "A.R. Ameen, A.R. Rahman & Jasleen Royal"
+    ],
+    "composers": [
+      "A.R. Ameen, A.R. Rahman & Jasleen Royal"
+    ],
+    "lyricist": "A.R. Ameen, A.R. Rahman & Jasleen Royal",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/9e/09/dd9e09db-7373-aa6c-d8b1-c9028aea0a7b/mzaf_16880284792434912255.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/42/8c/eb428cd7-0548-6a92-44dd-576c7f4846f7/5026854536705.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bheegi Bheegi",
+      "Bheegi Bheegi"
+    ]
+  },
+  {
     "title": "Sailor Song",
     "movie": "Sailor Song - Single",
     "singers": [
@@ -2161,6 +2944,870 @@ module.exports = [
     ]
   },
   {
+    "title": "Ajeeb - O - Gareeb",
+    "movie": "Arijit Forever",
+    "singers": [
+      "Arijit Singh, Amit Trivedi, Hansika Pareek & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Arijit Singh, Amit Trivedi, Hansika Pareek & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Arijit Singh, Amit Trivedi, Hansika Pareek & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Arijit Singh, Amit Trivedi, Hansika Pareek & Amitabh Bhattacharya",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/d5/c2/11d5c2c6-8339-49cb-2557-1b49308c87e2/mzaf_4556064920104104841.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/b0/78/77b07892-9928-19a6-04fa-aa788fb96127/8909024120928.png/400x400bb.jpg",
+    "aliases": [
+      "Ajeeb - O - Gareeb",
+      "Ajeeb - O - Gareeb"
+    ]
+  },
+  {
+    "title": "Dhun",
+    "movie": "Saiyaara",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/55/7e/43557ef0-ece1-632f-3e5b-c6dee38e4d62/mzaf_11064858646624629484.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/6a/a3/c66aa366-4522-14b8-c629-7cfee5422fc0/Saiyaara_Album_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dhun",
+      "Dhun"
+    ]
+  },
+  {
+    "title": "Saiyaara Reprise - Female",
+    "movie": "Saiyaara",
+    "singers": [
+      "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Shreya Ghoshal & Irshad Kamil"
+    ],
+    "artists": [
+      "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Shreya Ghoshal & Irshad Kamil"
+    ],
+    "composers": [
+      "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Shreya Ghoshal & Irshad Kamil"
+    ],
+    "lyricist": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Shreya Ghoshal & Irshad Kamil",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/96/ac/6196ace1-d0fe-089f-f4ff-e322160010e1/mzaf_17718692881128881262.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/6a/a3/c66aa366-4522-14b8-c629-7cfee5422fc0/Saiyaara_Album_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saiyaara Reprise - Female",
+      "Saiyaara Reprise - Female"
+    ]
+  },
+  {
+    "title": "Thodi Si Daaru",
+    "movie": "Thodi Si Daaru - Single",
+    "singers": [
+      "AP Dhillon & Shreya Ghoshal"
+    ],
+    "artists": [
+      "AP Dhillon & Shreya Ghoshal"
+    ],
+    "composers": [
+      "AP Dhillon & Shreya Ghoshal"
+    ],
+    "lyricist": "AP Dhillon & Shreya Ghoshal",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/87/d8/cf/87d8cf61-85c6-daba-e756-a26d3f94bc52/mzaf_6968223182607551222.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/99/aa/7899aaf6-391d-715b-3b50-5e0f3d2b4fb3/25UMGIM91523.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Thodi Si Daaru",
+      "Thodi Si Daaru"
+    ]
+  },
+  {
+    "title": "Pardesiya",
+    "movie": "Pardesiya (From \"Param Sundari\") - Single",
+    "singers": [
+      "Sachin-Jigar, Sonu Nigam & Krishnakali Saha"
+    ],
+    "artists": [
+      "Sachin-Jigar, Sonu Nigam & Krishnakali Saha"
+    ],
+    "composers": [
+      "Sachin-Jigar, Sonu Nigam & Krishnakali Saha"
+    ],
+    "lyricist": "Sachin-Jigar, Sonu Nigam & Krishnakali Saha",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/8a/65/f58a6560-54b0-60b8-4a9b-c76bc80efa18/mzaf_10511258461943195775.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/8e/d8/b98ed837-918d-3fd5-2453-1dc5b99f6250/25UM1IM02563.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pardesiya (From \"Param Sundari\")",
+      "Pardesiya"
+    ]
+  },
+  {
+    "title": "Bijuria",
+    "movie": "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\") - Single",
+    "singers": [
+      "Sonu Nigam, Tanishk Bagchi, Ravi Pawar & Asees Kaur"
+    ],
+    "artists": [
+      "Sonu Nigam, Tanishk Bagchi, Ravi Pawar & Asees Kaur"
+    ],
+    "composers": [
+      "Sonu Nigam, Tanishk Bagchi, Ravi Pawar & Asees Kaur"
+    ],
+    "lyricist": "Sonu Nigam, Tanishk Bagchi, Ravi Pawar & Asees Kaur",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/64/1b/28641b67-414e-034f-9799-c7689d5288d4/mzaf_11084924189408145871.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/8a/75/fe8a755b-a460-5f36-74fd-f45cba706b22/196873528793.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bijuria (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "Bijuria"
+    ]
+  },
+  {
+    "title": "Tu Tu Hai Wahi",
+    "movie": "Tu Tu Hai Wahi - Single",
+    "singers": [
+      "RUUH, JOH, Jubin Nautiyal & Jonita Gandhi"
+    ],
+    "artists": [
+      "RUUH, JOH, Jubin Nautiyal & Jonita Gandhi"
+    ],
+    "composers": [
+      "RUUH, JOH, Jubin Nautiyal & Jonita Gandhi"
+    ],
+    "lyricist": "RUUH, JOH, Jubin Nautiyal & Jonita Gandhi",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/81/63/d1816395-640e-7d1b-121a-b96df3add8c5/mzaf_17961192185863258323.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/be/eb/aabeebd1-be2f-2859-6a32-8de209169569/25UMGIM54068.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Tu Hai Wahi",
+      "Tu Tu Hai Wahi"
+    ]
+  },
+  {
+    "title": "Barbaad",
+    "movie": "Saiyaara",
+    "singers": [
+      "The Rish & Jubin Nautiyal"
+    ],
+    "artists": [
+      "The Rish & Jubin Nautiyal"
+    ],
+    "composers": [
+      "The Rish & Jubin Nautiyal"
+    ],
+    "lyricist": "The Rish & Jubin Nautiyal",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/4a/6f/f24a6f6b-a979-f764-8637-285a168e6fe7/mzaf_14662801862387515821.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/6a/a3/c66aa366-4522-14b8-c629-7cfee5422fc0/Saiyaara_Album_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Barbaad",
+      "Barbaad"
+    ]
+  },
+  {
+    "title": "Tumhe Dillagi",
+    "movie": "Tumhe Dillagi (From \"Raid 2\") - Single",
+    "singers": [
+      "Rochak Kohli, Jubin Nautiyal, Nusrat Fateh Ali Khan, Manoj Muntashir & Purnam Allahabadi"
+    ],
+    "artists": [
+      "Rochak Kohli, Jubin Nautiyal, Nusrat Fateh Ali Khan, Manoj Muntashir & Purnam Allahabadi"
+    ],
+    "composers": [
+      "Rochak Kohli, Jubin Nautiyal, Nusrat Fateh Ali Khan, Manoj Muntashir & Purnam Allahabadi"
+    ],
+    "lyricist": "Rochak Kohli, Jubin Nautiyal, Nusrat Fateh Ali Khan, Manoj Muntashir & Purnam Allahabadi",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/b7/8f/59b78fe1-4061-d2ef-95cb-fe664c458387/mzaf_13131117477712510878.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/55/be/3055be78-59a4-0c43-bfd1-055acc8028ff/8903431061966_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tumhe Dillagi (From \"Raid 2\")",
+      "Tumhe Dillagi"
+    ]
+  },
+  {
+    "title": "Bas Ek Dhadak",
+    "movie": "Bas Ek Dhadak (From \"Dhadak 2\") - Single",
+    "singers": [
+      "Shreya Ghoshal, Jubin Nautiyal, Javed-Mohsin & Rashmi Virag"
+    ],
+    "artists": [
+      "Shreya Ghoshal, Jubin Nautiyal, Javed-Mohsin & Rashmi Virag"
+    ],
+    "composers": [
+      "Shreya Ghoshal, Jubin Nautiyal, Javed-Mohsin & Rashmi Virag"
+    ],
+    "lyricist": "Shreya Ghoshal, Jubin Nautiyal, Javed-Mohsin & Rashmi Virag",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/93/4b/91934b78-d0a9-a7f4-2691-483032cd4506/mzaf_5614937965239748236.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/72/58/1e72584e-1827-4021-1342-9f915d185482/8909024089775.png/400x400bb.jpg",
+    "aliases": [
+      "Bas Ek Dhadak (From \"Dhadak 2\")",
+      "Bas Ek Dhadak"
+    ]
+  },
+  {
+    "title": "Ishq Mein",
+    "movie": "Ishq Mein (From \"Nadaaniyan\") - Single",
+    "singers": [
+      "Sachin-Jigar, Sachet Tandon, Asees Kaur & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Sachet Tandon, Asees Kaur & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Sachet Tandon, Asees Kaur & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Sachin-Jigar, Sachet Tandon, Asees Kaur & Amitabh Bhattacharya",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/24/3f/27243f89-f97a-8603-1f0b-84c8524d185c/mzaf_11574329714914071043.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/0f/cb/9d0fcbf1-a959-67b9-d6ba-65ea6b8b31f0/196872822410.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Mein (From \"Nadaaniyan\")",
+      "Ishq Mein"
+    ]
+  },
+  {
+    "title": "Galatfehmi - From \"Nadaaniyan\"",
+    "movie": "Nadaaniyan",
+    "singers": [
+      "Sachin-Jigar, Tushar Joshi, Madhubanti Bagchi & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Tushar Joshi, Madhubanti Bagchi & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Tushar Joshi, Madhubanti Bagchi & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Sachin-Jigar, Tushar Joshi, Madhubanti Bagchi & Amitabh Bhattacharya",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/9a/cd/809acda2-1afd-df69-a9d1-446eaa52edfb/mzaf_16973836645212755249.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/e4/61/c1e4610b-ac0e-19a6-6df6-179351340c0b/196872873443.jpg/400x400bb.jpg",
+    "aliases": [
+      "Galatfehmi - From \"Nadaaniyan\"",
+      "Galatfehmi - From \"Nadaaniyan\""
+    ]
+  },
+  {
+    "title": "Uyi Amma",
+    "movie": "Uyi Amma (From \"Azaad\") - Single",
+    "singers": [
+      "Amit Trivedi, Madhubanti Bagchi & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Amit Trivedi, Madhubanti Bagchi & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Amit Trivedi, Madhubanti Bagchi & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Amit Trivedi, Madhubanti Bagchi & Amitabh Bhattacharya",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/b2/fd/4ab2fd21-35fb-54b5-fd77-cbb1ddc4a259/mzaf_3759294352268913863.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/ea/22/0eea225c-28ff-b1e8-58eb-1f98ae02edf5/8909024069784.png/400x400bb.jpg",
+    "aliases": [
+      "Uyi Amma (From \"Azaad\")",
+      "Uyi Amma"
+    ]
+  },
+  {
+    "title": "For A Reason",
+    "movie": "P-POP CULTURE",
+    "singers": [
+      "Karan Aujla & Ikky"
+    ],
+    "artists": [
+      "Karan Aujla & Ikky"
+    ],
+    "composers": [
+      "Karan Aujla & Ikky"
+    ],
+    "lyricist": "Karan Aujla & Ikky",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/c6/5b/88c65b26-c766-69d3-2603-4857e66903d4/mzaf_7154011662261729475.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/bd/e1/06bde161-335b-87fa-650a-f0d04bd9f55d/5021732889621.jpg/400x400bb.jpg",
+    "aliases": [
+      "For A Reason",
+      "For A Reason"
+    ]
+  },
+  {
+    "title": "Nafrat",
+    "movie": "I Loved You - EP",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/13/2b/16/132b167c-7e4a-441c-355b-9577d9b50c00/mzaf_3163513762933702942.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/e7/93/40e7933c-bc9e-2e14-6daa-5c876e62360f/5026854088631.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nafrat",
+      "Nafrat"
+    ]
+  },
+  {
+    "title": "Sajna",
+    "movie": "Sajna - Single",
+    "singers": [
+      "Darshan Raval, Aditya Gadhvi & Hansika Pareek"
+    ],
+    "artists": [
+      "Darshan Raval, Aditya Gadhvi & Hansika Pareek"
+    ],
+    "composers": [
+      "Darshan Raval, Aditya Gadhvi & Hansika Pareek"
+    ],
+    "lyricist": "Darshan Raval, Aditya Gadhvi & Hansika Pareek",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/74/a0/5274a07c-618f-07ec-ac3d-2584b211917b/mzaf_6708395254244093520.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/19/aa/2819aaaf-fb1c-ce0c-d3d1-2e609a03af1a/5021732618177.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sajna",
+      "Sajna"
+    ]
+  },
+  {
+    "title": "Preet Re",
+    "movie": "Dhadak 2 - EP",
+    "singers": [
+      "Darshan Raval, Rochak Kohli, Jonita Gandhi & Gurpreet Saini"
+    ],
+    "artists": [
+      "Darshan Raval, Rochak Kohli, Jonita Gandhi & Gurpreet Saini"
+    ],
+    "composers": [
+      "Darshan Raval, Rochak Kohli, Jonita Gandhi & Gurpreet Saini"
+    ],
+    "lyricist": "Darshan Raval, Rochak Kohli, Jonita Gandhi & Gurpreet Saini",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/54/95/e05495c1-57d9-790b-9b48-b4b54dd6a449/mzaf_3676994455653931062.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/ca/0a/82ca0a0f-9e2d-afb8-8a8a-25a12cc010fd/8909024032047.png/400x400bb.jpg",
+    "aliases": [
+      "Preet Re",
+      "Preet Re"
+    ]
+  },
+  {
+    "title": "Ishq Bukhaar",
+    "movie": "Ishq Bukhaar (From \"Tehran\") - Single",
+    "singers": [
+      "Shreya Ghoshal, B. Praak, Tanishk Bagchi, Irshad Kamil & Elnaaz Norouzi"
+    ],
+    "artists": [
+      "Shreya Ghoshal, B. Praak, Tanishk Bagchi, Irshad Kamil & Elnaaz Norouzi"
+    ],
+    "composers": [
+      "Shreya Ghoshal, B. Praak, Tanishk Bagchi, Irshad Kamil & Elnaaz Norouzi"
+    ],
+    "lyricist": "Shreya Ghoshal, B. Praak, Tanishk Bagchi, Irshad Kamil & Elnaaz Norouzi",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/b5/30/07b5304a-174f-0cdb-d740-22b9b9bb5499/mzaf_12241712205959814950.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/cc/69/29cc69b1-6fde-b781-d5bc-f083598594e0/8909024091709.png/400x400bb.jpg",
+    "aliases": [
+      "Ishq Bukhaar (From \"Tehran\")",
+      "Ishq Bukhaar"
+    ]
+  },
+  {
+    "title": "Tum Ho Toh",
+    "movie": "Saiyaara",
+    "singers": [
+      "Vishal Mishra, Hansika Pareek & Raj Shekhar"
+    ],
+    "artists": [
+      "Vishal Mishra, Hansika Pareek & Raj Shekhar"
+    ],
+    "composers": [
+      "Vishal Mishra, Hansika Pareek & Raj Shekhar"
+    ],
+    "lyricist": "Vishal Mishra, Hansika Pareek & Raj Shekhar",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/65/79/53657980-6bbe-15c4-3edf-b61f99751d66/mzaf_18343457548257530152.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/6a/a3/c66aa366-4522-14b8-c629-7cfee5422fc0/Saiyaara_Album_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tum Ho Toh",
+      "Tum Ho Toh"
+    ]
+  },
+  {
+    "title": "Deewaniyat",
+    "movie": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") [Original Soundtrack] - Single",
+    "singers": [
+      "Vishal Mishra, Kaushik-Guddu & Kunaal Vermaa"
+    ],
+    "artists": [
+      "Vishal Mishra, Kaushik-Guddu & Kunaal Vermaa"
+    ],
+    "composers": [
+      "Vishal Mishra, Kaushik-Guddu & Kunaal Vermaa"
+    ],
+    "lyricist": "Vishal Mishra, Kaushik-Guddu & Kunaal Vermaa",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/e7/0a/c7e70a5d-a2ea-35ca-8347-ba2ef9e88345/mzaf_7115569078962525277.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/39/07/44390794-4d83-526f-c7a4-3a9d6db91205/198704687532_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") [Original Soundtrack]",
+      "Deewaniyat"
+    ]
+  },
+  {
+    "title": "Bas Tera Pyaar Hai",
+    "movie": "Deva - EP",
+    "singers": [
+      "Vishal Mishra, Raj Shekhar & Pratiksha Kale"
+    ],
+    "artists": [
+      "Vishal Mishra, Raj Shekhar & Pratiksha Kale"
+    ],
+    "composers": [
+      "Vishal Mishra, Raj Shekhar & Pratiksha Kale"
+    ],
+    "lyricist": "Vishal Mishra, Raj Shekhar & Pratiksha Kale",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/03/bc/c903bc7e-0768-00bb-1644-ea296217a6c5/mzaf_3468513137480192127.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/e9/94/eae9942f-566d-2921-e336-697616535e9c/8909024069920.png/400x400bb.jpg",
+    "aliases": [
+      "Bas Tera Pyaar Hai",
+      "Bas Tera Pyaar Hai"
+    ]
+  },
+  {
+    "title": "Dil Tod Gaya Tu",
+    "movie": "Haq - EP",
+    "singers": [
+      "Vishal Mishra & Kaushal Kishore"
+    ],
+    "artists": [
+      "Vishal Mishra & Kaushal Kishore"
+    ],
+    "composers": [
+      "Vishal Mishra & Kaushal Kishore"
+    ],
+    "lyricist": "Vishal Mishra & Kaushal Kishore",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/04/f8/ce04f80c-cd23-fb5d-2256-2939b27e41de/mzaf_1384054508321897756.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/7a/9d/fd7a9d51-0cee-1087-a609-547e0316911c/8902633377660.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Tod Gaya Tu",
+      "Dil Tod Gaya Tu"
+    ]
+  },
+  {
+    "title": "Mere Murshid Mere Yaara",
+    "movie": "Sarzameen",
+    "singers": [
+      "Vishal Mishra, Salman Ali, Jaani & Vishal Khurana K"
+    ],
+    "artists": [
+      "Vishal Mishra, Salman Ali, Jaani & Vishal Khurana K"
+    ],
+    "composers": [
+      "Vishal Mishra, Salman Ali, Jaani & Vishal Khurana K"
+    ],
+    "lyricist": "Vishal Mishra, Salman Ali, Jaani & Vishal Khurana K",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/72/34/da723423-9654-c165-bc21-83b0803b9061/mzaf_1381364973453716795.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/8d/33/3c8d33fe-973a-501a-2373-08deeadd3f7d/199538286519.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mere Murshid Mere Yaara",
+      "Mere Murshid Mere Yaara"
+    ]
+  },
+  {
+    "title": "Oh Mama! TETEMA",
+    "movie": "Oh Mama! TETEMA - Single",
+    "singers": [
+      "Rayvanny, Vishal Mishra, Shreya Ghoshal, Nora Fatehi, Sanjoy & The Plugz Europe"
+    ],
+    "artists": [
+      "Rayvanny, Vishal Mishra, Shreya Ghoshal, Nora Fatehi, Sanjoy & The Plugz Europe"
+    ],
+    "composers": [
+      "Rayvanny, Vishal Mishra, Shreya Ghoshal, Nora Fatehi, Sanjoy & The Plugz Europe"
+    ],
+    "lyricist": "Rayvanny, Vishal Mishra, Shreya Ghoshal, Nora Fatehi, Sanjoy & The Plugz Europe",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/69/d4/f969d441-9fc7-ab58-1b25-e4c84fbab0d2/mzaf_3016926300683369250.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/cb/11/f8cb119a-260c-92ce-6621-1f076e89fb68/8903431098405_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Oh Mama! TETEMA",
+      "Oh Mama! TETEMA"
+    ]
+  },
+  {
+    "title": "Mann Ye Mera",
+    "movie": "Mann Ye Mera (From \"Metro ... In Dino\") - Single",
+    "singers": [
+      "Pritam, Vishal Mishra & Neelesh Misra"
+    ],
+    "artists": [
+      "Pritam, Vishal Mishra & Neelesh Misra"
+    ],
+    "composers": [
+      "Pritam, Vishal Mishra & Neelesh Misra"
+    ],
+    "lyricist": "Pritam, Vishal Mishra & Neelesh Misra",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/0d/41/830d412f-0cf4-b58a-2b10-813c37c7a990/mzaf_12125109025272794676.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/07/2c/e8072ccd-f6f0-f5a1-e32a-0459044fb84c/8903431072689_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mann Ye Mera (From \"Metro ... In Dino\")",
+      "Mann Ye Mera"
+    ]
+  },
+  {
+    "title": "Barbaad Reprise - Female",
+    "movie": "Saiyaara",
+    "singers": [
+      "The Rish & Shilpa Rao"
+    ],
+    "artists": [
+      "The Rish & Shilpa Rao"
+    ],
+    "composers": [
+      "The Rish & Shilpa Rao"
+    ],
+    "lyricist": "The Rish & Shilpa Rao",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/aa/f2/70aaf225-b827-d33d-24bb-7b05f122b6bc/mzaf_13345002594604282315.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/6a/a3/c66aa366-4522-14b8-c629-7cfee5422fc0/Saiyaara_Album_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Barbaad Reprise - Female",
+      "Barbaad Reprise - Female"
+    ]
+  },
+  {
+    "title": "Gori Hai Kalaiyan",
+    "movie": "Gori Hai Kalaiyan (From \"Mere Husband Ki Biwi\") - Single",
+    "singers": [
+      "Badshah, Akshay & IP, Kanika Kapoor & Sharvi Yadav"
+    ],
+    "artists": [
+      "Badshah, Akshay & IP, Kanika Kapoor & Sharvi Yadav"
+    ],
+    "composers": [
+      "Badshah, Akshay & IP, Kanika Kapoor & Sharvi Yadav"
+    ],
+    "lyricist": "Badshah, Akshay & IP, Kanika Kapoor & Sharvi Yadav",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/e9/c9/70e9c9fc-2433-39e4-ac14-e3339a914fa4/mzaf_10835642865353987914.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/84/85/768485fe-5ca5-27ce-6e8a-b734e107a82c/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gori Hai Kalaiyan (From \"Mere Husband Ki Biwi\")",
+      "Gori Hai Kalaiyan"
+    ]
+  },
+  {
+    "title": "Tenu Ki Pata",
+    "movie": "The Ba***ds Of Bollywood",
+    "singers": [
+      "Diljit Dosanjh, Ujwal Gupta, Aryan Khan & Kumaar"
+    ],
+    "artists": [
+      "Diljit Dosanjh, Ujwal Gupta, Aryan Khan & Kumaar"
+    ],
+    "composers": [
+      "Diljit Dosanjh, Ujwal Gupta, Aryan Khan & Kumaar"
+    ],
+    "lyricist": "Diljit Dosanjh, Ujwal Gupta, Aryan Khan & Kumaar",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/ff/a8/b9ffa84e-c92e-c3d8-737d-95eac8c4cab9/mzaf_5510638330254557316.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/b1/a9/88b1a972-9555-8ba2-6382-f0d7daaa03b5/8903431116369_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tenu Ki Pata",
+      "Tenu Ki Pata"
+    ]
+  },
+  {
+    "title": "Udd Jaavan -",
+    "movie": "Udd Jaavan - (From ''Do You Wanna Partner'') - Single",
+    "singers": [
+      "Ronit Vinta, Jasleen Royal & Priya Saraiya"
+    ],
+    "artists": [
+      "Ronit Vinta, Jasleen Royal & Priya Saraiya"
+    ],
+    "composers": [
+      "Ronit Vinta, Jasleen Royal & Priya Saraiya"
+    ],
+    "lyricist": "Ronit Vinta, Jasleen Royal & Priya Saraiya",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/a1/62/67a16226-5984-ade4-bcc3-a760abec5b30/mzaf_15992998496369310797.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/82/0a/a9820a20-ec6d-b9d7-7529-dc3a96da8f7c/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Udd Jaavan - (From ''Do You Wanna Partner'')",
+      "Udd Jaavan -"
+    ]
+  },
+  {
+    "title": "Channa",
+    "movie": "Intense",
+    "singers": [
+      "Intense & Jasleen Royal"
+    ],
+    "artists": [
+      "Intense & Jasleen Royal"
+    ],
+    "composers": [
+      "Intense & Jasleen Royal"
+    ],
+    "lyricist": "Intense & Jasleen Royal",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/c1/6d/a8c16daf-3b49-611d-f359-9eb954c03c63/mzaf_5370106367917027350.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/eb/a0/51eba0f5-4be4-ef44-0063-7e9f06d8ce5c/5034644798486.jpg/400x400bb.jpg",
+    "aliases": [
+      "Channa",
+      "Channa"
+    ]
+  },
+  {
+    "title": "Arz Kiya Hai  Coke Studio Bharat",
+    "movie": "Arz Kiya Hai - Coke Studio Bharat - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/37/24/e73724af-35c2-505c-5caa-9bb1b3b7c37c/mzaf_15804261838668939498.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/e7/77/02e77709-a5f6-5470-9e5b-70a0d6ff45ed/25UM1IM13936.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Arz Kiya Hai  Coke Studio Bharat",
+      "Arz Kiya Hai  Coke Studio Bharat"
+    ]
+  },
+  {
+    "title": "Afsos",
+    "movie": "Afsos - Single",
+    "singers": [
+      "Anuv Jain & AP Dhillon"
+    ],
+    "artists": [
+      "Anuv Jain & AP Dhillon"
+    ],
+    "composers": [
+      "Anuv Jain & AP Dhillon"
+    ],
+    "lyricist": "Anuv Jain & AP Dhillon",
+    "releaseYear": 2025,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/4f/7f/e84f7f1b-ef80-f7d3-1991-edd018c088d1/mzaf_9818862227157686558.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/a8/87/90a88741-3e5c-4dd9-3d90-01cd3e602418/25UMGIM06397.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Afsos",
+      "Afsos"
+    ]
+  },
+  {
     "title": "End of Beginning",
     "movie": "DECIDE",
     "singers": [
@@ -2374,33 +4021,6 @@ module.exports = [
     "aliases": [
       "Khoobsurat (From \"Stree 2\")",
       "Khoobsurat"
-    ]
-  },
-  {
-    "title": "§2",
-    "movie": "The Last Will And Testament",
-    "singers": [
-      "Opeth"
-    ],
-    "artists": [
-      "Opeth"
-    ],
-    "composers": [
-      "Opeth"
-    ],
-    "lyricist": "Opeth",
-    "releaseYear": 2024,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/c6/b5/a9c6b587-8cfc-bccc-008f-7cbf6500945e/mzaf_10401971995811040384.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/4d/a8/b44da83b-372f-cbf7-b5b2-b5920d48ef83/4262464731760.jpg/400x400bb.jpg",
-    "aliases": [
-      "§2",
-      "§2"
     ]
   },
   {
@@ -2887,33 +4507,6 @@ module.exports = [
     "aliases": [
       "Haule Sajna",
       "Haule Sajna"
-    ]
-  },
-  {
-    "title": "Bàď Ñęŵź",
-    "movie": "G.O.A.T.",
-    "singers": [
-      "JayTheKidd101 & Zeus Raps"
-    ],
-    "artists": [
-      "JayTheKidd101 & Zeus Raps"
-    ],
-    "composers": [
-      "JayTheKidd101 & Zeus Raps"
-    ],
-    "lyricist": "JayTheKidd101 & Zeus Raps",
-    "releaseYear": 2024,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/a3/ce/14a3ce34-f30a-4e15-79ea-7f4a2d3f4533/mzaf_671798787976204546.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/95/8b/58958b80-d2cd-31ad-ca79-44d62e2cc61a/198542183906-copy-0c3b985c.png/400x400bb.jpg",
-    "aliases": [
-      "Bàď Ñęŵź",
-      "Bàď Ñęŵź"
     ]
   },
   {
@@ -5857,6 +7450,573 @@ module.exports = [
     "aliases": [
       "Jhol",
       "Jhol"
+    ]
+  },
+  {
+    "title": "Ishq Mitaye",
+    "movie": "Amar Singh Chamkila - EP",
+    "singers": [
+      "Mohit Chauhan & Irshad Kamil"
+    ],
+    "artists": [
+      "Mohit Chauhan & Irshad Kamil"
+    ],
+    "composers": [
+      "Mohit Chauhan & Irshad Kamil"
+    ],
+    "lyricist": "Mohit Chauhan & Irshad Kamil",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/3a/21/253a2142-13e7-57e2-3198-53995e013ba7/mzaf_7569711203104010192.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/46/be/9f46be7e-098a-8f46-fcbb-b3e6a65f37e4/198391662003.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Mitaye",
+      "Ishq Mitaye"
+    ]
+  },
+  {
+    "title": "Shaunkan",
+    "movie": "Shaunkan (From \"Ulajh\") - Single",
+    "singers": [
+      "Shashwat Sachdev, Jubin Nautiyal, Neha Kakkar & Kumaar"
+    ],
+    "artists": [
+      "Shashwat Sachdev, Jubin Nautiyal, Neha Kakkar & Kumaar"
+    ],
+    "composers": [
+      "Shashwat Sachdev, Jubin Nautiyal, Neha Kakkar & Kumaar"
+    ],
+    "lyricist": "Shashwat Sachdev, Jubin Nautiyal, Neha Kakkar & Kumaar",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/88/13/9e8813b9-5cc9-a086-30c3-d9fb5feda597/mzaf_7702709538759265300.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/ec/70/43ec7003-25c4-93da-fe60-c05cf17867b5/196872256284.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shaunkan (From \"Ulajh\")",
+      "Shaunkan"
+    ]
+  },
+  {
+    "title": "Taras",
+    "movie": "Taras (From \"Munjya\") - Single",
+    "singers": [
+      "Sachin-Jigar, Jasmine Sandlas & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Jasmine Sandlas & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Jasmine Sandlas & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Sachin-Jigar, Jasmine Sandlas & Amitabh Bhattacharya",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/a0/a7/a7a0a7f5-4edd-9592-0b61-a77dc8faeed5/mzaf_8345115828068335996.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/91/c8/7d91c851-00b0-6d25-9af8-865c32a75393/8909024032016.png/400x400bb.jpg",
+    "aliases": [
+      "Taras (From \"Munjya\")",
+      "Taras"
+    ]
+  },
+  {
+    "title": "Mere Mehboob",
+    "movie": "Vicky Vidya Ka Woh Wala Video",
+    "singers": [
+      "Sachin-Jigar, Shilpa Rao, Sachet Tandon & Priya Saraiya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Shilpa Rao, Sachet Tandon & Priya Saraiya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Shilpa Rao, Sachet Tandon & Priya Saraiya"
+    ],
+    "lyricist": "Sachin-Jigar, Shilpa Rao, Sachet Tandon & Priya Saraiya",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/f7/65/bff7657c-e21a-b0f7-52e0-e8262216e3bb/mzaf_3855744368302415852.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/8d/86/748d8637-b41e-7651-5444-e17170edc100/8902894362412_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mere Mehboob",
+      "Mere Mehboob"
+    ]
+  },
+  {
+    "title": "Khayal Rakhna",
+    "movie": "Crakk - Jeetegaa Toh Jiyegaa - EP",
+    "singers": [
+      "Mithoon & Manoj Muntashir"
+    ],
+    "artists": [
+      "Mithoon & Manoj Muntashir"
+    ],
+    "composers": [
+      "Mithoon & Manoj Muntashir"
+    ],
+    "lyricist": "Mithoon & Manoj Muntashir",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/86/69/45/866945a3-34f3-9cdb-d179-9b4d38cf2ba2/mzaf_6327088320701867499.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/24/33/1d2433b3-a94e-a07f-6771-9944c9a9b39d/8902894362238_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Khayal Rakhna",
+      "Khayal Rakhna"
+    ]
+  },
+  {
+    "title": "Sajna Ve Sajna",
+    "movie": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\") - Single",
+    "singers": [
+      "Sunidhi Chauhan, Divya Kumar, Sandesh Shandilya & Irshad Kamil"
+    ],
+    "artists": [
+      "Sunidhi Chauhan, Divya Kumar, Sandesh Shandilya & Irshad Kamil"
+    ],
+    "composers": [
+      "Sunidhi Chauhan, Divya Kumar, Sandesh Shandilya & Irshad Kamil"
+    ],
+    "lyricist": "Sunidhi Chauhan, Divya Kumar, Sandesh Shandilya & Irshad Kamil",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/02/4f/8a024f9b-f1cb-45e1-e9f0-2079fb02aa11/mzaf_12689703544503944240.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/fb/9d/bffb9da8-c376-5138-cd4d-bc2c7bcf1fc6/8903431019547_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "Sajna Ve Sajna"
+    ]
+  },
+  {
+    "title": "AANKH",
+    "movie": "AANKH - Single",
+    "singers": [
+      "Sunidhi Chauhan & Rusha & Blizza"
+    ],
+    "artists": [
+      "Sunidhi Chauhan & Rusha & Blizza"
+    ],
+    "composers": [
+      "Sunidhi Chauhan & Rusha & Blizza"
+    ],
+    "lyricist": "Sunidhi Chauhan & Rusha & Blizza",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/53/f0/0653f0d8-8373-807b-b0dc-acb123080b06/mzaf_6933457046746119507.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/43/9f/73439fd9-4975-e812-c954-69d19feaac8c/5021732578198.jpg/400x400bb.jpg",
+    "aliases": [
+      "AANKH",
+      "AANKH"
+    ]
+  },
+  {
+    "title": "Soni Soni",
+    "movie": "Soni Soni (From \"Ishq Vishk Rebound\") - Single",
+    "singers": [
+      "Darshan Raval, Jonita Gandhi & Rochak Kohli"
+    ],
+    "artists": [
+      "Darshan Raval, Jonita Gandhi & Rochak Kohli"
+    ],
+    "composers": [
+      "Darshan Raval, Jonita Gandhi & Rochak Kohli"
+    ],
+    "lyricist": "Darshan Raval, Jonita Gandhi & Rochak Kohli",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/f2/da/36f2dab7-e6f5-7d95-4b89-7e2776a5bdfc/mzaf_2751068054990968590.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/84/48/fe84483c-c0bd-4f40-c461-9de1d53ce52b/8901854101306.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soni Soni (From \"Ishq Vishk Rebound\")",
+      "Soni Soni"
+    ]
+  },
+  {
+    "title": "Jazbaati Hai Dil",
+    "movie": "Jazbaati Hai Dil (From \"Do Aur Do Pyaar\") - Single",
+    "singers": [
+      "Armaan Malik, Ananya Birla, Lost Stories & Kunaal Vermaa"
+    ],
+    "artists": [
+      "Armaan Malik, Ananya Birla, Lost Stories & Kunaal Vermaa"
+    ],
+    "composers": [
+      "Armaan Malik, Ananya Birla, Lost Stories & Kunaal Vermaa"
+    ],
+    "lyricist": "Armaan Malik, Ananya Birla, Lost Stories & Kunaal Vermaa",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/3e/2e/ee3e2e81-9ad4-0fab-ebe9-df60d555ca97/mzaf_3314582064955324152.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/74/44/be7444e8-3440-bde4-8284-59aea336cf4f/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jazbaati Hai Dil (From \"Do Aur Do Pyaar\")",
+      "Jazbaati Hai Dil"
+    ]
+  },
+  {
+    "title": "Be My Mehbooba",
+    "movie": "The Miranda Brothers - Single",
+    "singers": [
+      "Amaal Mallik, Darshan Raval, Neeti Mohan & Kumaar"
+    ],
+    "artists": [
+      "Amaal Mallik, Darshan Raval, Neeti Mohan & Kumaar"
+    ],
+    "composers": [
+      "Amaal Mallik, Darshan Raval, Neeti Mohan & Kumaar"
+    ],
+    "lyricist": "Amaal Mallik, Darshan Raval, Neeti Mohan & Kumaar",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/18/10/ff1810ba-e246-3e6e-9898-629484145fb2/mzaf_3901831545947975224.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/f3/bc/f9f3bcaa-8b46-34c7-b132-7a20de290d8e/8902894362450_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Be My Mehbooba",
+      "Be My Mehbooba"
+    ]
+  },
+  {
+    "title": "Pyaar Bhi Jhootha",
+    "movie": "The Miranda Brothers - Single",
+    "singers": [
+      "Tanishk Bagchi, Yo Yo Honey Singh, B. Praak, R.D. Burman & Majrooh Sultanpuri"
+    ],
+    "artists": [
+      "Tanishk Bagchi, Yo Yo Honey Singh, B. Praak, R.D. Burman & Majrooh Sultanpuri"
+    ],
+    "composers": [
+      "Tanishk Bagchi, Yo Yo Honey Singh, B. Praak, R.D. Burman & Majrooh Sultanpuri"
+    ],
+    "lyricist": "Tanishk Bagchi, Yo Yo Honey Singh, B. Praak, R.D. Burman & Majrooh Sultanpuri",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/2b/35/152b35db-cfe1-35e6-f383-ce93f40f6740/mzaf_3728756839255701362.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/f3/bc/f9f3bcaa-8b46-34c7-b132-7a20de290d8e/8902894362450_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pyaar Bhi Jhootha",
+      "Pyaar Bhi Jhootha"
+    ]
+  },
+  {
+    "title": "Parindey",
+    "movie": "Parindey (From \"Jatt Nuu Chudail Takri\") - Single",
+    "singers": [
+      "B. Praak, Harmanjeet & Avvy Sra"
+    ],
+    "artists": [
+      "B. Praak, Harmanjeet & Avvy Sra"
+    ],
+    "composers": [
+      "B. Praak, Harmanjeet & Avvy Sra"
+    ],
+    "lyricist": "B. Praak, Harmanjeet & Avvy Sra",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/41/47/90/41479029-407b-4d3e-19fb-6f50d64af1d8/mzaf_6158009967016732110.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/34/17/3f341725-a1f7-6628-ef1b-f31ccb14a4c3/8902633352117.jpg/400x400bb.jpg",
+    "aliases": [
+      "Parindey (From \"Jatt Nuu Chudail Takri\")",
+      "Parindey"
+    ]
+  },
+  {
+    "title": "Bekaar dil",
+    "movie": "Fighter",
+    "singers": [
+      "Vishal Dadlani, Sheykhar Ravjiani, Vishal Mishra, Shilpa Rao, Kumaar & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Vishal Dadlani, Sheykhar Ravjiani, Vishal Mishra, Shilpa Rao, Kumaar & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Vishal Dadlani, Sheykhar Ravjiani, Vishal Mishra, Shilpa Rao, Kumaar & Vishal & Shekhar"
+    ],
+    "lyricist": "Vishal Dadlani, Sheykhar Ravjiani, Vishal Mishra, Shilpa Rao, Kumaar & Vishal & Shekhar",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/4e/e1/524ee1b5-6499-a03f-a168-53c5b44c2a1b/mzaf_9796215219636499864.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/9d/5b/fa9d5b65-bf8e-1277-ff45-99057a5fb1a3/8902894362153_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bekaar dil",
+      "Bekaar dil"
+    ]
+  },
+  {
+    "title": "Humdum",
+    "movie": "Humdum (From \"Savi\") - Single",
+    "singers": [
+      "Vishal Mishra & Raj Shekhar"
+    ],
+    "artists": [
+      "Vishal Mishra & Raj Shekhar"
+    ],
+    "composers": [
+      "Vishal Mishra & Raj Shekhar"
+    ],
+    "lyricist": "Vishal Mishra & Raj Shekhar",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/5a/0b/395a0bf4-c2fd-b239-ea04-3bf1aff67e1a/mzaf_3296449759222291638.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/d7/d6/aad7d654-dddc-d767-bffd-818050089e7f/8903431994271_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Humdum (From \"Savi\")",
+      "Humdum"
+    ]
+  },
+  {
+    "title": "Mast Malang Jhoom",
+    "movie": "Bade Miyan Chote Miyan - EP",
+    "singers": [
+      "Vishal Mishra, Arijit Singh, Nikhita Gandhi & Irshad Kamil"
+    ],
+    "artists": [
+      "Vishal Mishra, Arijit Singh, Nikhita Gandhi & Irshad Kamil"
+    ],
+    "composers": [
+      "Vishal Mishra, Arijit Singh, Nikhita Gandhi & Irshad Kamil"
+    ],
+    "lyricist": "Vishal Mishra, Arijit Singh, Nikhita Gandhi & Irshad Kamil",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/34/f6/4b/34f64bc0-a8b8-2418-29c3-88155ec892f5/mzaf_805989595445491934.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/00/d9/1a00d919-73a9-74ce-4052-1d2d9f25e653/8909024019864.png/400x400bb.jpg",
+    "aliases": [
+      "Mast Malang Jhoom",
+      "Mast Malang Jhoom"
+    ]
+  },
+  {
+    "title": "Jeena Haraam",
+    "movie": "Jeena Haraam (From \"Crakk - Jeetegaa Toh Jiyegaa\") - Single",
+    "singers": [
+      "Tanishk Bagchi, Vishal Mishra & Shilpa Rao"
+    ],
+    "artists": [
+      "Tanishk Bagchi, Vishal Mishra & Shilpa Rao"
+    ],
+    "composers": [
+      "Tanishk Bagchi, Vishal Mishra & Shilpa Rao"
+    ],
+    "lyricist": "Tanishk Bagchi, Vishal Mishra & Shilpa Rao",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d5/dd/4e/d5dd4e57-6f72-9dd5-48df-20cdf30dc782/mzaf_1026415309442601201.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/e5/77/fbe577cf-e428-24d6-bfa1-308c6750bb56/8903431981356_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jeena Haraam (From \"Crakk - Jeetegaa Toh Jiyegaa\")",
+      "Jeena Haraam"
+    ]
+  },
+  {
+    "title": "Bairiyaa Re",
+    "movie": "Indian Police Force - Single",
+    "singers": [
+      "Akashdeep Sengupta, Vishal Mishra & Siddhesh Patole"
+    ],
+    "artists": [
+      "Akashdeep Sengupta, Vishal Mishra & Siddhesh Patole"
+    ],
+    "composers": [
+      "Akashdeep Sengupta, Vishal Mishra & Siddhesh Patole"
+    ],
+    "lyricist": "Akashdeep Sengupta, Vishal Mishra & Siddhesh Patole",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e3/e2/3d/e3e23ddf-baf0-24ae-0431-bc8cc2bbca1b/mzaf_378817067387975909.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/02/c7/7902c78b-3ba6-bb03-3ab7-66fde247cecb/8903431975331_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bairiyaa Re",
+      "Bairiyaa Re"
+    ]
+  },
+  {
+    "title": "Bade Miyan Chote Miyan Title Track",
+    "movie": "Bade Miyan Chote Miyan - EP",
+    "singers": [
+      "Vishal Mishra, Anirudh Ravichander & Irshad Kamil"
+    ],
+    "artists": [
+      "Vishal Mishra, Anirudh Ravichander & Irshad Kamil"
+    ],
+    "composers": [
+      "Vishal Mishra, Anirudh Ravichander & Irshad Kamil"
+    ],
+    "lyricist": "Vishal Mishra, Anirudh Ravichander & Irshad Kamil",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/f6/75/b5f6759a-c660-2c6f-a5d6-00f74b7b5edf/mzaf_3615331927527970106.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/00/d9/1a00d919-73a9-74ce-4052-1d2d9f25e653/8909024019864.png/400x400bb.jpg",
+    "aliases": [
+      "Bade Miyan Chote Miyan Title Track",
+      "Bade Miyan Chote Miyan Title Track"
+    ]
+  },
+  {
+    "title": "Magic  Coke Studio Bharat (feat. thiarajxtt)",
+    "movie": "Magic  Coke Studio Bharat (feat. thiarajxtt) - Single",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/81/48/ab8148f4-8b50-e31e-b4d2-137dfa25654b/mzaf_15829285813951183559.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/59/f9/a059f9af-ebfe-e7eb-ea35-d97acf56496a/24UMGIM10650.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Magic  Coke Studio Bharat (feat. thiarajxtt)",
+      "Magic  Coke Studio Bharat (feat. thiarajxtt)"
+    ]
+  },
+  {
+    "title": "Assi Sajna",
+    "movie": "Assi Sajna - Single",
+    "singers": [
+      "Jasleen Royal, Intense & Aditya Sharma"
+    ],
+    "artists": [
+      "Jasleen Royal, Intense & Aditya Sharma"
+    ],
+    "composers": [
+      "Jasleen Royal, Intense & Aditya Sharma"
+    ],
+    "lyricist": "Jasleen Royal, Intense & Aditya Sharma",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/54/7c/0f547c2a-1e4b-9d10-563a-f7396e71d897/mzaf_7770026914934083233.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/15/06/ad1506b8-ddbf-7a0b-0a61-a7738fce80ac/5021732383136.jpg/400x400bb.jpg",
+    "aliases": [
+      "Assi Sajna",
+      "Assi Sajna"
+    ]
+  },
+  {
+    "title": "Mann Dhaaga",
+    "movie": "Mann Dhaaga - Single",
+    "singers": [
+      "Yashraj Mukhate, Jasleen Royal & Amit Trivedi"
+    ],
+    "artists": [
+      "Yashraj Mukhate, Jasleen Royal & Amit Trivedi"
+    ],
+    "composers": [
+      "Yashraj Mukhate, Jasleen Royal & Amit Trivedi"
+    ],
+    "lyricist": "Yashraj Mukhate, Jasleen Royal & Amit Trivedi",
+    "releaseYear": 2024,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c8/35/3c/c8353c1c-31f5-a36b-4c89-b4836d37249d/mzaf_8291461055047171093.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/6e/e4/986ee47f-1e92-dc81-64c8-f4f12df9e69d/5021732241313.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mann Dhaaga",
+      "Mann Dhaaga"
     ]
   },
   {
@@ -8911,6 +11071,978 @@ module.exports = [
     ]
   },
   {
+    "title": "Heeriye",
+    "movie": "Heeriye - Single",
+    "singers": [
+      "Jasleen Royal & Arijit Singh"
+    ],
+    "artists": [
+      "Jasleen Royal & Arijit Singh"
+    ],
+    "composers": [
+      "Jasleen Royal & Arijit Singh"
+    ],
+    "lyricist": "Jasleen Royal & Arijit Singh",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/9b/ac/149bac62-12f1-2f55-a742-f38429b94c83/mzaf_17225240189976438593.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/8c/2a/f08c2aeb-3903-8738-d0a5-8c2e4547eed7/5054197711039.jpg/400x400bb.jpg",
+    "aliases": [
+      "Heeriye",
+      "Heeriye"
+    ]
+  },
+  {
+    "title": "Guli Mata (feat. Rajat Nagpal)",
+    "movie": "Guli Mata (feat. Rajat Nagpal) - Single",
+    "singers": [
+      "Saad Lamjarred & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Saad Lamjarred & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Saad Lamjarred & Shreya Ghoshal"
+    ],
+    "lyricist": "Saad Lamjarred & Shreya Ghoshal",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d3/51/f0/d351f0ab-e3f7-4b47-b4f9-883cbeed041d/mzaf_18259929962749104322.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/58/7e/31587e97-e360-39ec-0bb0-e8480b1f4735/196922516696_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Guli Mata (feat. Rajat Nagpal)",
+      "Guli Mata (feat. Rajat Nagpal)"
+    ]
+  },
+  {
+    "title": "Papa Meri Jaan",
+    "movie": "ANIMAL",
+    "singers": [
+      "Sonu Nigam, Harshavardhan Rameshwar & Raj Shekhar"
+    ],
+    "artists": [
+      "Sonu Nigam, Harshavardhan Rameshwar & Raj Shekhar"
+    ],
+    "composers": [
+      "Sonu Nigam, Harshavardhan Rameshwar & Raj Shekhar"
+    ],
+    "lyricist": "Sonu Nigam, Harshavardhan Rameshwar & Raj Shekhar",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/c1/ee/39c1ee0b-ef0b-fd35-86fa-528a6eb21eaa/mzaf_4346469033473861882.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Papa Meri Jaan",
+      "Papa Meri Jaan"
+    ]
+  },
+  {
+    "title": "Sher Khul Gaye",
+    "movie": "Fighter",
+    "singers": [
+      "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Benny Dayal, Shilpa Rao & Kumaar"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Benny Dayal, Shilpa Rao & Kumaar"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Benny Dayal, Shilpa Rao & Kumaar"
+    ],
+    "lyricist": "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Benny Dayal, Shilpa Rao & Kumaar",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/31/c1/0631c1ac-8860-0675-f20f-09ff1ad8abd9/mzaf_8297704023402523226.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/9d/5b/fa9d5b65-bf8e-1277-ff45-99057a5fb1a3/8902894362153_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sher Khul Gaye",
+      "Sher Khul Gaye"
+    ]
+  },
+  {
+    "title": "Paisa Hai Toh",
+    "movie": "Farzi - Single",
+    "singers": [
+      "Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya"
+    ],
+    "lyricist": "Sachin-Jigar, Vishal Dadlani, Mellow D & Jigar Saraiya",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/01/4e/25014e5d-ae31-ebb1-43a3-c1eb8eede325/mzaf_10549197492463227748.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/94/ab/8b/94ab8b7b-2e90-6a27-c2a2-30e111c27e9c/196589837134.jpg/400x400bb.jpg",
+    "aliases": [
+      "Paisa Hai Toh",
+      "Paisa Hai Toh"
+    ]
+  },
+  {
+    "title": "I Wanna See You Dance",
+    "movie": "Kho Gaye Hum Kahan",
+    "singers": [
+      "Sachin-Jigar, Saba Azad & Ankur Tewari"
+    ],
+    "artists": [
+      "Sachin-Jigar, Saba Azad & Ankur Tewari"
+    ],
+    "composers": [
+      "Sachin-Jigar, Saba Azad & Ankur Tewari"
+    ],
+    "lyricist": "Sachin-Jigar, Saba Azad & Ankur Tewari",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/3d/a7/ea3da7cb-d694-930a-1a24-ac858abb10be/mzaf_17983832142469471019.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/0b/da/6f0bdab0-3d86-e127-0e03-9b8ec6bd3af1/8909024009773.png/400x400bb.jpg",
+    "aliases": [
+      "I Wanna See You Dance",
+      "I Wanna See You Dance"
+    ]
+  },
+  {
+    "title": "Tumhe Kitna Pyaar Karte",
+    "movie": "Tumhe Kitna Pyaar Karte (From \"Bawaal\") - Single",
+    "singers": [
+      "Arijit Singh, Mithoon & Manoj Muntashir"
+    ],
+    "artists": [
+      "Arijit Singh, Mithoon & Manoj Muntashir"
+    ],
+    "composers": [
+      "Arijit Singh, Mithoon & Manoj Muntashir"
+    ],
+    "lyricist": "Arijit Singh, Mithoon & Manoj Muntashir",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/25/1e/cd/251ecdbe-f7a6-cda8-3ae4-dafba8de4f5d/mzaf_16907746999984317960.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/1b/f5/351bf591-0b66-bd06-fda6-f4783d6e41fd/8903431948298_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tumhe Kitna Pyaar Karte (From \"Bawaal\")",
+      "Tumhe Kitna Pyaar Karte"
+    ]
+  },
+  {
+    "title": "9:45",
+    "movie": "9:45 - Single",
+    "singers": [
+      "Prabh Singh & Jay Trak"
+    ],
+    "artists": [
+      "Prabh Singh & Jay Trak"
+    ],
+    "composers": [
+      "Prabh Singh & Jay Trak"
+    ],
+    "lyricist": "Prabh Singh & Jay Trak",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/f5/cf/8bf5cfef-6d27-2b33-d2e9-c91dc02b9272/mzaf_4409415545239568489.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/73/96/7b739607-48da-d46b-975d-91554c2fb27a/artwork.jpg/400x400bb.jpg",
+    "aliases": [
+      "9:45",
+      "9:45"
+    ]
+  },
+  {
+    "title": "Ghar Nahi Jaana",
+    "movie": "Gumraah - EP",
+    "singers": [
+      "Armaan Malik, Zahrah S Khan & Salma Agha"
+    ],
+    "artists": [
+      "Armaan Malik, Zahrah S Khan & Salma Agha"
+    ],
+    "composers": [
+      "Armaan Malik, Zahrah S Khan & Salma Agha"
+    ],
+    "lyricist": "Armaan Malik, Zahrah S Khan & Salma Agha",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/b5/b8/2db5b842-306f-b228-a484-130243de762d/mzaf_2727848308234598351.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/4f/fe/014ffe25-8acf-1644-a405-ee9418a64700/8902894361927_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ghar Nahi Jaana",
+      "Ghar Nahi Jaana"
+    ]
+  },
+  {
+    "title": "Dono Title Track",
+    "movie": "Dono",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a8/7f/10/a87f10bb-d18c-40c5-95d0-52bd550f137f/mzaf_11665929133746115531.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/66/ce/3e66ce77-2c28-4ccb-7393-6dc029b6f6e5/840214497407.png/400x400bb.jpg",
+    "aliases": [
+      "Dono Title Track",
+      "Dono Title Track"
+    ]
+  },
+  {
+    "title": "Mahiye Jinna Sohna",
+    "movie": "Mahiye Jinna Sohna - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e9/4d/c9/e94dc927-a067-d52f-67a7-0d7f7db4e467/mzaf_9128931604471376815.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/73/1e/4b731eb5-13ab-825a-d164-fc665b2f02e5/5054197730122.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mahiye Jinna Sohna",
+      "Mahiye Jinna Sohna"
+    ]
+  },
+  {
+    "title": "Saajan Ve",
+    "movie": "Saajan Ve - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/5a/bb/ba5abb99-40ca-6e57-7574-f98dccb3ec48/mzaf_1015349846628142530.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/9f/05/cb9f0519-c3a1-2a29-192f-cb5de6c85bf8/5054197943713.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saajan Ve",
+      "Saajan Ve"
+    ]
+  },
+  {
+    "title": "Sahibaa",
+    "movie": "The Great Indian Family - EP",
+    "singers": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "artists": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "composers": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "lyricist": "Pritam, Darshan Raval & Antara Mitra",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/72/f6/c572f654-4474-4e4b-c2a7-6d50b47234ee/mzaf_13223609152895081624.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/ac/2b/8dac2b4d-fe84-1349-35c3-cbcb3b59ec86/The_Great_Indian_Family_Album_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sahibaa",
+      "Sahibaa"
+    ]
+  },
+  {
+    "title": "Faasla",
+    "movie": "Dard",
+    "singers": [
+      "Darshan Raval & Shirley Setia"
+    ],
+    "artists": [
+      "Darshan Raval & Shirley Setia"
+    ],
+    "composers": [
+      "Darshan Raval & Shirley Setia"
+    ],
+    "lyricist": "Darshan Raval & Shirley Setia",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/2c/75/932c7516-0911-62e6-b7e6-0dfad86e2dea/mzaf_10153194583163330828.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/e5/8f/99e58f0f-c2f9-f8f7-66d3-e4730b953a37/5054197772504.jpg/400x400bb.jpg",
+    "aliases": [
+      "Faasla",
+      "Faasla"
+    ]
+  },
+  {
+    "title": "Saari Duniya Jalaa Denge",
+    "movie": "ANIMAL",
+    "singers": [
+      "Jaani & B. Praak"
+    ],
+    "artists": [
+      "Jaani & B. Praak"
+    ],
+    "composers": [
+      "Jaani & B. Praak"
+    ],
+    "lyricist": "Jaani & B. Praak",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/6b/b1/456bb133-4eb7-3cf0-8ddb-0728b31fb5ca/mzaf_9644985999877901889.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saari Duniya Jalaa Denge",
+      "Saari Duniya Jalaa Denge"
+    ]
+  },
+  {
+    "title": "Ittar",
+    "movie": "Ittar - Single",
+    "singers": [
+      "Jasmine Sandlas & B. Praak"
+    ],
+    "artists": [
+      "Jasmine Sandlas & B. Praak"
+    ],
+    "composers": [
+      "Jasmine Sandlas & B. Praak"
+    ],
+    "lyricist": "Jasmine Sandlas & B. Praak",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/89/ad/a789ad64-5853-c947-b099-16f76d32b5c4/mzaf_16428209561163774098.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/aa/2b/53aa2bf5-1adc-048c-8acf-eaf429bc8225/23UMGIM22639.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ittar",
+      "Ittar"
+    ]
+  },
+  {
+    "title": "Kya Loge Tum",
+    "movie": "Kya Loge Tum - Single",
+    "singers": [
+      "B. Praak & Jaani"
+    ],
+    "artists": [
+      "B. Praak & Jaani"
+    ],
+    "composers": [
+      "B. Praak & Jaani"
+    ],
+    "lyricist": "B. Praak & Jaani",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d3/db/6b/d3db6bc3-41a8-0130-34ad-ef3c6184d2b9/mzaf_4048270003526521954.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/3a/e7/673ae7c6-a808-9439-e95c-1a8cc6815a4d/23UMGIM49982.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kya Loge Tum",
+      "Kya Loge Tum"
+    ]
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "movie": "ANIMAL (Deluxe Edition Album)",
+    "singers": [
+      "Vishal Mishra & Raj Shekhar"
+    ],
+    "artists": [
+      "Vishal Mishra & Raj Shekhar"
+    ],
+    "composers": [
+      "Vishal Mishra & Raj Shekhar"
+    ],
+    "lyricist": "Vishal Mishra & Raj Shekhar",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/79/db/5679db26-884a-7c73-356b-2e9cfe5cfb33/mzaf_17353327536999573709.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/50/b3/fc50b3ca-c94b-58eb-a10c-80287d82eba3/8903431981196_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pehle Bhi Main",
+      "Pehle Bhi Main"
+    ]
+  },
+  {
+    "title": "Dilon Ki Doriyan",
+    "movie": "Dilon Ki Doriyan (From \"Bawaal\") - Single",
+    "singers": [
+      "Vishal Mishra, Zahrah S Khan, Romy & Arafat Mehmood"
+    ],
+    "artists": [
+      "Vishal Mishra, Zahrah S Khan, Romy & Arafat Mehmood"
+    ],
+    "composers": [
+      "Vishal Mishra, Zahrah S Khan, Romy & Arafat Mehmood"
+    ],
+    "lyricist": "Vishal Mishra, Zahrah S Khan, Romy & Arafat Mehmood",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a5/ce/7b/a5ce7b12-ce92-fedb-2feb-c27697768085/mzaf_15968790638096556927.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/be/20/0ebe2042-00b4-d913-9d28-d4e9cb94cb5a/8903431949370_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dilon Ki Doriyan (From \"Bawaal\")",
+      "Dilon Ki Doriyan"
+    ]
+  },
+  {
+    "title": "Evarevaro",
+    "movie": "ANIMAL",
+    "singers": [
+      "Vishal Mishra & Anantha Sriram"
+    ],
+    "artists": [
+      "Vishal Mishra & Anantha Sriram"
+    ],
+    "composers": [
+      "Vishal Mishra & Anantha Sriram"
+    ],
+    "lyricist": "Vishal Mishra & Anantha Sriram",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b7/b9/4e/b7b94ef9-cd3c-9768-02e4-524f73784833/mzaf_7336782664594404867.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/2f/70/552f70b1-c937-8117-8e05-7e7e4545cb8e/8903431966162_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Evarevaro",
+      "Evarevaro"
+    ]
+  },
+  {
+    "title": "Zihaal e Miskin",
+    "movie": "Zihaal e Miskin - Single",
+    "singers": [
+      "Javed-Mohsin, Vishal Mishra & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Javed-Mohsin, Vishal Mishra & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Javed-Mohsin, Vishal Mishra & Shreya Ghoshal"
+    ],
+    "lyricist": "Javed-Mohsin, Vishal Mishra & Shreya Ghoshal",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/e1/b9/1fe1b90d-5af9-5602-a871-fd419b8377f8/mzaf_5211206466422099946.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/d9/b0/e1d9b019-8742-a1c0-e76b-6d3acea0f128/23UMGIM48395.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Zihaal e Miskin",
+      "Zihaal e Miskin"
+    ]
+  },
+  {
+    "title": "Rathamaarey",
+    "movie": "Jailer",
+    "singers": [
+      "Vishal Mishra, Anirudh Ravichander & Vignesh Shivan"
+    ],
+    "artists": [
+      "Vishal Mishra, Anirudh Ravichander & Vignesh Shivan"
+    ],
+    "composers": [
+      "Vishal Mishra, Anirudh Ravichander & Vignesh Shivan"
+    ],
+    "lyricist": "Vishal Mishra, Anirudh Ravichander & Vignesh Shivan",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/bf/09/f0bf095a-f08a-b65a-275b-d6d66fb7367e/mzaf_15048535950435044120.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/df/14/2cdf140e-6d11-a98d-bfbf-bc5e30c3c4a1/197189528187.jpg/400x400bb.jpg",
+    "aliases": [
+      "Rathamaarey",
+      "Rathamaarey"
+    ]
+  },
+  {
+    "title": "Soniye Je",
+    "movie": "Soniye Je (From \"Gumraah\") - Single",
+    "singers": [
+      "Vishal Mishra"
+    ],
+    "artists": [
+      "Vishal Mishra"
+    ],
+    "composers": [
+      "Vishal Mishra"
+    ],
+    "lyricist": "Vishal Mishra",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/1d/f2/901df2e4-2cd6-ac97-1aca-a9af937c72e7/mzaf_6445101912362608010.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/87/44/838744fc-8c02-5c63-033e-aece23579460/8903431931504_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soniye Je (From \"Gumraah\")",
+      "Soniye Je"
+    ]
+  },
+  {
+    "title": "Ishq Jaisa Kuch",
+    "movie": "Fighter",
+    "singers": [
+      "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Shilpa Rao, Mellow D & Kumaar"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Shilpa Rao, Mellow D & Kumaar"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Shilpa Rao, Mellow D & Kumaar"
+    ],
+    "lyricist": "Vishal & Shekhar, Vishal Dadlani, Sheykhar Ravjiani, Shilpa Rao, Mellow D & Kumaar",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/87/c3/f387c30a-7623-5ce2-5612-292d31b3e4e9/mzaf_18197763161407964197.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/9d/5b/fa9d5b65-bf8e-1277-ff45-99057a5fb1a3/8902894362153_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Jaisa Kuch",
+      "Ishq Jaisa Kuch"
+    ]
+  },
+  {
+    "title": "Kaavaalaa",
+    "movie": "Kaavaalaa (From \"Jailer\") - Single",
+    "singers": [
+      "Shilpa Rao, Anirudh Ravichander & Arunraja Kamaraj"
+    ],
+    "artists": [
+      "Shilpa Rao, Anirudh Ravichander & Arunraja Kamaraj"
+    ],
+    "composers": [
+      "Shilpa Rao, Anirudh Ravichander & Arunraja Kamaraj"
+    ],
+    "lyricist": "Shilpa Rao, Anirudh Ravichander & Arunraja Kamaraj",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/17/86/a517861e-ea79-edaa-0b43-82c9e75c0beb/mzaf_16913299593822611847.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/87/97/75/879775f4-51f6-dda5-9e13-f762d8f9a1fd/197189290183.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaavaalaa (From \"Jailer\")",
+      "Kaavaalaa"
+    ]
+  },
+  {
+    "title": "Oh My Baby",
+    "movie": "Oh My Baby (From \"Guntur Kaaram\") - Single",
+    "singers": [
+      "S.S. Thaman, Shilpa Rao & Saraswati Putra Ramajogayya Sastry"
+    ],
+    "artists": [
+      "S.S. Thaman, Shilpa Rao & Saraswati Putra Ramajogayya Sastry"
+    ],
+    "composers": [
+      "S.S. Thaman, Shilpa Rao & Saraswati Putra Ramajogayya Sastry"
+    ],
+    "lyricist": "S.S. Thaman, Shilpa Rao & Saraswati Putra Ramajogayya Sastry",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/94/6e/9e946e41-659d-683b-005a-9d6f69928682/mzaf_10522353924985926036.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/ff/3d/7cff3d08-e075-b9db-b2e5-dbf8c80f6c73/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Oh My Baby (From \"Guntur Kaaram\")",
+      "Oh My Baby"
+    ]
+  },
+  {
+    "title": "Ruaa Ruaa",
+    "movie": "PS-2 (Hindi) [Original Motion Picture Soundtrack]",
+    "singers": [
+      "A.R. Rahman, Shilpa Rao & Gulzar"
+    ],
+    "artists": [
+      "A.R. Rahman, Shilpa Rao & Gulzar"
+    ],
+    "composers": [
+      "A.R. Rahman, Shilpa Rao & Gulzar"
+    ],
+    "lyricist": "A.R. Rahman, Shilpa Rao & Gulzar",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/88/5f/a9885fe8-c817-df2f-8c0c-5f36b71c0637/mzaf_2677405636201926845.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/7d/0a/c97d0a54-af22-6966-faaa-578b503ff389/8901854086009.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ruaa Ruaa (Hindi)",
+      "Ruaa Ruaa"
+    ]
+  },
+  {
+    "title": "Faraatta",
+    "movie": "Jawan",
+    "singers": [
+      "Anirudh Ravichander, Arijit Singh, Jonita Gandhi & Badshah"
+    ],
+    "artists": [
+      "Anirudh Ravichander, Arijit Singh, Jonita Gandhi & Badshah"
+    ],
+    "composers": [
+      "Anirudh Ravichander, Arijit Singh, Jonita Gandhi & Badshah"
+    ],
+    "lyricist": "Anirudh Ravichander, Arijit Singh, Jonita Gandhi & Badshah",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/94/27/919427e2-3d95-f60c-81c8-ea8da231cd7f/mzaf_1238341346337365771.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/f4/f5/bbf4f511-3c12-c25e-a475-b6d06faa8c13/8902894362047_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Faraatta",
+      "Faraatta"
+    ]
+  },
+  {
+    "title": "Issa Vibe",
+    "movie": "Bloody Daddy - EP",
+    "singers": [
+      "Badshah & Payal Dev"
+    ],
+    "artists": [
+      "Badshah & Payal Dev"
+    ],
+    "composers": [
+      "Badshah & Payal Dev"
+    ],
+    "lyricist": "Badshah & Payal Dev",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/dc/8d/c8/dc8dc8dc-0e93-6518-96cd-8c08044020ee/mzaf_6064630906615756128.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ce/dd/ee/ceddee1a-bc63-c0a2-3077-210e93d6d7c4/8902633344938.jpg/400x400bb.jpg",
+    "aliases": [
+      "Issa Vibe",
+      "Issa Vibe"
+    ]
+  },
+  {
+    "title": "Lalkara (feat. Sultaan)",
+    "movie": "Ghost",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/14/9d/fc149d13-a7b2-1513-3277-13d7ce8501e9/mzaf_15135201120387957557.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/80/be/9480bec1-6ca2-5bae-a7da-d0e7c45633ce/859779847831_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lalkara (feat. Sultaan)",
+      "Lalkara (feat. Sultaan)"
+    ]
+  },
+  {
+    "title": "Munda Sona Hoon Main",
+    "movie": "Munda Sona Hoon Main (From \"Shehzada\") - Single",
+    "singers": [
+      "Pritam, Diljit Dosanjh, Nikhita Gandhi & Kumaar"
+    ],
+    "artists": [
+      "Pritam, Diljit Dosanjh, Nikhita Gandhi & Kumaar"
+    ],
+    "composers": [
+      "Pritam, Diljit Dosanjh, Nikhita Gandhi & Kumaar"
+    ],
+    "lyricist": "Pritam, Diljit Dosanjh, Nikhita Gandhi & Kumaar",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/fe/e8/bd/fee8bdab-aec8-49ae-530a-b2495f6148bd/mzaf_15806963630982529934.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/14/42/6b1442cc-6ab4-de13-b603-c9f64edf5d47/8903431923882_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Munda Sona Hoon Main (From \"Shehzada\")",
+      "Munda Sona Hoon Main"
+    ]
+  },
+  {
+    "title": "Palpita",
+    "movie": "Palpita - Single",
+    "singers": [
+      "Camilo & Diljit Dosanjh"
+    ],
+    "artists": [
+      "Camilo & Diljit Dosanjh"
+    ],
+    "composers": [
+      "Camilo & Diljit Dosanjh"
+    ],
+    "lyricist": "Camilo & Diljit Dosanjh",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/f2/70/49f27013-7ddc-609b-8585-f8393a5ee210/mzaf_5539785053707144401.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/37/c8/f937c837-bb23-5e26-8889-5556f3cb2210/196871390866.jpg/400x400bb.jpg",
+    "aliases": [
+      "Palpita",
+      "Palpita"
+    ]
+  },
+  {
+    "title": "Dastoor",
+    "movie": "Dastoor - Single",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/52/e1/56/52e156e8-a909-fe73-216a-b2e0067df42c/mzaf_11553141123330088013.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/b4/51/b6b4510a-24c9-d351-dcd6-7ba7a96fc951/5054197934193.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dastoor",
+      "Dastoor"
+    ]
+  },
+  {
+    "title": "Udja",
+    "movie": "Udja - Single",
+    "singers": [
+      "OAFF, Savera, Jasleen Royal & Burrah"
+    ],
+    "artists": [
+      "OAFF, Savera, Jasleen Royal & Burrah"
+    ],
+    "composers": [
+      "OAFF, Savera, Jasleen Royal & Burrah"
+    ],
+    "lyricist": "OAFF, Savera, Jasleen Royal & Burrah",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/29/1f/24291f5d-1102-20e0-2468-bc0ecb82d160/mzaf_8851756174628464268.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/e2/fd/aee2fd86-d06d-c703-4f3b-ed219ba2f99e/23UMGIM12507.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Udja",
+      "Udja"
+    ]
+  },
+  {
+    "title": "Husn",
+    "movie": "Husn - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/5d/58/315d5836-7db4-90fa-96c7-36fa4f3ceb96/mzaf_761014035866726482.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Husn",
+      "Husn"
+    ]
+  },
+  {
+    "title": "Antariksh",
+    "movie": "Antariksh - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/ba/8e/f7ba8e35-99b9-664c-e9e2-b70e22c44c29/mzaf_13674100893308514241.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/66/f4/0666f41e-97a9-87a1-c578-f5d36919363f/23UMGIM55288.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Antariksh",
+      "Antariksh"
+    ]
+  },
+  {
     "title": "Kesariya",
     "movie": "Brahmastra",
     "singers": [
@@ -8929,7 +12061,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/4e/c3/214ec337-5c13-fdbf-e7dd-2738f2f9d3e2/mzaf_5009421294700453120.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/ef/35/01ef35ac-c046-656c-638f-928c4af51c8d/196589554871.jpg/400x400bb.jpg",
     "aliases": [
@@ -8956,7 +12088,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/08/b5/01/08b501ca-813b-882a-c7b0-457eabc91431/mzaf_8992280380142098894.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8a/34/86/8a3486f1-c2f0-b257-7392-eaf1b1108e82/22SYMIM00317.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -8983,7 +12115,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/6d/94/0b/6d940bc5-5ac0-a083-7fd1-ce6fb7526ac5/mzaf_9891900286363982561.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8a/34/86/8a3486f1-c2f0-b257-7392-eaf1b1108e82/22SYMIM00317.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -9010,7 +12142,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/93/01/8993010f-7cd9-4b1c-53c9-3d1678c7a8c8/mzaf_2921165742852074423.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/61/d5/3b61d501-fe84-eea1-a4e6-bff4766c0f9f/8903431877444_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9037,7 +12169,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/ac/74/b9ac747a-62bd-c4d5-7433-2e4fea90ebb8/mzaf_6815002471254653303.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9064,7 +12196,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/c6/72/21c67236-319b-b7c5-6ecf-1926db633edf/mzaf_16377125790577094757.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9091,7 +12223,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/3b/90/a13b90aa-7575-2b11-c8de-d82f616bc3bf/mzaf_8563037102946307954.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9118,7 +12250,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/e6/b4/3fe6b42c-88f9-85cc-5ef8-ad530b0a7b8c/mzaf_13831091963805021077.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7c/0c/eb/7c0ceb5a-0aec-861c-7ed3-3fa9eaac30dc/8903431880604_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9145,7 +12277,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/fb/fc/39fbfce6-c3ad-efd6-68b3-cd648ea10014/mzaf_14891048168747475832.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9172,7 +12304,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/79/d9/d979d929-ed42-c170-9958-0a977071f91f/mzaf_3528491942037009880.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9199,7 +12331,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/c3/e7/0cc3e7d7-eb6b-d3da-b16f-efe74568f6f5/mzaf_17993501801422768517.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9226,7 +12358,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/ba/14/feba14b5-0fe5-6fda-814b-fad5087052fd/mzaf_16595743955614449478.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9253,7 +12385,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/21/b0/0421b0fb-a441-7190-65a8-5dd8e2c7f01c/mzaf_1531852948239561325.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/7b/a4/757ba408-b078-7dd2-98df-34fc5a1f6419/8902894361583_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9280,7 +12412,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/89/d9/aa/89d9aaf9-5136-f345-2067-0316c179d6a4/mzaf_12755937755429561864.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/dc/09/a4dc0943-b3f1-632e-25ca-6aad56228d49/198391427268.jpg/400x400bb.jpg",
     "aliases": [
@@ -9307,7 +12439,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1e/67/27/1e67276b-1a5e-baec-eddf-165316639276/mzaf_8040544506259687150.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9b/64/49/9b6449df-87f1-3661-823e-f6d7c821a846/41744.jpg/400x400bb.jpg",
     "aliases": [
@@ -9334,7 +12466,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/2e/1f/e72e1f49-cae7-7c34-19e0-14a2ed6cbfb1/mzaf_8920237202141410728.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/15/4b/42154b41-bb6e-d25a-108b-7d0288158418/197187368204.jpg/400x400bb.jpg",
     "aliases": [
@@ -9361,7 +12493,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/08/82/1b0882ff-b738-2693-1c75-33ffeb9355c9/mzaf_3406456158688668271.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/e0/d7/e1e0d7bb-d2bd-e362-80d6-611069e76a51/196925462433.jpg/400x400bb.jpg",
     "aliases": [
@@ -9388,7 +12520,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/59/c3/7b/59c37bf0-e83d-757b-49d2-17a98d0fd972/mzaf_7666530719964206825.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/90/7a/06907a68-9491-17e8-ac07-cbbf87a2f92a/196626751669.jpg/400x400bb.jpg",
     "aliases": [
@@ -9415,7 +12547,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/f9/b8/c4f9b871-6848-69bb-7115-889d17063d71/mzaf_14690978988079470516.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/65/61/966561e7-cc65-f6bc-a222-b627860c299c/22UMGIM44609.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -9442,7 +12574,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/c8/f7/84c8f7ff-9f99-331f-861c-2bae10b052eb/mzaf_5435451101373983054.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/43/1b/09/431b09fe-336a-8fcc-f9ca-641b1d2ac93f/8903431909145_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9469,7 +12601,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/13/e5/fb13e54b-5154-e807-da69-ad85b9fedd62/mzaf_196564110305823579.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/ef/35/01ef35ac-c046-656c-638f-928c4af51c8d/196589554871.jpg/400x400bb.jpg",
     "aliases": [
@@ -9496,7 +12628,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f3/18/0f/f3180fa8-7c7a-3b71-2740-d320970a3bb3/mzaf_1133950031866495977.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/7a/32/9b7a323c-e271-ccc3-5b43-37c549cb082f/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9523,7 +12655,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/eb/d7/b2/ebd7b249-146b-fd68-57eb-c69d01f676b9/mzaf_6372694514497710013.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/10/5d/ff105ddd-3bb9-36dc-b0eb-df226a58b227/8902633340893.jpg/400x400bb.jpg",
     "aliases": [
@@ -9550,7 +12682,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e5/ae/45/e5ae45fa-d8ef-2a3e-6e41-b63b32f95a2d/mzaf_8713650060414883171.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/47/4e/25474e1b-286f-4082-a16f-f6476e30b2a7/26a706fc-8833-4b02-ba81-4dc9563f5d89.jpg/400x400bb.jpg",
     "aliases": [
@@ -9577,7 +12709,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/db/be/f9dbbefa-0600-ad3f-6a71-32d17c9e7040/mzaf_5987343399381681108.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/2c/84/db2c84f2-f42f-af93-2709-6158995f9f72/810105712582_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -9604,7 +12736,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0b/83/a7/0b83a7a8-4911-221c-4fa1-ecd4ab7e7750/mzaf_4636221010938715732.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/19/b9/e919b921-d5a8-9e9a-8508-3551da375aee/196626458629.jpg/400x400bb.jpg",
     "aliases": [
@@ -9631,7 +12763,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/ad/62/15ad6241-3628-2f3e-06b3-5e6ade5c7a7c/mzaf_10622762420251211954.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/41/01/41410135-baa0-1aab-7417-f6746b0f3c25/196589186973.jpg/400x400bb.jpg",
     "aliases": [
@@ -9658,7 +12790,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/24/0f/e7/240fe72a-69d6-eacf-49b2-5051b518c897/mzaf_2618727679680872234.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/95/d7/95/95d79521-44f7-14a7-6a12-9680590baf5e/197187176984.jpg/400x400bb.jpg",
     "aliases": [
@@ -9685,7 +12817,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/80/45/be8045ce-1ce5-b099-fc9d-7141b1d3d6f2/mzaf_10087280935419764280.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/6a/19/8d6a197e-2aaa-5504-cd43-533351597487/Pathaan-Album-Audio-Cover-Final.jpg/400x400bb.jpg",
     "aliases": [
@@ -9712,7 +12844,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f8/d5/fb/f8d5fb8e-ea86-4d56-32d4-28912d4623b9/mzaf_7899315727013580274.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/8d/6a/19/8d6a197e-2aaa-5504-cd43-533351597487/Pathaan-Album-Audio-Cover-Final.jpg/400x400bb.jpg",
     "aliases": [
@@ -9739,7 +12871,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/08/d4/10/08d410ae-97c8-ee2a-cf4f-b22378299ead/mzaf_1019764535862549851.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0c/b2/96/0cb29611-cd44-ed64-92a8-2b49f7384367/Azhaiyaa_Mazhai_-_Tamil_Version.jpg/400x400bb.jpg",
     "aliases": [
@@ -9766,7 +12898,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/bd/4f/c5bd4f17-23ff-e2af-ccd0-b976985151a6/mzaf_6244821523021066334.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/fc/e6/c1fce60c-c1f6-4904-6d61-02bb3ed0cfbd/196589505897.jpg/400x400bb.jpg",
     "aliases": [
@@ -9793,7 +12925,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/24/61/2a/24612a7d-c42b-90a5-c980-07f4db2eee6f/mzaf_4575238190575326306.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/68/72/f9/6872f95d-9c56-beb8-2768-a5c07c304ee6/196589383044.jpg/400x400bb.jpg",
     "aliases": [
@@ -9820,7 +12952,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/32/73/5a32739d-b6b7-83a4-f12b-ba031d40984d/mzaf_18055018531563534758.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/bd/a7/0dbda72a-7294-9a39-b075-7a40a59811de/196589323606.jpg/400x400bb.jpg",
     "aliases": [
@@ -9847,7 +12979,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/69/7c/5f/697c5f6e-2022-706a-0523-a14b6cf50530/mzaf_16157976061933717321.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/89/ea/ff89ea15-1e81-6f0a-998d-18426c57608c/196589425188.jpg/400x400bb.jpg",
     "aliases": [
@@ -9874,7 +13006,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/97/3c/8a/973c8ade-96ef-ea68-7c10-42d2b929a8d8/mzaf_11204304641544057385.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/69/28/5169281d-c5e7-7b84-427d-35a11d10d252/196589323439.jpg/400x400bb.jpg",
     "aliases": [
@@ -9901,7 +13033,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/92/76/849276db-f392-5d72-b860-3125b866a8a9/mzaf_10940721252726190366.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/ef/35/01ef35ac-c046-656c-638f-928c4af51c8d/196589554871.jpg/400x400bb.jpg",
     "aliases": [
@@ -9928,7 +13060,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/d6/a3/37/d6a33794-e97a-02c7-dcba-d6311784d089/mzaf_11517579498077553635.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/07/7f/51077f76-3b57-ad3a-de08-59d5c4d2df4f/196589545565.jpg/400x400bb.jpg",
     "aliases": [
@@ -9955,7 +13087,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/2e/c5/fd2ec5af-def2-36a6-0666-91c69c62feff/mzaf_13824940421906288477.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ba/64/6b/ba646bb7-de48-9f1f-de3e-cc42a121a9c5/196589323620.jpg/400x400bb.jpg",
     "aliases": [
@@ -9982,7 +13114,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/a4/bd/eea4bd64-25e9-c6d3-e462-b4dd14bf1cc9/mzaf_10548141603467789276.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/ef/35/01ef35ac-c046-656c-638f-928c4af51c8d/196589554871.jpg/400x400bb.jpg",
     "aliases": [
@@ -10009,7 +13141,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3e/34/2e/3e342e3d-2f0e-51d6-bbb7-92d4b22a1721/mzaf_12763789071527234636.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/ec/3f/e3ec3fc0-aea2-ca9e-6f30-acbd8738d673/196589323651.jpg/400x400bb.jpg",
     "aliases": [
@@ -10036,7 +13168,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/ae/81/72ae81c2-4ef3-b998-40b6-563c0609509f/mzaf_12868850384306577273.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/400x400bb.jpg",
     "aliases": [
@@ -10063,7 +13195,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/27/61/eb2761c7-d606-0912-dff0-2dc6b69974bd/mzaf_2023722930851223219.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/0b/c0/2e0bc070-112f-a827-6ad8-6bc64f7caaff/840214460180.png/400x400bb.jpg",
     "aliases": [
@@ -10090,7 +13222,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/99/ad/25/99ad257d-7d49-eeed-74af-b82e07d2d5fb/mzaf_14064764823367701834.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/32/f5/7a32f535-3be8-267b-8cfa-84838932a8eb/8903431881212_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10117,7 +13249,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/87/c3/3a87c33d-4233-d6df-60b6-2b9d605c7e08/mzaf_8862616422792116575.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/b0/e3/02b0e3ac-fff6-7fbd-b71d-d971fa46acf4/196626505606.jpg/400x400bb.jpg",
     "aliases": [
@@ -10144,7 +13276,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/ed/31/cced31b5-7ec1-6658-2b51-38f1ade210fe/mzaf_17950659554425097385.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/b0/e3/02b0e3ac-fff6-7fbd-b71d-d971fa46acf4/196626505606.jpg/400x400bb.jpg",
     "aliases": [
@@ -10171,7 +13303,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/23/05/9c2305f0-2798-2106-25cc-26c1b2deee23/mzaf_9227212655586500092.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/b0/e3/02b0e3ac-fff6-7fbd-b71d-d971fa46acf4/196626505606.jpg/400x400bb.jpg",
     "aliases": [
@@ -10198,7 +13330,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/3f/c6/623fc68a-15db-0613-33ff-05ab70e4ba0d/mzaf_3677369535990963621.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/b0/e3/02b0e3ac-fff6-7fbd-b71d-d971fa46acf4/196626505606.jpg/400x400bb.jpg",
     "aliases": [
@@ -10225,7 +13357,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/fb/3f/52fb3f49-5991-30a6-5411-7d788f6acc05/mzaf_8016985188385848545.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/b0/e3/02b0e3ac-fff6-7fbd-b71d-d971fa46acf4/196626505606.jpg/400x400bb.jpg",
     "aliases": [
@@ -10252,7 +13384,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/99/47/299947f1-fe0d-41d5-c211-15dc4dd9ea88/mzaf_8565751233935201072.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/b0/e3/02b0e3ac-fff6-7fbd-b71d-d971fa46acf4/196626505606.jpg/400x400bb.jpg",
     "aliases": [
@@ -10279,7 +13411,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/13/be/c513befb-2fe1-cb1b-c969-481cbc7a68ba/mzaf_3746296334947183890.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/fb/2b/7bfb2b4f-e87e-c6d8-7052-2f99acad227f/196626568687.jpg/400x400bb.jpg",
     "aliases": [
@@ -10306,7 +13438,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/9e/9d/749e9d74-d5f5-8f6a-8b6f-f9da25afb5fa/mzaf_13012108902143485306.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/fb/2b/7bfb2b4f-e87e-c6d8-7052-2f99acad227f/196626568687.jpg/400x400bb.jpg",
     "aliases": [
@@ -10333,7 +13465,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/21/ac/b4/21acb4d5-414d-2be3-e7e6-2076a935dd50/mzaf_11229710481413135602.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/fb/2b/7bfb2b4f-e87e-c6d8-7052-2f99acad227f/196626568687.jpg/400x400bb.jpg",
     "aliases": [
@@ -10360,7 +13492,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/46/dd/bb46dd55-2f06-ba68-4cf0-5e218c87fb12/mzaf_14283480619343537669.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/fb/2b/7bfb2b4f-e87e-c6d8-7052-2f99acad227f/196626568687.jpg/400x400bb.jpg",
     "aliases": [
@@ -10387,7 +13519,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/d4/76/6fd4764e-1f2d-c62e-1abc-137f91b0531d/mzaf_405338972108450514.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/fb/2b/7bfb2b4f-e87e-c6d8-7052-2f99acad227f/196626568687.jpg/400x400bb.jpg",
     "aliases": [
@@ -10414,7 +13546,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/51/ab/07/51ab070e-2d93-b094-2c2f-934b95eded7e/mzaf_14874902129149615495.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/7f/45/7e7f452e-e2d4-1411-4b99-7491439f25a6/840214459115.png/400x400bb.jpg",
     "aliases": [
@@ -10441,7 +13573,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/a8/47/29a8472d-d27b-9c9e-4281-25307aa6012d/mzaf_16995340976522353823.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/04/75/f2047528-f303-bf23-6e31-e439f559bd1c/8909024001685.png/400x400bb.jpg",
     "aliases": [
@@ -10468,7 +13600,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0a/ac/ff/0aacff82-8ed0-5910-d444-e8280dd77b71/mzaf_7797984422390695061.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/91/52/50/9152506b-5315-6db5-d379-c081e283c9cc/840214460173.png/400x400bb.jpg",
     "aliases": [
@@ -10495,7 +13627,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9a/74/45/9a74452f-faed-c27c-19a7-8dfa55d986d4/mzaf_1657569699041408880.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ae/46/21/ae46211e-0f5d-e8df-08ad-ed79507e4cca/840214460166.png/400x400bb.jpg",
     "aliases": [
@@ -10522,7 +13654,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e8/f1/f3/e8f1f3ac-e151-00b5-498b-dba95313fbf6/mzaf_15908913537008345470.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2d/09/1c/2d091c70-7a30-4655-4b23-f5ea3aef25b5/840214461651.png/400x400bb.jpg",
     "aliases": [
@@ -10549,7 +13681,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/55/9c/7e/559c7ed5-cde9-6ecb-c6dd-a111ed19fc0c/mzaf_6595304365435972458.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/01/20/ac0120fb-652f-8d70-8b30-d3deca4f445d/840214460524.png/400x400bb.jpg",
     "aliases": [
@@ -10576,7 +13708,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ba/89/28/ba892840-67ac-3a43-1f63-927c51551d2a/mzaf_692364693850770287.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/1b/ba/df1bba89-fea3-0f92-bd39-20cbb4afac6e/840214461644.png/400x400bb.jpg",
     "aliases": [
@@ -10603,7 +13735,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e1/20/1b/e1201b6c-dbb4-3664-2bdc-ae94e2531cb5/mzaf_11377193145108157241.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/76/a2/dc76a22d-3da2-e4b1-f9d8-790d6f4a99ac/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10630,7 +13762,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/70/4f/6e/704f6e04-d0d2-441e-8c11-b3eca9f95703/mzaf_15776837850127489487.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/1c/03/9f1c031a-45aa-f96b-a2df-c7c5e3bbe72b/886449990702.jpg/400x400bb.jpg",
     "aliases": [
@@ -10657,7 +13789,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c6/fd/c6/c6fdc62e-2b1d-7e42-1552-96f73b3f67ef/mzaf_9161869184175352190.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fa/63/2afa63ee-6e2f-0ae6-7fa8-b2338b7b469d/196589022554.jpg/400x400bb.jpg",
     "aliases": [
@@ -10684,7 +13816,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/80/f0/4a/80f04a7b-e21f-2c69-b157-f4581d90b27f/mzaf_4656689723251104596.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/9a/35/a59a357f-15d4-2903-f14d-78ae94d3dd31/196589035165.jpg/400x400bb.jpg",
     "aliases": [
@@ -10711,7 +13843,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6e/f2/29/6ef22998-2286-7506-c38b-851e5f90e58d/mzaf_6594355094110632938.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/9a/35/a59a357f-15d4-2903-f14d-78ae94d3dd31/196589035165.jpg/400x400bb.jpg",
     "aliases": [
@@ -10738,7 +13870,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5b/5b/d9/5b5bd9af-48c8-64c6-2dfe-8636ae810edd/mzaf_818513703337417515.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/80/80/158080a3-b041-b0d9-098b-e171f966f6cb/8903431903105_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10765,7 +13897,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/66/2e/2a/662e2aaf-95d9-272a-2137-60a829a5f40f/mzaf_6216919414079867461.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dd/05/f1/dd05f187-453f-337b-7e0e-555fbb5d706c/8903431904652_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10792,7 +13924,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/0c/7e/cf0c7ed0-4994-721f-c6a0-4eea3e82efc7/mzaf_1026946352217314759.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ae/16/09/ae1609bc-59b2-8848-a826-5b24282c0c83/8903431897169_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10819,7 +13951,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/27/af/18/27af1860-3a2c-f79d-1263-79dd7881ffff/mzaf_18167313028560666810.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/1a/bb/f01abb59-8f16-33a2-81f0-c0405c63670c/8903431884398_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10846,7 +13978,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f2/ef/01/f2ef017d-4532-2f99-6919-8bdffc0990ef/mzaf_2800613451421472891.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/d0/a8/1ed0a8aa-a8dd-2730-2481-96438f96ddfc/8903431892119_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10873,7 +14005,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8e/b4/9f/8eb49fcb-ccf1-4318-7087-bca369c2e989/mzaf_16576554524512559393.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/0a/6e/980a6e02-aa0e-be14-88e8-32fee71a8e4b/8903431876911_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10900,7 +14032,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/4a/8d/29/4a8d2959-36ce-349a-4db4-302db96bcbb9/mzaf_4422734151453275852.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d1/85/f0/d185f007-7e32-b74b-f2bd-f19d24d79082/8903431889362_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10927,7 +14059,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1c/ba/32/1cba328d-489d-1ea5-8e11-b707fe3e7d36/mzaf_15164356697135016595.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/ca/6a/46ca6a60-b098-a941-568c-b09059e175a0/8902894361576_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10954,7 +14086,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/cd/13/89cd13f2-b9f0-4266-c1ac-f44fc6d71cab/mzaf_13169362159879861264.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/ca/6a/46ca6a60-b098-a941-568c-b09059e175a0/8902894361576_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -10981,7 +14113,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/67/f8/f867f8fd-d1e9-0c3d-263d-7575670567b7/mzaf_9579818506378545120.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/5f/21/405f2157-eea4-8fb4-fbfe-2fd058a734fd/5063072826843_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11008,7 +14140,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/db/9f/ccdb9f8a-9973-c6cf-ad18-f71c6f3bb9d6/mzaf_1732385317680292982.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/15/63/6b15634a-64b6-1af7-8723-f1572f7dee8d/8902894361835_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11035,7 +14167,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/50/8c/e8/508ce8c1-010b-8187-b8fc-799ab2186394/mzaf_6667956669412047022.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/99/b7/5999b7da-9287-a829-47f2-2ca0b2368d8b/8903431918345_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11062,7 +14194,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a8/07/58/a80758ab-d02c-f8e3-1132-4ee3c576750e/mzaf_116103681796191787.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/60/29/f0602981-9bc9-ce83-0f40-b6d26be434c3/8903431916297_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11089,7 +14221,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dd/09/ad/dd09ad03-e93d-023f-221e-1d946b3987ef/mzaf_11994272652888867406.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7d/69/507d69ee-bb70-c29b-a2ec-49cd1203971f/846070012303.png/400x400bb.jpg",
     "aliases": [
@@ -11116,7 +14248,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b0/7d/f1/b07df1c7-20f8-e749-ab4c-1e839b8d5bef/mzaf_3542611908178320367.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b3/14/5eb314de-2526-3f6b-359a-2ee5b27564b5/840214458101.png/400x400bb.jpg",
     "aliases": [
@@ -11143,7 +14275,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/59/55/10/59551012-32c4-f270-9c84-bd636cdd0ad6/mzaf_3243871223717113903.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b3/14/5eb314de-2526-3f6b-359a-2ee5b27564b5/840214458101.png/400x400bb.jpg",
     "aliases": [
@@ -11170,7 +14302,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0f/74/e8/0f74e808-f6d1-7039-fcc6-3700f3984bb7/mzaf_13906846795966894530.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b3/14/5eb314de-2526-3f6b-359a-2ee5b27564b5/840214458101.png/400x400bb.jpg",
     "aliases": [
@@ -11197,7 +14329,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c9/e3/e4/c9e3e462-45e0-8c8a-77f9-e323387b4965/mzaf_6779117161125648239.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b3/14/5eb314de-2526-3f6b-359a-2ee5b27564b5/840214458101.png/400x400bb.jpg",
     "aliases": [
@@ -11224,7 +14356,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/07/63/9407635b-f2b1-3798-9f82-a71c536b8450/mzaf_18288369470189213326.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11251,7 +14383,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/68/dc/3868dcf0-dbb5-8072-6d18-8400cfae3440/mzaf_16013479153886782291.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ad/72/ae/ad72aedb-a6f0-1219-3958-59fb9d2afb63/8903431880260_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11278,7 +14410,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/a8/44/42a844fa-5fa4-e542-69d7-c8d79a03a5ff/mzaf_1856701594412476813.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11305,7 +14437,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/45/85/f5/4585f5c5-fc82-8272-5a0d-490633c73d41/mzaf_16195296027537817788.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/f1/32/3ff1323b-8d87-16c4-3593-fe9dd894f3cf/8903431880949_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11332,7 +14464,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/fd/21/f0fd2111-aeab-669b-b3c3-643a3af91b47/mzaf_8788324717253076297.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11359,7 +14491,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/89/dc/c489dc1a-fc15-fccb-f3d1-aa8474211ba3/mzaf_1032138924938796997.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11386,7 +14518,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/4a/40/024a4045-d0e9-7d64-dcfa-9cc2783f7c4a/mzaf_4396681690756551175.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11413,7 +14545,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/29/59/8d2959fa-7d02-5041-5e8e-7a37847c3deb/mzaf_16643078479559700720.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11440,7 +14572,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/9c/2f/d49c2f0f-473f-bdbe-1c52-b3d7a9c67bc6/mzaf_13974018591059112825.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11467,7 +14599,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/98/a7/0a/98a70ac9-2916-5bc8-cd0f-ac4ab83cadf3/mzaf_9830899627241256052.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0b/86/4b/0b864b3b-3f58-7fa0-f6c8-d5ba15300619/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -11494,7 +14626,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/82/5d/04825d83-25a2-b370-33be-cd361aa027a9/mzaf_7077939220800914744.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/2e/ea/032eea70-d6d9-f3b6-f3c0-01174fdcfeed/8902894361613_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11521,7 +14653,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d1/bf/f5/d1bff5c5-9867-b2b5-d695-82d68698df18/mzaf_5356596414301257734.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e2/49/a3/e249a382-b509-b047-bfb3-84e8a55545b8/8903431885104_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11548,7 +14680,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/e2/69/67/e2696701-0896-4934-fd7f-64b1cbdfb4a3/mzaf_6665616567871289934.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/29/e2/4429e2a5-d078-b13d-10a7-1a2539178223/8903431889430_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11575,7 +14707,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c4/81/29/c481296d-e0ea-2de8-1ce5-11d9763ca76b/mzaf_16753637823219292631.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e3/84/35/e38435ba-d994-359a-9e24-936e81ee3f92/8903431885517_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11602,7 +14734,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/27/fb/ad/27fbad2f-40ff-22fe-ce51-ab43dcc56729/mzaf_15775724419472216695.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/54/cc/fe54cc21-db33-a4ee-a669-fc294d825f36/8903431892553_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11629,7 +14761,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a8/1a/b0/a81ab0b3-b318-b87a-34ed-e2df5acc7802/mzaf_12786056913029849256.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/05/41/3f/05413fc1-0bdc-73fe-dd7d-f1d1dd792d67/8903431890269_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11656,7 +14788,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/ba/83/47ba83bd-ff6a-d4b2-f126-545a170f0775/mzaf_2932236241939206370.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/f7/2b/82f72ba4-524c-fc9d-cb8c-5a96d2ddf536/22UM1IM35267.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -11683,7 +14815,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/db/04/7cdb04d6-33d9-6491-02a3-7860b1340773/mzaf_16866773454679069600.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/04/61/1c/04611cc5-6104-ab73-af25-804566d0322b/8902894361651_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11710,7 +14842,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/22/c5/26/22c52646-001a-56e6-8d68-5180e8e54749/mzaf_6216502339123814484.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ad/91/41/ad91417e-c3b9-d47f-2f6c-715a0d3a2434/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11737,7 +14869,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7e/a2/72/7ea2725a-a0af-ec0c-89d7-bcca73d6255b/mzaf_4958102606216840829.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/e8/47/38e84712-d059-ca48-52fa-282e6075faa3/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -11764,7 +14896,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/fd/37/62fd37d5-4520-84cb-34f5-bb895a74478c/mzaf_7811940707562686190.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/25/17/9f2517c8-e2e1-9fc0-13d4-6862a99010bb/8905992930125.jpg/400x400bb.jpg",
     "aliases": [
@@ -11791,7 +14923,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c4/5e/32/c45e323a-1efb-b5f5-31db-1fa358cdc9ce/mzaf_13479105995333887173.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/d4/49/b8d449f4-3c31-c736-9fcf-3fc98c6b7213/8905992930118.jpg/400x400bb.jpg",
     "aliases": [
@@ -11818,7 +14950,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/7b/f4/c07bf48f-45b4-0d02-5c53-855f29cc182d/mzaf_11437992875009384823.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/be/ea/e9/beeae98a-33a4-6e1d-6efc-b8dd098b0a2c/093624866459.jpg/400x400bb.jpg",
     "aliases": [
@@ -11845,7 +14977,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/8d/85/4c8d85e4-9a6b-263a-88b2-e88ed10a72d6/mzaf_14609863282556519685.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/03/c8/4203c87f-0a58-4006-9a38-2e21b3d3519c/4f5d2ca4-d995-4585-a4e0-33e1588c2e0f.jpg/400x400bb.jpg",
     "aliases": [
@@ -11872,7 +15004,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/19/b7/d919b7a6-64fc-bc94-ac25-83f2789f0a17/mzaf_16463984247062572495.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/bd/88/2ebd889a-c1f9-ad5c-8b2e-7f16e84d512f/22UMGIM16492.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -11899,7 +15031,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/2b/b5/6c2bb54c-cbb6-558e-87e6-cc750aa39c54/mzaf_11043876483606963092.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/57/9d/f1579d5f-4e4f-1235-e97c-fa725602c839/810105711448_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11926,7 +15058,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6a/06/58/6a06582f-4c35-642d-e0f7-86d39031207c/mzaf_12739498439691407025.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/03/76/3f03769b-1b84-5374-bc02-4bd9d171b586/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11953,7 +15085,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/da/75/13/da751399-27fd-e10f-d70b-dfa62684b078/mzaf_11108391579954925214.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/83/de/dc83de26-7d12-2439-b9e5-240a172ae90b/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -11980,7 +15112,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1f/41/d9/1f41d9b1-63c3-d6b8-e5d3-c88ebcd663ce/mzaf_13903532936680138253.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/58/e3/c158e351-53a0-ac0c-2bb4-4f7f4d6175ef/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12007,7 +15139,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/58/4c/7c/584c7c67-438b-6213-86b4-d994580aa398/mzaf_7287889800207130659.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f6/d6/e1/f6d6e109-f57e-ecc5-6ac2-f43f8c2dc902/8905574884327.jpg/400x400bb.jpg",
     "aliases": [
@@ -12034,7 +15166,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/06/e0/aa06e07c-92e7-9d7d-8da0-f6656fd03aff/mzaf_7215397597232672344.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7f/2b/9f/7f2b9f57-af8d-05a8-6881-6b64d322d7be/196589576767.jpg/400x400bb.jpg",
     "aliases": [
@@ -12061,12 +15193,579 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/a0/97/b6a09736-5312-7636-f177-661cfc3adf67/mzaf_11821137866953407865.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e9/bd/93/e9bd9316-75a6-bc15-aebe-c737037bedf0/196925634489.jpg/400x400bb.jpg",
     "aliases": [
       "Baller",
       "Baller"
+    ]
+  },
+  {
+    "title": "In The Stars",
+    "movie": "In The Stars - Single",
+    "singers": [
+      "Benson Boone"
+    ],
+    "artists": [
+      "Benson Boone"
+    ],
+    "composers": [
+      "Benson Boone"
+    ],
+    "lyricist": "Benson Boone",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/3d/e2/1f3de26c-6071-a953-f3ff-d750000f0a34/mzaf_9004501392552510570.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/0c/c8/960cc84f-5c48-013b-51bf-aa30b2800068/054391897046.jpg/400x400bb.jpg",
+    "aliases": [
+      "In The Stars",
+      "In The Stars"
+    ]
+  },
+  {
+    "title": "Gehraiyaan Reprise",
+    "movie": "Gehraiyaan",
+    "singers": [
+      "OAFF, Savera, Mohit Chauhan, Lothika & Ankur Tewari"
+    ],
+    "artists": [
+      "OAFF, Savera, Mohit Chauhan, Lothika & Ankur Tewari"
+    ],
+    "composers": [
+      "OAFF, Savera, Mohit Chauhan, Lothika & Ankur Tewari"
+    ],
+    "lyricist": "OAFF, Savera, Mohit Chauhan, Lothika & Ankur Tewari",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/8f/29/f78f293e-756f-c1cd-99fa-01c396bc655b/mzaf_16045793533613477190.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/dd/25/fddd25c6-37fa-3021-5937-1d78953acbe6/886449900084.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gehraiyaan Reprise",
+      "Gehraiyaan Reprise"
+    ]
+  },
+  {
+    "title": "Manike",
+    "movie": "Manike (From \"Thank God\") - Single",
+    "singers": [
+      "Yohani, Jubin Nautiyal, Tanishk Bagchi, Surya Ragunnathan, Surya Ragunaathan, Chamath Sangeeth, Rashmi Virag, Dulan ARX & Mellow D"
+    ],
+    "artists": [
+      "Yohani, Jubin Nautiyal, Tanishk Bagchi, Surya Ragunnathan, Surya Ragunaathan, Chamath Sangeeth, Rashmi Virag, Dulan ARX & Mellow D"
+    ],
+    "composers": [
+      "Yohani, Jubin Nautiyal, Tanishk Bagchi, Surya Ragunnathan, Surya Ragunaathan, Chamath Sangeeth, Rashmi Virag, Dulan ARX & Mellow D"
+    ],
+    "lyricist": "Yohani, Jubin Nautiyal, Tanishk Bagchi, Surya Ragunnathan, Surya Ragunaathan, Chamath Sangeeth, Rashmi Virag, Dulan ARX & Mellow D",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/19/a4/2519a44e-e9cf-48dc-9caf-a05b92fe28c7/mzaf_8884340860706509729.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f3/51/53/f351531e-921d-f874-ad69-698040d6efe3/8903431896933_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Manike (From \"Thank God\")",
+      "Manike"
+    ]
+  },
+  {
+    "title": "Mere Ghar Ram Aaye Hain",
+    "movie": "Mere Ghar Ram Aaye Hain - Single",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/42/47/aa/4247aa07-4149-de47-c232-ee5aaef58d21/mzaf_17084274322794199128.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/f8/ea/e5f8eaf4-1855-01fd-5287-938405d82672/8903431906946_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mere Ghar Ram Aaye Hain",
+      "Mere Ghar Ram Aaye Hain"
+    ]
+  },
+  {
+    "title": "Ik Tu Hai ❤️",
+    "movie": "Attack",
+    "singers": [
+      "Jubin Nautiyal & Shashwat Sachdev"
+    ],
+    "artists": [
+      "Jubin Nautiyal & Shashwat Sachdev"
+    ],
+    "composers": [
+      "Jubin Nautiyal & Shashwat Sachdev"
+    ],
+    "lyricist": "Jubin Nautiyal & Shashwat Sachdev",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d4/66/aa/d466aae4-f911-7e27-7367-4565ea17a6ee/mzaf_2139676456156460131.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/c3/a4/74c3a474-24a6-59fd-2a09-7a8c7c7560e7/840214432781.png/400x400bb.jpg",
+    "aliases": [
+      "Ik Tu Hai ❤️",
+      "Ik Tu Hai ❤️"
+    ]
+  },
+  {
+    "title": "Rabba Janda",
+    "movie": "Rabba Janda (From \"Mission Majnu\") - Single",
+    "singers": [
+      "Jubin Nautiyal, Tanishk Bagchi & Shabbir Ahmed"
+    ],
+    "artists": [
+      "Jubin Nautiyal, Tanishk Bagchi & Shabbir Ahmed"
+    ],
+    "composers": [
+      "Jubin Nautiyal, Tanishk Bagchi & Shabbir Ahmed"
+    ],
+    "lyricist": "Jubin Nautiyal, Tanishk Bagchi & Shabbir Ahmed",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d8/aa/04/d8aa04fa-fd98-7ea5-eb01-215f9cce454a/mzaf_7453912816123212792.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/fa/bd/dcfabdc5-a4c1-2b39-bdd0-02cc778d1e5b/840214465437.png/400x400bb.jpg",
+    "aliases": [
+      "Rabba Janda (From \"Mission Majnu\")",
+      "Rabba Janda"
+    ]
+  },
+  {
+    "title": "Shauq",
+    "movie": "Qala (Music From The Netflix Film)",
+    "singers": [
+      "Amit Trivedi, Varun Grover, Shahid Mallya, Sireesha Bhagavatula & Swanand Kirkire"
+    ],
+    "artists": [
+      "Amit Trivedi, Varun Grover, Shahid Mallya, Sireesha Bhagavatula & Swanand Kirkire"
+    ],
+    "composers": [
+      "Amit Trivedi, Varun Grover, Shahid Mallya, Sireesha Bhagavatula & Swanand Kirkire"
+    ],
+    "lyricist": "Amit Trivedi, Varun Grover, Shahid Mallya, Sireesha Bhagavatula & Swanand Kirkire",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/b0/13/ccb01319-eda5-d73d-a4de-ae1b86b529bc/mzaf_4038580513606785052.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/6b/96/476b96a0-d883-6485-6fdd-db1de7c8a151/196589680440.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shauq",
+      "Shauq"
+    ]
+  },
+  {
+    "title": "Ghodey Pe Sawaar",
+    "movie": "Qala (Music From The Netflix Film)",
+    "singers": [
+      "Amit Trivedi, Amitabh Bhattacharya & Sireesha Bhagavatula"
+    ],
+    "artists": [
+      "Amit Trivedi, Amitabh Bhattacharya & Sireesha Bhagavatula"
+    ],
+    "composers": [
+      "Amit Trivedi, Amitabh Bhattacharya & Sireesha Bhagavatula"
+    ],
+    "lyricist": "Amit Trivedi, Amitabh Bhattacharya & Sireesha Bhagavatula",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/ea/ca/19eacada-d04f-7523-399a-fc1ad44de806/mzaf_4731834234889805918.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/47/6b/96/476b96a0-d883-6485-6fdd-db1de7c8a151/196589680440.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ghodey Pe Sawaar",
+      "Ghodey Pe Sawaar"
+    ]
+  },
+  {
+    "title": "Kitni Haseen Hogi",
+    "movie": "Kitni Haseen Hogi (From \"Hit - The First Case\") - Single",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/99/79/1f/99791f5a-d085-9e06-0d0b-4cb601cdeebe/mzaf_2300565292958637528.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/15/e6/7815e6ee-a815-9a27-780e-69fbf638c965/8903431884800_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kitni Haseen Hogi (From \"Hit - The First Case\")",
+      "Kitni Haseen Hogi"
+    ]
+  },
+  {
+    "title": "Jo Tum Saath Ho",
+    "movie": "Salaam Venky",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/f2/1e/cdf21e75-66cb-6a38-973d-4516ef9cecfc/mzaf_12566940087384445595.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cd/89/1c/cd891ca6-9d2d-26e7-b22c-2b0a3e07783f/840214463846.png/400x400bb.jpg",
+    "aliases": [
+      "Jo Tum Saath Ho",
+      "Jo Tum Saath Ho"
+    ]
+  },
+  {
+    "title": "Rush",
+    "movie": "19 & Dangerous (Deluxe)",
+    "singers": [
+      "Ayra Starr"
+    ],
+    "artists": [
+      "Ayra Starr"
+    ],
+    "composers": [
+      "Ayra Starr"
+    ],
+    "lyricist": "Ayra Starr",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/0c/07/a00c0745-9162-1e7f-af70-b92f891a728e/mzaf_12267370392753596352.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/93/c1/9293c1af-2881-bcb7-439f-99a516e5d715/5059449090122.png/400x400bb.jpg",
+    "aliases": [
+      "Rush",
+      "Rush"
+    ]
+  },
+  {
+    "title": "Calm Down",
+    "movie": "Rave & Roses",
+    "singers": [
+      "Rema"
+    ],
+    "artists": [
+      "Rema"
+    ],
+    "composers": [
+      "Rema"
+    ],
+    "lyricist": "Rema",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/7e/3b/3c7e3b1d-c005-91cb-51d1-2d86effd9990/mzaf_6788794088599474630.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/7c/b2b47cf9-d8e2-53f6-5c62-c974d665c95b/22UMGIM08994.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Calm Down",
+      "Calm Down"
+    ]
+  },
+  {
+    "title": "Labon Pe Naam",
+    "movie": "Radhe Shyam",
+    "singers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "artists": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "composers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "lyricist": "Amaal Mallik & Armaan Malik",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/f9/8e/b5f98ee7-ecbd-dd66-69f4-a2891486e5fb/mzaf_2025534689906963860.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/07/84/790784d7-27cd-2113-cd36-404f0d5ede58/8903431857323_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Labon Pe Naam",
+      "Labon Pe Naam"
+    ]
+  },
+  {
+    "title": "Jaan Hai Meri",
+    "movie": "Jaan Hai Meri (From \"Radhe Shyam\") - Single",
+    "singers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "artists": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "composers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "lyricist": "Amaal Mallik & Armaan Malik",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9e/e4/0e/9ee40ec9-4317-e1cc-af36-a951df6fad68/mzaf_13981479657325462999.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/2b/0e/3c2b0e8d-8bed-4198-5652-7faab62b2b0d/8903431869234_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jaan Hai Meri (From \"Radhe Shyam\")",
+      "Jaan Hai Meri"
+    ]
+  },
+  {
+    "title": "Roohedaariyaan",
+    "movie": "Roohedaariyaan - Single",
+    "singers": [
+      "B. Praak & Neeti Mohan"
+    ],
+    "artists": [
+      "B. Praak & Neeti Mohan"
+    ],
+    "composers": [
+      "B. Praak & Neeti Mohan"
+    ],
+    "lyricist": "B. Praak & Neeti Mohan",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/92/5f/bf/925fbfdc-2bd9-a554-5683-7ff8393447d9/mzaf_5772357359193620286.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/11/22/f8/1122f82b-4cda-2b8d-4a7b-9e601c77eaef/22UM1IM26946.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Roohedaariyaan",
+      "Roohedaariyaan"
+    ]
+  },
+  {
+    "title": "Jhaanjar",
+    "movie": "Jhaanjar (From \"Honeymoon\") - Single",
+    "singers": [
+      "B. Praak & Jaani"
+    ],
+    "artists": [
+      "B. Praak & Jaani"
+    ],
+    "composers": [
+      "B. Praak & Jaani"
+    ],
+    "lyricist": "B. Praak & Jaani",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fa/cc/49/facc49e6-abdc-49bf-e8d5-e4ebd6e4efe7/mzaf_3607037503842088740.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/7b/d7/737bd73e-d551-59fb-53a1-552c1d0a6448/8903431903990_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jhaanjar (From \"Honeymoon\")",
+      "Jhaanjar"
+    ]
+  },
+  {
+    "title": "Etthara Jenda",
+    "movie": "RRR",
+    "singers": [
+      "Vishal Mishra, Prudhvi Chandra, M.M. Keeravani, Sahithi Chaganti & Harika Narayan"
+    ],
+    "artists": [
+      "Vishal Mishra, Prudhvi Chandra, M.M. Keeravani, Sahithi Chaganti & Harika Narayan"
+    ],
+    "composers": [
+      "Vishal Mishra, Prudhvi Chandra, M.M. Keeravani, Sahithi Chaganti & Harika Narayan"
+    ],
+    "lyricist": "Vishal Mishra, Prudhvi Chandra, M.M. Keeravani, Sahithi Chaganti & Harika Narayan",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/d3/db/54d3dbd0-6ccc-3932-a3b8-5431d72c0338/mzaf_8132462047807971229.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/85/29/918529f8-5187-19c7-ac4f-983a9c7c5b78/8903431821683_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Etthara Jenda",
+      "Etthara Jenda"
+    ]
+  },
+  {
+    "title": "Mitra Re",
+    "movie": "Mitra Re (From \"Runway 34\") - Single",
+    "singers": [
+      "Arijit Singh & Jasleen Royal"
+    ],
+    "artists": [
+      "Arijit Singh & Jasleen Royal"
+    ],
+    "composers": [
+      "Arijit Singh & Jasleen Royal"
+    ],
+    "lyricist": "Arijit Singh & Jasleen Royal",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/f8/23/2af823c9-8143-33ee-13eb-e958a9c749d6/mzaf_3053867934269935018.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9a/94/10/9a9410d6-6864-5752-b44c-1a0f4974925f/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mitra Re (From \"Runway 34\")",
+      "Mitra Re"
+    ]
+  },
+  {
+    "title": "Mazaak",
+    "movie": "Mazaak - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/38/b4/7d38b4fd-53e8-8685-cb3d-e86dcec08a07/mzaf_15659747085211719337.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/39/4b/21394bbe-154e-46c2-b573-4cc33477da60/23UM1IM18499.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mazaak",
+      "Mazaak"
+    ]
+  },
+  {
+    "title": "Meri Baaton Mein Tu",
+    "movie": "Meri Baaton Mein Tu - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/63/c1/6263c180-b5ae-38be-21c3-e06e5d60bdb4/mzaf_5753313799384515222.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/e2/ae/c5e2ae66-e4fe-02b6-d54c-c05fb36a2936/23UM1IM18503.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Meri Baaton Mein Tu",
+      "Meri Baaton Mein Tu"
+    ]
+  },
+  {
+    "title": "Co2",
+    "movie": "The Way That Lovers Do",
+    "singers": [
+      "Prateek Kuhad"
+    ],
+    "artists": [
+      "Prateek Kuhad"
+    ],
+    "composers": [
+      "Prateek Kuhad"
+    ],
+    "lyricist": "Prateek Kuhad",
+    "releaseYear": 2022,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/2b/9e/3a2b9e23-6381-5513-bfbd-c77a8d82beb0/mzaf_325522060342302711.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/b2/5e/13b25e33-746d-9567-0c36-b11af5b55ab0/075679754943.jpg/400x400bb.jpg",
+    "aliases": [
+      "Co2",
+      "Co2"
     ]
   },
   {
@@ -12088,7 +15787,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/ba/7f/b0ba7f67-0a0c-9559-b921-d1d8b6f61189/mzaf_14690450010948312920.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/66/4c/7d664ceb-ae82-0645-4996-daf2f543e7b3/886449714209.jpg/400x400bb.jpg",
     "aliases": [
@@ -12115,7 +15814,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/26/2f/42262f67-8238-1d9b-4810-7ed5242b73a0/mzaf_7987752695318086087.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/4d/9a/944d9a8d-0549-f537-5706-5b083bd84a7d/21UM1IM38949.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -12142,7 +15841,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/b3/52/80b35267-2c78-df19-31d7-638dbd7666ad/mzaf_16536113119142416473.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/1b/56/5c1b5690-f968-f2a5-4405-fc8c9eb8f5b5/198000546540.jpg/400x400bb.jpg",
     "aliases": [
@@ -12169,7 +15868,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/f4/53/02f453ab-307f-850a-3c40-39a3a55832df/mzaf_334596509477336121.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/a3/73/44a37386-7693-b241-c649-df5ea979083e/5059713462129_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12196,7 +15895,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/79/02/21/7902213a-c8bf-fce4-1402-583aae2fed4f/mzaf_6116024453040327343.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/d0/a5/20d0a5f6-19d6-31ee-3aaf-24fa59975cca/075679800619.jpg/400x400bb.jpg",
     "aliases": [
@@ -12223,7 +15922,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/db/49/04/db49045b-2386-9b3c-9672-5119af133371/mzaf_7528975218635216365.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dc/9c/3b/dc9c3b45-7782-d67e-ca89-af8da78fcf3d/886449153374.jpg/400x400bb.jpg",
     "aliases": [
@@ -12250,7 +15949,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/07/cc/a807cca0-1362-7d91-b299-69857f6bd4b3/mzaf_9955016880373562383.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/61/11/74611127-f78d-f011-efdd-7e51c9db265f/21UMGIM70654.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -12277,7 +15976,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/16/2e/9e162eaf-b697-145d-9fd5-a53ff05a476e/mzaf_10438041615690557656.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/02/80/1d02803d-3f74-856c-2e2e-e90f475a01ce/859748694732_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12304,7 +16003,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/8c/21/e68c215e-a75e-94b0-721b-9806306ec445/mzaf_6722406782140412103.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12331,7 +16030,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/7c/73/597c7345-7774-002e-efc5-353acb126579/mzaf_11921393707005343747.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/d1/c2/3ed1c2c9-fca1-5f64-49eb-e155a1e6ff27/5059806212297_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12358,7 +16057,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/f8/fe/cff8fe56-f76f-0647-77e1-e640722aa3cd/mzaf_14372505119621821858.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/50/78/0b507807-ad46-45dc-8de9-bf0bd49ea4ca/196292645668.jpg/400x400bb.jpg",
     "aliases": [
@@ -12385,7 +16084,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/d0/65/f0d0657b-b6ab-c8f3-8445-3969eebaced0/mzaf_8968900720236572671.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/eb/f8/b3ebf8db-f474-049a-3721-5e2504c1a006/196292941555.jpg/400x400bb.jpg",
     "aliases": [
@@ -12412,7 +16111,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/7a/7a/ff7a7a63-9947-cefa-e269-ad9602fb1ca3/mzaf_14039909875904828823.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c3/df/e7/c3dfe71e-d532-458e-9c1c-32d40f8d9123/886449472222.jpg/400x400bb.jpg",
     "aliases": [
@@ -12439,7 +16138,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/a9/b5/89a9b5d7-208b-ca6d-04c9-cdf7e0b823a9/mzaf_12992538805340747184.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/73/de/6f73de5d-9bd5-05f1-ebbc-0e053afea88d/886449812868.jpg/400x400bb.jpg",
     "aliases": [
@@ -12466,7 +16165,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/65/9c/56659cff-c9d3-0c40-eca6-cdef3543b209/mzaf_1437769840194003232.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/400x400bb.jpg",
     "aliases": [
@@ -12493,7 +16192,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1a/92/34/1a923400-e056-4ee6-d30b-fd71e9ebf3b8/mzaf_2851469621656479363.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/c2/07/84c20729-cb1d-81d4-d954-7316c9b95a35/8903431853585_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12520,7 +16219,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/dd/a4/8edda474-3fe1-3fe6-43d3-765db520a29b/mzaf_11740310005222997767.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/39/14/dd3914e5-a2f3-b355-51f3-9a1f0e3ca246/8903431853592_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -12547,7 +16246,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c7/b7/e2/c7b7e257-9e36-79d4-f3ad-1c8a4ef48531/mzaf_15710852665808709405.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12574,7 +16273,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/8f/22/088f2231-b3ef-fbf6-183b-024360e63bdb/mzaf_6223660620871343841.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12601,7 +16300,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/54/b2/ba/54b2bade-b8bf-77b6-916b-9342c29321d7/mzaf_14944104866523634043.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12628,7 +16327,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/88/f5/6988f5cc-f4b7-1d65-c79f-256dabe22d2d/mzaf_1627346685943679076.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12655,7 +16354,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/3f/7e/633f7e0e-46ee-7d3d-a4a3-57e884a6ade9/mzaf_1621713846921288970.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12682,7 +16381,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/86/72/b9/8672b94c-8749-b141-3dc3-7a3718397b28/mzaf_12824832898095116540.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12709,7 +16408,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/62/44/336244fb-940c-1803-1c5a-1bdb26048872/mzaf_9351934478803260663.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12736,7 +16435,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/00/5e/a1005eee-2972-4d64-d91a-dfecdce649c7/mzaf_9710384095644882986.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12763,7 +16462,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c1/f2/31/c1f231e3-93f8-cd4c-d566-36036b5338a7/mzaf_17679108191779952778.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12790,7 +16489,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cd/73/46/cd73460e-96bc-ad99-2462-58dd47c3dbde/mzaf_917488468711223622.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/5e/1d/8d5e1ddb-ed0e-b36e-9615-66c52e6f210a/1941570764949.jpg/400x400bb.jpg",
     "aliases": [
@@ -12817,7 +16516,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c1/8d/ab/c18dabca-9b5b-2893-51f2-6f5fcf006e7e/mzaf_13602194622766556106.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/400x400bb.jpg",
     "aliases": [
@@ -12844,7 +16543,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/bc/5c/c0bc5c32-3266-8026-5e46-fb40c8d6857f/mzaf_12797987882568750697.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/400x400bb.jpg",
     "aliases": [
@@ -12871,7 +16570,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/68/13/0c68133c-e96d-386a-9406-d712a8fe2457/mzaf_3101866733484517223.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/a8/59/29a85912-18e7-41ac-d306-0522b9528a25/886449508242.jpg/400x400bb.jpg",
     "aliases": [
@@ -12898,7 +16597,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/d5/2f/5ad52f78-09f0-82db-e3a7-e9dc013b945f/mzaf_12719379187659587577.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/65/ae/6165aee9-8bb9-0bd4-02b0-5d0f1e6257a3/886449510238.jpg/400x400bb.jpg",
     "aliases": [
@@ -12925,7 +16624,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/7f/e2/5f7fe290-e43c-8fe9-a76d-0c85069df491/mzaf_2948865717569907924.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4b/5e/6f4b5e92-8c44-6245-83ec-3155c9fb21c5/196872281132.jpg/400x400bb.jpg",
     "aliases": [
@@ -12952,7 +16651,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/d3/df/acd3df78-86cd-6f9d-15de-80291b8a8198/mzaf_2242043153205393015.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4b/5e/6f4b5e92-8c44-6245-83ec-3155c9fb21c5/196872281132.jpg/400x400bb.jpg",
     "aliases": [
@@ -12979,7 +16678,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/77/5f/ae775f99-d2ba-0762-9e13-087a7793d2f5/mzaf_6347966540754551041.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4b/5e/6f4b5e92-8c44-6245-83ec-3155c9fb21c5/196872281132.jpg/400x400bb.jpg",
     "aliases": [
@@ -13006,7 +16705,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/69/9b/ad699bd5-52b5-a6a3-4d2b-3a72893dff94/mzaf_10720238244851634979.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4b/5e/6f4b5e92-8c44-6245-83ec-3155c9fb21c5/196872281132.jpg/400x400bb.jpg",
     "aliases": [
@@ -13033,7 +16732,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3d/a1/93/3da193a2-7c5c-737a-da19-68d9d1961ca6/mzaf_4837397726444910745.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/78/81/7e78812c-0445-ebad-321c-1beebaaa328a/8902894361460_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13060,7 +16759,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fd/78/5e/fd785e61-788e-a229-5009-d57c09255d65/mzaf_5333823146379504338.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/78/81/7e78812c-0445-ebad-321c-1beebaaa328a/8902894361460_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13087,7 +16786,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bd/cf/13/bdcf1377-9667-2168-376e-dbeceed8c1cc/mzaf_10953902556476493001.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/78/81/7e78812c-0445-ebad-321c-1beebaaa328a/8902894361460_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13114,7 +16813,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/5d/86/595d8694-c034-2040-9a11-2f117ed32ea4/mzaf_8961189800316643417.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/19/65/591965d4-84b4-d62d-345f-88bd29ce0843/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13141,7 +16840,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5f/0b/0f/5f0b0fb1-082c-8b8a-d318-963d5d4a4493/mzaf_649764974178543419.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/78/81/7e78812c-0445-ebad-321c-1beebaaa328a/8902894361460_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13168,7 +16867,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/26/27/8826277b-96a6-6892-3932-3e5df463eeea/mzaf_3099981425088449173.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/78/81/7e78812c-0445-ebad-321c-1beebaaa328a/8902894361460_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13195,7 +16894,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ee/2f/a4/ee2fa4ef-f371-0b02-1759-83144a7da4a6/mzaf_8077429289684912175.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/ab/55/84ab5579-8dde-c2d3-2b57-1861eadbbbd7/8903431857231_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13222,7 +16921,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/da/a6/26/daa626cf-c47b-5965-9e0f-ec11ce08f447/mzaf_5960300703270247289.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/f3/4f/caf34f9c-617b-5d0e-6e36-056792df20b8/8903431857224_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13249,7 +16948,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/96/5c/fb965c7d-2ba5-5d35-83e3-5955ac5d02f0/mzaf_12696727503424102604.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/fc/19/0efc194a-6805-5801-dc55-2d07e69d3e9d/8903431860033_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13276,7 +16975,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/3d/8e/403d8e94-8a24-3dc6-50f0-d1f4694e5257/mzaf_6604173685042094292.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/f3/4f/caf34f9c-617b-5d0e-6e36-056792df20b8/8903431857224_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13303,7 +17002,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/99/0f/ad/990fade7-916b-bdb9-ca25-f25b9cfd635e/mzaf_6789420447452432568.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/f3/4f/caf34f9c-617b-5d0e-6e36-056792df20b8/8903431857224_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13330,7 +17029,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/92/b1/82/92b18251-f0de-6019-0c95-aea1876232ba/mzaf_14775864740922791235.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/f3/4f/caf34f9c-617b-5d0e-6e36-056792df20b8/8903431857224_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13357,7 +17056,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ad/45/4c/ad454c3d-8f1b-65a3-a478-c6398f5a4d3a/mzaf_3748485095526420847.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/f3/4f/caf34f9c-617b-5d0e-6e36-056792df20b8/8903431857224_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13384,7 +17083,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/05/ec/6205ec19-fc8d-2580-785f-dff9e3fa2b5c/mzaf_6954312140942549016.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/c9/bc/b1c9bc2e-e89a-be40-526c-df76761a6f2d/199350142529.jpg/400x400bb.jpg",
     "aliases": [
@@ -13411,7 +17110,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7a/bd/fa/7abdfa09-f0e4-c099-dfc2-7578b5fcdd4e/mzaf_7945435188275258962.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/40/16/23/401623bf-a8da-245a-b0a2-c3b8b5ff111b/8903431852649_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13438,7 +17137,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/b6/95/9ab6952d-f342-fe84-592d-9bf9130cfd96/mzaf_11053262750672788512.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/2c/6f/0e2c6f5f-e33a-1982-6d50-407a7c1ffb22/8903431840417_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13465,7 +17164,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/e3/9d/dee39d41-e43b-2ed6-b60d-720d9f87b8b4/mzaf_18293802246676458597.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/6b/60/0c6b6026-b7fa-5de7-75c7-16cd20215934/8903431930873_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13492,7 +17191,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/2e/e5/43/2ee5430f-6029-2a43-a545-f632b52b1291/mzaf_10555079803444874033.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/91/bf/5f/91bf5f97-db52-6df7-0875-629afa95124c/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -13519,7 +17218,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7a/5a/32/7a5a3228-7ae2-82ab-a334-ccf202d2b373/mzaf_7105336129308442363.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/68/4f/cc684fe3-54ae-cdf4-c930-ff0eeeca77bf/196626692887.jpg/400x400bb.jpg",
     "aliases": [
@@ -13546,7 +17245,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c5/c7/ac/c5c7ace6-a7fb-ef96-a53c-63038a67375a/mzaf_2906443852885310120.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/c4/82/04c482e1-270f-39e4-d8f2-9325fb86ed66/5059950014945_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13573,7 +17272,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/52/28/db5228fa-d0b9-1833-0a75-75f423ffd2b9/mzaf_11081080272891514422.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/39/ee/f6/39eef642-ffe4-2b19-1fab-7f4a8dac4601/4871.jpg/400x400bb.jpg",
     "aliases": [
@@ -13600,7 +17299,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/c5/d6/6f/c5d66f27-918a-d02c-7e50-0dbbf7e84e4a/mzaf_4558674320115461198.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/2e/f0/8a2ef0d1-8a4d-ac91-0637-90651956143f/607396651436.png/400x400bb.jpg",
     "aliases": [
@@ -13627,7 +17326,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/de/91/0cde9106-8b7b-5d4f-17f0-5f72a914075e/mzaf_12117369420047036663.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/70/c0/c670c0a6-ac32-9cb6-0dc4-1359e2e7f62a/8902894361408_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13654,7 +17353,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a2/21/5c/a2215c65-3658-8ac9-b61e-1c0c03a710a6/mzaf_18239943115374859596.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/27/4a/1c274aa7-768c-e610-7fc3-985ddc1365c7/Hua-Yun-Kyun.jpg/400x400bb.jpg",
     "aliases": [
@@ -13681,7 +17380,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/6f/d8/a66fd8db-187d-d220-1b52-96662ad4d5bd/mzaf_16291215267630234135.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/01/43/6301439b-4016-6dfd-64c8-ad98391cdd20/3616553240144.jpg/400x400bb.jpg",
     "aliases": [
@@ -13708,7 +17407,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/fc/77/dafc7754-e4b7-6f59-f383-de37f56d4dca/mzaf_11805755858269090089.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/fe/15/2cfe15ea-2bb6-77c4-82b2-d294b78a98e8/196292381320.jpg/400x400bb.jpg",
     "aliases": [
@@ -13735,7 +17434,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/06/40/de/0640dec3-6d32-d422-485e-d1b684910320/mzaf_9379709259543884914.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/fe/15/2cfe15ea-2bb6-77c4-82b2-d294b78a98e8/196292381320.jpg/400x400bb.jpg",
     "aliases": [
@@ -13762,7 +17461,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b5/3f/90/b53f907a-7f43-dadb-f812-03de207a410f/mzaf_1157197717488549638.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/fe/15/2cfe15ea-2bb6-77c4-82b2-d294b78a98e8/196292381320.jpg/400x400bb.jpg",
     "aliases": [
@@ -13789,7 +17488,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/32/0f/86/320f8658-9138-a04c-3bc7-39fd73075e7c/mzaf_17036832845184451748.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/fe/15/2cfe15ea-2bb6-77c4-82b2-d294b78a98e8/196292381320.jpg/400x400bb.jpg",
     "aliases": [
@@ -13816,7 +17515,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/74/3c/40743c78-e9bc-b2a3-46e8-8a2065ecde38/mzaf_6006014448241406684.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/fe/15/2cfe15ea-2bb6-77c4-82b2-d294b78a98e8/196292381320.jpg/400x400bb.jpg",
     "aliases": [
@@ -13843,7 +17542,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cc/2c/6e/cc2c6eae-8df8-87e6-9c55-2ebe65613daf/mzaf_2299654261597545051.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/c4/ba/49c4ba8f-f80a-8259-4950-e3d61fc20d1d/Fakira_Da-Inlay.jpg/400x400bb.jpg",
     "aliases": [
@@ -13870,7 +17569,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/8a/42/a78a42dc-69ab-6911-58dd-a02be3dec937/mzaf_7204865382943960533.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/77/cb/2477cbbb-563f-5ef1-9b05-299a4f34e5f1/859751714458_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13897,7 +17596,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d4/a8/7a/d4a87a74-f6d6-5743-4eb3-bc16fd260391/mzaf_5578392359153445735.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/a2/74/02a27480-c8e9-b3e8-f38e-7f7eed72062f/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13924,7 +17623,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b7/53/bd/b753bd03-0860-c545-62a7-a0aab73429ec/mzaf_12865745851258924302.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/50/31/70503185-e36f-eb4a-8e70-24840f5b4af0/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13951,7 +17650,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a0/d4/6a/a0d46a8b-51c2-149a-afb1-c73e898ad793/mzaf_16400942561733252960.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/4b/99/c64b99eb-6e3f-f730-2fa0-34449db10763/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -13978,7 +17677,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/00/ea/1700ea89-7704-9e12-a159-1bd070f2054b/mzaf_3787970726727520181.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/4d/9a/944d9a8d-0549-f537-5706-5b083bd84a7d/21UM1IM38949.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -14005,7 +17704,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/93/80/c8938098-24fd-aca6-c59f-fe2c4ec1651d/mzaf_15931232629015616025.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/19/5b/12195b9a-1ac0-4ded-03da-e034ce80ac8c/21UMGIM22433.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -14032,7 +17731,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/f8/9d/b1f89db9-df04-eca4-6f39-a27ecdf44ddf/mzaf_9939269907281896174.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/69/58/976958ae-725e-bd41-6755-f0921c697840/810063889609_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14059,7 +17758,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/c6/be/3fc6be5e-3413-b81a-e0e1-1f43ceb7138c/mzaf_13012406286624541196.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/69/58/976958ae-725e-bd41-6755-f0921c697840/810063889609_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14086,7 +17785,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/86/44/2986442b-9098-94ac-202f-bc208a84fe40/mzaf_327235771594866438.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/bf/f7/2bbff7cd-dd1e-5ad7-8ca4-0b21ba7aa097/5059552193604_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14113,7 +17812,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c3/6b/fd/c36bfd5b-e0a6-b14d-a8e2-b824bcdf5b76/mzaf_6994097730423330869.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/3b/f8/7a3bf8a4-2b63-0abc-9b0a-326a866e1cc4/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14140,7 +17839,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/b7/5f/69b75f67-632b-625a-2924-1278f6bf3db8/mzaf_14597253570083593827.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6c/06/97/6c069700-5ee5-567f-8155-5fd8cdd2817d/8903431821713_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14167,7 +17866,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/01/68/8f/01688f64-a032-6d8a-5d0f-01816abd8803/mzaf_2633160918721700095.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c2/bc/67/c2bc674e-fa16-39f7-fc67-7a3db8eb2247/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14194,12 +17893,957 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/b5/1e/99b51e49-8ec6-f3f3-e88c-e0afb894ef98/mzaf_1311533641223773096.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/9b/9f/ec9b9f7b-7842-6c40-0a89-3370b714ecfc/artwork.jpg/400x400bb.jpg",
     "aliases": [
       "Schedule",
       "Schedule"
+    ]
+  },
+  {
+    "title": "Param Sundari",
+    "movie": "Mimi",
+    "singers": [
+      "A.R. Rahman & Shreya Ghoshal"
+    ],
+    "artists": [
+      "A.R. Rahman & Shreya Ghoshal"
+    ],
+    "composers": [
+      "A.R. Rahman & Shreya Ghoshal"
+    ],
+    "lyricist": "A.R. Rahman & Shreya Ghoshal",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/af/f0/37aff08b-cdfd-ae7e-7f0a-251d07f342d0/mzaf_4304999715906555670.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/4a/71/0d4a71dd-b09d-50b4-b1e9-6c13ab4bdd1e/886449445875.jpg/400x400bb.jpg",
+    "aliases": [
+      "Param Sundari",
+      "Param Sundari"
+    ]
+  },
+  {
+    "title": "Meri Zindagi Hai Tu",
+    "movie": "Meri Zindagi Hai Tu (From \"Satyameva Jayate 2\") - Single",
+    "singers": [
+      "Jubin Nautiyal, Neeti Mohan, Rochak Kohli & Nusrat Fateh Ali Khan"
+    ],
+    "artists": [
+      "Jubin Nautiyal, Neeti Mohan, Rochak Kohli & Nusrat Fateh Ali Khan"
+    ],
+    "composers": [
+      "Jubin Nautiyal, Neeti Mohan, Rochak Kohli & Nusrat Fateh Ali Khan"
+    ],
+    "lyricist": "Jubin Nautiyal, Neeti Mohan, Rochak Kohli & Nusrat Fateh Ali Khan",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/27/46/bc/2746bcd6-ed27-0274-cb2c-183a63b6be44/mzaf_16714521748151188439.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/46/55/70465530-8777-a3cf-407d-c76d2e23a5ed/8903431852731_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Meri Zindagi Hai Tu (From \"Satyameva Jayate 2\")",
+      "Meri Zindagi Hai Tu"
+    ]
+  },
+  {
+    "title": "Lut Gaye (feat. Emraan Hashmi)",
+    "movie": "Lut Gaye (feat. Emraan Hashmi) - Single",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/68/e6/0068e67b-cdb8-2d91-8b4b-95a44a014964/mzaf_9566492396252024088.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/43/71/ce437176-4d13-f380-e991-2492a2e63dc8/8903431805706_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lut Gaye (feat. Emraan Hashmi)",
+      "Lut Gaye (feat. Emraan Hashmi)"
+    ]
+  },
+  {
+    "title": "Dil Galti Kar Baitha Hai (feat. Mouni Roy)",
+    "movie": "Dil Galti Kar Baitha Hai (feat. Mouni Roy) - Single",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/db/11/db/db11dbb2-7db4-73e7-1fca-888d92897241/mzaf_10744435469838866742.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/a4/ab/5fa4abad-4e62-b798-cf1c-412e741f369b/8903431828279_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Galti Kar Baitha Hai (feat. Mouni Roy)",
+      "Dil Galti Kar Baitha Hai (feat. Mouni Roy)"
+    ]
+  },
+  {
+    "title": "Bedardi Se Pyaar Ka",
+    "movie": "Bedardi Se Pyaar Ka - Single",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e6/48/9e/e6489e33-85d1-c707-6421-d462ffab0785/mzaf_3522264863235780635.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/34/88/89348820-3e85-2c03-ce18-38d457cf4c8e/8903431817105_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bedardi Se Pyaar Ka",
+      "Bedardi Se Pyaar Ka"
+    ]
+  },
+  {
+    "title": "Nadiyon Paar (Let the Music Play Again)",
+    "movie": "Roohi",
+    "singers": [
+      "Sachin-Jigar, Rashmeet Kaur, Shamur & IP Singh"
+    ],
+    "artists": [
+      "Sachin-Jigar, Rashmeet Kaur, Shamur & IP Singh"
+    ],
+    "composers": [
+      "Sachin-Jigar, Rashmeet Kaur, Shamur & IP Singh"
+    ],
+    "lyricist": "Sachin-Jigar, Rashmeet Kaur, Shamur & IP Singh",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/c6/98/55c698db-d8a2-1dde-e2bc-09057b89138b/mzaf_5038799839562834833.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/4c/03/ff4c0326-1f06-018f-0f57-cacebe06ce23/886449144440.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nadiyon Paar (Let the Music Play Again)",
+      "Nadiyon Paar (Let the Music Play Again)"
+    ]
+  },
+  {
+    "title": "Barbaadiyan",
+    "movie": "Shiddat",
+    "singers": [
+      "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi & Sachin-Jigar"
+    ],
+    "artists": [
+      "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi & Sachin-Jigar"
+    ],
+    "composers": [
+      "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi & Sachin-Jigar"
+    ],
+    "lyricist": "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi & Sachin-Jigar",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/19/a2/a519a23e-e4cb-4a94-dcb9-94d51f42efc6/mzaf_15580189454303314087.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/70/c0/c670c0a6-ac32-9cb6-0dc4-1359e2e7f62a/8902894361408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Barbaadiyan",
+      "Barbaadiyan"
+    ]
+  },
+  {
+    "title": "Kalle Kalle",
+    "movie": "Kalle Kalle (From \"Chandigarh Kare Aashiqui\") - Single",
+    "singers": [
+      "Priya Saraiya & Sachin-Jigar"
+    ],
+    "artists": [
+      "Priya Saraiya & Sachin-Jigar"
+    ],
+    "composers": [
+      "Priya Saraiya & Sachin-Jigar"
+    ],
+    "lyricist": "Priya Saraiya & Sachin-Jigar",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e9/ca/a1/e9caa12b-9548-a3af-b97f-eb53a1c99c3a/mzaf_10336140270485752456.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/ea/42/35ea4215-3fb4-dfc2-80cc-915f1ec469dd/8903431856531_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kalle Kalle (From \"Chandigarh Kare Aashiqui\")",
+      "Kalle Kalle"
+    ]
+  },
+  {
+    "title": "Aashiqui Aa Gayi",
+    "movie": "Aashiqui Aa Gayi (From \"Radhe Shyam\") - Single",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9c/1d/7b/9c1d7bbb-cf70-3753-bff9-4b9bc508a70e/mzaf_1918213193850154220.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/b9/09/33b90987-783b-3d5c-d13a-aeab6d652af4/8903431857330_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
+      "Aashiqui Aa Gayi"
+    ]
+  },
+  {
+    "title": "Soch Liya",
+    "movie": "Radhe Shyam",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/62/e4/1762e45f-63ef-f8ab-f438-e4c0783bc200/mzaf_12342077984222876322.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/07/84/790784d7-27cd-2113-cd36-404f0d5ede58/8903431857323_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soch Liya",
+      "Soch Liya"
+    ]
+  },
+  {
+    "title": "Udd Jaa Parindey",
+    "movie": "Udd Jaa Parindey (From \"Radhe Shyam\") - Single",
+    "singers": [
+      "Mithoon & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Mithoon & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Mithoon & Jubin Nautiyal"
+    ],
+    "lyricist": "Mithoon & Jubin Nautiyal",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/fd/e9/ff/fde9ff02-f17b-aea6-dd6a-9676cd769bfc/mzaf_6238724980185816859.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/fc/11/56fc11cb-9368-d8f8-9514-426a4c7acfff/8903431858665_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Udd Jaa Parindey (From \"Radhe Shyam\")",
+      "Udd Jaa Parindey"
+    ]
+  },
+  {
+    "title": "Where Are You Now",
+    "movie": "Where Are You Now - Single",
+    "singers": [
+      "Lost Frequencies & Calum Scott"
+    ],
+    "artists": [
+      "Lost Frequencies & Calum Scott"
+    ],
+    "composers": [
+      "Lost Frequencies & Calum Scott"
+    ],
+    "lyricist": "Lost Frequencies & Calum Scott",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8a/af/fb8aaff1-10d0-8bc0-0339-88f1d3461e51/mzaf_11564294262882764378.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/79/2a/25792aaa-fe16-c718-27fa-c3b1781780fb/886449449668.jpg/400x400bb.jpg",
+    "aliases": [
+      "Where Are You Now",
+      "Where Are You Now"
+    ]
+  },
+  {
+    "title": "Drunk (And I Don't Wanna Go Home)",
+    "movie": "Drunk (And I Don't Wanna Go Home) - Single",
+    "singers": [
+      "Elle King & Miranda Lambert"
+    ],
+    "artists": [
+      "Elle King & Miranda Lambert"
+    ],
+    "composers": [
+      "Elle King & Miranda Lambert"
+    ],
+    "lyricist": "Elle King & Miranda Lambert",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/71/4c/3c714c4f-9cf7-1adc-878b-2a5d5ab1e887/mzaf_10001181688185712316.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c0/6a/2b/c06a2bb2-ed29-08ac-47b3-24884b3ddd79/886449013609.jpg/400x400bb.jpg",
+    "aliases": [
+      "Drunk (And I Don't Wanna Go Home)",
+      "Drunk (And I Don't Wanna Go Home)"
+    ]
+  },
+  {
+    "title": "Moth To A Flame",
+    "movie": "Moth To A Flame - Single",
+    "singers": [
+      "Swedish House Mafia & The Weeknd"
+    ],
+    "artists": [
+      "Swedish House Mafia & The Weeknd"
+    ],
+    "composers": [
+      "Swedish House Mafia & The Weeknd"
+    ],
+    "lyricist": "Swedish House Mafia & The Weeknd",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/33/d2/2633d2b9-58f1-f9c0-7b43-b9d5ab1e5005/mzaf_15573204222455676396.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Moth To A Flame",
+      "Moth To A Flame"
+    ]
+  },
+  {
+    "title": "Reckless",
+    "movie": "Reckless - Single",
+    "singers": [
+      "Madison Beer"
+    ],
+    "artists": [
+      "Madison Beer"
+    ],
+    "composers": [
+      "Madison Beer"
+    ],
+    "lyricist": "Madison Beer",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/ab/a4/d3aba47d-ba23-0805-60bb-a210e68f6100/mzaf_7898557933509496293.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/ca/80/02ca8087-dbf7-83fe-6c98-c0f936da3484/886449298617.jpg/400x400bb.jpg",
+    "aliases": [
+      "Reckless",
+      "Reckless"
+    ]
+  },
+  {
+    "title": "Main Hoon Na Tere Saath",
+    "movie": "Main Hoon Na Tere Saath (From \"Saina\") - Single",
+    "singers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "artists": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "composers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "lyricist": "Amaal Mallik & Armaan Malik",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a3/13/eb/a313eb70-aecd-21dd-4078-799b0f0c0c25/mzaf_322595788294543551.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/96/f4/3296f4b7-b219-b605-2271-97a68a3270db/8903431809254_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Hoon Na Tere Saath (From \"Saina\")",
+      "Main Hoon Na Tere Saath"
+    ]
+  },
+  {
+    "title": "Mujhe Pyaar Pyaar Hai",
+    "movie": "Mujhe Pyaar Pyaar Hai (From \"Bhoot Police\") - Single",
+    "singers": [
+      "Armaan Malik & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Armaan Malik & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Armaan Malik & Shreya Ghoshal"
+    ],
+    "lyricist": "Armaan Malik & Shreya Ghoshal",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/a5/6c/3aa56cf6-e5fb-9d64-6ad3-708b0a8490eb/mzaf_4342330955092243335.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/27/c6/fb27c621-addf-7ed6-9366-7157678c34fa/8901854067909.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mujhe Pyaar Pyaar Hai (From \"Bhoot Police\")",
+      "Mujhe Pyaar Pyaar Hai"
+    ]
+  },
+  {
+    "title": "Is Qadar",
+    "movie": "Is Qadar - Single",
+    "singers": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "artists": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "composers": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "lyricist": "Tulsi Kumar & Darshan Raval",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/42/b8/8e42b8e1-0f59-a452-853f-daf96cfeff91/mzaf_16743695546393197323.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/4d/23/c14d23f6-a2b7-050b-21a3-e709563a5277/8903431811349_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Is Qadar",
+      "Is Qadar"
+    ]
+  },
+  {
+    "title": "Tere Siva Jag Mein",
+    "movie": "Tadap",
+    "singers": [
+      "Pritam, Shilpa Rao, Darshan Raval, Shashwat Singh & Charan"
+    ],
+    "artists": [
+      "Pritam, Shilpa Rao, Darshan Raval, Shashwat Singh & Charan"
+    ],
+    "composers": [
+      "Pritam, Shilpa Rao, Darshan Raval, Shashwat Singh & Charan"
+    ],
+    "lyricist": "Pritam, Shilpa Rao, Darshan Raval, Shashwat Singh & Charan",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/8c/41/318c4119-4b84-5cb9-f2d3-7a625e46ff6e/mzaf_17155604777546501071.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/6d/81/956d819b-40af-07bf-bdad-0887f85794d0/8902894361439_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tere Siva Jag Mein",
+      "Tere Siva Jag Mein"
+    ]
+  },
+  {
+    "title": "Rabba Mehar Kari",
+    "movie": "Rabba Mehar Kari - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/55/20/6f55207b-0865-320f-2965-7c5d2f39135f/mzaf_6112271094314259305.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/10/1d/94101de3-fd18-7dce-7342-044470ae3a19/3616553143438.jpg/400x400bb.jpg",
+    "aliases": [
+      "Rabba Mehar Kari",
+      "Rabba Mehar Kari"
+    ]
+  },
+  {
+    "title": "Tera Naam",
+    "movie": "Tera Naam - Single",
+    "singers": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "artists": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "composers": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "lyricist": "Tulsi Kumar & Darshan Raval",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9d/41/28/9d412853-950e-3397-a4b2-08e655f9cb21/mzaf_14231909136708145251.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/5f/d4/de5fd40f-009c-4626-eade-3b301c7b5ff9/8903431828286_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tera Naam",
+      "Tera Naam"
+    ]
+  },
+  {
+    "title": "Baarish Ki Jaaye",
+    "movie": "Baarish Ki Jaaye - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/f3/6a/94f36add-508a-ff1f-53e0-0941775309a9/mzaf_13787292569569903900.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/c2/b2/6cc2b2de-b2a4-c603-8bbd-e7c9bdaaf568/21UMGIM22176.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Baarish Ki Jaaye",
+      "Baarish Ki Jaaye"
+    ]
+  },
+  {
+    "title": "Filhaal2 Mohabbat",
+    "movie": "Filhaal2 Mohabbat - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/36/dc/df36dc29-ac32-3639-ba28-4a68da3f4db7/mzaf_5719210803913264944.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/70/5e/02705e31-43ab-7329-ee29-e27a374e8723/21UMGIM59601.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Filhaal2 Mohabbat",
+      "Filhaal2 Mohabbat"
+    ]
+  },
+  {
+    "title": "Sach Keh Raha Hai",
+    "movie": "Sach Keh Raha Hai - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/d6/8d/20d68d06-8bea-f3f3-f1ed-ddedc3db6b9b/mzaf_14402732245723953716.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/bc/03/49bc0384-e141-b824-b619-75424a4dafa7/196292119060.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sach Keh Raha Hai",
+      "Sach Keh Raha Hai"
+    ]
+  },
+  {
+    "title": "Mazaa",
+    "movie": "Mazaa - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dd/ca/43/ddca439a-c560-b103-6d78-dda337ee111f/mzaf_16499585239903145368.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/eb/0a/0aeb0a71-57ae-2633-874e-46398f98ce05/196006198275.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mazaa",
+      "Mazaa"
+    ]
+  },
+  {
+    "title": "Teri Hogaiyaan 2",
+    "movie": "Broken but Beautiful Season 3",
+    "singers": [
+      "Vishal Mishra"
+    ],
+    "artists": [
+      "Vishal Mishra"
+    ],
+    "composers": [
+      "Vishal Mishra"
+    ],
+    "lyricist": "Vishal Mishra",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/3e/0e/fe3e0ea2-f6f5-f122-6c22-4655254100d9/mzaf_8627474348822041596.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/3c/e0/573ce0eb-3246-8ec5-f737-149a23f79aab/840214408229.png/400x400bb.jpg",
+    "aliases": [
+      "Teri Hogaiyaan 2",
+      "Teri Hogaiyaan 2"
+    ]
+  },
+  {
+    "title": "Roz Roz (feat. Shilpa Rao)",
+    "movie": "Roz Roz (feat. Shilpa Rao) - Single",
+    "singers": [
+      "The Yellow Diary"
+    ],
+    "artists": [
+      "The Yellow Diary"
+    ],
+    "composers": [
+      "The Yellow Diary"
+    ],
+    "lyricist": "The Yellow Diary",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/2a/c3/762ac3c2-ce61-ea68-2b3c-ef14a8ae2d61/mzaf_6538743869974903887.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/04/01/12040188-4924-6508-b5b9-40a5bf4360a1/886449040025.jpg/400x400bb.jpg",
+    "aliases": [
+      "Roz Roz (feat. Shilpa Rao)",
+      "Roz Roz (feat. Shilpa Rao)"
+    ]
+  },
+  {
+    "title": "Bach Ke Rehna (Red Notice)",
+    "movie": "Bach Ke Rehna (Red Notice) - Single",
+    "singers": [
+      "Badshah, DIVINE, Jonita Gandhi & Mikey McCleary"
+    ],
+    "artists": [
+      "Badshah, DIVINE, Jonita Gandhi & Mikey McCleary"
+    ],
+    "composers": [
+      "Badshah, DIVINE, Jonita Gandhi & Mikey McCleary"
+    ],
+    "lyricist": "Badshah, DIVINE, Jonita Gandhi & Mikey McCleary",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8e/3e/cc/8e3ecc3f-0d14-a273-970c-4f7b1794ca89/mzaf_11474587091267044449.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/23/8c/e8238cb2-1142-44c0-0425-0ab445fecd45/21UM1IM36253.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bach Ke Rehna (Red Notice)",
+      "Bach Ke Rehna (Red Notice)"
+    ]
+  },
+  {
+    "title": "Black & White",
+    "movie": "MoonChild Era",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/51/20/f55120a4-722e-fb05-c925-645e045cc892/mzaf_14344133666199467193.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Black & White",
+      "Black & White"
+    ]
+  },
+  {
+    "title": "Champagne",
+    "movie": "MoonChild Era",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/05/06/8d05067f-ada5-7850-e16f-26194fbb9dfc/mzaf_2763215140410071499.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/89/e4/8a89e445-d2c6-f8ac-a828-27818b0c1afe/859749638209_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Champagne",
+      "Champagne"
+    ]
+  },
+  {
+    "title": "Ni Jana (feat. Radhika Madan)",
+    "movie": "Ni Jana (feat. Radhika Madan) - Single",
+    "singers": [
+      "Jasleen Royal & Tm bax"
+    ],
+    "artists": [
+      "Jasleen Royal & Tm bax"
+    ],
+    "composers": [
+      "Jasleen Royal & Tm bax"
+    ],
+    "lyricist": "Jasleen Royal & Tm bax",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/5a/2e/f95a2e28-e266-55ae-8861-f831dda04150/mzaf_3476901803658822376.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/27/cc/0c27cc6b-b75c-6e90-51d8-00a893a78541/Ni-Jana-Final-Inlay.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ni Jana (feat. Radhika Madan)",
+      "Ni Jana (feat. Radhika Madan)"
+    ]
+  },
+  {
+    "title": "Holi Party Mix",
+    "movie": "Holi Party Mix - Single",
+    "singers": [
+      "DJ Raahul Pai, Deejay Rax, Ajay-Atul, Arko, Ashok Mastie, Badshah, DIVINE, DJ Chetas, DJ Khushi, Dub Sharma, Herbie Sahara, Ikka, Intense, Iyan Rose, Jasleen Royal, Javed Mohsin, Lijo George, Manj Musik, Meet Bros, Mumzy Stranger, QARAN, Raees, Ravi Wavhole, RDB, Sachin-Jigar, Shashi, Sukhbir, Tanishk Bagchi, Ullumanati, Vishal & Shekhar, Zain Sam, Aishwarya Bhandari, Amar Arshi, Asees Kaur, Benny Dayal, Deane Sequeira, Dev Negi, Dhvani Bhanushali, Diljit Dosanjh, Fazilpuria, Harrdy Sandhu, Harshdeep Kaur, Indeep Bakshi, Jass Zaildar, Jyotica Tangri, Kanika Kapoor, Kavita Raam, Khushboo Grewal, Lisa Mishra, Madhubanti, Mellow D, Mohsin Shaikh, Navv Inder, Neeti Mohan, Neha Kakkar, Nikhita Gandhi, Pawni Pandey, Payal Dev, Raja Kumari, Ranveer Singh, Pravesh Mallick, Shekhar Ravjiani, Shraddha Pandit, Siddharth Mahadevan, Viruss, Yasser Desai, Yo Yo Honey Singh & Prem & Hardeep"
+    ],
+    "artists": [
+      "DJ Raahul Pai, Deejay Rax, Ajay-Atul, Arko, Ashok Mastie, Badshah, DIVINE, DJ Chetas, DJ Khushi, Dub Sharma, Herbie Sahara, Ikka, Intense, Iyan Rose, Jasleen Royal, Javed Mohsin, Lijo George, Manj Musik, Meet Bros, Mumzy Stranger, QARAN, Raees, Ravi Wavhole, RDB, Sachin-Jigar, Shashi, Sukhbir, Tanishk Bagchi, Ullumanati, Vishal & Shekhar, Zain Sam, Aishwarya Bhandari, Amar Arshi, Asees Kaur, Benny Dayal, Deane Sequeira, Dev Negi, Dhvani Bhanushali, Diljit Dosanjh, Fazilpuria, Harrdy Sandhu, Harshdeep Kaur, Indeep Bakshi, Jass Zaildar, Jyotica Tangri, Kanika Kapoor, Kavita Raam, Khushboo Grewal, Lisa Mishra, Madhubanti, Mellow D, Mohsin Shaikh, Navv Inder, Neeti Mohan, Neha Kakkar, Nikhita Gandhi, Pawni Pandey, Payal Dev, Raja Kumari, Ranveer Singh, Pravesh Mallick, Shekhar Ravjiani, Shraddha Pandit, Siddharth Mahadevan, Viruss, Yasser Desai, Yo Yo Honey Singh & Prem & Hardeep"
+    ],
+    "composers": [
+      "DJ Raahul Pai, Deejay Rax, Ajay-Atul, Arko, Ashok Mastie, Badshah, DIVINE, DJ Chetas, DJ Khushi, Dub Sharma, Herbie Sahara, Ikka, Intense, Iyan Rose, Jasleen Royal, Javed Mohsin, Lijo George, Manj Musik, Meet Bros, Mumzy Stranger, QARAN, Raees, Ravi Wavhole, RDB, Sachin-Jigar, Shashi, Sukhbir, Tanishk Bagchi, Ullumanati, Vishal & Shekhar, Zain Sam, Aishwarya Bhandari, Amar Arshi, Asees Kaur, Benny Dayal, Deane Sequeira, Dev Negi, Dhvani Bhanushali, Diljit Dosanjh, Fazilpuria, Harrdy Sandhu, Harshdeep Kaur, Indeep Bakshi, Jass Zaildar, Jyotica Tangri, Kanika Kapoor, Kavita Raam, Khushboo Grewal, Lisa Mishra, Madhubanti, Mellow D, Mohsin Shaikh, Navv Inder, Neeti Mohan, Neha Kakkar, Nikhita Gandhi, Pawni Pandey, Payal Dev, Raja Kumari, Ranveer Singh, Pravesh Mallick, Shekhar Ravjiani, Shraddha Pandit, Siddharth Mahadevan, Viruss, Yasser Desai, Yo Yo Honey Singh & Prem & Hardeep"
+    ],
+    "lyricist": "DJ Raahul Pai, Deejay Rax, Ajay-Atul, Arko, Ashok Mastie, Badshah, DIVINE, DJ Chetas, DJ Khushi, Dub Sharma, Herbie Sahara, Ikka, Intense, Iyan Rose, Jasleen Royal, Javed Mohsin, Lijo George, Manj Musik, Meet Bros, Mumzy Stranger, QARAN, Raees, Ravi Wavhole, RDB, Sachin-Jigar, Shashi, Sukhbir, Tanishk Bagchi, Ullumanati, Vishal & Shekhar, Zain Sam, Aishwarya Bhandari, Amar Arshi, Asees Kaur, Benny Dayal, Deane Sequeira, Dev Negi, Dhvani Bhanushali, Diljit Dosanjh, Fazilpuria, Harrdy Sandhu, Harshdeep Kaur, Indeep Bakshi, Jass Zaildar, Jyotica Tangri, Kanika Kapoor, Kavita Raam, Khushboo Grewal, Lisa Mishra, Madhubanti, Mellow D, Mohsin Shaikh, Navv Inder, Neeti Mohan, Neha Kakkar, Nikhita Gandhi, Pawni Pandey, Payal Dev, Raja Kumari, Ranveer Singh, Pravesh Mallick, Shekhar Ravjiani, Shraddha Pandit, Siddharth Mahadevan, Viruss, Yasser Desai, Yo Yo Honey Singh & Prem & Hardeep",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a1/09/2c/a1092c35-e7b8-8c5e-9ff4-686622b4aaea/mzaf_16012425889282863329.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/42/12/65421297-e37a-67b5-6635-3c9eb8bd0c57/840214403224.png/400x400bb.jpg",
+    "aliases": [
+      "Holi Party Mix",
+      "Holi Party Mix"
+    ]
+  },
+  {
+    "title": "Gul",
+    "movie": "Gul - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/04/aa/9f04aa53-bf66-9c2f-796c-811afa2c7e3c/mzaf_17535530167993479743.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/4a/f7/7a4af7ac-fc6c-7c8c-83fd-ff3d6fbd08a5/23UM1IM11084.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gul",
+      "Gul"
+    ]
+  },
+  {
+    "title": "Life Goes On",
+    "movie": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+    "singers": [
+      "Oliver Tree"
+    ],
+    "artists": [
+      "Oliver Tree"
+    ],
+    "composers": [
+      "Oliver Tree"
+    ],
+    "lyricist": "Oliver Tree",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/ad/ea/05adea69-d9fc-4544-10fd-3ca9d17009d6/mzaf_13316775873118712266.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b0/b5/17/b0b517a1-b03c-534d-b634-7166aaac869d/075679780621.jpg/400x400bb.jpg",
+    "aliases": [
+      "Life Goes On",
+      "Life Goes On"
+    ]
+  },
+  {
+    "title": "Lossless (Spa)",
+    "movie": "Lossless - EP",
+    "singers": [
+      "Oleyan"
+    ],
+    "artists": [
+      "Oleyan"
+    ],
+    "composers": [
+      "Oleyan"
+    ],
+    "lyricist": "Oleyan",
+    "releaseYear": 2021,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fe/b5/3f/feb53ffb-0b67-328e-eea2-edcef507aa88/mzaf_10387673067567926584.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/7b/96/7e7b962d-c272-05f8-53aa-c9cb3d16715f/196166171934.png/400x400bb.jpg",
+    "aliases": [
+      "Lossless (Spa)",
+      "Lossless (Spa)"
     ]
   },
   {
@@ -14221,7 +18865,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/f9/9d/a1f99d41-5eef-5582-91cf-f736785bb50d/mzaf_3719136422755797336.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/08/19/a00819ba-c2a2-f071-d3e1-c50ed53b4a21/20UMGIM07555.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -14248,7 +18892,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/78/fb/c378fbd8-9b48-6864-ba34-e958b5115518/mzaf_968631921378081963.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/a2/80/01a2808f-8a15-fc76-235b-8e315085dc10/093624884538.jpg/400x400bb.jpg",
     "aliases": [
@@ -14275,7 +18919,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/12/41/38124195-4bd9-1fc7-fe40-f793ee38d163/mzaf_14837378210736189248.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14302,7 +18946,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/cf/c7/5acfc710-72c4-1e94-48f6-e6fc16027ce7/mzaf_840494307773623293.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/0f/81/8c0f81f2-9f10-5e3d-b9de-5961a73e8e52/195081078724.jpg/400x400bb.jpg",
     "aliases": [
@@ -14329,7 +18973,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/58/34/425834d8-3abb-d6d8-1371-b087bbbd6af9/mzaf_16765080174863500283.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5b/fb/65/5bfb6522-8592-8884-6ed4-54219b841305/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14356,7 +19000,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/12/48/ae12482e-d62a-9013-bdbc-0f0f8f638357/mzaf_5940478263765495268.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/f2/dc/a3f2dc29-fc54-07bb-8f9c-2a3936d21a5d/886448363347.jpg/400x400bb.jpg",
     "aliases": [
@@ -14383,7 +19027,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/31/9c/83/319c83e7-ffb4-4b14-3272-9096ccf34a5e/mzaf_10081372625935483695.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/7c/83/017c83d8-538a-f824-3389-6b40204eba55/23UM1IM21044.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -14410,7 +19054,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/53/c1/09/53c10950-aa94-1176-5865-0445dc19205d/mzaf_10649070944251105458.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/ca/ef/a7caef92-8fe6-8df9-4834-a026c2f861ec/00_Cover_Art.jpg/400x400bb.jpg",
     "aliases": [
@@ -14437,7 +19081,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/fb/18/7d/fb187dd4-296f-d77c-af0a-c20c2f9f54f9/mzaf_13252534993359006037.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/ad/ce/dcadce85-491e-465c-8a1d-2b5f7cef21b1/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -14464,7 +19108,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/74/69/977469be-a9d5-35a7-80ad-ebe12a799ccc/mzaf_804867738726203367.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/a3/ac/26a3ac64-69e4-95ec-80ab-1f5a477537d2/859742042973_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14491,7 +19135,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/d4/ad/fad4ad58-7bbd-315e-654c-e9cb2ac8e1d2/mzaf_9396226023061567977.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/cb/38/0ecb38c4-a96a-a24b-e874-2f5ef1be2f5a/8903431768636_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14518,7 +19162,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/f5/69/36f5690d-6640-31da-87ad-c07c07a2ac3b/mzaf_536337132516718278.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/7d/29/9b7d29e5-fc85-e01e-0d02-be005fe58a25/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14545,7 +19189,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/76/10/2376109d-960f-5238-d0c2-a3f31b876477/mzaf_3424759630146198062.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/4d/ed/c64ded15-9cd9-4bd7-a3ea-051178b2427d/195497234301.jpg/400x400bb.jpg",
     "aliases": [
@@ -14572,7 +19216,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/8e/ca/a18eca99-9cc0-0f39-7656-5df3e1cb28a4/mzaf_3866910258675061847.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5a/04/ae/5a04ae95-ac26-43e4-57d0-1aabc7bf0442/8902894361101_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14599,7 +19243,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/df/ec/d6dfec31-9e8f-1b2f-1a8f-031e455efa94/mzaf_6288097722512789484.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ce/46/45/ce46450c-38d4-431d-302f-c8ed2fc8aa50/849320060208.png/400x400bb.jpg",
     "aliases": [
@@ -14626,7 +19270,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/04/09/df04095f-f6db-b0e6-c8f8-e87656c67ef0/mzaf_17390678566376122248.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/d6/6f/c0d66f11-5336-c52a-87e0-05262ff4da00/1941570521146.jpg/400x400bb.jpg",
     "aliases": [
@@ -14653,7 +19297,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2b/cd/2b/2bcd2be7-fe9b-8282-a912-1304235f1d32/mzaf_10365892543777615518.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/34/12/78/34127801-ad2b-4469-4916-d661bba34a94/20UMGIM71875.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -14680,7 +19324,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/14/24/8d1424cd-6046-8148-456f-908d37ab7a29/mzaf_2518440040627256848.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/a9/36/8ba936f3-2d8b-1012-89cc-92f75eb76961/886448289180.jpg/400x400bb.jpg",
     "aliases": [
@@ -14707,7 +19351,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/25/04/9525045e-5335-b038-b28d-8213357c8b16/mzaf_17220005341531444325.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/72/94/aa72943f-a13e-c717-d184-c4081da11129/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14734,7 +19378,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/68/d6/e2/68d6e211-a7a1-45c3-7a4b-8781329618cc/mzaf_12265783486576125732.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/85/ff/ae85ff8f-7d97-81b3-804c-68b67e517b8c/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14761,7 +19405,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b4/63/ec/b463ec61-9545-ef4e-691d-e1dfd39cc13b/mzaf_12339632763005098452.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/8d/50/cb8d50a4-9f34-1277-f55e-dbf5b8c371c0/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14788,7 +19432,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/4e/61/774e61c0-3c16-872e-eaa7-064d675a78dd/mzaf_17310521225411097984.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/dc/2c/cbdc2c8c-77b1-0e4e-4b07-aa7dcd0aae9f/810059342392_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14815,7 +19459,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/04/29/4904293d-499d-564b-ca28-6d795b8c5500/mzaf_14120396645489817270.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/ac/72/0bac72a3-72e6-0856-922d-34405c25eada/8902894361125_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14842,7 +19486,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f7/3f/7a/f73f7a86-2b79-d61d-7707-add9e12f4509/mzaf_14531321204181193272.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/ac/72/0bac72a3-72e6-0856-922d-34405c25eada/8902894361125_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14869,7 +19513,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/39/e9/3d/39e93d1b-c14a-2186-0bb5-d455c2d0666a/mzaf_9142184625326281897.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/31/f0/8631f067-dc5a-34c8-c4bc-6ce0706ac416/3502356666888_Cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14896,7 +19540,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/90/5f/af/905faf63-80d6-018f-5af1-abd9c71eb8b2/mzaf_13732595383755034548.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/3d/ce/683dce76-734c-a97d-45e1-23b0a04a8d5e/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14923,7 +19567,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/25/62/84/2562847b-dc35-4057-852d-165e34a422fb/mzaf_1952637297266566462.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/74/5a/15/745a1553-3bed-5907-757b-400eb41d6636/8903431786890_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14950,7 +19594,7 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/15/4a/fa/154afa6b-4036-faf2-389d-162d023d362e/mzaf_4536901326164485882.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a7/fa/c0/a7fac083-262c-9ff3-1162-003df8da6cab/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -14977,12 +19621,1254 @@ module.exports = [
       "Bollywood",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/84/c8/e884c82f-7136-54d8-6754-6b45c6968f29/mzaf_11726474689882106813.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/47/ac/4747ac85-1658-64ae-bc82-220a4d6213d5/859747478890_cover.jpg/400x400bb.jpg",
     "aliases": [
       "Excuses",
       "Excuses"
+    ]
+  },
+  {
+    "title": "Shayad",
+    "movie": "Shayad (From \"Love Aaj Kal\") - Single",
+    "singers": [
+      "Pritam & Arijit Singh"
+    ],
+    "artists": [
+      "Pritam & Arijit Singh"
+    ],
+    "composers": [
+      "Pritam & Arijit Singh"
+    ],
+    "lyricist": "Pritam & Arijit Singh",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/08/d6/6908d60e-563f-5d07-9bb5-737c9d90b59d/mzaf_9263362903198979589.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/7c/9e/4d7c9e55-4ed7-ee60-83c8-49bc452227b3/886448257929.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shayad (From \"Love Aaj Kal\")",
+      "Shayad"
+    ]
+  },
+  {
+    "title": "HEARTBREAK ANNIVERSARY",
+    "movie": "HEARTBREAK ANNIVERSARY - Single",
+    "singers": [
+      "GIVĒON"
+    ],
+    "artists": [
+      "GIVĒON"
+    ],
+    "composers": [
+      "GIVĒON"
+    ],
+    "lyricist": "GIVĒON",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/60/33/94603392-2593-5774-0130-f874074fdd6e/mzaf_11055143639753501022.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/89/1b/51891b63-e1cd-bda7-9473-31fb6b473040/886448298816.jpg/400x400bb.jpg",
+    "aliases": [
+      "HEARTBREAK ANNIVERSARY",
+      "HEARTBREAK ANNIVERSARY"
+    ]
+  },
+  {
+    "title": "Yeh Dooriyan",
+    "movie": "Love Aaj Kal",
+    "singers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "artists": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "composers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "lyricist": "Pritam & Mohit Chauhan",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/bd/d3/dcbdd345-5af5-6712-f824-f4baa79e881f/mzaf_10402002143275011982.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3a/63/653a634d-0193-c0f2-5d20-f3a3940ff21e/886448303862.jpg/400x400bb.jpg",
+    "aliases": [
+      "Yeh Dooriyan",
+      "Yeh Dooriyan"
+    ]
+  },
+  {
+    "title": "Taare Ginn",
+    "movie": "Dil Bechara",
+    "singers": [
+      "A.R. Rahman, Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "artists": [
+      "A.R. Rahman, Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "composers": [
+      "A.R. Rahman, Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "lyricist": "A.R. Rahman, Mohit Chauhan & Shreya Ghoshal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/fd/10/33fd1042-dee2-9ac4-a0ca-afff9963770c/mzaf_15712232048986076070.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/21/78/0e217886-b262-3ed2-ae72-c2c9fbf35e85/886448629870.jpg/400x400bb.jpg",
+    "aliases": [
+      "Taare Ginn",
+      "Taare Ginn"
+    ]
+  },
+  {
+    "title": "Masakali 2.0",
+    "movie": "Masakali 2.0 - Single",
+    "singers": [
+      "Tulsi Kumar, Sachet Tandon & Mohit Chauhan"
+    ],
+    "artists": [
+      "Tulsi Kumar, Sachet Tandon & Mohit Chauhan"
+    ],
+    "composers": [
+      "Tulsi Kumar, Sachet Tandon & Mohit Chauhan"
+    ],
+    "lyricist": "Tulsi Kumar, Sachet Tandon & Mohit Chauhan",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/d4/e6/78d4e672-f8df-3fdc-7a15-edcae5b6053e/mzaf_11650387327687019877.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f6/3b/89/f63b89e7-5333-0489-2858-987d7c4c65d4/8903431773319_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Masakali 2.0",
+      "Masakali 2.0"
+    ]
+  },
+  {
+    "title": "Shri Krishna Govind Hare Murari",
+    "movie": "Shri Krishna Govind Hare Murari - Single",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b3/0d/d1/b30dd1fa-6b3f-5ffb-c19e-39fc6275c5ce/mzaf_810935247506786245.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/8c/f8/5c8cf818-1c64-fcda-133e-9eda875d3a94/8903431782021_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shri Krishna Govind Hare Murari",
+      "Shri Krishna Govind Hare Murari"
+    ]
+  },
+  {
+    "title": "Nayan",
+    "movie": "Nayan - Single",
+    "singers": [
+      "Dhvani Bhanushali & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Dhvani Bhanushali & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Dhvani Bhanushali & Jubin Nautiyal"
+    ],
+    "lyricist": "Dhvani Bhanushali & Jubin Nautiyal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f0/c9/f3/f0c9f31b-5b37-3629-0e93-59e05ef04f36/mzaf_1864021807022458108.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/0d/10/3e0d103f-498b-de10-4b44-4279ff435137/8903431796769_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nayan",
+      "Nayan"
+    ]
+  },
+  {
+    "title": "Taaron Ke Shehar",
+    "movie": "Taaron Ke Shehar - Single",
+    "singers": [
+      "Neha Kakkar & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Neha Kakkar & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Neha Kakkar & Jubin Nautiyal"
+    ],
+    "lyricist": "Neha Kakkar & Jubin Nautiyal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3c/6c/ff/3c6cff09-5cec-8c56-50b3-d51c76f81b6c/mzaf_1287606717602899736.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/47/0c/ae/470caec0-7fb0-1aa8-481c-f1e765b6edb2/8903431787439_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Taaron Ke Shehar",
+      "Taaron Ke Shehar"
+    ]
+  },
+  {
+    "title": "Kudi Nu Nachne De",
+    "movie": "Kudi Nu Nachne De (From \"Angrezi Medium\") - Single",
+    "singers": [
+      "Vishal Dadlani & Sachin-Jigar"
+    ],
+    "artists": [
+      "Vishal Dadlani & Sachin-Jigar"
+    ],
+    "composers": [
+      "Vishal Dadlani & Sachin-Jigar"
+    ],
+    "lyricist": "Vishal Dadlani & Sachin-Jigar",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/c2/de/14c2deef-6448-bfed-769b-4fd57ace2b45/mzaf_12036716285233842579.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/da/89/5d/da895de0-336d-206b-a192-eb56993ac457/8903431771230_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kudi Nu Nachne De (From \"Angrezi Medium\")",
+      "Kudi Nu Nachne De"
+    ]
+  },
+  {
+    "title": "Lagdi Lahore Di",
+    "movie": "Lagdi Lahore Di (From \"Street Dancer 3D\") - Single",
+    "singers": [
+      "Guru Randhawa, Tulsi Kumar & Sachin-Jigar"
+    ],
+    "artists": [
+      "Guru Randhawa, Tulsi Kumar & Sachin-Jigar"
+    ],
+    "composers": [
+      "Guru Randhawa, Tulsi Kumar & Sachin-Jigar"
+    ],
+    "lyricist": "Guru Randhawa, Tulsi Kumar & Sachin-Jigar",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/7f/6f/407f6fb9-582c-6a4d-5465-36e15e4a4ebc/mzaf_13988885261196530802.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/ec/e1/c6ece16e-70ea-60ab-9609-c69a917de79b/8903431765154_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lagdi Lahore Di (From \"Street Dancer 3D\")",
+      "Lagdi Lahore Di"
+    ]
+  },
+  {
+    "title": "Moti Veraana",
+    "movie": "Moti Veraana - Single",
+    "singers": [
+      "Amit Trivedi & Osman Mir"
+    ],
+    "artists": [
+      "Amit Trivedi & Osman Mir"
+    ],
+    "composers": [
+      "Amit Trivedi & Osman Mir"
+    ],
+    "lyricist": "Amit Trivedi & Osman Mir",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/d9/51/c6d9517d-53db-66be-33a4-3403889db0d1/mzaf_18377128726813836455.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/7a/48/1a7a488a-dec5-e83c-bbe2-0d5e968f6e4f/820233193979.jpg/400x400bb.jpg",
+    "aliases": [
+      "Moti Veraana",
+      "Moti Veraana"
+    ]
+  },
+  {
+    "title": "Jaan Ban Gaye",
+    "movie": "Khuda Haafiz - EP",
+    "singers": [
+      "Mithoon, Vishal Mishra & Asees Kaur"
+    ],
+    "artists": [
+      "Mithoon, Vishal Mishra & Asees Kaur"
+    ],
+    "composers": [
+      "Mithoon, Vishal Mishra & Asees Kaur"
+    ],
+    "lyricist": "Mithoon, Vishal Mishra & Asees Kaur",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2e/f1/37/2ef13747-be9f-0ced-ebce-3c0356596d4a/mzaf_3559882409919622792.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/65/df/2365df8c-6dda-8cd1-af39-9a48b5439bbb/840780183179.png/400x400bb.jpg",
+    "aliases": [
+      "Jaan Ban Gaye",
+      "Jaan Ban Gaye"
+    ]
+  },
+  {
+    "title": "Chal Ghar Chalen",
+    "movie": "Chal Ghar Chalen (From \"Malang - Unleash the Madness\") [feat. Arijit Singh] - Single",
+    "singers": [
+      "Mithoon"
+    ],
+    "artists": [
+      "Mithoon"
+    ],
+    "composers": [
+      "Mithoon"
+    ],
+    "lyricist": "Mithoon",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/9f/be/299fbe45-21d2-75d1-4b3c-09033071436e/mzaf_1079287424277211302.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/64/7b/e1647b3f-e33d-f296-e31e-4155b0e6de5f/8903431764843_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chal Ghar Chalen (From \"Malang - Unleash the Madness\") [feat. Arijit Singh]",
+      "Chal Ghar Chalen"
+    ]
+  },
+  {
+    "title": "Chal Ghar Chalen (feat. Arijit Singh)",
+    "movie": "Malang - Unleash the Madness",
+    "singers": [
+      "Mithoon"
+    ],
+    "artists": [
+      "Mithoon"
+    ],
+    "composers": [
+      "Mithoon"
+    ],
+    "lyricist": "Mithoon",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/03/06/550306da-b30b-5ba0-78ca-93e4df0aa0af/mzaf_681164445319275181.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/7a/54/5b7a54cb-e127-f771-470e-f186486a5ae4/8902894361095_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chal Ghar Chalen (feat. Arijit Singh)",
+      "Chal Ghar Chalen (feat. Arijit Singh)"
+    ]
+  },
+  {
+    "title": "The Good Ones",
+    "movie": "Goldmine",
+    "singers": [
+      "Gabby Barrett"
+    ],
+    "artists": [
+      "Gabby Barrett"
+    ],
+    "composers": [
+      "Gabby Barrett"
+    ],
+    "lyricist": "Gabby Barrett",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/f3/19/2af31959-f1ab-173d-921c-f34a0f262542/mzaf_1029448840541383890.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/24/a3/4c24a36c-cbba-2c19-86ed-1b2df12e8730/093624893301.jpg/400x400bb.jpg",
+    "aliases": [
+      "The Good Ones",
+      "The Good Ones"
+    ]
+  },
+  {
+    "title": "MIDDLE OF THE NIGHT",
+    "movie": "MIDDLE OF THE NIGHT - Single",
+    "singers": [
+      "Elley Duhé"
+    ],
+    "artists": [
+      "Elley Duhé"
+    ],
+    "composers": [
+      "Elley Duhé"
+    ],
+    "lyricist": "Elley Duhé",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/c6/c5/9ec6c5ce-022d-8bbd-0de1-534d8362fe11/mzaf_12030472432441091994.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/03/cb/6403cb43-d892-4663-d759-5093b5ed610c/886448203087.jpg/400x400bb.jpg",
+    "aliases": [
+      "MIDDLE OF THE NIGHT",
+      "MIDDLE OF THE NIGHT"
+    ]
+  },
+  {
+    "title": "Bollywood Hits",
+    "movie": "Richard Hughes, Vol. 2",
+    "singers": [
+      "Richard Hughes"
+    ],
+    "artists": [
+      "Richard Hughes"
+    ],
+    "composers": [
+      "Richard Hughes"
+    ],
+    "lyricist": "Richard Hughes",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/83/56/3f83560e-4813-6f87-6c97-99e886ffb420/mzaf_14387615971921527219.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/df/e1/39dfe163-e6cf-0aaf-26b3-1bdca6da28f0/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bollywood Hits",
+      "Bollywood Hits"
+    ]
+  },
+  {
+    "title": "Mann Ki Dori",
+    "movie": "Gunjan Saxena: The Kargil Girl",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/48/eb/b248eb4d-c474-061c-5f3f-f6bbf5ed5122/mzaf_13849188867612356613.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/27/fb/c227fbe4-8edb-67df-25d0-55c46d6da288/840780183223.png/400x400bb.jpg",
+    "aliases": [
+      "Mann Ki Dori",
+      "Mann Ki Dori"
+    ]
+  },
+  {
+    "title": "Mera Intezaar Karna",
+    "movie": "Khuda Haafiz - EP",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/21/fc/3b21fc74-3bae-08f0-29eb-bacce47e2dc2/mzaf_3792700999342009160.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/65/df/2365df8c-6dda-8cd1-af39-9a48b5439bbb/840780183179.png/400x400bb.jpg",
+    "aliases": [
+      "Mera Intezaar Karna",
+      "Mera Intezaar Karna"
+    ]
+  },
+  {
+    "title": "Asal Mein",
+    "movie": "Asal Mein - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/f5/23/6df52345-2682-2986-2c84-0ab1e9502419/mzaf_16281333561581034128.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/09/bf/5709bf9a-b4d7-ced8-4caf-b4db488243bc/195081039534.jpg/400x400bb.jpg",
+    "aliases": [
+      "Asal Mein",
+      "Asal Mein"
+    ]
+  },
+  {
+    "title": "Ek Tarfa",
+    "movie": "Ek Tarfa - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/5b/17/9a5b17d3-0dfe-9ce0-e669-08602c2a0ec6/mzaf_12582180320701184225.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/82/4d/4e824d84-fe17-cb11-7bcf-9042bee82d8f/3616407249750.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ek Tarfa",
+      "Ek Tarfa"
+    ]
+  },
+  {
+    "title": "Mehrama",
+    "movie": "Love Aaj Kal",
+    "singers": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "artists": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "composers": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "lyricist": "Pritam, Darshan Raval & Antara Mitra",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/77/61/a9776118-aef5-c2bc-a163-2b38c6a60799/mzaf_4161788396921117820.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3a/63/653a634d-0193-c0f2-5d20-f3a3940ff21e/886448303862.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mehrama",
+      "Mehrama"
+    ]
+  },
+  {
+    "title": "Teri Aankhon Mein",
+    "movie": "Teri Aankhon Mein - Single",
+    "singers": [
+      "Darshan Raval & Neha Kakkar"
+    ],
+    "artists": [
+      "Darshan Raval & Neha Kakkar"
+    ],
+    "composers": [
+      "Darshan Raval & Neha Kakkar"
+    ],
+    "lyricist": "Darshan Raval & Neha Kakkar",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/d8/d9/51d8d962-59c3-7058-d6e6-b22ba15ed61a/mzaf_4237791113106828909.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/5b/8d/9a5b8d53-2ab6-e5e4-14dc-010bddc34d8e/8903431789099_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Teri Aankhon Mein",
+      "Teri Aankhon Mein"
+    ]
+  },
+  {
+    "title": "Tere Naal",
+    "movie": "Tere Naal - Single",
+    "singers": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "artists": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "composers": [
+      "Tulsi Kumar & Darshan Raval"
+    ],
+    "lyricist": "Tulsi Kumar & Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/79/58/06/7958067b-58db-510b-0eec-8fa9a6928930/mzaf_18336247073191072902.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/48/fd/44/48fd44a7-0192-e056-24e8-eb51ecce1dcf/8903431775481_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tere Naal",
+      "Tere Naal"
+    ]
+  },
+  {
+    "title": "Bhula Dunga",
+    "movie": "Bhula Dunga - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/0a/23/250a23dd-94a9-9fd9-a1e0-f979e1275bf1/mzaf_11787950441179259516.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/de/4e/5ade4e30-b116-eb83-6d3c-7e2cc582a4f7/3616404596581.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bhula Dunga",
+      "Bhula Dunga"
+    ]
+  },
+  {
+    "title": "Mujhe Peene Do",
+    "movie": "Mujhe Peene Do - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/50/71/a15071c3-03b9-0b00-0b93-b667ab48b60f/mzaf_16731961067142161598.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/b7/6e/c1b76e4e-5d92-ac2f-5868-0b1e4b50b117/3616409907672.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mujhe Peene Do",
+      "Mujhe Peene Do"
+    ]
+  },
+  {
+    "title": "Maa",
+    "movie": "Judaiyaan - EP",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/4b/68/9c4b680b-ed1d-7a92-e55b-48160a2c827f/mzaf_3384191765949294844.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/b2/98/9ab2981f-9e8b-c053-09f4-966297e53737/3616550245890.jpg/400x400bb.jpg",
+    "aliases": [
+      "Maa",
+      "Maa"
+    ]
+  },
+  {
+    "title": "Mehrama (Extended)",
+    "movie": "Love Aaj Kal",
+    "singers": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "artists": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "composers": [
+      "Pritam, Darshan Raval & Antara Mitra"
+    ],
+    "lyricist": "Pritam, Darshan Raval & Antara Mitra",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/6f/a2/806fa283-b0b7-8fa1-e68e-97289b096ffb/mzaf_7039940851957048323.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3a/63/653a634d-0193-c0f2-5d20-f3a3940ff21e/886448303862.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mehrama (Extended)",
+      "Mehrama (Extended)"
+    ]
+  },
+  {
+    "title": "Ek Tarfa - Reprise",
+    "movie": "Ek Tarfa - Reprise - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/29/23/5b292386-992b-ff73-629d-f3c74d6afc96/mzaf_15198401707068959915.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/58/e4/4d58e4c3-d986-648e-e267-9f423652af12/3616407839333.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ek Tarfa - Reprise",
+      "Ek Tarfa - Reprise"
+    ]
+  },
+  {
+    "title": "Dil Tod Ke",
+    "movie": "Dil Tod Ke - Single",
+    "singers": [
+      "Rochak Kohli & B. Praak"
+    ],
+    "artists": [
+      "Rochak Kohli & B. Praak"
+    ],
+    "composers": [
+      "Rochak Kohli & B. Praak"
+    ],
+    "lyricist": "Rochak Kohli & B. Praak",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/de/df/76dedfdc-17d6-87fc-d05e-e6944588a5ca/mzaf_14500261787180046311.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/20/db/7320db90-d4c6-87d7-2c60-56102db67682/8903431780997_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Tod Ke",
+      "Dil Tod Ke"
+    ]
+  },
+  {
+    "title": "Jannat",
+    "movie": "Jannat (From \"Sufna\") - Single",
+    "singers": [
+      "B. Praak & Jaani"
+    ],
+    "artists": [
+      "B. Praak & Jaani"
+    ],
+    "composers": [
+      "B. Praak & Jaani"
+    ],
+    "lyricist": "B. Praak & Jaani",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d3/3a/f7/d33af7b2-a437-d860-286f-c8b0a47d240a/mzaf_16770528022144384501.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e1/d5/8b/e1d58bba-ead1-4825-6184-5a6ec4b9d3fc/8902633304574.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jannat (From \"Sufna\")",
+      "Jannat"
+    ]
+  },
+  {
+    "title": "Kuch Bhi Ho Jaye",
+    "movie": "Kuch Bhi Ho Jaye - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/df/7d/d9/df7dd9cc-85ae-ba96-1bd5-c8430124f2c5/mzaf_9018222854402881954.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/f1/63/faf16370-ba00-031e-ffea-b17beb47aa5c/20UMGIM64329.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kuch Bhi Ho Jaye",
+      "Kuch Bhi Ho Jaye"
+    ]
+  },
+  {
+    "title": "Manjha",
+    "movie": "Manjha - Single",
+    "singers": [
+      "Vishal Mishra"
+    ],
+    "artists": [
+      "Vishal Mishra"
+    ],
+    "composers": [
+      "Vishal Mishra"
+    ],
+    "lyricist": "Vishal Mishra",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/1d/a3/e91da382-acb7-c1df-e1a5-f2a2f7db15fc/mzaf_9434896091980103643.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/7a/6c/b17a6c7e-ac70-c919-a120-6ebce39b383d/3616404272584_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Manjha",
+      "Manjha"
+    ]
+  },
+  {
+    "title": "Aaj Bhi",
+    "movie": "Aaj Bhi - Single",
+    "singers": [
+      "Vishal Mishra"
+    ],
+    "artists": [
+      "Vishal Mishra"
+    ],
+    "composers": [
+      "Vishal Mishra"
+    ],
+    "lyricist": "Vishal Mishra",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/a0/b5/9ca0b5c9-d2da-8013-cc16-b0b1cfc35d75/mzaf_1822243216764042126.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/85/84/7b/85847b73-12ea-929e-eef8-e3cc279e0d0a/20UMGIM20306.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aaj Bhi",
+      "Aaj Bhi"
+    ]
+  },
+  {
+    "title": "Garmi (feat. Varun Dhawan)",
+    "movie": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan) - Single",
+    "singers": [
+      "Badshah & Neha Kakkar"
+    ],
+    "artists": [
+      "Badshah & Neha Kakkar"
+    ],
+    "composers": [
+      "Badshah & Neha Kakkar"
+    ],
+    "lyricist": "Badshah & Neha Kakkar",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/02/3c/2d023c8e-482b-2035-6431-9d4cb0884277/mzaf_4548149122421813644.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/78/ad/4378ad8f-939a-2034-3bdc-9355e8cbf9ad/8903431762962_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
+      "Garmi (feat. Varun Dhawan)"
+    ]
+  },
+  {
+    "title": "Sawan Mein Lag Gayi Aag",
+    "movie": "Ginny Weds Sunny - EP",
+    "singers": [
+      "Mika Singh, Payal Dev, Neha Kakkar & Badshah"
+    ],
+    "artists": [
+      "Mika Singh, Payal Dev, Neha Kakkar & Badshah"
+    ],
+    "composers": [
+      "Mika Singh, Payal Dev, Neha Kakkar & Badshah"
+    ],
+    "lyricist": "Mika Singh, Payal Dev, Neha Kakkar & Badshah",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f9/f6/39/f9f63994-337c-5f29-044f-df14c85be190/mzaf_2902710391912692075.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/06/2f/fd/062ffde0-7f50-0952-8974-54e05ebf9238/886448792802.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sawan Mein Lag Gayi Aag",
+      "Sawan Mein Lag Gayi Aag"
+    ]
+  },
+  {
+    "title": "G.O.A.T.",
+    "movie": "G.O.A.T.",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/5c/57/ba5c5769-536b-1884-dfbf-5930cab13332/mzaf_7745269360294572986.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "G.O.A.T.",
+      "G.O.A.T."
+    ]
+  },
+  {
+    "title": "Sang Rahiyo (feat. Ujjwal Kashyap)",
+    "movie": "Sang Rahiyo (feat. Ujjwal Kashyap) - Single",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/df/fa/8adffa9d-79d4-c0c6-3c9e-963ffaafe4f0/mzaf_13631872917972282968.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/b7/51/9db751cf-c7c8-d8d6-3902-1069b145f30d/810059349636.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sang Rahiyo (feat. Ujjwal Kashyap)",
+      "Sang Rahiyo (feat. Ujjwal Kashyap)"
+    ]
+  },
+  {
+    "title": "Nit Nit",
+    "movie": "Nit Nit - Single",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/74/27/817427db-2aaa-502d-55e7-718c18dc22d4/mzaf_18000690397398144643.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/aa/78/59aa7895-afd4-2d76-5e92-199986bc60a1/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nit Nit",
+      "Nit Nit"
+    ]
+  },
+  {
+    "title": "Jaana (feat. Soundarya Jayachandran)",
+    "movie": "Mismatched: Season 1 (Music from the Netflix Original Series)",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1f/08/7d/1f087d1f-debf-8469-772d-a6894a6d5bf9/mzaf_17817670180294196250.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/8e/b9/ec8eb9d4-8279-1b45-bfe7-a877c061cc8a/8720205508577.png/400x400bb.jpg",
+    "aliases": [
+      "Jaana (feat. Soundarya Jayachandran)",
+      "Jaana (feat. Soundarya Jayachandran)"
+    ]
+  },
+  {
+    "title": "Jo Tum Mere Ho",
+    "movie": "Jo Tum Mere Ho - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/f0/ec/b8f0ecd5-79e2-dc95-f4ab-b4fdda3ab02d/mzaf_9450036655132036167.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jo Tum Mere Ho",
+      "Jo Tum Mere Ho"
+    ]
+  },
+  {
+    "title": "Alag Aasmaan",
+    "movie": "Alag Aasmaan - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/41/72/71417297-3022-6453-4932-6bdb30ec0abb/mzaf_17786896118775460174.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/3e/8b/fe3e8be2-dc7d-92e0-827c-dda09361f21d/23UM1IM18353.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Alag Aasmaan",
+      "Alag Aasmaan"
+    ]
+  },
+  {
+    "title": "Mishri",
+    "movie": "Mishri - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/85/fb/e485fb67-2f2a-baf5-c21b-68e44a511cc5/mzaf_12649309461408602012.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/ff/64/22ff64d0-9ef6-1d89-b4df-88531b761675/23UM1IM18504.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mishri",
+      "Mishri"
+    ]
+  },
+  {
+    "title": "Maula",
+    "movie": "Maula - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8f/e2/ad/8fe2ad78-9732-842d-7429-1715eeb836be/mzaf_12293360638816170513.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b1/9d/f6/b19df6ab-1529-a30b-ed03-86204838d1dc/23UM1IM18501.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Maula",
+      "Maula"
+    ]
+  },
+  {
+    "title": "Tu Aake Dekhle",
+    "movie": "The Carnival",
+    "singers": [
+      "King"
+    ],
+    "artists": [
+      "King"
+    ],
+    "composers": [
+      "King"
+    ],
+    "lyricist": "King",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/67/58/1a6758bc-4a21-66f0-53eb-251a8fe02823/mzaf_7835817333695150569.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/3b/99/f13b99e6-84f7-a5d8-1be7-e82ebcc6354f/3616408758275.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Aake Dekhle",
+      "Tu Aake Dekhle"
+    ]
+  },
+  {
+    "title": "Tu Aisa Kaise Hai?",
+    "movie": "Tu Aisa Kaise Hai? - Single",
+    "singers": [
+      "Osho Jain"
+    ],
+    "artists": [
+      "Osho Jain"
+    ],
+    "composers": [
+      "Osho Jain"
+    ],
+    "lyricist": "Osho Jain",
+    "releaseYear": 2020,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/4b/39/554b3953-9885-d21b-a36a-494e3ed8d5d5/mzaf_18266066217181279741.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/82/de/2482def7-5d12-7ce7-4536-269bb9c04629/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Aisa Kaise Hai?",
+      "Tu Aisa Kaise Hai?"
     ]
   },
   {
@@ -15005,7 +20891,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/99/fc/3699fc88-e169-3df9-0fdf-8ef05c26a271/mzaf_10059909333390794618.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/cf/70/66cf7012-98ed-b201-21ed-b1ee0e9ad26f/19UM1IM00155.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15033,7 +20919,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/9e/56/d29e5604-f966-2bc3-0fd5-a2916d799645/mzaf_3842927868942773290.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/cf/70/66cf7012-98ed-b201-21ed-b1ee0e9ad26f/19UM1IM00155.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15061,7 +20947,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/e0/8a/93e08a92-aeae-e8a0-8c4c-26ac30f65e24/mzaf_10665898337362285335.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/cf/70/66cf7012-98ed-b201-21ed-b1ee0e9ad26f/19UM1IM00155.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15089,7 +20975,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/e1/5a/dce15a0e-a394-620a-017b-1c0f378fe121/mzaf_15910311387944936261.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/cf/70/66cf7012-98ed-b201-21ed-b1ee0e9ad26f/19UM1IM00155.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15117,7 +21003,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/0e/ff/730effb3-ccb0-d1b3-c6f7-03c77125a894/mzaf_775905641853231920.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/cf/70/66cf7012-98ed-b201-21ed-b1ee0e9ad26f/19UM1IM00155.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15145,7 +21031,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/0b/96/fa0b96bb-ea69-7293-d4ad-f8aea033604a/mzaf_5654033881813110835.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/47/cf/3247cf88-9d55-ee47-c45e-0db86e64e59a/193483615998.jpg/400x400bb.jpg",
     "aliases": [
@@ -15173,7 +21059,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/12/dc/fc12dc52-1858-37e8-0d1c-c92c451966fa/mzaf_4173022242586725149.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/f7/3b/5df73b09-6b51-449d-beef-255bb8ac41e6/19UMGIM47919.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15201,7 +21087,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/45/66/2c456615-f3a2-caa5-c77e-9e353cafd12b/mzaf_10723518717244934099.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/5f/68/9a5f6836-b790-0578-d3c6-5562d66c3fd7/794043199820.jpg/400x400bb.jpg",
     "aliases": [
@@ -15229,7 +21115,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/77/54/117754b1-129a-7431-2ffb-8db82479f3b5/mzaf_6870052473641642647.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/5f/68/9a5f6836-b790-0578-d3c6-5562d66c3fd7/794043199820.jpg/400x400bb.jpg",
     "aliases": [
@@ -15257,7 +21143,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/51/14/e9/5114e9bf-ad24-90b4-7112-47d1e93ddb29/mzaf_7998593322528004746.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/81/73/46817351-2fef-99e8-34f9-26b3ddcc6b99/194491166793.jpg/400x400bb.jpg",
     "aliases": [
@@ -15285,7 +21171,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/8a/fe/938afe05-be42-e3ae-ccb0-874ce6da0b03/mzaf_1852842927368777472.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/03/a0/3603a004-3288-484c-9783-305ffebc91ba/849486006348_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15313,7 +21199,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/67/69/da67692c-8e6f-7ef1-ba30-7fb48fdae7b9/mzaf_5639533648778078727.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -15341,7 +21227,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/0f/54/960f54cd-cbe7-dc67-1a6a-02b2992a6126/mzaf_9533026102161185944.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9c/a3/1b/9ca31b12-2c5c-b426-d3c7-0aa2aa47dd3e/193483794433.jpg/400x400bb.jpg",
     "aliases": [
@@ -15369,7 +21255,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/4a/81/594a81ba-920d-456a-da96-8b3f997e6044/mzaf_14580053605975784267.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/7c/ad/1a7cad83-1ba3-e817-b492-ed66720a9f3c/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -15397,7 +21283,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/53/ce/9553cea4-24fd-2be3-3ace-968567780677/mzaf_13509021180756312262.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ba/10/11ba10a9-3580-f50f-073e-1671956a1d90/8718857674535.png/400x400bb.jpg",
     "aliases": [
@@ -15425,7 +21311,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/b7/b9/8eb7b96b-ce3b-98b8-4ed9-c0c9aff20960/mzaf_13167890250017028075.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15453,7 +21339,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/8e/74/f98e7496-ea83-eeb9-4c72-8908c02bb7f7/mzaf_2956503408456785522.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/21/79/122179b0-7642-df17-4e5a-23eab79263ce/886447943663.jpg/400x400bb.jpg",
     "aliases": [
@@ -15481,7 +21367,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/1e/4a/ac1e4a70-2e7b-60c3-4971-3cc09d38815b/mzaf_7284747758742989760.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/21/79/122179b0-7642-df17-4e5a-23eab79263ce/886447943663.jpg/400x400bb.jpg",
     "aliases": [
@@ -15509,7 +21395,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f1/9c/4b/f19c4b64-0347-afc5-b88c-5b2c3f48b1a0/mzaf_17596197404174098685.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/79/d0/9279d067-bb03-ec01-cd1d-e02feb37000d/8718857677994.png/400x400bb.jpg",
     "aliases": [
@@ -15537,7 +21423,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/32/9a/f6329a87-8c97-456e-f846-e21a32e1a7d2/mzaf_6701031211573849897.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a0/15/02/a01502f6-b502-68a4-c4ec-24d8d1dd9d6b/193483468457.jpg/400x400bb.jpg",
     "aliases": [
@@ -15565,7 +21451,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/26/ce/f626ce6b-6dad-3068-0096-eca0bc20c0ff/mzaf_12210478624546874724.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/05/b7/4305b7d9-58e4-6863-736f-a5e649e37aac/075679857323.jpg/400x400bb.jpg",
     "aliases": [
@@ -15593,7 +21479,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/26/87/35/26873548-2d76-3db6-9487-61932e7dee52/mzaf_4980793495429218135.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/43/72/ae4372da-a218-ce92-4e85-dcd761b4795f/29249.jpg/400x400bb.jpg",
     "aliases": [
@@ -15621,7 +21507,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/fb/67/93fb67c1-7de6-f062-21e0-ed4babc196a3/mzaf_8590895579211855037.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15649,7 +21535,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/d3/52/14d3523c-00d0-e1b8-231a-4bfaf4767eac/mzaf_11751897198375558437.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15677,7 +21563,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7e/f3/43/7ef34316-c0d1-4c3c-afc9-53716b8f3473/mzaf_13869194700915977502.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15705,7 +21591,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/b8/b4/24b8b4e2-039e-55d6-40e1-267943a72291/mzaf_9111524934721570834.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/f1/5c/07f15c32-67d9-243f-0cc1-527cd3e6fce2/19UMGIM38402.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15733,7 +21619,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/eb/fd/de/ebfddeae-934e-106e-30c8-41f7d74b4da7/mzaf_11906203369835390857.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/29/ca/1429caba-7071-26cb-ddb2-f4fb87aebe9c/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -15761,7 +21647,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/52/d0/c5/52d0c533-2d1d-76c5-b27e-0ba5455ac347/mzaf_4354179940018394406.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/4a/d7/044ad7ab-9077-68b6-81a5-0ed119a22da7/5050580718074.jpg/400x400bb.jpg",
     "aliases": [
@@ -15789,7 +21675,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/fb/bb/f7fbbbc7-94e1-2e9b-a92d-f631f6f0c192/mzaf_5893643702620770122.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15817,7 +21703,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/37/87/d4378792-2886-6832-4142-39d9584c527c/mzaf_5034561154529818766.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15845,7 +21731,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/c0/8d/0cc08d3f-baae-407c-680a-52116c13ae22/mzaf_1940138062482990327.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15873,7 +21759,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/9c/f8/bb9cf8c0-3fd0-c608-72ec-309b70a68aaf/mzaf_14163626377741303613.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15901,7 +21787,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/d3/8e/a7d38e28-eeb8-8dcc-8649-47962c08b059/mzaf_13772178829674826873.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/70/84/f6708434-0123-ff36-0ac3-7401e8cf0f94/8902894360807_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -15929,7 +21815,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/87/d0/4e87d0e6-4cfb-ac8a-9b35-b007f6c6a8bd/mzaf_14703076239447735930.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/17/df/2f/17df2ffe-56ff-a168-9f9b-82a045bf12c3/19UMGIM96294.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15957,7 +21843,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/29/65/3e2965a3-eef9-c513-952c-af55c8f57ed9/mzaf_17469689629727910482.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/fc/1d/34fc1d8d-62ad-4676-afe6-a85491cb88ff/19UMGIM70965.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -15985,7 +21871,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/f3/1d/c5f31d6d-124a-039c-1f14-3f4b3a129cfe/mzaf_8671061768074379206.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bd/16/12/bd161229-f5c7-d21d-caed-ed9302d52168/19UMGIM38391.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -16013,7 +21899,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/63/58/a1635896-5507-40f7-d6d4-bab46ff3dd67/mzaf_5279779209946689751.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16041,7 +21927,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/61/82/8a618261-11f0-bd4b-d31a-5d6e9e953e51/mzaf_5654836735473401834.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16069,7 +21955,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/87/1a/ee871a04-807f-de11-fc2c-7470206f5289/mzaf_5885409897607321653.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16097,7 +21983,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/1e/8d/161e8d40-7711-90d1-52e4-b18057219471/mzaf_12364951294792373340.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16125,7 +22011,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/f0/86/06f08682-88e3-188a-42ea-2c3d24b7f62f/mzaf_2179715539103692751.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16153,7 +22039,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/96/a3/4b96a3f1-ecb3-c1f1-ce92-80c440f6453f/mzaf_10802734169168733047.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16181,7 +22067,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/b8/ba/23b8bab9-9630-c5cd-308e-9c7421788ce6/mzaf_9590778645076478070.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16209,7 +22095,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/cf/fd/c8cffdc3-7eab-bc55-76d8-882ebef8e1a1/mzaf_15450080589674073727.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16237,7 +22123,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/0c/f3/c70cf39a-8890-c596-99f5-16313a481353/mzaf_3242527740245476656.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16265,7 +22151,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8b/db/92/8bdb92e9-1cf4-c3c5-3dac-5d5e07445f14/mzaf_16387579157983459721.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16293,7 +22179,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/85/63/068563fc-c3b4-676a-9cd2-a85ba74ac852/mzaf_13197841875599756614.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16321,7 +22207,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/71/db/0f71dbfd-5890-5346-250e-91427b444050/mzaf_9542321259567500874.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16349,7 +22235,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/d9/cf/29d9cf9a-0fbe-0f79-4a76-ee811e9635ec/mzaf_1082659699348505418.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/6b/f4/0c6bf433-0e9d-3770-6756-102f6c0701f6/1941570495447.png/400x400bb.jpg",
     "aliases": [
@@ -16377,7 +22263,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/ca/c7/53cac7e0-8549-64c6-848a-acdebca1d8ed/mzaf_2075445700272750137.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/d6/81/26d68151-2658-8ffc-49c9-34e67dbb8808/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -16405,7 +22291,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/c3/51/15c35168-e42b-a70a-dcdd-50368ec88819/mzaf_3442347534287808742.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16433,7 +22319,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/fa/99/befa9949-34ac-c784-d93a-f3bd79e3483b/mzaf_7411310168935634180.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16461,7 +22347,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/a4/8a/45a48a31-c733-0afd-a2e0-08c0c733c4f5/mzaf_13550425023196351819.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16489,7 +22375,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/36/52/8336522b-af6f-bab6-6dd4-d6eb2561a736/mzaf_13552807642676214549.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16517,7 +22403,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/27/b9/99/27b999ba-1bc7-fcfc-80e6-0c21d30a7180/mzaf_5680074721957717389.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5e/60/3a5e6034-8755-f0bf-d4f0-c7f96d3b45bb/8718857674948.png/400x400bb.jpg",
     "aliases": [
@@ -16545,7 +22431,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/48/a6/8c48a6b6-a447-a932-7029-d6ccd0a4cc33/mzaf_17385327606394586365.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/3e/6f/ac3e6fc0-97fa-b84e-a4ab-331eb5dfffea/8718857676171.png/400x400bb.jpg",
     "aliases": [
@@ -16573,7 +22459,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/bb/1b/fabb1b6c-ce8a-7b3b-c21c-0eee26803ee9/mzaf_8949371131566896614.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/f7/3b/5df73b09-6b51-449d-beef-255bb8ac41e6/19UMGIM47919.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -16601,7 +22487,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/68/79/66687969-7313-cd54-ef38-9aafc70291f1/mzaf_6084125319629311003.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/68/0e/8b/680e8bf5-29cd-55b0-7620-936b381814c1/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -16629,7 +22515,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/10/0f/53100fdb-b96a-f999-13a5-d6ec31b61aa2/mzaf_5220676456427505829.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/3f/0e/293f0e85-9d9b-f61a-6d41-bf96b26d8774/810059349759_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -16657,7 +22543,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/50/a2/7350a22e-c82f-5f73-a5ab-f6ebfaeb740b/mzaf_16018650222916631510.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/c6/13/fec61345-4a34-8056-aff4-77d7ee71fabf/SameBeef_Inlay-_Itunes.jpg/400x400bb.jpg",
     "aliases": [
@@ -16685,7 +22571,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/a7/b7/b5a7b7ef-971b-d6d8-da70-1883e1e8bfef/mzaf_1322083664366747997.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/ca/1e/c6ca1e73-8b2f-7f1f-f08c-c17f0e9bb7c3/3615936711189.jpg/400x400bb.jpg",
     "aliases": [
@@ -16713,12 +22599,1496 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/91/d9/7991d917-b871-3374-f3c3-d5e4c46ecfb4/mzaf_3193355086341368607.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/17/90/e9/1790e9d6-4ca5-6b86-33aa-a8394cf4ff86/886448047612.jpg/400x400bb.jpg",
     "aliases": [
       "B-Town (feat. Sunny Malton)",
       "B-Town (feat. Sunny Malton)"
+    ]
+  },
+  {
+    "title": "First Class",
+    "movie": "Kalank",
+    "singers": [
+      "Pritam, Arijit Singh & Neeti Mohan"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Neeti Mohan"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Neeti Mohan"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Neeti Mohan",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/b9/46/7eb946e1-1536-5a62-6880-d5ad078883d7/mzaf_6047904279819347529.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg",
+    "aliases": [
+      "First Class",
+      "First Class"
+    ]
+  },
+  {
+    "title": "Ghar More Pardesiya",
+    "movie": "Kalank",
+    "singers": [
+      "Shreya Ghoshal & Pritam"
+    ],
+    "artists": [
+      "Shreya Ghoshal & Pritam"
+    ],
+    "composers": [
+      "Shreya Ghoshal & Pritam"
+    ],
+    "lyricist": "Shreya Ghoshal & Pritam",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/60/80/9a6080be-7d09-efa8-3159-205a6446aa0d/mzaf_10170063406531518646.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg",
+    "aliases": [
+      "Ghar More Pardesiya",
+      "Ghar More Pardesiya"
+    ]
+  },
+  {
+    "title": "Slow Motion",
+    "movie": "Bharat",
+    "singers": [
+      "Shreya Ghoshal & Nakash Aziz"
+    ],
+    "artists": [
+      "Shreya Ghoshal & Nakash Aziz"
+    ],
+    "composers": [
+      "Shreya Ghoshal & Nakash Aziz"
+    ],
+    "lyricist": "Shreya Ghoshal & Nakash Aziz",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/2f/57/b92f5717-7b37-5a87-2b78-281d23637e14/mzaf_14666144876660835747.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/39/e2/3239e2fd-5cc1-404c-525c-c1d80be47b7b/8902894360784_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Slow Motion",
+      "Slow Motion"
+    ]
+  },
+  {
+    "title": "Tabaah Ho Gaye",
+    "movie": "Kalank",
+    "singers": [
+      "Pritam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Pritam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Pritam & Shreya Ghoshal"
+    ],
+    "lyricist": "Pritam & Shreya Ghoshal",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/32/f0/9632f09e-f0d7-6a8d-3237-7d060cbc2c38/mzaf_9620523506585837672.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg",
+    "aliases": [
+      "Tabaah Ho Gaye",
+      "Tabaah Ho Gaye"
+    ]
+  },
+  {
+    "title": "Wheels on the Bus",
+    "movie": "CoComelon Kids Hits, Vol. 1",
+    "singers": [
+      "CoComelon"
+    ],
+    "artists": [
+      "CoComelon"
+    ],
+    "composers": [
+      "CoComelon"
+    ],
+    "lyricist": "CoComelon",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/c6/21/fbc6217d-780e-0878-deee-a7f84d9d0821/mzaf_15412699993273463979.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/22/fe/e422fe9f-bf74-08af-8bc1-177da2ba6b99/21UMGIM74980.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Wheels on the Bus",
+      "Wheels on the Bus"
+    ]
+  },
+  {
+    "title": "Arcade",
+    "movie": "Arcade - Single",
+    "singers": [
+      "Duncan Laurence"
+    ],
+    "artists": [
+      "Duncan Laurence"
+    ],
+    "composers": [
+      "Duncan Laurence"
+    ],
+    "lyricist": "Duncan Laurence",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/b3/cc/15b3ccaa-677f-28b5-3510-04061ed18182/mzaf_11758228735769625497.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/40/9e/c5409e27-3f5d-9476-241d-ed8e7499ea38/19UMGIM20677.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Arcade",
+      "Arcade"
+    ]
+  },
+  {
+    "title": "BROWN SKIN GIRL",
+    "movie": "The Lion King: The Gift",
+    "singers": [
+      "Beyoncé, SAINt JHN, Wizkid & Blue Ivy Carter"
+    ],
+    "artists": [
+      "Beyoncé, SAINt JHN, Wizkid & Blue Ivy Carter"
+    ],
+    "composers": [
+      "Beyoncé, SAINt JHN, Wizkid & Blue Ivy Carter"
+    ],
+    "lyricist": "Beyoncé, SAINt JHN, Wizkid & Blue Ivy Carter",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/bc/ed/b4bceda2-43fd-4c3f-cf35-d43ecce3f43c/mzaf_12267642295017210038.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/20/73/aa207387-444f-b04d-9b7e-7ea6c687c15e/886447863329.jpg/400x400bb.jpg",
+    "aliases": [
+      "BROWN SKIN GIRL",
+      "BROWN SKIN GIRL"
+    ]
+  },
+  {
+    "title": "Tum Hi Aana",
+    "movie": "Tum Hi Aana (From \"Marjaavaan\") - Single",
+    "singers": [
+      "Payal Dev & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Payal Dev & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Payal Dev & Jubin Nautiyal"
+    ],
+    "lyricist": "Payal Dev & Jubin Nautiyal",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/19/d7/4019d7b5-a9c3-aaec-4b38-86915a31a621/mzaf_979360779686421772.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/68/79/17687955-0d5d-6c90-ef1a-4a956919fde1/8903431751287_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tum Hi Aana (From \"Marjaavaan\")",
+      "Tum Hi Aana"
+    ]
+  },
+  {
+    "title": "Phir Mulaaqat",
+    "movie": "Why Cheat India",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/d7/a5/4bd7a576-3512-c337-fac4-8a32faa2bfb0/mzaf_8099516091440153342.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/33/92/01/3392014b-ff4a-7419-834d-3925326afc4d/8902894360609_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Phir Mulaaqat",
+      "Phir Mulaaqat"
+    ]
+  },
+  {
+    "title": "Jai Jai Shivshankar",
+    "movie": "Jai Jai Shivshankar (From \"War\") - Single",
+    "singers": [
+      "Vishal Dadlani, Benny Dayal & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Vishal Dadlani, Benny Dayal & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Vishal Dadlani, Benny Dayal & Vishal & Shekhar"
+    ],
+    "lyricist": "Vishal Dadlani, Benny Dayal & Vishal & Shekhar",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/c7/5c/0cc75c3e-3f78-3498-5133-04d89833c30a/mzaf_15426877597222515596.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/4a/0c/294a0c9d-43a4-7338-f37a-a086af11b27d/Jai-Jai-Shivshankar-Audio-Cover-Hindi_-3000.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jai Jai Shivshankar (From \"War\")",
+      "Jai Jai Shivshankar"
+    ]
+  },
+  {
+    "title": "The Jawaani Song",
+    "movie": "Student of the Year 2",
+    "singers": [
+      "Vishal & Shekhar, Vishal Dadlani, Payal Dev & Kishore Kumar"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Vishal Dadlani, Payal Dev & Kishore Kumar"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Vishal Dadlani, Payal Dev & Kishore Kumar"
+    ],
+    "lyricist": "Vishal & Shekhar, Vishal Dadlani, Payal Dev & Kishore Kumar",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/d9/77/02d977b1-374b-a7de-172e-a803c17ec5dc/mzaf_1204073153705054218.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/9f/45/b29f4582-a1a2-ec02-ee7d-21bef3346547/8718857677529.png/400x400bb.jpg",
+    "aliases": [
+      "The Jawaani Song",
+      "The Jawaani Song"
+    ]
+  },
+  {
+    "title": "Fakira",
+    "movie": "Student of the Year 2",
+    "singers": [
+      "Vishal & Shekhar, Sanam Puri & Neeti Mohan"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Sanam Puri & Neeti Mohan"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Sanam Puri & Neeti Mohan"
+    ],
+    "lyricist": "Vishal & Shekhar, Sanam Puri & Neeti Mohan",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/43/de/2e43de6d-8347-233c-c55b-5e63180f453c/mzaf_11408243760072457560.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b2/9f/45/b29f4582-a1a2-ec02-ee7d-21bef3346547/8718857677529.png/400x400bb.jpg",
+    "aliases": [
+      "Fakira",
+      "Fakira"
+    ]
+  },
+  {
+    "title": "Don't Be Shy Again",
+    "movie": "Bala",
+    "singers": [
+      "Sachin-Jigar, Badshah, Shalmali Kholgade & Gurdeep Mehendi"
+    ],
+    "artists": [
+      "Sachin-Jigar, Badshah, Shalmali Kholgade & Gurdeep Mehendi"
+    ],
+    "composers": [
+      "Sachin-Jigar, Badshah, Shalmali Kholgade & Gurdeep Mehendi"
+    ],
+    "lyricist": "Sachin-Jigar, Badshah, Shalmali Kholgade & Gurdeep Mehendi",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6c/31/29/6c312983-6359-8100-8a87-5bb96fae326d/mzaf_5834389794958884606.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/9c/34/6e9c340c-1ca7-1d3a-6ec5-6c808360b42d/886448130949.jpg/400x400bb.jpg",
+    "aliases": [
+      "Don't Be Shy Again",
+      "Don't Be Shy Again"
+    ]
+  },
+  {
+    "title": "Odhani",
+    "movie": "Odhani (From \"Made in China\") - Single",
+    "singers": [
+      "Sachin-Jigar, Darshan Raval & Neha Kakkar"
+    ],
+    "artists": [
+      "Sachin-Jigar, Darshan Raval & Neha Kakkar"
+    ],
+    "composers": [
+      "Sachin-Jigar, Darshan Raval & Neha Kakkar"
+    ],
+    "lyricist": "Sachin-Jigar, Darshan Raval & Neha Kakkar",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cb/56/54/cb5654ca-697e-63f8-44ee-1e7649042fec/mzaf_4140618474415776442.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2a/98/db/2a98db55-ff89-25e0-180c-f3bcda5f0fc8/886447981207.jpg/400x400bb.jpg",
+    "aliases": [
+      "Odhani (From \"Made in China\")",
+      "Odhani"
+    ]
+  },
+  {
+    "title": "Disfruto Lo Malo",
+    "movie": "Corridos Tumbados",
+    "singers": [
+      "Natanael Cano"
+    ],
+    "artists": [
+      "Natanael Cano"
+    ],
+    "composers": [
+      "Natanael Cano"
+    ],
+    "lyricist": "Natanael Cano",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/74/44/46744496-5079-5427-3666-38a4553b9564/mzaf_5995901406355349341.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/75/58/f97558cf-9cce-0923-42df-196cc93c901a/050742369545_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Disfruto Lo Malo",
+      "Disfruto Lo Malo"
+    ]
+  },
+  {
+    "title": "Hollywood's Bleeding",
+    "movie": "Hollywood's Bleeding",
+    "singers": [
+      "Post Malone"
+    ],
+    "artists": [
+      "Post Malone"
+    ],
+    "composers": [
+      "Post Malone"
+    ],
+    "lyricist": "Post Malone",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/cb/eb/39cbeb3a-b2de-ec65-64de-362391da9774/mzaf_14039724316393614108.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hollywood's Bleeding",
+      "Hollywood's Bleeding"
+    ]
+  },
+  {
+    "title": "Look What God Gave Her",
+    "movie": "Center Point Road",
+    "singers": [
+      "Thomas Rhett"
+    ],
+    "artists": [
+      "Thomas Rhett"
+    ],
+    "composers": [
+      "Thomas Rhett"
+    ],
+    "lyricist": "Thomas Rhett",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/37/07/85370754-fb25-44e6-bfe7-c229b332c5f6/mzaf_7890312243974044478.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/e8/60/9fe86045-4783-b378-9cde-3cc3f7be817f/19OPBMR00324.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Look What God Gave Her",
+      "Look What God Gave Her"
+    ]
+  },
+  {
+    "title": "Worth It",
+    "movie": "Worth It - Single",
+    "singers": [
+      "YK Osiris"
+    ],
+    "artists": [
+      "YK Osiris"
+    ],
+    "composers": [
+      "YK Osiris"
+    ],
+    "lyricist": "YK Osiris",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/49/c1/7949c156-b4be-5309-d489-d96ccbd48845/mzaf_9163659630132578229.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a7/1b/2e/a71b2e39-5653-b6cb-5783-026e96bd9951/18UMGIM83645.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Worth It",
+      "Worth It"
+    ]
+  },
+  {
+    "title": "Duniyaa",
+    "movie": "Luka Chuppi",
+    "singers": [
+      "Akhil & Dhvani Bhanushali"
+    ],
+    "artists": [
+      "Akhil & Dhvani Bhanushali"
+    ],
+    "composers": [
+      "Akhil & Dhvani Bhanushali"
+    ],
+    "lyricist": "Akhil & Dhvani Bhanushali",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/e5/03/0ae5033d-6dbe-fd79-8992-96027fbecc4a/mzaf_3553887984119429498.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/82/33/2a823318-956a-a6f2-7ef8-588defb7baf1/8902894360685_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Duniyaa",
+      "Duniyaa"
+    ]
+  },
+  {
+    "title": "ily (i love you baby)",
+    "movie": "ily (i love you baby) [feat. Emilee] - Single",
+    "singers": [
+      "Surf Mesa"
+    ],
+    "artists": [
+      "Surf Mesa"
+    ],
+    "composers": [
+      "Surf Mesa"
+    ],
+    "lyricist": "Surf Mesa",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/a4/28/eba42830-b374-1669-1fec-319dcb1f1e70/mzaf_64829070590334664.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/00/2c/31/002c3175-9261-aee9-2e41-5af229cb2703/20UMGIM14423.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "ily (i love you baby) [feat. Emilee]",
+      "ily (i love you baby)"
+    ]
+  },
+  {
+    "title": "Chale Aana",
+    "movie": "De De Pyaar De",
+    "singers": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "artists": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "composers": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "lyricist": "Armaan Malik & Amaal Mallik",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/8a/b6/c58ab6f3-438a-f152-dce8-1021fc20f65b/mzaf_15463875006090676846.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/73/9e/cb/739ecb74-ac99-5998-c1ec-8f0ca6cab2f8/8902894360777_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chale Aana",
+      "Chale Aana"
+    ]
+  },
+  {
+    "title": "Kyun Rabba",
+    "movie": "Badla",
+    "singers": [
+      "Armaan Malik & Kumaar"
+    ],
+    "artists": [
+      "Armaan Malik & Kumaar"
+    ],
+    "composers": [
+      "Armaan Malik & Kumaar"
+    ],
+    "lyricist": "Armaan Malik & Kumaar",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/06/e6/4306e6a0-2fd4-217f-29da-cf22a6758e3a/mzaf_3574918051234250269.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/47/c6/07/47c60778-da8c-c8aa-be04-df5c0bc9c331/8718857679981.png/400x400bb.jpg",
+    "aliases": [
+      "Kyun Rabba",
+      "Kyun Rabba"
+    ]
+  },
+  {
+    "title": "Darkhaast-Aankhon Mein Teri",
+    "movie": "T-Series Mixtape Season 2",
+    "singers": [
+      "Sukriti Kakar & Armaan Malik"
+    ],
+    "artists": [
+      "Sukriti Kakar & Armaan Malik"
+    ],
+    "composers": [
+      "Sukriti Kakar & Armaan Malik"
+    ],
+    "lyricist": "Sukriti Kakar & Armaan Malik",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/36/ac/ac36acf3-f406-feb9-db70-3968975898d3/mzaf_16205615289320750013.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/67/fb/5e67fb8b-91b5-98e0-3998-854d039370d9/8903431715616_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Darkhaast-Aankhon Mein Teri",
+      "Darkhaast-Aankhon Mein Teri"
+    ]
+  },
+  {
+    "title": "Tum Hi Ho-Rehnuma",
+    "movie": "T-Series Mixtape Season 2",
+    "singers": [
+      "Shreya Ghoshal & Armaan Malik"
+    ],
+    "artists": [
+      "Shreya Ghoshal & Armaan Malik"
+    ],
+    "composers": [
+      "Shreya Ghoshal & Armaan Malik"
+    ],
+    "lyricist": "Shreya Ghoshal & Armaan Malik",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/49/62/5c/49625c9a-b5c3-3ab0-2f0e-04a1c6adbee7/mzaf_9933737510737433222.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/67/fb/5e67fb8b-91b5-98e0-3998-854d039370d9/8903431715616_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tum Hi Ho-Rehnuma",
+      "Tum Hi Ho-Rehnuma"
+    ]
+  },
+  {
+    "title": "Yaara Teri Yaari",
+    "movie": "Hits Of Darshan Raval (Blue Family)",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/d8/96/9ed896b2-b1f3-0d10-da8c-d7df9ceaeeea/mzaf_10994874902663123400.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/97/4a/00974a45-54e1-2481-6c00-bfc0c6398ce3/196871193108.jpg/400x400bb.jpg",
+    "aliases": [
+      "Yaara Teri Yaari",
+      "Yaara Teri Yaari"
+    ]
+  },
+  {
+    "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+    "movie": "Ek Ladki Ko Dekha Toh Aisa Laga (From \"Ek Ladki Ko Dekha Toh Aisa Laga\") - Single",
+    "singers": [
+      "Darshan Raval & Rochak Kohli"
+    ],
+    "artists": [
+      "Darshan Raval & Rochak Kohli"
+    ],
+    "composers": [
+      "Darshan Raval & Rochak Kohli"
+    ],
+    "lyricist": "Darshan Raval & Rochak Kohli",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/48/02/064802ba-7e0d-c6c7-70d3-ac86f5062988/mzaf_12027465811841515455.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/75/1c/e0751cff-00f9-a976-5d5e-421a9860d113/193483351490.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ek Ladki Ko Dekha Toh Aisa Laga (From \"Ek Ladki Ko Dekha Toh Aisa Laga\")",
+      "Ek Ladki Ko Dekha Toh Aisa Laga"
+    ]
+  },
+  {
+    "title": "Hawa Banke",
+    "movie": "Hawa Banke - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/ce/d7/c1ced781-9e62-8b50-35ce-5b2bc188d19b/mzaf_6203332614097293293.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/2c/ad/7f2cadb3-2908-3705-bcb6-aba542c1b352/194491081751.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hawa Banke",
+      "Hawa Banke"
+    ]
+  },
+  {
+    "title": "Kaash Aisa Hota",
+    "movie": "Kaash Aisa Hota - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/4b/12/114b1227-a14e-ba32-e1b2-d909348f0435/mzaf_9406836240534007969.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/d1/c5/2dd1c5b6-4707-8ad8-dd5a-aebd33941607/193483635798.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaash Aisa Hota",
+      "Kaash Aisa Hota"
+    ]
+  },
+  {
+    "title": "Aa Jaana",
+    "movie": "Aa Jaana - Single",
+    "singers": [
+      "Darshan Raval & Prakriti Kakar"
+    ],
+    "artists": [
+      "Darshan Raval & Prakriti Kakar"
+    ],
+    "composers": [
+      "Darshan Raval & Prakriti Kakar"
+    ],
+    "lyricist": "Darshan Raval & Prakriti Kakar",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cd/58/9a/cd589a17-8f10-ca21-d633-368c4fa7a40f/mzaf_194142343885678573.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/00/87/fa00870a-8922-2377-5979-4db1c0e2681b/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aa Jaana",
+      "Aa Jaana"
+    ]
+  },
+  {
+    "title": "Needa Padadhani",
+    "movie": "Jersey",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/5a/d4/2f5ad439-0484-4613-0ca3-d430050a7534/mzaf_14958870303900609174.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/79/d0/9279d067-bb03-ec01-cd1d-e02feb37000d/8718857677994.png/400x400bb.jpg",
+    "aliases": [
+      "Needa Padadhani",
+      "Needa Padadhani"
+    ]
+  },
+  {
+    "title": "O Saki Saki",
+    "movie": "Batla House",
+    "singers": [
+      "Neha Kakkar, Tulsi Kumar & B. Praak"
+    ],
+    "artists": [
+      "Neha Kakkar, Tulsi Kumar & B. Praak"
+    ],
+    "composers": [
+      "Neha Kakkar, Tulsi Kumar & B. Praak"
+    ],
+    "lyricist": "Neha Kakkar, Tulsi Kumar & B. Praak",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/1f/4c/541f4c11-8f3a-d751-811b-f43f00caa275/mzaf_10021337498860837641.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/ab/99/66ab99d8-ba5b-1d1c-2029-6920d911e9ed/8902894360906_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "O Saki Saki",
+      "O Saki Saki"
+    ]
+  },
+  {
+    "title": "Teri Mitti",
+    "movie": "Kesari",
+    "singers": [
+      "Arko, B. Praak & Manoj Muntashir"
+    ],
+    "artists": [
+      "Arko, B. Praak & Manoj Muntashir"
+    ],
+    "composers": [
+      "Arko, B. Praak & Manoj Muntashir"
+    ],
+    "lyricist": "Arko, B. Praak & Manoj Muntashir",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/b0/7f/acb07f04-23f8-45c3-7fe8-6dd3ebc62f2f/mzaf_8542282026982364929.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/26/67/a62667ab-ea22-e001-f033-d0c0f84d924e/840780180864.png/400x400bb.jpg",
+    "aliases": [
+      "Teri Mitti",
+      "Teri Mitti"
+    ]
+  },
+  {
+    "title": "Filhall (feat. Akshay Kumar & Nupur Sanon)",
+    "movie": "Filhall (feat. Akshay Kumar & Nupur Sanon) - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/bc/78/b4bc784e-509f-c79e-5409-ba399857f1b0/mzaf_3821638843235327404.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/da/9a/9dda9a1e-bf43-1726-29f6-bd3e30b8fe90/20UMGIM63902.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Filhall (feat. Akshay Kumar & Nupur Sanon)",
+      "Filhall (feat. Akshay Kumar & Nupur Sanon)"
+    ]
+  },
+  {
+    "title": "Naah Goriye",
+    "movie": "Bala",
+    "singers": [
+      "B. Praak, Harrdy Sandhu & Swasti Mehul"
+    ],
+    "artists": [
+      "B. Praak, Harrdy Sandhu & Swasti Mehul"
+    ],
+    "composers": [
+      "B. Praak, Harrdy Sandhu & Swasti Mehul"
+    ],
+    "lyricist": "B. Praak, Harrdy Sandhu & Swasti Mehul",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/32/ad/bd/32adbd4c-1137-2135-f41b-946c30f22ac4/mzaf_3763461454113771425.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/9c/34/6e9c340c-1ca7-1d3a-6ec5-6c808360b42d/886448130949.jpg/400x400bb.jpg",
+    "aliases": [
+      "Naah Goriye",
+      "Naah Goriye"
+    ]
+  },
+  {
+    "title": "Maana Dil",
+    "movie": "Maana Dil - Single",
+    "singers": [
+      "B. Praak & Rashmi Virag"
+    ],
+    "artists": [
+      "B. Praak & Rashmi Virag"
+    ],
+    "composers": [
+      "B. Praak & Rashmi Virag"
+    ],
+    "lyricist": "B. Praak & Rashmi Virag",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b7/51/50/b75150ad-363c-6a80-17d7-44966ace9290/mzaf_4734435822030784375.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/f0/59/dcf0596e-911a-56fb-c30e-c60a89c17f45/8718857909552.png/400x400bb.jpg",
+    "aliases": [
+      "Maana Dil",
+      "Maana Dil"
+    ]
+  },
+  {
+    "title": "Suryudivo Chandrudivo",
+    "movie": "Sarileru Neekevvaru",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/cb/85/8fcb850e-0431-551c-bb3d-f60d93ad898d/mzaf_11652152567474188389.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/65/11/b96511a1-db8d-7b6f-7c3f-1dd761b2a7ca/8903431760432_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Suryudivo Chandrudivo",
+      "Suryudivo Chandrudivo"
+    ]
+  },
+  {
+    "title": "Nai Lagda",
+    "movie": "Notebook",
+    "singers": [
+      "Vishal Mishra & Asees Kaur"
+    ],
+    "artists": [
+      "Vishal Mishra & Asees Kaur"
+    ],
+    "composers": [
+      "Vishal Mishra & Asees Kaur"
+    ],
+    "lyricist": "Vishal Mishra & Asees Kaur",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/b9/b3/a6b9b328-fc16-d556-7ed1-0f887cbb8112/mzaf_8946749289125284827.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/86/b7/0f86b710-f648-e8c2-69e1-3bb6c9b99acd/8902894360715_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nai Lagda",
+      "Nai Lagda"
+    ]
+  },
+  {
+    "title": "Sajna Ve",
+    "movie": "Sajna Ve - Single",
+    "singers": [
+      "Vishal Mishra & Lisa Mishra"
+    ],
+    "artists": [
+      "Vishal Mishra & Lisa Mishra"
+    ],
+    "composers": [
+      "Vishal Mishra & Lisa Mishra"
+    ],
+    "lyricist": "Vishal Mishra & Lisa Mishra",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/96/4f/3d964ffe-5853-6b1b-3a5f-13839b1ff8ac/mzaf_14562649362619437237.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cb/a1/db/cba1dbce-d6e2-28bb-ecc2-d03dccb3de97/19UMGIM42521.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sajna Ve",
+      "Sajna Ve"
+    ]
+  },
+  {
+    "title": "Bumro",
+    "movie": "Notebook",
+    "singers": [
+      "Kamaal Khan & Vishal Mishra"
+    ],
+    "artists": [
+      "Kamaal Khan & Vishal Mishra"
+    ],
+    "composers": [
+      "Kamaal Khan & Vishal Mishra"
+    ],
+    "lyricist": "Kamaal Khan & Vishal Mishra",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/7a/16/b27a16c1-2961-66d3-b623-8f2d26bb75ce/mzaf_15141790429612984045.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/86/b7/0f86b710-f648-e8c2-69e1-3bb6c9b99acd/8902894360715_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bumro",
+      "Bumro"
+    ]
+  },
+  {
+    "title": "Kalank (Duet)",
+    "movie": "Kalank",
+    "singers": [
+      "Pritam, Arijit Singh & Shilpa Rao"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Shilpa Rao"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Shilpa Rao"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Shilpa Rao",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/b9/51/4eb951f9-7bdb-10f1-1475-9040db256c47/mzaf_8413779511925432587.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg",
+    "aliases": [
+      "Kalank (Duet)",
+      "Kalank (Duet)"
+    ]
+  },
+  {
+    "title": "Kalank (Bonus Track)",
+    "movie": "Kalank",
+    "singers": [
+      "Pritam, Arijit Singh & Shilpa Rao"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Shilpa Rao"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Shilpa Rao"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Shilpa Rao",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/3e/8c/593e8c3b-29bc-9e24-1889-f6d466935fb0/mzaf_9236511300953932320.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg",
+    "aliases": [
+      "Kalank (Bonus Track)",
+      "Kalank (Bonus Track)"
+    ]
+  },
+  {
+    "title": "Koka",
+    "movie": "Khandaani Shafakhana",
+    "singers": [
+      "Jasbir Jassi, Badshah & Dhvani Bhanushali"
+    ],
+    "artists": [
+      "Jasbir Jassi, Badshah & Dhvani Bhanushali"
+    ],
+    "composers": [
+      "Jasbir Jassi, Badshah & Dhvani Bhanushali"
+    ],
+    "lyricist": "Jasbir Jassi, Badshah & Dhvani Bhanushali",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6b/f9/70/6bf97005-2764-75a2-25bc-3524e3897e5c/mzaf_14392421166290052269.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/e3/6b/99e36bb3-862a-33dc-8e1b-0138e8444003/8902894360876_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Koka",
+      "Koka"
+    ]
+  },
+  {
+    "title": "Bad Boy",
+    "movie": "Saaho",
+    "singers": [
+      "Badshah & Neeti Mohan"
+    ],
+    "artists": [
+      "Badshah & Neeti Mohan"
+    ],
+    "composers": [
+      "Badshah & Neeti Mohan"
+    ],
+    "lyricist": "Badshah & Neeti Mohan",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d0/c0/40/d0c040a3-0b58-39ed-fecc-6118aed12d42/mzaf_15807943250309038953.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/33/3d/70/333d7059-c2f1-34b4-5636-42a5b043aaa2/8902894360890_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bad Boy",
+      "Bad Boy"
+    ]
+  },
+  {
+    "title": "Chandigarh Mein",
+    "movie": "Good Newwz",
+    "singers": [
+      "Badshah, Harrdy Sandhu, Lisa Mishra & Asees Kaur"
+    ],
+    "artists": [
+      "Badshah, Harrdy Sandhu, Lisa Mishra & Asees Kaur"
+    ],
+    "composers": [
+      "Badshah, Harrdy Sandhu, Lisa Mishra & Asees Kaur"
+    ],
+    "lyricist": "Badshah, Harrdy Sandhu, Lisa Mishra & Asees Kaur",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/d0/63/81d063b7-c3a6-207e-e2fc-3b8f3fb6a938/mzaf_3632039416316865215.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/b5/23/82b523c3-4a0a-7c7d-8395-71c90b0515a1/840780180642.png/400x400bb.jpg",
+    "aliases": [
+      "Chandigarh Mein",
+      "Chandigarh Mein"
+    ]
+  },
+  {
+    "title": "Sheher Ki Ladki",
+    "movie": "Khandaani Shafakhana",
+    "singers": [
+      "Badshah, Tulsi Kumar, Abhijeet & Chandra Dixit"
+    ],
+    "artists": [
+      "Badshah, Tulsi Kumar, Abhijeet & Chandra Dixit"
+    ],
+    "composers": [
+      "Badshah, Tulsi Kumar, Abhijeet & Chandra Dixit"
+    ],
+    "lyricist": "Badshah, Tulsi Kumar, Abhijeet & Chandra Dixit",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/09/08/4c090822-1ca3-47ee-d3b3-fb1d421e9305/mzaf_9654146337674904112.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/e3/6b/99e36bb3-862a-33dc-8e1b-0138e8444003/8902894360876_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sheher Ki Ladki",
+      "Sheher Ki Ladki"
+    ]
+  },
+  {
+    "title": "Munna Badnaam Hua",
+    "movie": "Dabangg 3",
+    "singers": [
+      "Badshah, Kamaal Khan & Mamta Sharma"
+    ],
+    "artists": [
+      "Badshah, Kamaal Khan & Mamta Sharma"
+    ],
+    "composers": [
+      "Badshah, Kamaal Khan & Mamta Sharma"
+    ],
+    "lyricist": "Badshah, Kamaal Khan & Mamta Sharma",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/a9/9a/7ca99a7c-43bf-e6fc-a195-85975ae90709/mzaf_15355209256910113744.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6d/9c/77/6d9c77ce-366d-40c5-ca43-5e3d8cf1e5ca/8902894361019_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Munna Badnaam Hua",
+      "Munna Badnaam Hua"
+    ]
+  },
+  {
+    "title": "Dil Na Jaaneya (feat. Lauv & Akasa)",
+    "movie": "Good Newwz",
+    "singers": [
+      "Rochak Kohli"
+    ],
+    "artists": [
+      "Rochak Kohli"
+    ],
+    "composers": [
+      "Rochak Kohli"
+    ],
+    "lyricist": "Rochak Kohli",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/20/2f/68202fab-b3bc-46bd-bc48-1825abd6cf25/mzaf_17233420581193573639.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/b5/23/82b523c3-4a0a-7c7d-8395-71c90b0515a1/840780180642.png/400x400bb.jpg",
+    "aliases": [
+      "Dil Na Jaaneya (feat. Lauv & Akasa)",
+      "Dil Na Jaaneya (feat. Lauv & Akasa)"
+    ]
+  },
+  {
+    "title": "Sauda Khara Khara",
+    "movie": "Sauda Khara Khara - Single",
+    "singers": [
+      "Diljit Dosanjh, Sukhbir, Dhvani Bhanushali, DJ Chetas & Lijo George"
+    ],
+    "artists": [
+      "Diljit Dosanjh, Sukhbir, Dhvani Bhanushali, DJ Chetas & Lijo George"
+    ],
+    "composers": [
+      "Diljit Dosanjh, Sukhbir, Dhvani Bhanushali, DJ Chetas & Lijo George"
+    ],
+    "lyricist": "Diljit Dosanjh, Sukhbir, Dhvani Bhanushali, DJ Chetas & Lijo George",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/40/6d/9e406d5d-82f1-3bfa-941c-38bd4c6fe412/mzaf_15472622251138340962.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/cd/53/2bcd5344-0197-72cf-ed72-96dde33733df/8718857909347.png/400x400bb.jpg",
+    "aliases": [
+      "Sauda Khara Khara",
+      "Sauda Khara Khara"
+    ]
+  },
+  {
+    "title": "Main Deewana Tera",
+    "movie": "Arjun Patiala",
+    "singers": [
+      "Guru Randhawa & Nikhita Gandhi"
+    ],
+    "artists": [
+      "Guru Randhawa & Nikhita Gandhi"
+    ],
+    "composers": [
+      "Guru Randhawa & Nikhita Gandhi"
+    ],
+    "lyricist": "Guru Randhawa & Nikhita Gandhi",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/78/01/0c780156-1e9f-04c4-bffe-3c988ebff205/mzaf_10361837097366855452.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/67/45/e6/6745e60d-04d8-efbb-9571-35e8f48af61b/8902894360883_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Deewana Tera",
+      "Main Deewana Tera"
+    ]
+  },
+  {
+    "title": "Crazy Habibi Vs Decent Munda",
+    "movie": "Arjun Patiala",
+    "singers": [
+      "Guru Randhawa & Benny Dayal"
+    ],
+    "artists": [
+      "Guru Randhawa & Benny Dayal"
+    ],
+    "composers": [
+      "Guru Randhawa & Benny Dayal"
+    ],
+    "lyricist": "Guru Randhawa & Benny Dayal",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b6/32/6b/b6326bd3-87d6-b2e3-527a-c2555bd3dbc6/mzaf_12399288549706325149.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/67/45/e6/6745e60d-04d8-efbb-9571-35e8f48af61b/8902894360883_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Crazy Habibi Vs Decent Munda",
+      "Crazy Habibi Vs Decent Munda"
+    ]
+  },
+  {
+    "title": "Sachiya Mohabbatan",
+    "movie": "Arjun Patiala",
+    "singers": [
+      "Sachet Tandon"
+    ],
+    "artists": [
+      "Sachet Tandon"
+    ],
+    "composers": [
+      "Sachet Tandon"
+    ],
+    "lyricist": "Sachet Tandon",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/eb/ca/05ebca75-2857-a94f-8b36-f1821e597ed1/mzaf_17171716459337107182.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/67/45/e6/6745e60d-04d8-efbb-9571-35e8f48af61b/8902894360883_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sachiya Mohabbatan",
+      "Sachiya Mohabbatan"
+    ]
+  },
+  {
+    "title": "Deh Shiva (Female Version)",
+    "movie": "Kesari",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/00/cd/6e00cda0-5ccb-98c4-9386-7ba54819dfa3/mzaf_6902870460844473807.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/26/67/a62667ab-ea22-e001-f033-d0c0f84d924e/840780180864.png/400x400bb.jpg",
+    "aliases": [
+      "Deh Shiva (Female Version)",
+      "Deh Shiva (Female Version)"
+    ]
+  },
+  {
+    "title": "Riha",
+    "movie": "Riha - Single",
+    "singers": [
+      "Anuv Jain"
+    ],
+    "artists": [
+      "Anuv Jain"
+    ],
+    "composers": [
+      "Anuv Jain"
+    ],
+    "lyricist": "Anuv Jain",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/f7/d2/4af7d22a-5771-213a-cc93-a85e469887ae/mzaf_9511665787969252147.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/04/28/460428f4-f983-3292-b5c9-49e04039db57/23UM1IM18507.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Riha",
+      "Riha"
     ]
   },
   {
@@ -16741,7 +24111,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/4a/f4/6f4af48e-cfa4-c818-d718-10cbeb8fec8b/mzaf_5995828395932092720.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/ec/87/57ec873f-0f80-4cd5-a533-8acdc2182b01/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -16769,7 +24139,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/c2/c9/05c2c94f-c4cc-5096-9616-260e1e549c24/mzaf_2425834336884363472.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/96/f7/fa96f7ba-b403-f14f-842f-74726146a5f2/193483090245.jpg/400x400bb.jpg",
     "aliases": [
@@ -16797,7 +24167,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/0e/59/0c0e59bc-0e96-acaa-ca07-e88bba25fb13/mzaf_2641581125909041582.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/be/a9/acbea99c-c9ac-475b-774e-2fbfaa2aadea/193483488967.jpg/400x400bb.jpg",
     "aliases": [
@@ -16825,7 +24195,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/2f/9f/072f9fb8-cc98-2699-dedd-19d8461cf7d3/mzaf_13247837615961191246.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/52/cd/ba52cd9c-67e7-113b-fbf8-bc129045867e/21UMGIM73584.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -16853,7 +24223,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/eb/82/fceb829c-7094-6e28-323a-afe8abd8af0a/mzaf_3632138063072415833.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/69/0d/44690d82-eb6a-9cc8-156b-e24096d1a66e/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -16881,7 +24251,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/80/da/ca80dae0-818e-4c73-68b0-db80afeb7243/mzaf_10217163185805059139.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/1c/1a/541c1a39-643d-ce1e-1261-563235cf3334/8903245474372.jpg/400x400bb.jpg",
     "aliases": [
@@ -16909,7 +24279,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/19/08/10190881-a2f5-c302-b388-1a483746b496/mzaf_3818287572897317775.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d5/26/c3/d526c3bd-9c4c-820f-50bb-13cd8859def9/artwork.jpg/400x400bb.jpg",
     "aliases": [
@@ -16937,7 +24307,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/79/5f/24795fb1-47dd-797c-4117-c2f9944e2da7/mzaf_11900083812224662926.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/e0/ac/7ce0ac29-c458-7256-0443-f5f7986ec76b/886447334706.jpg/400x400bb.jpg",
     "aliases": [
@@ -16965,7 +24335,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/58/7b/cb587b17-61bd-7f5d-77bb-f8298ea91fa1/mzaf_16782130668582876476.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/43/35/634335a8-2026-9587-bd78-8e29e3f80416/093624906407.jpg/400x400bb.jpg",
     "aliases": [
@@ -16993,7 +24363,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/52/21/355221c4-793f-405c-36fc-3947a5e3b000/mzaf_2174159409673113510.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c1/de/f7/c1def77c-ca13-34ca-6a83-cff6697a9e2a/093624903604.jpg/400x400bb.jpg",
     "aliases": [
@@ -17021,7 +24391,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/cb/dd/6acbdd58-923f-09ae-3b4a-cab93f6d3c92/mzaf_9011821161531346323.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/98/51/dc9851bd-9521-6fcb-c4b7-499f23b05498/18UMGIM09114.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -17049,7 +24419,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/f6/9f/f8/f69ff8b4-f3d5-f42d-bf85-ace914adba7d/mzaf_216905103471485380.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c9/9d/c6/c99dc6a8-29e2-d879-656d-2d857c552cff/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17077,7 +24447,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/73/7c/62/737c62ce-90b4-bf98-5519-6f115f61d064/mzaf_1567439452413903473.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a1/f6/f4/a1f6f446-f605-6026-ae63-33f482a509cb/4680960604713.jpg/400x400bb.jpg",
     "aliases": [
@@ -17105,7 +24475,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/01/b4/0701b4ef-88e4-b037-195b-0e42de886a17/mzaf_12594430373025782603.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17133,7 +24503,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/a0/7a/91a07a10-8b2d-d802-42a8-f650d9981a89/mzaf_10735478748640447377.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/4c/e2/994ce25e-0fe1-1287-972d-7ab5f09e55e1/8902894360616_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17161,7 +24531,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/26/50/442650b7-256e-034a-380a-4bbf16e59e53/mzaf_272051127111758324.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17189,7 +24559,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/12/bd/2a12bd28-479d-136f-ea7b-aad72f342da6/mzaf_2790947654297564853.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/db/41/fedb4176-d5c2-4908-154b-71484cfca645/8902894360203_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17217,7 +24587,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/49/00/6c/49006c90-0bbb-88bd-da5f-4672ee267a22/mzaf_11606462742118885720.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e9/7c/7a/e97c7abd-72e2-2826-16e1-8a16952a73e9/8902633281295.jpg/400x400bb.jpg",
     "aliases": [
@@ -17245,7 +24615,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/7f/a8/a77fa89a-d0e1-a8e7-ed25-3527f972d2a6/mzaf_9647618276930595148.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/6a/63/116a6361-2c19-fa07-5063-4b0307e5d06d/4050538376074.jpg/400x400bb.jpg",
     "aliases": [
@@ -17273,7 +24643,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/8e/a5/fb8ea581-7be5-a8f8-98d1-d8f573f31505/mzaf_17594054344556782200.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/c4/c0/44c4c08a-2d71-2540-1e8d-e013093a3f34/18UMGIM59466.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -17301,7 +24671,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3a/ae/2a/3aae2a2d-c8c0-67ad-8b02-70c5e32efc88/mzaf_10634641527035817314.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ee/4b/de/ee4bdede-312c-93f5-a622-d0b496b9e2a6/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17329,7 +24699,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/cc/ed/0ccced59-6e6f-f0a0-0c9a-d20bfd475052/mzaf_26600833784075363.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -17357,7 +24727,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/d3/cb/08d3cbe0-d991-61cb-e72d-5230dd989f3e/mzaf_8502926955304591005.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/19/26/1b192691-0179-73ab-3ed7-ae2b923ca71a/8902894360005_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17385,7 +24755,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/74/4a/ec744a08-3be7-9935-1cd5-01070b021c18/mzaf_16411309030678014559.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/19/26/1b192691-0179-73ab-3ed7-ae2b923ca71a/8902894360005_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17413,7 +24783,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/ec/08/34ec0802-7c22-6a99-6293-625ef9913632/mzaf_15957923849361460348.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/19/26/1b192691-0179-73ab-3ed7-ae2b923ca71a/8902894360005_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17441,7 +24811,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/da/65/38da65ea-91a2-0e65-5e92-0b212e5b0ff2/mzaf_98257742547631655.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/19/26/1b192691-0179-73ab-3ed7-ae2b923ca71a/8902894360005_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17469,7 +24839,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/05/56/24055670-7e75-7481-beed-19cba9e16e2f/mzaf_5549176437412957.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1b/be/41/1bbe417b-69c6-9d27-0512-07a92e1d1aee/8903431666789_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17497,7 +24867,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/50/05/3f/50053f38-0760-5fda-0c8f-dd8840dc4f00/mzaf_2675115937980103272.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1b/be/41/1bbe417b-69c6-9d27-0512-07a92e1d1aee/8903431666789_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17525,7 +24895,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/84/4e/69844e5d-827e-b156-a320-2e0a5a0c6491/mzaf_3865789841696823551.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1b/be/41/1bbe417b-69c6-9d27-0512-07a92e1d1aee/8903431666789_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17553,7 +24923,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/d5/d4/57d5d411-af17-ef87-1ef8-8ce03bf11825/mzaf_11208240212967973740.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1b/be/41/1bbe417b-69c6-9d27-0512-07a92e1d1aee/8903431666789_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17581,7 +24951,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/7e/1b/7f7e1bc2-8a4c-d8bd-4201-1036be0b1796/mzaf_8851733437739650348.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1b/be/41/1bbe417b-69c6-9d27-0512-07a92e1d1aee/8903431666789_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17609,7 +24979,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d6/0b/01/d60b01b0-7e37-8cf8-5476-8d9c792664ec/mzaf_18251418971561714625.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/c2/51/91c25173-1853-c282-2bed-061ad7b367cc/8903431666796_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17637,7 +25007,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/65/d8/1165d86b-907e-d4bf-7091-276d39350b44/mzaf_15628543194545059109.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/c2/51/91c25173-1853-c282-2bed-061ad7b367cc/8903431666796_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17665,7 +25035,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/15/0c/da150c78-6643-5175-c7be-1e851bcf5944/mzaf_8885902448755972574.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/c2/51/91c25173-1853-c282-2bed-061ad7b367cc/8903431666796_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17693,7 +25063,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/04/ec/7d/04ec7d7d-4e82-1780-b251-8f48260f5a66/mzaf_13728029369025905798.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/c2/51/91c25173-1853-c282-2bed-061ad7b367cc/8903431666796_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17721,7 +25091,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/78/b0/f9/78b0f92d-5a44-e5b8-b380-78f4ebd9b46c/mzaf_12262973719069076409.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/c2/51/91c25173-1853-c282-2bed-061ad7b367cc/8903431666796_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17749,7 +25119,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/84/f7/cf84f73c-2863-ed1c-ae8d-0e22c681fbb4/mzaf_17117055596475239770.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/4c/e2/994ce25e-0fe1-1287-972d-7ab5f09e55e1/8902894360616_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17777,7 +25147,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/26/2d/50262dbd-4696-7fa7-75e3-249f8d592434/mzaf_2374540445666584731.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/4c/e2/994ce25e-0fe1-1287-972d-7ab5f09e55e1/8902894360616_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17805,7 +25175,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/a4/8e/10a48e38-c65e-d114-5f0c-89cc4f0ba7c2/mzaf_1161586426004832351.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/4c/e2/994ce25e-0fe1-1287-972d-7ab5f09e55e1/8902894360616_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17833,7 +25203,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/53/cd/74/53cd742b-3091-dade-dacf-673dcb8446fb/mzaf_11448773426236997713.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/4c/e2/994ce25e-0fe1-1287-972d-7ab5f09e55e1/8902894360616_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17861,7 +25231,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b8/28/95/b8289513-5898-7159-5dbb-62bba85fdd3f/mzaf_7171759834969383470.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/c2/81/a5c281d6-ed56-479a-9293-b291867f1bb1/8903431678690_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17889,7 +25259,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c1/cb/5f/c1cb5f6c-309f-0851-0e45-fe6eba0a2bde/mzaf_14218950277926398820.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/a2/53/0ca25374-100d-1362-9a8c-d3f253423982/8903431696588_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17917,7 +25287,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/58/a1/5458a12d-c023-d562-bc7e-8621fe3201b1/mzaf_6493431133548186281.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/82/96/be829613-fbae-0bef-75d9-3445f020a63a/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17945,7 +25315,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/5f/d7/b45fd78a-e8cf-faad-86a7-53eceece5c9f/mzaf_8531054901988193944.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/a2/53/0ca25374-100d-1362-9a8c-d3f253423982/8903431696588_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -17973,7 +25343,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/5b/d3/545bd39d-f535-bbae-cdb9-bf13133ad858/mzaf_10022005192636294662.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/a2/53/0ca25374-100d-1362-9a8c-d3f253423982/8903431696588_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18001,7 +25371,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/08/27/66082739-b804-8c87-1a03-a31195e297bc/mzaf_1089469008114285099.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/a2/53/0ca25374-100d-1362-9a8c-d3f253423982/8903431696588_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18029,7 +25399,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/4c/0f/724c0fae-3442-dd4b-bf1e-96bdf736229c/mzaf_13524354834748403397.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/d1/81/7cd1811f-ce27-f9db-7f8b-09b62c77773e/859727282448_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18057,7 +25427,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/59/be/1a59be4f-b959-a84b-9832-06f38687465d/mzaf_3420875913775819404.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/61/17/366117e7-707f-6040-310b-df3c4b43cdb0/8902894360319_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18085,7 +25455,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0b/72/0c/0b720c64-2de2-0cf0-2e80-11889131ddff/mzaf_18241111511893827435.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3b/0a/44/3b0a4463-5390-44a5-1efa-c45d3d71d85d/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18113,7 +25483,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c9/70/2b/c9702bf3-70b1-4361-e155-f0dcaa0e62aa/mzaf_17133282514089839519.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/4a/fe/7e4afea6-53c7-4ce9-a8ac-4b568a969b8e/cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18141,7 +25511,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/6a/dc/6e6adc6e-25ac-80e2-1a51-f741b1903d48/mzaf_5975177913243504784.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/38/b1/a7/38b1a736-8619-4d37-2c77-36588be2dc0a/8903431699862_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18169,7 +25539,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/c5/31/8fc5317d-fe9f-d679-ed8c-1dd0f318bfde/mzaf_5355525399748645688.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/db/41/fedb4176-d5c2-4908-154b-71484cfca645/8902894360203_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18197,7 +25567,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/fa/c0/b7fac013-cb89-0369-71c5-1c7321bdd6ae/mzaf_5549721191241674996.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/db/41/fedb4176-d5c2-4908-154b-71484cfca645/8902894360203_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18225,7 +25595,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/f7/16/8cf716a0-573f-0caa-4ce2-7c95a4eb0fa6/mzaf_9034848929031489968.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/db/41/fedb4176-d5c2-4908-154b-71484cfca645/8902894360203_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18253,7 +25623,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/84/60/0a8460d6-3023-921e-f1df-c190aebb1207/mzaf_8131102613456196481.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/db/41/fedb4176-d5c2-4908-154b-71484cfca645/8902894360203_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18281,7 +25651,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/93/3e/9a/933e9aef-1299-234e-07a1-f512c8afadf7/mzaf_15937172001265781043.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/97/ba/e097baf0-8944-2ead-4a96-06b580dafb06/8718857709282.png/400x400bb.jpg",
     "aliases": [
@@ -18309,7 +25679,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ae/6d/9a/ae6d9a58-2a71-c071-cd81-1196aeb3c8b7/mzaf_15966249807102879188.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/97/ba/e097baf0-8944-2ead-4a96-06b580dafb06/8718857709282.png/400x400bb.jpg",
     "aliases": [
@@ -18337,7 +25707,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/d5/d6/9dd5d62b-d767-5eba-7057-b58afaeeb747/mzaf_1798899531152109727.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/d0/42/23d042fb-1abb-3340-18ca-565fbdb8ff0f/3614979736111_Cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -18365,7 +25735,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/11/92/5e119289-102a-a317-0add-ae272022c1f7/mzaf_12960100749081195551.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/34/92/b7349273-0e3a-ada9-f9c5-8677971734e9/8901854050994.jpg/400x400bb.jpg",
     "aliases": [
@@ -18393,12 +25763,1356 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/94/19/c2/9419c289-aefc-64c3-58a8-b99ee8f8eb39/mzaf_12096649723016325526.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2e/b8/02/2eb8021c-97df-e105-3aec-de388a271a59/8902633285651.jpg/400x400bb.jpg",
     "aliases": [
       "Meriyan Saheliyan",
       "Meriyan Saheliyan"
+    ]
+  },
+  {
+    "title": "Pal",
+    "movie": "Pal (From \"Jalebi\") - Single",
+    "singers": [
+      "Javed Mohsin, Arijit Singh & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Javed Mohsin, Arijit Singh & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Javed Mohsin, Arijit Singh & Shreya Ghoshal"
+    ],
+    "lyricist": "Javed Mohsin, Arijit Singh & Shreya Ghoshal",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/45/3a/b0453aba-4aa3-6d10-e70f-367a7e559e84/mzaf_6465472741528865032.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/79/fc/9179fc5e-e60b-221a-9b61-62fa5a77f165/886447322208.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pal (From \"Jalebi\")",
+      "Pal"
+    ]
+  },
+  {
+    "title": "Kalank (Title Track)",
+    "movie": "Kalank",
+    "singers": [
+      "Pritam & Arijit Singh"
+    ],
+    "artists": [
+      "Pritam & Arijit Singh"
+    ],
+    "composers": [
+      "Pritam & Arijit Singh"
+    ],
+    "lyricist": "Pritam & Arijit Singh",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/a2/09/c8a20920-52a8-9728-a305-9f12a85ae305/mzaf_8477813248295499776.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/39/49/4e3949f3-d59d-4295-4bb2-036269f9a88f/8718857678083.png/400x400bb.jpg",
+    "aliases": [
+      "Kalank (Title Track)",
+      "Kalank (Title Track)"
+    ]
+  },
+  {
+    "title": "Qaafirana",
+    "movie": "Kedarnath",
+    "singers": [
+      "Arijit Singh & Nikhita Gandhi"
+    ],
+    "artists": [
+      "Arijit Singh & Nikhita Gandhi"
+    ],
+    "composers": [
+      "Arijit Singh & Nikhita Gandhi"
+    ],
+    "lyricist": "Arijit Singh & Nikhita Gandhi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/0d/62/750d6208-e095-b2ef-0a2c-f6d8e81265a4/mzaf_9681567463159372823.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/5e/89/605e897e-5caa-b9ec-ac42-6a8c293dcc83/8718857673460.png/400x400bb.jpg",
+    "aliases": [
+      "Qaafirana",
+      "Qaafirana"
+    ]
+  },
+  {
+    "title": "Dhadak Title Track",
+    "movie": "Dhadak - EP",
+    "singers": [
+      "Ajay Gogavale & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Ajay Gogavale & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Ajay Gogavale & Shreya Ghoshal"
+    ],
+    "lyricist": "Ajay Gogavale & Shreya Ghoshal",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2f/7e/6e/2f7e6ecc-d98e-d6c0-7eec-5bcd4e7cd4e1/mzaf_1351375383485883681.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/66/5a/e8/665ae8ad-1aab-5d0c-3ca9-4fa062b1606c/8718857670711.png/400x400bb.jpg",
+    "aliases": [
+      "Dhadak Title Track",
+      "Dhadak Title Track"
+    ]
+  },
+  {
+    "title": "Get You the Moon (feat. Snøw)",
+    "movie": "Get You the Moon (feat. Snøw) - Single",
+    "singers": [
+      "Kina"
+    ],
+    "artists": [
+      "Kina"
+    ],
+    "composers": [
+      "Kina"
+    ],
+    "lyricist": "Kina",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/ab/d6/c5abd6f8-e34d-3229-00cc-3bab40f40683/mzaf_6752080994238203574.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/6f/7c/b86f7ce0-ac13-123c-bffe-d6a226ea4f14/886447369142.jpg/400x400bb.jpg",
+    "aliases": [
+      "Get You the Moon (feat. Snøw)",
+      "Get You the Moon (feat. Snøw)"
+    ]
+  },
+  {
+    "title": "Love Songs (Bonus)",
+    "movie": "Parked Car Convos",
+    "singers": [
+      "Kaash Paige"
+    ],
+    "artists": [
+      "Kaash Paige"
+    ],
+    "composers": [
+      "Kaash Paige"
+    ],
+    "lyricist": "Kaash Paige",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/32/c0/1b32c0db-13fa-1013-e1fc-a2bb342a41e1/mzaf_10073146004190972816.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/dd/17/a6dd178f-899c-148d-7212-9f284cb7c308/19UM1IM00944.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Love Songs (Bonus)",
+      "Love Songs (Bonus)"
+    ]
+  },
+  {
+    "title": "Dekhte Dekhte",
+    "movie": "Dekhte Dekhte (From \"Batti Gul Meter Chalu\") - Single",
+    "singers": [
+      "Atif Aslam, Nusrat Fateh Ali Khan & Rochak Kohli"
+    ],
+    "artists": [
+      "Atif Aslam, Nusrat Fateh Ali Khan & Rochak Kohli"
+    ],
+    "composers": [
+      "Atif Aslam, Nusrat Fateh Ali Khan & Rochak Kohli"
+    ],
+    "lyricist": "Atif Aslam, Nusrat Fateh Ali Khan & Rochak Kohli",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d8/87/ac/d887ac74-7fdb-813f-bf16-e294c7bca370/mzaf_15608962830183226028.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/50/6b/35/506b356b-41d5-0f39-2a30-08a6a28d85bf/8903431687487_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dekhte Dekhte (From \"Batti Gul Meter Chalu\")",
+      "Dekhte Dekhte"
+    ]
+  },
+  {
+    "title": "Paniyon Sa",
+    "movie": "Paniyon Sa (From \"Satyameva Jayate\") - Single",
+    "singers": [
+      "Atif Aslam, Tulsi Kumar & Rochak Kohli"
+    ],
+    "artists": [
+      "Atif Aslam, Tulsi Kumar & Rochak Kohli"
+    ],
+    "composers": [
+      "Atif Aslam, Tulsi Kumar & Rochak Kohli"
+    ],
+    "lyricist": "Atif Aslam, Tulsi Kumar & Rochak Kohli",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/e6/03/43e60360-3f3c-8f87-1852-da6a9149281f/mzaf_2580734198283556935.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/83/64/408364ae-d308-e86b-8e6e-52f6d25becdd/8903431680631_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Paniyon Sa (From \"Satyameva Jayate\")",
+      "Paniyon Sa"
+    ]
+  },
+  {
+    "title": "Tera Hua",
+    "movie": "Tera Hua (From \"Loveyatri\") - Single",
+    "singers": [
+      "Atif Aslam & Tanishk Bagchi"
+    ],
+    "artists": [
+      "Atif Aslam & Tanishk Bagchi"
+    ],
+    "composers": [
+      "Atif Aslam & Tanishk Bagchi"
+    ],
+    "lyricist": "Atif Aslam & Tanishk Bagchi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/97/56/bd97566b-42ee-c10b-f6da-c39b73ba4f2c/mzaf_15535758550840505739.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/05/f8/ab/05f8ab91-dca1-cc11-e58e-50bf77500b31/8903431688149_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tera Hua (From \"Loveyatri\")",
+      "Tera Hua"
+    ]
+  },
+  {
+    "title": "O'meri Laila",
+    "movie": "Laila Majnu",
+    "singers": [
+      "Atif Aslam & Jyotica Tangri"
+    ],
+    "artists": [
+      "Atif Aslam & Jyotica Tangri"
+    ],
+    "composers": [
+      "Atif Aslam & Jyotica Tangri"
+    ],
+    "lyricist": "Atif Aslam & Jyotica Tangri",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/1e/cd/651ecd09-171d-0a25-3e96-9765d4d5c307/mzaf_10947509419237181672.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/40/79/f7407915-3efe-7888-8777-ab4ac8de9537/8718857671459.png/400x400bb.jpg",
+    "aliases": [
+      "O'meri Laila",
+      "O'meri Laila"
+    ]
+  },
+  {
+    "title": "Dil Meri Na Sune",
+    "movie": "Genius",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/1e/d2/eb1ed2da-8c0d-81cf-58b2-a5414e87ab50/mzaf_11672862352450089651.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/34/92/b7349273-0e3a-ada9-f9c5-8677971734e9/8901854050994.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Meri Na Sune",
+      "Dil Meri Na Sune"
+    ]
+  },
+  {
+    "title": "Chalte Chalte",
+    "movie": "Chalte Chalte (From \"Mitron\") - Single",
+    "singers": [
+      "Atif Aslam & Tanishk Bagchi"
+    ],
+    "artists": [
+      "Atif Aslam & Tanishk Bagchi"
+    ],
+    "composers": [
+      "Atif Aslam & Tanishk Bagchi"
+    ],
+    "lyricist": "Atif Aslam & Tanishk Bagchi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/26/16/932616b4-a762-2311-25a6-494505e123ff/mzaf_13429804557414575575.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/8c/6d/558c6d40-c4d8-0174-2a67-9cf021a53fdd/192562906033.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chalte Chalte (From \"Mitron\")",
+      "Chalte Chalte"
+    ]
+  },
+  {
+    "title": "Akh Lad Jaave",
+    "movie": "Bollywood Best Party Songs 2018",
+    "singers": [
+      "Badshah, Asees Kaur & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Badshah, Asees Kaur & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Badshah, Asees Kaur & Jubin Nautiyal"
+    ],
+    "lyricist": "Badshah, Asees Kaur & Jubin Nautiyal",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/65/34/086534e8-8743-89d3-7284-1f5743edb0ad/mzaf_13222932416697017022.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/38/b1/a7/38b1a736-8619-4d37-2c77-36588be2dc0a/8903431699862_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Akh Lad Jaave (From \"Loveyatri - A Journey of Love\")",
+      "Akh Lad Jaave"
+    ]
+  },
+  {
+    "title": "Gazab Ka Hai Din",
+    "movie": "Gazab Ka Hai Din (From \"Dil Juunglee\") - Single",
+    "singers": [
+      "Jubin Nautiyal, Prakriti Kakar & Tanishk Bagchi"
+    ],
+    "artists": [
+      "Jubin Nautiyal, Prakriti Kakar & Tanishk Bagchi"
+    ],
+    "composers": [
+      "Jubin Nautiyal, Prakriti Kakar & Tanishk Bagchi"
+    ],
+    "lyricist": "Jubin Nautiyal, Prakriti Kakar & Tanishk Bagchi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/78/8b/5d788bd4-4128-9b7b-53ff-87ed711ac0f8/mzaf_10831413611820058420.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/d2/ce/6bd2cec8-6819-9422-dd20-c790b4466ec3/8903431667496_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gazab Ka Hai Din (From \"Dil Juunglee\")",
+      "Gazab Ka Hai Din"
+    ]
+  },
+  {
+    "title": "Humnava Mere",
+    "movie": "Humnava Mere - Single",
+    "singers": [
+      "Jubin Nautiyal & Rocky-Shiv"
+    ],
+    "artists": [
+      "Jubin Nautiyal & Rocky-Shiv"
+    ],
+    "composers": [
+      "Jubin Nautiyal & Rocky-Shiv"
+    ],
+    "lyricist": "Jubin Nautiyal & Rocky-Shiv",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/5e/c3/d85ec3f3-450b-6a9b-7ea1-9345538922d7/mzaf_734647189651103547.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/2b/48/9d2b48bb-fcba-913f-9e6b-f23e31a2c44a/8903431677259_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Humnava Mere",
+      "Humnava Mere"
+    ]
+  },
+  {
+    "title": "Sawarne Lage",
+    "movie": "Sawarne Lage (From \"Mitron\") - Single",
+    "singers": [
+      "Tanishk Bagchi & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Tanishk Bagchi & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Tanishk Bagchi & Jubin Nautiyal"
+    ],
+    "lyricist": "Tanishk Bagchi & Jubin Nautiyal",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/56/f9/08/56f9084d-5a10-14e2-55ec-981eaa62712d/mzaf_2320107546126949840.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/77/d8/be/77d8be54-244f-4b41-707d-3c0fb03e87cd/886447277683.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sawarne Lage (From \"Mitron\")",
+      "Sawarne Lage"
+    ]
+  },
+  {
+    "title": "Nazar Na Lag Jaaye",
+    "movie": "Stree",
+    "singers": [
+      "Ash King & Sachin-Jigar"
+    ],
+    "artists": [
+      "Ash King & Sachin-Jigar"
+    ],
+    "composers": [
+      "Ash King & Sachin-Jigar"
+    ],
+    "lyricist": "Ash King & Sachin-Jigar",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/90/1b/2c901b93-9b28-53a3-3ab6-77b62082bd2d/mzaf_8940051690666287802.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/3d/c6/323dc616-818e-2a2e-08bd-367c03cd654f/8902894360388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nazar Na Lag Jaaye",
+      "Nazar Na Lag Jaaye"
+    ]
+  },
+  {
+    "title": "Milegi Milegi",
+    "movie": "Stree",
+    "singers": [
+      "Mika Singh & Sachin-Jigar"
+    ],
+    "artists": [
+      "Mika Singh & Sachin-Jigar"
+    ],
+    "composers": [
+      "Mika Singh & Sachin-Jigar"
+    ],
+    "lyricist": "Mika Singh & Sachin-Jigar",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/b3/55/44b35555-7e0f-4434-6e0a-b0cfd3457967/mzaf_5830200473466394486.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/3d/c6/323dc616-818e-2a2e-08bd-367c03cd654f/8902894360388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Milegi Milegi",
+      "Milegi Milegi"
+    ]
+  },
+  {
+    "title": "Aao Kabhi Haveli Pe",
+    "movie": "Stree",
+    "singers": [
+      "Badshah, Nikhita Gandhi & Sachin-Jigar"
+    ],
+    "artists": [
+      "Badshah, Nikhita Gandhi & Sachin-Jigar"
+    ],
+    "composers": [
+      "Badshah, Nikhita Gandhi & Sachin-Jigar"
+    ],
+    "lyricist": "Badshah, Nikhita Gandhi & Sachin-Jigar",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/15/71/1515718e-9f7a-01a4-5aa9-7893aa487764/mzaf_15588533612458043362.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/3d/c6/323dc616-818e-2a2e-08bd-367c03cd654f/8902894360388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aao Kabhi Haveli Pe",
+      "Aao Kabhi Haveli Pe"
+    ]
+  },
+  {
+    "title": "Namo Namo",
+    "movie": "Kedarnath",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b3/33/8c/b3338cf8-bba8-a395-b0ea-31408a805286/mzaf_1073470188413104512.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/5e/89/605e897e-5caa-b9ec-ac42-6a8c293dcc83/8718857673460.png/400x400bb.jpg",
+    "aliases": [
+      "Namo Namo",
+      "Namo Namo"
+    ]
+  },
+  {
+    "title": "Naina Da Kya Kasoor",
+    "movie": "Andhadhun",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/21/26/292126cb-c07d-c036-6304-e17f88cb63d2/mzaf_9895035517452020768.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a0/06/83/a00683bf-7908-3949-d3bd-0f68c1857f41/8718857672197.png/400x400bb.jpg",
+    "aliases": [
+      "Naina Da Kya Kasoor",
+      "Naina Da Kya Kasoor"
+    ]
+  },
+  {
+    "title": "Daryaa",
+    "movie": "Manmarziyaan",
+    "singers": [
+      "Amit Trivedi, Ammy Virk & Shahid Mallya"
+    ],
+    "artists": [
+      "Amit Trivedi, Ammy Virk & Shahid Mallya"
+    ],
+    "composers": [
+      "Amit Trivedi, Ammy Virk & Shahid Mallya"
+    ],
+    "lyricist": "Amit Trivedi, Ammy Virk & Shahid Mallya",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/cd/b7/3dcdb725-6094-a2bc-99ad-18a09c19984b/mzaf_1395722088120228423.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/d8/f2/add8f26e-5422-d108-c922-ceb8bac42a22/196871085564.jpg/400x400bb.jpg",
+    "aliases": [
+      "Daryaa",
+      "Daryaa"
+    ]
+  },
+  {
+    "title": "Halka Halka",
+    "movie": "Fanney Khan",
+    "singers": [
+      "Sunidhi Chauhan, Divya Kumar & Amit Trivedi"
+    ],
+    "artists": [
+      "Sunidhi Chauhan, Divya Kumar & Amit Trivedi"
+    ],
+    "composers": [
+      "Sunidhi Chauhan, Divya Kumar & Amit Trivedi"
+    ],
+    "lyricist": "Sunidhi Chauhan, Divya Kumar & Amit Trivedi",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b9/b3/24/b9b3243c-2535-c9b7-2234-5c4168b1d4f3/mzaf_2754725095547548422.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/53/49/8f/53498f53-a16b-a5d5-ff2e-09a01b940061/8902894360340_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Halka Halka",
+      "Halka Halka"
+    ]
+  },
+  {
+    "title": "Break Up in the End",
+    "movie": "All of It",
+    "singers": [
+      "Cole Swindell"
+    ],
+    "artists": [
+      "Cole Swindell"
+    ],
+    "composers": [
+      "Cole Swindell"
+    ],
+    "lyricist": "Cole Swindell",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/22/23/252223d5-0d9f-4a94-6c51-f5d9bdbc134c/mzaf_12976162205592782472.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/7c/dd/007cdd95-f3b7-c4f8-ca9d-9eaf839f6c2a/093624905202.jpg/400x400bb.jpg",
+    "aliases": [
+      "Break Up in the End",
+      "Break Up in the End"
+    ]
+  },
+  {
+    "title": "Hope (feat. Winona Oak)",
+    "movie": "Sick Boy",
+    "singers": [
+      "The Chainsmokers"
+    ],
+    "artists": [
+      "The Chainsmokers"
+    ],
+    "composers": [
+      "The Chainsmokers"
+    ],
+    "lyricist": "The Chainsmokers",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/e1/a3/dce1a3dd-233c-a5da-cede-87a0aad18740/mzaf_9316751557773368912.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hope (feat. Winona Oak)",
+      "Hope (feat. Winona Oak)"
+    ]
+  },
+  {
+    "title": "Remind Me to Forget",
+    "movie": "Remind Me to Forget - Single",
+    "singers": [
+      "Kygo & Miguel"
+    ],
+    "artists": [
+      "Kygo & Miguel"
+    ],
+    "composers": [
+      "Kygo & Miguel"
+    ],
+    "lyricist": "Kygo & Miguel",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/27/e9/c2/27e9c2a5-3f32-1ad4-c9dc-a8c84329f47e/mzaf_9444648203100487580.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ff/7c/fb/ff7cfb7d-653f-2933-26f7-54b05e59c2d1/886447007105.jpg/400x400bb.jpg",
+    "aliases": [
+      "Remind Me to Forget",
+      "Remind Me to Forget"
+    ]
+  },
+  {
+    "title": "Bollywood - Dance Music",
+    "movie": "Erotic Ibiza 2018 Kamasutra Café Bar Music Club – Hot Sex Playlist for Balearic Summer Nights & Party Songs",
+    "singers": [
+      "Future Will"
+    ],
+    "artists": [
+      "Future Will"
+    ],
+    "composers": [
+      "Future Will"
+    ],
+    "lyricist": "Future Will",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/91/64/93/91649325-f3e3-d7c6-36b3-12d569b92a13/mzaf_3923650903428032152.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8b/a5/4e/8ba54e4d-c287-279d-7e4b-5fb59e7ebbd1/8033772974974.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bollywood - Dance Music",
+      "Bollywood - Dance Music"
+    ]
+  },
+  {
+    "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+    "movie": "Hollywood's Bleeding",
+    "singers": [
+      "Post Malone & Swae Lee"
+    ],
+    "artists": [
+      "Post Malone & Swae Lee"
+    ],
+    "composers": [
+      "Post Malone & Swae Lee"
+    ],
+    "lyricist": "Post Malone & Swae Lee",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/dd/38/89dd38a1-9e5d-f924-41a1-585f67870ca7/mzaf_17506666060631337235.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "Sunflower (Spider-Man: Into the Spider-Verse)"
+    ]
+  },
+  {
+    "title": "Aashiq Awaara (feat. Sunidhi Chauhan)",
+    "movie": "ONE",
+    "singers": [
+      "Badshah"
+    ],
+    "artists": [
+      "Badshah"
+    ],
+    "composers": [
+      "Badshah"
+    ],
+    "lyricist": "Badshah",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/a0/9d/4aa09dcc-76e7-b9ef-81af-565d27be0088/mzaf_17071145659158831569.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/d2/a0/22d2a059-7a78-baaf-9f8b-5c515aebe086/886447271155.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aashiq Awaara (feat. Sunidhi Chauhan)",
+      "Aashiq Awaara (feat. Sunidhi Chauhan)"
+    ]
+  },
+  {
+    "title": "Dil Mein Ho Tum",
+    "movie": "Why Cheat India",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/18/2c/22/182c22b2-2158-7821-938b-adac19699cf5/mzaf_10350096947087274400.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/33/92/01/3392014b-ff4a-7419-834d-3925326afc4d/8902894360609_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Mein Ho Tum",
+      "Dil Mein Ho Tum"
+    ]
+  },
+  {
+    "title": "Theher Ja",
+    "movie": "October",
+    "singers": [
+      "Abhishek Arora & Armaan Malik"
+    ],
+    "artists": [
+      "Abhishek Arora & Armaan Malik"
+    ],
+    "composers": [
+      "Abhishek Arora & Armaan Malik"
+    ],
+    "lyricist": "Abhishek Arora & Armaan Malik",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/c7/85/63c7852c-7a33-d447-8efa-89010f40d6fe/mzaf_5031086789363095322.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/44/a1/6744a103-aa5f-54c5-3139-2af209903627/8718857670193.png/400x400bb.jpg",
+    "aliases": [
+      "Theher Ja",
+      "Theher Ja"
+    ]
+  },
+  {
+    "title": "Chogada",
+    "movie": "Chogada (From \"Loveyatri\") - Single",
+    "singers": [
+      "Darshan Raval, Asees Kaur & Lijo George-Dj Chetas"
+    ],
+    "artists": [
+      "Darshan Raval, Asees Kaur & Lijo George-Dj Chetas"
+    ],
+    "composers": [
+      "Darshan Raval, Asees Kaur & Lijo George-Dj Chetas"
+    ],
+    "lyricist": "Darshan Raval, Asees Kaur & Lijo George-Dj Chetas",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1f/bb/a1/1fbba135-c2a0-363b-0e44-267b9f1914e2/mzaf_12556899107469621015.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/69/79/af697907-7447-e35b-5446-40d3cb3e1f64/8903431684981_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chogada (From \"Loveyatri\")",
+      "Chogada"
+    ]
+  },
+  {
+    "title": "Kamariya",
+    "movie": "Mitron",
+    "singers": [
+      "Lijo George, DJ Chetas & Darshan Raval"
+    ],
+    "artists": [
+      "Lijo George, DJ Chetas & Darshan Raval"
+    ],
+    "composers": [
+      "Lijo George, DJ Chetas & Darshan Raval"
+    ],
+    "lyricist": "Lijo George, DJ Chetas & Darshan Raval",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/68/a2/52/68a25205-0edc-a326-42f2-2dc7c3ccdac0/mzaf_6457468538517338790.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d2/1c/bd/d21cbda3-8080-ba8a-37cb-14adc9682a6f/886447288764.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kamariya",
+      "Kamariya"
+    ]
+  },
+  {
+    "title": "Baarish Lete Aana",
+    "movie": "Baarish Lete Aana - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/a8/b6/c7a8b63b-f358-6cf1-ba17-ea754c592451/mzaf_13946111947804448591.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/d4/14/edd4147b-6ade-797a-a682-3877e4eb8e4f/193483818030.jpg/400x400bb.jpg",
+    "aliases": [
+      "Baarish Lete Aana",
+      "Baarish Lete Aana"
+    ]
+  },
+  {
+    "title": "Do Din",
+    "movie": "Do Din - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/44/2b/4a442bfb-e16b-3ecb-5427-7a36d20d3e1c/mzaf_11397819137233514813.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b6/9d/f4/b69df464-cf83-6e41-055b-41bbb4f326f7/886447239049.jpg/400x400bb.jpg",
+    "aliases": [
+      "Do Din",
+      "Do Din"
+    ]
+  },
+  {
+    "title": "Kaun Hoye Ga",
+    "movie": "Kaun Hoye Ga (From \"Qismat\") - Single",
+    "singers": [
+      "B. Praak & Divya Bhatt"
+    ],
+    "artists": [
+      "B. Praak & Divya Bhatt"
+    ],
+    "composers": [
+      "B. Praak & Divya Bhatt"
+    ],
+    "lyricist": "B. Praak & Divya Bhatt",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/58/e7/8e58e768-2f61-988c-2e31-55442acf552e/mzaf_5386164467715078068.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/a8/aa/93a8aaad-1604-e80b-fd7e-df0806f758e2/8902633285552.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaun Hoye Ga (From \"Qismat\")",
+      "Kaun Hoye Ga"
+    ]
+  },
+  {
+    "title": "Dill Ton Blacck",
+    "movie": "Dill Ton Blacck - Single",
+    "singers": [
+      "Jassie Gill, Badshah & B. Praak"
+    ],
+    "artists": [
+      "Jassie Gill, Badshah & B. Praak"
+    ],
+    "composers": [
+      "Jassie Gill, Badshah & B. Praak"
+    ],
+    "lyricist": "Jassie Gill, Badshah & B. Praak",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/23/d2/21/23d2212a-8219-edc2-fc6e-3471493be8cd/mzaf_9657051676898434759.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3a/33/b0/3a33b059-5094-20d7-ecb3-77002e999def/8903431665768_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dill Ton Blacck",
+      "Dill Ton Blacck"
+    ]
+  },
+  {
+    "title": "Awaaz",
+    "movie": "Awaaz (From \"Qismat\") - Single",
+    "singers": [
+      "Kamal Khan & B. Praak"
+    ],
+    "artists": [
+      "Kamal Khan & B. Praak"
+    ],
+    "composers": [
+      "Kamal Khan & B. Praak"
+    ],
+    "lyricist": "Kamal Khan & B. Praak",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/0a/8e/a40a8ec1-d4b4-3001-f6e5-004b2d6e4df1/mzaf_8938818013785514011.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c7/cb/9f/c7cb9f1c-37cd-b89f-6bdb-2b10d48648b6/8902633286221.jpg/400x400bb.jpg",
+    "aliases": [
+      "Awaaz (From \"Qismat\")",
+      "Awaaz"
+    ]
+  },
+  {
+    "title": "Sooraj",
+    "movie": "Sooraj - Single",
+    "singers": [
+      "Gippy Grewal & B. Praak"
+    ],
+    "artists": [
+      "Gippy Grewal & B. Praak"
+    ],
+    "composers": [
+      "Gippy Grewal & B. Praak"
+    ],
+    "lyricist": "Gippy Grewal & B. Praak",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/af/4c/26/af4c2650-50f3-149c-a37f-6f686bee0f87/mzaf_4178703554794584066.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/76/5e/62765e8e-6cf3-02a4-d41c-91dbae271ba1/8903431680266_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sooraj",
+      "Sooraj"
+    ]
+  },
+  {
+    "title": "Veere",
+    "movie": "Veere Di Wedding",
+    "singers": [
+      "Vishal Mishra, Aditi Singh Sharma, Payal Dev, Sharvi Yadav, Dhvani Bhanushali, Nikita Ahuja & Iulia Vantur"
+    ],
+    "artists": [
+      "Vishal Mishra, Aditi Singh Sharma, Payal Dev, Sharvi Yadav, Dhvani Bhanushali, Nikita Ahuja & Iulia Vantur"
+    ],
+    "composers": [
+      "Vishal Mishra, Aditi Singh Sharma, Payal Dev, Sharvi Yadav, Dhvani Bhanushali, Nikita Ahuja & Iulia Vantur"
+    ],
+    "lyricist": "Vishal Mishra, Aditi Singh Sharma, Payal Dev, Sharvi Yadav, Dhvani Bhanushali, Nikita Ahuja & Iulia Vantur",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/2a/38/f12a386c-2378-d0ad-207a-474522c2e30f/mzaf_1468535305937420814.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3d/fd/8a3dfd29-1226-10a9-31bf-bf8cdf64c894/840780181311.png/400x400bb.jpg",
+    "aliases": [
+      "Veere",
+      "Veere"
+    ]
+  },
+  {
+    "title": "Proper Patola",
+    "movie": "Namaste England",
+    "singers": [
+      "Badshah, Diljit Dosanjh & Aastha Gill"
+    ],
+    "artists": [
+      "Badshah, Diljit Dosanjh & Aastha Gill"
+    ],
+    "composers": [
+      "Badshah, Diljit Dosanjh & Aastha Gill"
+    ],
+    "lyricist": "Badshah, Diljit Dosanjh & Aastha Gill",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/c2/0a/e5c20a8d-f1b4-5d95-2ac1-e2e9efa502bb/mzaf_11124996926999296098.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/f7/b4/a9f7b4e7-6ec1-5c95-1d56-ec08e038ca5a/886447356036.jpg/400x400bb.jpg",
+    "aliases": [
+      "Proper Patola",
+      "Proper Patola"
+    ]
+  },
+  {
+    "title": "Tareefan",
+    "movie": "Veere Di Wedding",
+    "singers": [
+      "QARAN & Badshah"
+    ],
+    "artists": [
+      "QARAN & Badshah"
+    ],
+    "composers": [
+      "QARAN & Badshah"
+    ],
+    "lyricist": "QARAN & Badshah",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/73/8c/cf738cd2-526d-e469-e152-770fc6f1953a/mzaf_4562583036479889437.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3d/fd/8a3dfd29-1226-10a9-31bf-bf8cdf64c894/840780181311.png/400x400bb.jpg",
+    "aliases": [
+      "Tareefan",
+      "Tareefan"
+    ]
+  },
+  {
+    "title": "Happy Happy",
+    "movie": "Blackmail",
+    "singers": [
+      "Badshah & Aastha Gill"
+    ],
+    "artists": [
+      "Badshah & Aastha Gill"
+    ],
+    "composers": [
+      "Badshah & Aastha Gill"
+    ],
+    "lyricist": "Badshah & Aastha Gill",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/2c/05/ae2c0513-775a-5cde-9acf-adede762c4ec/mzaf_14926213677712024318.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/72/47/06/7247064c-2763-d787-418e-3afd3dbaf180/8902894360180_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Happy Happy",
+      "Happy Happy"
+    ]
+  },
+  {
+    "title": "Tere Naal Nachna",
+    "movie": "Nawabzaade",
+    "singers": [
+      "Badshah & Sunanda Sharma"
+    ],
+    "artists": [
+      "Badshah & Sunanda Sharma"
+    ],
+    "composers": [
+      "Badshah & Sunanda Sharma"
+    ],
+    "lyricist": "Badshah & Sunanda Sharma",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/b2/83/18b283da-f8a7-4b14-456a-7dbd9835036e/mzaf_12392502420121849371.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/20/c3/fb20c353-08b1-4fbe-6985-45a0f752ad57/8902894360326_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tere Naal Nachna",
+      "Tere Naal Nachna"
+    ]
+  },
+  {
+    "title": "Ishq Di Baajiyaan",
+    "movie": "Soorma",
+    "singers": [
+      "Shankar Ehsaan Loy & Diljit Dosanjh"
+    ],
+    "artists": [
+      "Shankar Ehsaan Loy & Diljit Dosanjh"
+    ],
+    "composers": [
+      "Shankar Ehsaan Loy & Diljit Dosanjh"
+    ],
+    "lyricist": "Shankar Ehsaan Loy & Diljit Dosanjh",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/c9/89/0ac98962-42f8-0471-2ea1-ef6cd14c3a36/mzaf_13987188591777498838.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/67/75/c26775f4-5e68-e63f-fd40-108a460e2c48/886447198193.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Di Baajiyaan",
+      "Ishq Di Baajiyaan"
+    ]
+  },
+  {
+    "title": "Teri Dastaan",
+    "movie": "Hichki",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/33/c6/3c33c6e0-b859-064c-1a88-3fafde17ba5d/mzaf_7322825044112471715.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/08/a8/c508a8bc-f483-b8ba-a2fc-41a551d2f82d/849486092143_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Teri Dastaan",
+      "Teri Dastaan"
+    ]
+  },
+  {
+    "title": "Laaj Sharam",
+    "movie": "Veere Di Wedding",
+    "singers": [
+      "Divya Kumar, Enbee & Jasleen Royal"
+    ],
+    "artists": [
+      "Divya Kumar, Enbee & Jasleen Royal"
+    ],
+    "composers": [
+      "Divya Kumar, Enbee & Jasleen Royal"
+    ],
+    "lyricist": "Divya Kumar, Enbee & Jasleen Royal",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/88/be/3d88be15-9ecd-7267-279f-0ce63aab96b2/mzaf_14844876447780203664.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3d/fd/8a3dfd29-1226-10a9-31bf-bf8cdf64c894/840780181311.png/400x400bb.jpg",
+    "aliases": [
+      "Laaj Sharam",
+      "Laaj Sharam"
+    ]
+  },
+  {
+    "title": "Mann Melo",
+    "movie": "Sharato Lagu - EP",
+    "singers": [
+      "Jasleen Royal, Siddharth Amit Bhavsar & Parth Bharat Thakkar"
+    ],
+    "artists": [
+      "Jasleen Royal, Siddharth Amit Bhavsar & Parth Bharat Thakkar"
+    ],
+    "composers": [
+      "Jasleen Royal, Siddharth Amit Bhavsar & Parth Bharat Thakkar"
+    ],
+    "lyricist": "Jasleen Royal, Siddharth Amit Bhavsar & Parth Bharat Thakkar",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/d7/49/41d74960-f488-ef38-c8da-bbc33fd58343/mzaf_3045031345854492163.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/73/0d/ab730dc6-74ee-1b03-f8dc-929ec22af685/3617221299495.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mann Melo",
+      "Mann Melo"
     ]
   },
   {
@@ -20306,6 +29020,1210 @@ module.exports = [
     ]
   },
   {
+    "title": "Main Tera Boyfriend",
+    "movie": "Raabta",
+    "singers": [
+      "Arijit Singh, Neha Kakkar & Meet Bros"
+    ],
+    "artists": [
+      "Arijit Singh, Neha Kakkar & Meet Bros"
+    ],
+    "composers": [
+      "Arijit Singh, Neha Kakkar & Meet Bros"
+    ],
+    "lyricist": "Arijit Singh, Neha Kakkar & Meet Bros",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/b1/c7/edb1c7ce-fb78-2d44-de5b-8dc8d9c37c78/mzaf_13333900350647505230.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/83/b4/9b83b42b-0716-95cf-60f3-701ec9464ada/8902894359023_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Tera Boyfriend",
+      "Main Tera Boyfriend"
+    ]
+  },
+  {
+    "title": "Darasal",
+    "movie": "Raabta",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/d8/78/1ed87877-180d-795d-cfce-975562e1dca3/mzaf_18108618070855720152.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/83/b4/9b83b42b-0716-95cf-60f3-701ec9464ada/8902894359023_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Darasal",
+      "Darasal"
+    ]
+  },
+  {
+    "title": "Hoor",
+    "movie": "Hindi Medium",
+    "singers": [
+      "Sachin-Jigar & Atif Aslam"
+    ],
+    "artists": [
+      "Sachin-Jigar & Atif Aslam"
+    ],
+    "composers": [
+      "Sachin-Jigar & Atif Aslam"
+    ],
+    "lyricist": "Sachin-Jigar & Atif Aslam",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/06/66/f5066652-747b-d5aa-0961-63003be5a900/mzaf_2052340457604523489.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/25/9a/bd259a04-aee2-9b60-0631-a7de4e3cfa4a/8902894358989_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hoor",
+      "Hoor"
+    ]
+  },
+  {
+    "title": "Musafir (feat. Atif Aslam & Palak Muchhal)",
+    "movie": "Sweetiee Weds NRI",
+    "singers": [
+      "Palash Muchhal"
+    ],
+    "artists": [
+      "Palash Muchhal"
+    ],
+    "composers": [
+      "Palash Muchhal"
+    ],
+    "lyricist": "Palash Muchhal",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/69/8e/3b/698e3bbd-f1ed-4ef4-b02c-442a917a95c6/mzaf_3035112900818891616.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/66/73/096673fd-246b-4794-c137-25b4b35fa6ef/8902894359047_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Musafir (feat. Atif Aslam & Palak Muchhal)",
+      "Musafir (feat. Atif Aslam & Palak Muchhal)"
+    ]
+  },
+  {
+    "title": "Main Agar",
+    "movie": "Main Agar (From \"Tubelight\") - Single",
+    "singers": [
+      "Pritam & Atif Aslam"
+    ],
+    "artists": [
+      "Pritam & Atif Aslam"
+    ],
+    "composers": [
+      "Pritam & Atif Aslam"
+    ],
+    "lyricist": "Pritam & Atif Aslam",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9c/dc/d0/9cdcd05c-27f6-61cc-fdb5-1254caff876a/mzaf_17434293315604266728.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/63/62/65/63626565-d34b-bd98-2c76-b3a4e4b7575a/886446581491.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Agar (From \"Tubelight\")",
+      "Main Agar"
+    ]
+  },
+  {
+    "title": "Jaane De",
+    "movie": "Qarib Qarib Singlle - EP",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7b/87/2f/7b872fde-376b-a94e-1571-19f029b5a5a9/mzaf_11801975249074059210.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/7b/0f/db7b0f0f-fe52-de4e-d361-3fd3c70dced6/840780181052.png/400x400bb.jpg",
+    "aliases": [
+      "Jaane De",
+      "Jaane De"
+    ]
+  },
+  {
+    "title": "Pehli Dafa",
+    "movie": "Pehli Dafa - Single",
+    "singers": [
+      "Atif Aslam & Shiraz Uppal"
+    ],
+    "artists": [
+      "Atif Aslam & Shiraz Uppal"
+    ],
+    "composers": [
+      "Atif Aslam & Shiraz Uppal"
+    ],
+    "lyricist": "Atif Aslam & Shiraz Uppal",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/94/f9/a094f99f-c175-d9dd-c475-040048553ea1/mzaf_16550135546441316062.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/06/f5/7e06f500-2d05-879b-18a1-e901d1a43d65/8903431633866_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pehli Dafa",
+      "Pehli Dafa"
+    ]
+  },
+  {
+    "title": "Ghar",
+    "movie": "Jab Harry Met Sejal",
+    "singers": [
+      "Pritam, Nikhita Gandhi & Mohit Chauhan"
+    ],
+    "artists": [
+      "Pritam, Nikhita Gandhi & Mohit Chauhan"
+    ],
+    "composers": [
+      "Pritam, Nikhita Gandhi & Mohit Chauhan"
+    ],
+    "lyricist": "Pritam, Nikhita Gandhi & Mohit Chauhan",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/1a/d3/d21ad364-999f-759b-a0b8-07602ba60c52/mzaf_9560035711972653812.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/aa/e3/41aae321-0a81-2762-e0eb-c60844109fe7/886446683584.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ghar",
+      "Ghar"
+    ]
+  },
+  {
+    "title": "Phurrr",
+    "movie": "Phurrr (From \"Jab Harry Met Sejal\") - Single",
+    "singers": [
+      "Diplo, Pritam & Mohit Chauhan"
+    ],
+    "artists": [
+      "Diplo, Pritam & Mohit Chauhan"
+    ],
+    "composers": [
+      "Diplo, Pritam & Mohit Chauhan"
+    ],
+    "lyricist": "Diplo, Pritam & Mohit Chauhan",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/e6/96/33e6964e-1315-ef1c-2bc2-608834b8971b/mzaf_3459614642760168035.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9f/b9/8d/9fb98d46-d0ce-ba91-168a-32cbef5a159e/886446668833.jpg/400x400bb.jpg",
+    "aliases": [
+      "Phurrr (From \"Jab Harry Met Sejal\")",
+      "Phurrr"
+    ]
+  },
+  {
+    "title": "Phurrr (Film Version)",
+    "movie": "Jab Harry Met Sejal",
+    "singers": [
+      "Pritam, Diplo, Mohit Chauhan & Tushar Joshi"
+    ],
+    "artists": [
+      "Pritam, Diplo, Mohit Chauhan & Tushar Joshi"
+    ],
+    "composers": [
+      "Pritam, Diplo, Mohit Chauhan & Tushar Joshi"
+    ],
+    "lyricist": "Pritam, Diplo, Mohit Chauhan & Tushar Joshi",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/c6/6b/0ec66be0-8043-3dac-75e8-8c730132408f/mzaf_13800963283214896937.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/aa/e3/41aae321-0a81-2762-e0eb-c60844109fe7/886446683584.jpg/400x400bb.jpg",
+    "aliases": [
+      "Phurrr (Film Version)",
+      "Phurrr (Film Version)"
+    ]
+  },
+  {
+    "title": "Bawara Mann",
+    "movie": "Jolly LLB 2",
+    "singers": [
+      "Jubin Nautiyal & Neeti Mohan"
+    ],
+    "artists": [
+      "Jubin Nautiyal & Neeti Mohan"
+    ],
+    "composers": [
+      "Jubin Nautiyal & Neeti Mohan"
+    ],
+    "lyricist": "Jubin Nautiyal & Neeti Mohan",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ca/9f/bd/ca9fbdac-edca-2bb8-4aa4-ffb69f3a5a87/mzaf_6174037129134601194.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e3/73/05/e3730555-ca93-b050-cfbf-6d6722212c18/8902894358736_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bawara Mann",
+      "Bawara Mann"
+    ]
+  },
+  {
+    "title": "Agar Tum Saath Ho-Maahi Ve",
+    "movie": "T-Series Mixtape",
+    "singers": [
+      "Jubin Nautiyal & Prakriti Kakar"
+    ],
+    "artists": [
+      "Jubin Nautiyal & Prakriti Kakar"
+    ],
+    "composers": [
+      "Jubin Nautiyal & Prakriti Kakar"
+    ],
+    "lyricist": "Jubin Nautiyal & Prakriti Kakar",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/17/d5/6017d5b5-7a93-9445-9143-e6d157020a81/mzaf_13672793470994669550.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/df/f1/3cdff1a5-ccf9-af08-371d-0694f783c1b0/8903431646873_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Agar Tum Saath Ho-Maahi Ve",
+      "Agar Tum Saath Ho-Maahi Ve"
+    ]
+  },
+  {
+    "title": "Ittefaq Se Raat Baaki",
+    "movie": "Ittefaq Se Raat Baaki (From \"Ittefaq\") - Single",
+    "singers": [
+      "Tanishk Bagchi, Bappi Lahiri, Jubin Nautiyal & Nikhita Gandhi"
+    ],
+    "artists": [
+      "Tanishk Bagchi, Bappi Lahiri, Jubin Nautiyal & Nikhita Gandhi"
+    ],
+    "composers": [
+      "Tanishk Bagchi, Bappi Lahiri, Jubin Nautiyal & Nikhita Gandhi"
+    ],
+    "lyricist": "Tanishk Bagchi, Bappi Lahiri, Jubin Nautiyal & Nikhita Gandhi",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/bd/82/77bd82e4-83a4-8125-6ade-99255d4dca80/mzaf_2423220359455435014.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/05/93/1f05938e-59f2-aa9e-fcca-50fbebd44cbe/191773843021.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ittefaq Se Raat Baaki (From \"Ittefaq\")",
+      "Ittefaq Se Raat Baaki"
+    ]
+  },
+  {
+    "title": "Raabta (Title Track)",
+    "movie": "Raabta",
+    "singers": [
+      "Pritam, Arijit Singh & Nikhita Gandhi"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Nikhita Gandhi"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Nikhita Gandhi"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Nikhita Gandhi",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/64/ba/a164ba3d-286a-86b1-7733-4cb46bd32c42/mzaf_11652427257551252255.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9b/83/b4/9b83b42b-0716-95cf-60f3-701ec9464ada/8902894359023_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Raabta (Title Track)",
+      "Raabta (Title Track)"
+    ]
+  },
+  {
+    "title": "Swag Se Swagat",
+    "movie": "Tiger Zinda Hai",
+    "singers": [
+      "Vishal & Shekhar, Julius Packiam, Vishal Dadlani & Neha Bhasin"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Julius Packiam, Vishal Dadlani & Neha Bhasin"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Julius Packiam, Vishal Dadlani & Neha Bhasin"
+    ],
+    "lyricist": "Vishal & Shekhar, Julius Packiam, Vishal Dadlani & Neha Bhasin",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/66/2d/89662d50-0049-193d-daf7-7965acd8aabf/mzaf_1633242550499414413.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/16/15/5516155a-733c-800c-1081-e5e982e8a603/849486091696_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Swag Se Swagat",
+      "Swag Se Swagat"
+    ]
+  },
+  {
+    "title": "Bandook Meri Laila (feat. Raftaar & Sidharth Malhotra)",
+    "movie": "A Gentleman",
+    "singers": [
+      "Sachin-Jigar, Ash King & Jigar Saraiya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Ash King & Jigar Saraiya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Ash King & Jigar Saraiya"
+    ],
+    "lyricist": "Sachin-Jigar, Ash King & Jigar Saraiya",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/4d/aa/674daac1-d405-fca6-118a-de85af726d54/mzaf_8699073449518222869.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/82/c5/0382c5e4-4867-a780-adab-23f4a3d33801/8902894359719_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bandook Meri Laila (feat. Raftaar & Sidharth Malhotra)",
+      "Bandook Meri Laila (feat. Raftaar & Sidharth Malhotra)"
+    ]
+  },
+  {
+    "title": "Phir Bhi Tumko Chaahunga",
+    "movie": "Half Girlfriend",
+    "singers": [
+      "Mithoon, Arijit Singh, Shashaa Tirupati & Manoj Muntashir"
+    ],
+    "artists": [
+      "Mithoon, Arijit Singh, Shashaa Tirupati & Manoj Muntashir"
+    ],
+    "composers": [
+      "Mithoon, Arijit Singh, Shashaa Tirupati & Manoj Muntashir"
+    ],
+    "lyricist": "Mithoon, Arijit Singh, Shashaa Tirupati & Manoj Muntashir",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/c1/85/71c18529-2c27-f0d1-3b23-f5b5b70bc93f/mzaf_8603372778770751468.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f9/2a/7d/f92a7d17-b0f1-ecb1-3aec-2f1ca4ef7bf3/840780180666.png/400x400bb.jpg",
+    "aliases": [
+      "Phir Bhi Tumko Chaahunga",
+      "Phir Bhi Tumko Chaahunga"
+    ]
+  },
+  {
+    "title": "Saved",
+    "movie": "American Teen",
+    "singers": [
+      "Khalid"
+    ],
+    "artists": [
+      "Khalid"
+    ],
+    "composers": [
+      "Khalid"
+    ],
+    "lyricist": "Khalid",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/d2/00/7cd200a4-bcc1-fcc3-cf67-1645f174e3ce/mzaf_14672059243559220719.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/45/5a/f8455a71-8307-aa9a-9c95-3d22efe0804f/886446326146.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saved",
+      "Saved"
+    ]
+  },
+  {
+    "title": "I Know You",
+    "movie": "Faye Webster",
+    "singers": [
+      "Faye Webster"
+    ],
+    "artists": [
+      "Faye Webster"
+    ],
+    "composers": [
+      "Faye Webster"
+    ],
+    "lyricist": "Faye Webster",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/95/3d/cf953dcf-2471-e88c-5a6c-48fa4eabf501/mzaf_18071571490238156129.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/10/e1/3f/10e13f32-7d89-4092-ec35-fc6f6e19a291/656605041261.jpg/400x400bb.jpg",
+    "aliases": [
+      "I Know You",
+      "I Know You"
+    ]
+  },
+  {
+    "title": "Dusk Till Dawn (feat. Sia)",
+    "movie": "Dusk Till Dawn (Radio Edit) [feat. Sia] - Single",
+    "singers": [
+      "ZAYN"
+    ],
+    "artists": [
+      "ZAYN"
+    ],
+    "composers": [
+      "ZAYN"
+    ],
+    "lyricist": "ZAYN",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/68/6e/7c686e96-5eae-14e4-3059-d8c2e0c97658/mzaf_16705803503687192662.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/25/4c/9d254c6f-1af8-c3e2-ff1a-f30ca2dbe45b/886446731896.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dusk Till Dawn (feat. Sia)",
+      "Dusk Till Dawn (feat. Sia)"
+    ]
+  },
+  {
+    "title": "Hold On",
+    "movie": "Hold On - Single",
+    "singers": [
+      "Chord Overstreet"
+    ],
+    "artists": [
+      "Chord Overstreet"
+    ],
+    "composers": [
+      "Chord Overstreet"
+    ],
+    "lyricist": "Chord Overstreet",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/1f/ce/f51fceb6-a550-38b2-138e-c77cbba0c3f9/mzaf_6458807449082544802.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/f2/6a/82f26ae6-f5c4-4ae7-74c0-72c266cd8406/00602557261615.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hold On",
+      "Hold On"
+    ]
+  },
+  {
+    "title": "Apocalypse",
+    "movie": "Cigarettes After Sex",
+    "singers": [
+      "Cigarettes After Sex"
+    ],
+    "artists": [
+      "Cigarettes After Sex"
+    ],
+    "composers": [
+      "Cigarettes After Sex"
+    ],
+    "lyricist": "Cigarettes After Sex",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/43/b0/b143b0ee-863a-8f7c-3c56-a67110ef1591/mzaf_10438092015459317290.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Apocalypse",
+      "Apocalypse"
+    ]
+  },
+  {
+    "title": "Lae Dooba",
+    "movie": "Aiyaary",
+    "singers": [
+      "Sunidhi Chauhan & Manoj Muntashir"
+    ],
+    "artists": [
+      "Sunidhi Chauhan & Manoj Muntashir"
+    ],
+    "composers": [
+      "Sunidhi Chauhan & Manoj Muntashir"
+    ],
+    "lyricist": "Sunidhi Chauhan & Manoj Muntashir",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/6f/87/286f874e-782c-c128-f8a2-424b04c804b1/mzaf_12157931357925555043.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/ea/fd/baeafd84-cde4-2b29-8f02-82047a85cfec/8718857708049.png/400x400bb.jpg",
+    "aliases": [
+      "Lae Dooba",
+      "Lae Dooba"
+    ]
+  },
+  {
+    "title": "Humsafar",
+    "movie": "Badrinath Ki Dulhania",
+    "singers": [
+      "Akhil Sachdeva & Mansheel Gujral"
+    ],
+    "artists": [
+      "Akhil Sachdeva & Mansheel Gujral"
+    ],
+    "composers": [
+      "Akhil Sachdeva & Mansheel Gujral"
+    ],
+    "lyricist": "Akhil Sachdeva & Mansheel Gujral",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/14/43/cf1443cc-991e-cd11-b464-6a3cf4792fbd/mzaf_15815229922780726267.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/6e/e7/7c6ee7c8-c1f3-e40f-1ec7-7ff96d0776f8/8902894358804_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Humsafar",
+      "Humsafar"
+    ]
+  },
+  {
+    "title": "Tere Mere",
+    "movie": "Tere Mere (From \"Chef\") - Single",
+    "singers": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "artists": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "composers": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "lyricist": "Armaan Malik & Amaal Mallik",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/30/16/bf30169a-3146-0652-35cb-282f01d0c627/mzaf_14180455793944212485.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/34/04/9c/34049c1d-9735-b42c-d5f0-91b4d62b7f21/8903431653185_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tere Mere (From \"Chef\")",
+      "Tere Mere"
+    ]
+  },
+  {
+    "title": "Kehta Hai Pal Pal",
+    "movie": "Kehta Hai Pal Pal - Single",
+    "singers": [
+      "Armaan Malik & Shruti Pathak"
+    ],
+    "artists": [
+      "Armaan Malik & Shruti Pathak"
+    ],
+    "composers": [
+      "Armaan Malik & Shruti Pathak"
+    ],
+    "lyricist": "Armaan Malik & Shruti Pathak",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/8b/b1/4e8bb17a-5c0e-9672-368d-3e1248b240cb/mzaf_15289279251349827865.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d6/4e/ddd64e58-0036-0e42-69c7-dcc8de983fda/8903431636706_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kehta Hai Pal Pal",
+      "Kehta Hai Pal Pal"
+    ]
+  },
+  {
+    "title": "The Goggle Song",
+    "movie": "Mubarakan",
+    "singers": [
+      "Sonu Nigam, Armaan Malik, Amaal Mallik, Tulsi Kumar & Neeti Mohan"
+    ],
+    "artists": [
+      "Sonu Nigam, Armaan Malik, Amaal Mallik, Tulsi Kumar & Neeti Mohan"
+    ],
+    "composers": [
+      "Sonu Nigam, Armaan Malik, Amaal Mallik, Tulsi Kumar & Neeti Mohan"
+    ],
+    "lyricist": "Sonu Nigam, Armaan Malik, Amaal Mallik, Tulsi Kumar & Neeti Mohan",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/96/da/5796da0c-3683-533b-989b-9cfc2ed7344e/mzaf_5277810490606017409.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/0c/f5/270cf58b-761f-6cf3-8dfa-02e89f76cf2c/8902894359665_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "The Goggle Song",
+      "The Goggle Song"
+    ]
+  },
+  {
+    "title": "Tose Naina-Tum Jo Aaye",
+    "movie": "T-Series Mixtape",
+    "singers": [
+      "Armaan Malik & Tulsi Kumar"
+    ],
+    "artists": [
+      "Armaan Malik & Tulsi Kumar"
+    ],
+    "composers": [
+      "Armaan Malik & Tulsi Kumar"
+    ],
+    "lyricist": "Armaan Malik & Tulsi Kumar",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/3a/cb/103acbc4-9f86-5dca-beb2-acc9cee204f1/mzaf_7055010790209399354.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/df/f1/3cdff1a5-ccf9-af08-371d-0694f783c1b0/8903431646873_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tose Naina-Tum Jo Aaye",
+      "Tose Naina-Tum Jo Aaye"
+    ]
+  },
+  {
+    "title": "Main Agar Kahoon-Bol Do Na Zara",
+    "movie": "T-Series Mixtape",
+    "singers": [
+      "Armaan Malik & Jonita Gandhi"
+    ],
+    "artists": [
+      "Armaan Malik & Jonita Gandhi"
+    ],
+    "composers": [
+      "Armaan Malik & Jonita Gandhi"
+    ],
+    "lyricist": "Armaan Malik & Jonita Gandhi",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/7a/50/1a7a50e4-e6ac-3b3d-c71a-89facd04e90b/mzaf_13956178734343352126.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/df/f1/3cdff1a5-ccf9-af08-371d-0694f783c1b0/8903431646873_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Agar Kahoon-Bol Do Na Zara",
+      "Main Agar Kahoon-Bol Do Na Zara"
+    ]
+  },
+  {
+    "title": "Tera Zikr",
+    "movie": "Tera Zikr - Single",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/a7/75/82a77557-9770-fd37-bc25-09f8dd8491f1/mzaf_285963533071971698.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/30/93/d430936d-b951-0ac1-76d5-e6e9bf192cfe/886446839820.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tera Zikr",
+      "Tera Zikr"
+    ]
+  },
+  {
+    "title": "Car Nachdi",
+    "movie": "Car Nachdi - Single",
+    "singers": [
+      "Gippy Grewal, Bohemia & B. Praak"
+    ],
+    "artists": [
+      "Gippy Grewal, Bohemia & B. Praak"
+    ],
+    "composers": [
+      "Gippy Grewal, Bohemia & B. Praak"
+    ],
+    "lyricist": "Gippy Grewal, Bohemia & B. Praak",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5d/14/39/5d143948-800d-bf86-c537-dde432003723/mzaf_7797043687528301693.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4a/ce/2e/4ace2eea-b827-0ecb-e17b-ae731f0b50d3/8903431645159_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Car Nachdi",
+      "Car Nachdi"
+    ]
+  },
+  {
+    "title": "Mann Bharrya",
+    "movie": "Mann Bharrya - Single",
+    "singers": [
+      "B. Praak"
+    ],
+    "artists": [
+      "B. Praak"
+    ],
+    "composers": [
+      "B. Praak"
+    ],
+    "lyricist": "B. Praak",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/50/4d/a7504d34-919b-28bd-3a31-5d873b3f8f02/mzaf_10482313145999182474.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/5d/94/d35d94b7-46bb-8ce3-72a4-b1e3c81043ad/8902633271111.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mann Bharrya",
+      "Mann Bharrya"
+    ]
+  },
+  {
+    "title": "Yaarr Ni Milyaa",
+    "movie": "Yaarr Ni Milyaa - Single",
+    "singers": [
+      "Harrdy Sandhu, B. Praak & Jaani"
+    ],
+    "artists": [
+      "Harrdy Sandhu, B. Praak & Jaani"
+    ],
+    "composers": [
+      "Harrdy Sandhu, B. Praak & Jaani"
+    ],
+    "lyricist": "Harrdy Sandhu, B. Praak & Jaani",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/a0/c6/92a0c6d1-1bfd-2133-b013-1c557184b768/mzaf_17038956815022570332.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/8f/eb/008febf2-15f7-dd73-dad5-2897db42bb00/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Yaarr Ni Milyaa",
+      "Yaarr Ni Milyaa"
+    ]
+  },
+  {
+    "title": "Qismat",
+    "movie": "Jaani & B Praak Hits",
+    "singers": [
+      "Ammy Virk"
+    ],
+    "artists": [
+      "Ammy Virk"
+    ],
+    "composers": [
+      "Ammy Virk"
+    ],
+    "lyricist": "Ammy Virk",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4f/28/8e/4f288e45-944b-0658-53b6-7db53739d6a0/mzaf_2471952582960686958.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/50/11/095011d5-169c-6d0e-08b0-dc33bbc1a190/8902633284760.jpg/400x400bb.jpg",
+    "aliases": [
+      "Qismat",
+      "Qismat"
+    ]
+  },
+  {
+    "title": "Pyar Ho",
+    "movie": "Munna Michael",
+    "singers": [
+      "Vishal Mishra & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Vishal Mishra & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Vishal Mishra & Sunidhi Chauhan"
+    ],
+    "lyricist": "Vishal Mishra & Sunidhi Chauhan",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/42/34/b94234ca-14bb-91b6-d6df-d7e80783904a/mzaf_1074469922757150389.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/69/d5/4669d521-be36-9110-e0f3-349182097f87/196871087162.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pyar Ho",
+      "Pyar Ho"
+    ]
+  },
+  {
+    "title": "Move Your Lakk",
+    "movie": "Move Your Lakk (from \"Noor\") - Single",
+    "singers": [
+      "Diljit Dosanjh, Badshah & Sonakshi Sinha"
+    ],
+    "artists": [
+      "Diljit Dosanjh, Badshah & Sonakshi Sinha"
+    ],
+    "composers": [
+      "Diljit Dosanjh, Badshah & Sonakshi Sinha"
+    ],
+    "lyricist": "Diljit Dosanjh, Badshah & Sonakshi Sinha",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/1e/f1/121ef158-ce88-5845-2277-9bbfb872514a/mzaf_11597004329580473183.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/24/8b/3b248b30-e02e-03fc-56ec-b4622fc9ea65/8903431638557_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Move Your Lakk (from \"Noor\")",
+      "Move Your Lakk"
+    ]
+  },
+  {
+    "title": "Tamma Tamma Again",
+    "movie": "Badrinath Ki Dulhania",
+    "singers": [
+      "Bappi Lahiri, Anuradha Paudwal & Badshah"
+    ],
+    "artists": [
+      "Bappi Lahiri, Anuradha Paudwal & Badshah"
+    ],
+    "composers": [
+      "Bappi Lahiri, Anuradha Paudwal & Badshah"
+    ],
+    "lyricist": "Bappi Lahiri, Anuradha Paudwal & Badshah",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/70/af/2c70afb2-2c2e-0c7c-b129-2f3d6126075e/mzaf_5878293837096553167.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/6e/e7/7c6ee7c8-c1f3-e40f-1ec7-7ff96d0776f8/8902894358804_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tamma Tamma Again",
+      "Tamma Tamma Again"
+    ]
+  },
+  {
+    "title": "Mubarakan (Title Track)",
+    "movie": "Mubarakan",
+    "singers": [
+      "Juggy D, Yash Narvekar, Badshah & Sukriti Kakar"
+    ],
+    "artists": [
+      "Juggy D, Yash Narvekar, Badshah & Sukriti Kakar"
+    ],
+    "composers": [
+      "Juggy D, Yash Narvekar, Badshah & Sukriti Kakar"
+    ],
+    "lyricist": "Juggy D, Yash Narvekar, Badshah & Sukriti Kakar",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/f1/99/faf19915-0f3f-3d7e-8adb-5be6955e5b05/mzaf_12701646582861390576.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/0c/f5/270cf58b-761f-6cf3-8dfa-02e89f76cf2c/8902894359665_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mubarakan (Title Track)",
+      "Mubarakan (Title Track)"
+    ]
+  },
+  {
+    "title": "Din Shagna Da",
+    "movie": "Phillauri",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4f/cc/f8/4fccf86a-eedd-0bba-a3ba-c44041835c9a/mzaf_10644835758459052916.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/82/90/d48290d4-ee9e-207c-2d78-6b0ab05cee4b/8902894358873_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Din Shagna Da",
+      "Din Shagna Da"
+    ]
+  },
+  {
+    "title": "Kidre Jaawan",
+    "movie": "Kidre Jaawan (From \"Haraamkhor\") - Single",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/62/34/22/623422dc-0bca-8126-d166-5bb94df2a6d7/mzaf_1266652692744999600.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/c8/49/bdc849c2-1518-def7-253e-414c9e24ce9f/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kidre Jaawan (From \"Haraamkhor\")",
+      "Kidre Jaawan"
+    ]
+  },
+  {
+    "title": "Whats Up",
+    "movie": "Phillauri",
+    "singers": [
+      "Mika Singh & Jasleen Royal"
+    ],
+    "artists": [
+      "Mika Singh & Jasleen Royal"
+    ],
+    "composers": [
+      "Mika Singh & Jasleen Royal"
+    ],
+    "lyricist": "Mika Singh & Jasleen Royal",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/20/22/e8/2022e8de-1e13-f3cc-e7bd-f3f4d6136d49/mzaf_1637060867482003764.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/82/90/d48290d4-ee9e-207c-2d78-6b0ab05cee4b/8902894358873_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Whats Up",
+      "Whats Up"
+    ]
+  },
+  {
+    "title": "Peh Gaya Khalara",
+    "movie": "Fukrey Returns",
+    "singers": [
+      "Divya Kumar, Jasleen Royal, Akanksha Bhandari & Akasa Singh"
+    ],
+    "artists": [
+      "Divya Kumar, Jasleen Royal, Akanksha Bhandari & Akasa Singh"
+    ],
+    "composers": [
+      "Divya Kumar, Jasleen Royal, Akanksha Bhandari & Akasa Singh"
+    ],
+    "lyricist": "Divya Kumar, Jasleen Royal, Akanksha Bhandari & Akasa Singh",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/e0/74/dae07473-23d2-daa7-1a69-df82c19fd99c/mzaf_7925507759903348126.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/26/79/27267993-521b-0ea9-5b7f-2a62c748e575/840780180598.png/400x400bb.jpg",
+    "aliases": [
+      "Peh Gaya Khalara",
+      "Peh Gaya Khalara"
+    ]
+  },
+  {
+    "title": "Har Mod Par Umeed Hai",
+    "movie": "Ribbon - Single",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0d/27/dc/0d27dca3-671c-0f54-f9c7-2b65499cfa39/mzaf_453700906197695456.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/af/63/f5/af63f500-46fe-eb41-1d28-1ca5ce96ece9/8903431656148_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Har Mod Par Umeed Hai",
+      "Har Mod Par Umeed Hai"
+    ]
+  },
+  {
     "title": "Treat You Better",
     "movie": "Illuminate (Deluxe)",
     "singers": [
@@ -21087,6 +31005,1574 @@ module.exports = [
     "aliases": [
       "Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)",
       "Darkhaast (feat. Arijit Singh, Sunidhi Chauhan)"
+    ]
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "movie": "Befikre",
+    "singers": [
+      "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro"
+    ],
+    "lyricist": "Vishal & Shekhar, Arijit Singh & Caralisa Monteiro",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/d1/25/afd125f4-14ec-96db-f041-734b2be25ebf/mzaf_16119343562690640430.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/24/d9/6124d942-9d43-7863-f402-c37d9fb8e491/849486075603_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nashe Si Chadh Gayi",
+      "Nashe Si Chadh Gayi"
+    ]
+  },
+  {
+    "title": "Tere Sang Yaara",
+    "movie": "Rustom",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/3b/06/033b0648-3bc6-7691-7a8a-feb6c5e3886e/mzaf_2162408019575636099.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/b6/ae/69b6ae82-7a4f-211e-2798-7079d57c86a7/840780181106.png/400x400bb.jpg",
+    "aliases": [
+      "Tere Sang Yaara",
+      "Tere Sang Yaara"
+    ]
+  },
+  {
+    "title": "Toota Jo Kabhi Tara",
+    "movie": "A Flying Jatt - EP",
+    "singers": [
+      "Atif Aslam & Sumedha Karmahe"
+    ],
+    "artists": [
+      "Atif Aslam & Sumedha Karmahe"
+    ],
+    "composers": [
+      "Atif Aslam & Sumedha Karmahe"
+    ],
+    "lyricist": "Atif Aslam & Sumedha Karmahe",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0b/76/c5/0b76c528-7d27-80b5-9295-8dff2db96766/mzaf_8201297741628806940.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e9/cf/1d/e9cf1d4e-c8b8-7eaa-a92d-60cf7a2372c7/8718857700029.png/400x400bb.jpg",
+    "aliases": [
+      "Toota Jo Kabhi Tara",
+      "Toota Jo Kabhi Tara"
+    ]
+  },
+  {
+    "title": "Khair Mangda",
+    "movie": "A Flying Jatt - EP",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ec/aa/b2/ecaab247-58cc-5490-521d-79f05076786b/mzaf_6055411537119109091.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e9/cf/1d/e9cf1d4e-c8b8-7eaa-a92d-60cf7a2372c7/8718857700029.png/400x400bb.jpg",
+    "aliases": [
+      "Khair Mangda",
+      "Khair Mangda"
+    ]
+  },
+  {
+    "title": "Bolo Har Har Har (feat. Mohit Chauhan, Sukhwinder Singh, Badshah, Megha Sriram Dalton, Anugrah, Sandeep Shrivastava)",
+    "movie": "Shivaay",
+    "singers": [
+      "Mithoon"
+    ],
+    "artists": [
+      "Mithoon"
+    ],
+    "composers": [
+      "Mithoon"
+    ],
+    "lyricist": "Mithoon",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/eb/55/ca/eb55caec-8bb1-49b0-c922-a6137fa66b14/mzaf_11964464906236376871.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/20/55/b520556d-a1b7-ed6a-db24-5de2f1762998/8902894358422_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bolo Har Har Har (feat. Mohit Chauhan, Sukhwinder Singh, Badshah, Megha Sriram Dalton, Anugrah, Sandeep Shrivastava)",
+      "Bolo Har Har Har (feat. Mohit Chauhan, Sukhwinder Singh, Badshah, Megha Sriram Dalton, Anugrah, Sandeep Shrivastava)"
+    ]
+  },
+  {
+    "title": "Sachi Muchi",
+    "movie": "Sultan",
+    "singers": [
+      "Vishal & Shekhar, Mohit Chauhan & Harshdeep Kaur"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Mohit Chauhan & Harshdeep Kaur"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Mohit Chauhan & Harshdeep Kaur"
+    ],
+    "lyricist": "Vishal & Shekhar, Mohit Chauhan & Harshdeep Kaur",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/84/08/7d84085f-e7dc-b74c-1990-2b2cee65b68c/mzaf_9758313639377604946.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/81/9c/a8819cb4-c16f-d261-1d5a-cb10a4d053a4/849486057920_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sachi Muchi",
+      "Sachi Muchi"
+    ]
+  },
+  {
+    "title": "Hanuman Chalisa",
+    "movie": "Haidakhandi - Aarti & Bhajans",
+    "singers": [
+      "Sonu Nigam"
+    ],
+    "artists": [
+      "Sonu Nigam"
+    ],
+    "composers": [
+      "Sonu Nigam"
+    ],
+    "lyricist": "Sonu Nigam",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ac/34/31/ac3431fc-3373-9bc1-50a6-382f5ee962ba/mzaf_8221472046858499178.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/5b/da/a95bda65-6c1f-e79f-46b6-f363d0bb49fe/197189927928.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hanuman Chalisa",
+      "Hanuman Chalisa"
+    ]
+  },
+  {
+    "title": "Kaabil Hoon",
+    "movie": "Kaabil",
+    "singers": [
+      "Jubin Nautiyal & Palak Muchhal"
+    ],
+    "artists": [
+      "Jubin Nautiyal & Palak Muchhal"
+    ],
+    "composers": [
+      "Jubin Nautiyal & Palak Muchhal"
+    ],
+    "lyricist": "Jubin Nautiyal & Palak Muchhal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ec/18/0c/ec180c82-d702-622e-770d-b8edb47b4e85/mzaf_683812943324700547.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/dc/1f/ce/dc1fcec6-f100-103e-bc6f-125ce64d5a16/8903431632548_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaabil Hoon",
+      "Kaabil Hoon"
+    ]
+  },
+  {
+    "title": "Telusaa Telusaa",
+    "movie": "Sarrainodu",
+    "singers": [
+      "Jubin Nautiyal & Sameera Bharadwaj"
+    ],
+    "artists": [
+      "Jubin Nautiyal & Sameera Bharadwaj"
+    ],
+    "composers": [
+      "Jubin Nautiyal & Sameera Bharadwaj"
+    ],
+    "lyricist": "Jubin Nautiyal & Sameera Bharadwaj",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e6/35/16/e63516b2-f326-8bb3-c1d0-8edac4bf50cf/mzaf_16955893839904360258.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/44/92/544492c4-8588-96a7-8adb-a45e0403c0e5/8903431616685_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Telusaa Telusaa",
+      "Telusaa Telusaa"
+    ]
+  },
+  {
+    "title": "Kisi Se Pyar Ho Jaye",
+    "movie": "Kaabil",
+    "singers": [
+      "Jubin Nautiyal"
+    ],
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "composers": [
+      "Jubin Nautiyal"
+    ],
+    "lyricist": "Jubin Nautiyal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/74/6c/da/746cda13-336b-e93b-3376-0692c1640c8e/mzaf_8817998730847596657.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/dc/1f/ce/dc1fcec6-f100-103e-bc6f-125ce64d5a16/8903431632548_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kisi Se Pyar Ho Jaye",
+      "Kisi Se Pyar Ho Jaye"
+    ]
+  },
+  {
+    "title": "Baby Ko Bass Pasand Hai",
+    "movie": "Sultan",
+    "singers": [
+      "Vishal & Shekhar, Vishal Dadlani, Shalmali Kholgade, Isheeta & Badshah"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Vishal Dadlani, Shalmali Kholgade, Isheeta & Badshah"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Vishal Dadlani, Shalmali Kholgade, Isheeta & Badshah"
+    ],
+    "lyricist": "Vishal & Shekhar, Vishal Dadlani, Shalmali Kholgade, Isheeta & Badshah",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4a/1c/0c/4a1c0cb2-b11f-df34-ac24-9316fa44c96a/mzaf_141034799639429912.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/81/9c/a8819cb4-c16f-d261-1d5a-cb10a4d053a4/849486057920_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Baby Ko Bass Pasand Hai",
+      "Baby Ko Bass Pasand Hai"
+    ]
+  },
+  {
+    "title": "Ude Dil Befikre",
+    "movie": "Befikre",
+    "singers": [
+      "Vishal & Shekhar & Benny Dayal"
+    ],
+    "artists": [
+      "Vishal & Shekhar & Benny Dayal"
+    ],
+    "composers": [
+      "Vishal & Shekhar & Benny Dayal"
+    ],
+    "lyricist": "Vishal & Shekhar & Benny Dayal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/6d/3d/516d3d80-cb41-cff0-4512-c80eaedadb17/mzaf_12175454472408495570.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/24/d9/6124d942-9d43-7863-f402-c37d9fb8e491/849486075603_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ude Dil Befikre",
+      "Ude Dil Befikre"
+    ]
+  },
+  {
+    "title": "Jag Ghoomeya",
+    "movie": "Sultan",
+    "singers": [
+      "Vishal & Shekhar & Rahat Fateh Ali Khan"
+    ],
+    "artists": [
+      "Vishal & Shekhar & Rahat Fateh Ali Khan"
+    ],
+    "composers": [
+      "Vishal & Shekhar & Rahat Fateh Ali Khan"
+    ],
+    "lyricist": "Vishal & Shekhar & Rahat Fateh Ali Khan",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/da/a9/19daa9ab-5f4d-6609-bedc-f5fdd0e9264f/mzaf_10796896145192655268.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/81/9c/a8819cb4-c16f-d261-1d5a-cb10a4d053a4/849486057920_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jag Ghoomeya",
+      "Jag Ghoomeya"
+    ]
+  },
+  {
+    "title": "Sultan",
+    "movie": "Sultan",
+    "singers": [
+      "Vishal & Shekhar, Shadab Faridi & Sukhwinder Singh"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Shadab Faridi & Sukhwinder Singh"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Shadab Faridi & Sukhwinder Singh"
+    ],
+    "lyricist": "Vishal & Shekhar, Shadab Faridi & Sukhwinder Singh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/f1/12/09f11267-40a0-4891-655f-28e2659371a7/mzaf_2175943474269778915.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/81/9c/a8819cb4-c16f-d261-1d5a-cb10a4d053a4/849486057920_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sultan",
+      "Sultan"
+    ]
+  },
+  {
+    "title": "Love You Zindagi",
+    "movie": "Dear Zindagi",
+    "singers": [
+      "Amit Trivedi & Jasleen Royal"
+    ],
+    "artists": [
+      "Amit Trivedi & Jasleen Royal"
+    ],
+    "composers": [
+      "Amit Trivedi & Jasleen Royal"
+    ],
+    "lyricist": "Amit Trivedi & Jasleen Royal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/43/4c/b4434c7b-12f4-5687-a07e-059350c556bc/mzaf_13559432529356995581.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a8/45/16a8456a-31fc-d8e9-d20b-44cde16f423d/886446241494.jpg/400x400bb.jpg",
+    "aliases": [
+      "Love You Zindagi",
+      "Love You Zindagi"
+    ]
+  },
+  {
+    "title": "Pashmina",
+    "movie": "Fitoor",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/95/f9/2195f9b1-c150-1aef-1f3e-f18d42822750/mzaf_10218583741380334679.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/8f/99/c68f99d7-c2d2-8339-f406-0bde5dbece0f/8718857670360.png/400x400bb.jpg",
+    "aliases": [
+      "Pashmina",
+      "Pashmina"
+    ]
+  },
+  {
+    "title": "Tu Hi Hai",
+    "movie": "Dear Zindagi",
+    "singers": [
+      "Amit Trivedi & Arijit Singh"
+    ],
+    "artists": [
+      "Amit Trivedi & Arijit Singh"
+    ],
+    "composers": [
+      "Amit Trivedi & Arijit Singh"
+    ],
+    "lyricist": "Amit Trivedi & Arijit Singh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/48/d6/de48d6d3-ccfd-94ff-84d2-193974255907/mzaf_8083905337176518699.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a8/45/16a8456a-31fc-d8e9-d20b-44cde16f423d/886446241494.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Hi Hai",
+      "Tu Hi Hai"
+    ]
+  },
+  {
+    "title": "Ud - Daa Punjab",
+    "movie": "Bollywood Party Hits Essentials",
+    "singers": [
+      "Vishal Dadlani & Amit Trivedi"
+    ],
+    "artists": [
+      "Vishal Dadlani & Amit Trivedi"
+    ],
+    "composers": [
+      "Vishal Dadlani & Amit Trivedi"
+    ],
+    "lyricist": "Vishal Dadlani & Amit Trivedi",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/ad/a1/93ada17f-089b-786c-b97b-478bb03eed5b/mzaf_6851741279820253703.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/67/5f/47675f29-6968-ab36-ced1-5a345a9a63ec/840214493263.png/400x400bb.jpg",
+    "aliases": [
+      "Ud - Daa Punjab",
+      "Ud - Daa Punjab"
+    ]
+  },
+  {
+    "title": "Just Go to Hell Dil",
+    "movie": "Dear Zindagi",
+    "singers": [
+      "Amit Trivedi & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Amit Trivedi & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Amit Trivedi & Sunidhi Chauhan"
+    ],
+    "lyricist": "Amit Trivedi & Sunidhi Chauhan",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/8e/6e/eb8e6e43-db72-72b0-154f-b811f38037c6/mzaf_12482790337914571381.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a8/45/16a8456a-31fc-d8e9-d20b-44cde16f423d/886446241494.jpg/400x400bb.jpg",
+    "aliases": [
+      "Just Go to Hell Dil",
+      "Just Go to Hell Dil"
+    ]
+  },
+  {
+    "title": "Taarefon Se",
+    "movie": "Dear Zindagi",
+    "singers": [
+      "Amit Trivedi & Arijit Singh"
+    ],
+    "artists": [
+      "Amit Trivedi & Arijit Singh"
+    ],
+    "composers": [
+      "Amit Trivedi & Arijit Singh"
+    ],
+    "lyricist": "Amit Trivedi & Arijit Singh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/99/8e/91998eef-8569-d635-342c-ca3f5b5093ed/mzaf_14643498688486543412.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a8/45/16a8456a-31fc-d8e9-d20b-44cde16f423d/886446241494.jpg/400x400bb.jpg",
+    "aliases": [
+      "Taarefon Se",
+      "Taarefon Se"
+    ]
+  },
+  {
+    "title": "Ae Zindagi Gale Laga Le (Take 1)",
+    "movie": "Dear Zindagi",
+    "singers": [
+      "Ilaiyaraaja, Amit Trivedi & Arijit Singh"
+    ],
+    "artists": [
+      "Ilaiyaraaja, Amit Trivedi & Arijit Singh"
+    ],
+    "composers": [
+      "Ilaiyaraaja, Amit Trivedi & Arijit Singh"
+    ],
+    "lyricist": "Ilaiyaraaja, Amit Trivedi & Arijit Singh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/c0/c2/8ac0c2ba-9f18-bc74-bc3c-3393254d8306/mzaf_559842051307324828.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a8/45/16a8456a-31fc-d8e9-d20b-44cde16f423d/886446241494.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ae Zindagi Gale Laga Le (Take 1)",
+      "Ae Zindagi Gale Laga Le (Take 1)"
+    ]
+  },
+  {
+    "title": "Wajah Tum Ho",
+    "movie": "Wajah Tum Ho",
+    "singers": [
+      "Mithoon, Altamash Faridi & Tulsi Kumar"
+    ],
+    "artists": [
+      "Mithoon, Altamash Faridi & Tulsi Kumar"
+    ],
+    "composers": [
+      "Mithoon, Altamash Faridi & Tulsi Kumar"
+    ],
+    "lyricist": "Mithoon, Altamash Faridi & Tulsi Kumar",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/f8/57/e9f85717-d738-75a1-82a8-d9f8925cb396/mzaf_9223718131738510655.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/c6/97/6ac69763-6aa4-76d5-3204-740ace15d204/8902894358590_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Wajah Tum Ho",
+      "Wajah Tum Ho"
+    ]
+  },
+  {
+    "title": "Ji Huzoori",
+    "movie": "Ki & Ka",
+    "singers": [
+      "Mithoon & Deepali"
+    ],
+    "artists": [
+      "Mithoon & Deepali"
+    ],
+    "composers": [
+      "Mithoon & Deepali"
+    ],
+    "lyricist": "Mithoon & Deepali",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/dc/b5/b6dcb5f8-6238-b600-50b7-3cdc105aeb44/mzaf_1106268812644970613.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/46/a7/3246a708-c0cf-6226-8535-e27956bf7512/8902894357876_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ji Huzoori",
+      "Ji Huzoori"
+    ]
+  },
+  {
+    "title": "From the Ground Up",
+    "movie": "Obsessed",
+    "singers": [
+      "Dan + Shay"
+    ],
+    "artists": [
+      "Dan + Shay"
+    ],
+    "composers": [
+      "Dan + Shay"
+    ],
+    "lyricist": "Dan + Shay",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/82/dc/c982dc20-61df-2aac-d605-8974f51c0b23/mzaf_15015843902197183711.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/22/76/0722768d-ac08-7048-100b-3379120cae8a/dj.jpnmnats.jpg/400x400bb.jpg",
+    "aliases": [
+      "From the Ground Up",
+      "From the Ground Up"
+    ]
+  },
+  {
+    "title": "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)",
+    "movie": "Sanam Re",
+    "singers": [
+      "Amaal Mallik & Palak Muchhal"
+    ],
+    "artists": [
+      "Amaal Mallik & Palak Muchhal"
+    ],
+    "composers": [
+      "Amaal Mallik & Palak Muchhal"
+    ],
+    "lyricist": "Amaal Mallik & Palak Muchhal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/d2/65/efd2653a-c84d-0d27-2908-951337c916c9/mzaf_9756161475334709933.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/1d/e4/fe1de42c-cc56-cd1d-fd40-339bbfa8f0f3/8902894357647_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)",
+      "Hua Hain Aaj Pehli Baar (feat. Armaan Malik & Palak Muchhal)"
+    ]
+  },
+  {
+    "title": "Dil Mein Chhupa Loonga (feat. Armaan Malik & Tulsi Kumar)",
+    "movie": "Wajah Tum Ho",
+    "singers": [
+      "Meet Bros"
+    ],
+    "artists": [
+      "Meet Bros"
+    ],
+    "composers": [
+      "Meet Bros"
+    ],
+    "lyricist": "Meet Bros",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/07/3d/2a/073d2a1a-64b4-287e-1dec-12cc7f9c0b51/mzaf_9823921032619291276.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/c6/97/6ac69763-6aa4-76d5-3204-740ace15d204/8902894358590_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Mein Chhupa Loonga (feat. Armaan Malik & Tulsi Kumar)",
+      "Dil Mein Chhupa Loonga (feat. Armaan Malik & Tulsi Kumar)"
+    ]
+  },
+  {
+    "title": "Bol Do Na Zara",
+    "movie": "Azhar",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/84/7e/e3847ec1-0c53-810f-d4e5-ba0072562cc5/mzaf_15902888427949375443.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/2f/1e/332f1e03-4cc1-85b7-c23d-1de5802b9b94/8902894358057_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bol Do Na Zara",
+      "Bol Do Na Zara"
+    ]
+  },
+  {
+    "title": "Sau Aasmaan",
+    "movie": "Baar Baar Dekho",
+    "singers": [
+      "Armaan Malik & Neeti Mohan"
+    ],
+    "artists": [
+      "Armaan Malik & Neeti Mohan"
+    ],
+    "composers": [
+      "Armaan Malik & Neeti Mohan"
+    ],
+    "lyricist": "Armaan Malik & Neeti Mohan",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/10/3e/9a103ec3-da51-4a53-8693-e812a6c089fe/mzaf_4814054073549644849.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/b8/58/14b85883-40a4-0a2e-de65-130f55726ee6/840780180390.png/400x400bb.jpg",
+    "aliases": [
+      "Sau Aasmaan",
+      "Sau Aasmaan"
+    ]
+  },
+  {
+    "title": "Buddhu Sa Mann",
+    "movie": "Kapoor & Sons (Since 1921) [Original Motion Picture Soundtrack]",
+    "singers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "artists": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "composers": [
+      "Amaal Mallik & Armaan Malik"
+    ],
+    "lyricist": "Amaal Mallik & Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/aa/ae/4eaaae85-8f1a-5aaf-9abd-b661ab56bdba/mzaf_9732353596182792915.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/ec/4e/b9ec4e53-c55a-3f64-f6c2-92e72dcaec50/886445771978.jpg/400x400bb.jpg",
+    "aliases": [
+      "Buddhu Sa Mann",
+      "Buddhu Sa Mann"
+    ]
+  },
+  {
+    "title": "Jab Tak",
+    "movie": "M.S. Dhoni: The Untold Story",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/4e/d2/314ed264-fe37-2751-b55a-8313afe58340/mzaf_1092163477829401402.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/03/a1/2803a189-b430-0a28-3c65-a4b704314232/8902894358361_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jab Tak",
+      "Jab Tak"
+    ]
+  },
+  {
+    "title": "Besabriyaan",
+    "movie": "M.S. Dhoni: The Untold Story",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/34/09/c5340936-cf6b-3955-f2f6-b4efb8df15d3/mzaf_10864041144338988107.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/03/a1/2803a189-b430-0a28-3c65-a4b704314232/8902894358361_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Besabriyaan",
+      "Besabriyaan"
+    ]
+  },
+  {
+    "title": "Mujhko Barsaat Bana Lo",
+    "movie": "Junooniyat",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/81/b0/6081b04c-4187-94c0-f746-97955e1d0092/mzaf_11226492494797209945.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/5e/c8/65/5ec8655a-9b6b-d510-6987-75513666c8bb/8902894358170_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mujhko Barsaat Bana Lo",
+      "Mujhko Barsaat Bana Lo"
+    ]
+  },
+  {
+    "title": "Kuch To Hai",
+    "movie": "Do Lafzon Ki Kahani",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/70/5f/e1705f69-9d70-b30a-59c9-8f298d4ac7d3/mzaf_3378073905472229178.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/10/04/b6/1004b6e1-76d2-6532-6658-7332c45160ed/8902894358149_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kuch To Hai",
+      "Kuch To Hai"
+    ]
+  },
+  {
+    "title": "Oye Oye",
+    "movie": "Azhar",
+    "singers": [
+      "Aditi Singh Sharma & Armaan Malik"
+    ],
+    "artists": [
+      "Aditi Singh Sharma & Armaan Malik"
+    ],
+    "composers": [
+      "Aditi Singh Sharma & Armaan Malik"
+    ],
+    "lyricist": "Aditi Singh Sharma & Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/15/59/26155939-e903-5dc4-d794-b0b417a0e269/mzaf_7747802271792929445.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/2f/1e/332f1e03-4cc1-85b7-c23d-1de5802b9b94/8902894358057_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Oye Oye",
+      "Oye Oye"
+    ]
+  },
+  {
+    "title": "Pyaar Manga Hai",
+    "movie": "Pyaar Manga Hai - Single",
+    "singers": [
+      "Armaan Malik, Neeti Mohan & Abhijit Vaghani"
+    ],
+    "artists": [
+      "Armaan Malik, Neeti Mohan & Abhijit Vaghani"
+    ],
+    "composers": [
+      "Armaan Malik, Neeti Mohan & Abhijit Vaghani"
+    ],
+    "lyricist": "Armaan Malik, Neeti Mohan & Abhijit Vaghani",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/a4/07/a6a40715-e38b-131d-2698-6ae2f24f61fd/mzaf_6170112777997179481.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ab/eb/37/abeb3708-5aab-5b88-9b08-7bf54c5c2cde/8903431620774_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pyaar Manga Hai",
+      "Pyaar Manga Hai"
+    ]
+  },
+  {
+    "title": "Jab Tak (Redux)",
+    "movie": "M.S. Dhoni: The Untold Story",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/09/df/b709df52-a1a0-ddda-228f-370cdb4933fb/mzaf_784558064612480669.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/03/a1/2803a189-b430-0a28-3c65-a4b704314232/8902894358361_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jab Tak (Redux)",
+      "Jab Tak (Redux)"
+    ]
+  },
+  {
+    "title": "Hua Hain Aaj Pehli Baar",
+    "movie": "2016 Shinning Star - Armaan Malik",
+    "singers": [
+      "Amaal Mallik, Armaan Malik & Palak Muchhal"
+    ],
+    "artists": [
+      "Amaal Mallik, Armaan Malik & Palak Muchhal"
+    ],
+    "composers": [
+      "Amaal Mallik, Armaan Malik & Palak Muchhal"
+    ],
+    "lyricist": "Amaal Mallik, Armaan Malik & Palak Muchhal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/3f/ee/803feed7-ef5c-9a3c-bb0d-314714201735/mzaf_10683981920818724262.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/da/0b/a5da0b75-2fab-69dc-4975-62944b91fa07/8903431633248_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hua Hain Aaj Pehli Baar (From \"Sanam Re\")",
+      "Hua Hain Aaj Pehli Baar"
+    ]
+  },
+  {
+    "title": "Dil Mein Chhupa Loonga",
+    "movie": "2016 Shinning Star - Armaan Malik",
+    "singers": [
+      "Meet Bros, Armaan Malik & Tulsi Kumar"
+    ],
+    "artists": [
+      "Meet Bros, Armaan Malik & Tulsi Kumar"
+    ],
+    "composers": [
+      "Meet Bros, Armaan Malik & Tulsi Kumar"
+    ],
+    "lyricist": "Meet Bros, Armaan Malik & Tulsi Kumar",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/7d/14/fd7d14d0-3aad-c355-44c8-876aeb252f19/mzaf_2616578938314138699.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/da/0b/a5da0b75-2fab-69dc-4975-62944b91fa07/8903431633248_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Mein Chhupa Loonga (From \"Wajah Tum Ho\")",
+      "Dil Mein Chhupa Loonga"
+    ]
+  },
+  {
+    "title": "Kheech Meri Photo",
+    "movie": "Sanam Teri Kasam",
+    "singers": [
+      "Himesh Reshammiya, Neeti Mohan & Darshan Raval"
+    ],
+    "artists": [
+      "Himesh Reshammiya, Neeti Mohan & Darshan Raval"
+    ],
+    "composers": [
+      "Himesh Reshammiya, Neeti Mohan & Darshan Raval"
+    ],
+    "lyricist": "Himesh Reshammiya, Neeti Mohan & Darshan Raval",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/d7/4c/25d74cdc-40fb-32bd-7801-d9fef1ad7446/mzaf_18089262228336742910.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/65/2a/44652a17-ed54-7224-ca3e-281a2f704412/196871079150.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kheech Meri Photo",
+      "Kheech Meri Photo"
+    ]
+  },
+  {
+    "title": "Main Woh Chaand",
+    "movie": "Teraa Surroor",
+    "singers": [
+      "Darshan Raval"
+    ],
+    "artists": [
+      "Darshan Raval"
+    ],
+    "composers": [
+      "Darshan Raval"
+    ],
+    "lyricist": "Darshan Raval",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/f6/bf/c7f6bfcb-40e9-dcc4-6b23-8103f39097ef/mzaf_6472183885970434454.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/9d/5f/fe9d5f60-9353-9ced-af53-ce00b650c4f7/8902894357777_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Woh Chaand",
+      "Main Woh Chaand"
+    ]
+  },
+  {
+    "title": "Bekhudi",
+    "movie": "Teraa Surroor",
+    "singers": [
+      "Darshan Raval & Aditi Singh Sharma"
+    ],
+    "artists": [
+      "Darshan Raval & Aditi Singh Sharma"
+    ],
+    "composers": [
+      "Darshan Raval & Aditi Singh Sharma"
+    ],
+    "lyricist": "Darshan Raval & Aditi Singh Sharma",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/32/d4/9a/32d49a07-8be7-31c0-0371-b3bc27d70736/mzaf_10262977034890883123.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/9d/5f/fe9d5f60-9353-9ced-af53-ce00b650c4f7/8902894357777_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bekhudi",
+      "Bekhudi"
+    ]
+  },
+  {
+    "title": "Hornn Blow",
+    "movie": "Hornn Blow - Single",
+    "singers": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "artists": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "composers": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "lyricist": "Harrdy Sandhu & B. Praak",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6f/b6/56/6fb656ab-cde4-c1a2-96d3-e36c6cce4db6/mzaf_10934261261538284294.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/90/5d/c2/905dc276-d6d1-16b9-7422-a167d605dff3/8903431617194_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hornn Blow",
+      "Hornn Blow"
+    ]
+  },
+  {
+    "title": "Suicide",
+    "movie": "Suicide - Single",
+    "singers": [
+      "Sukh-E Muzical Doctorz & B. Praak"
+    ],
+    "artists": [
+      "Sukh-E Muzical Doctorz & B. Praak"
+    ],
+    "composers": [
+      "Sukh-E Muzical Doctorz & B. Praak"
+    ],
+    "lyricist": "Sukh-E Muzical Doctorz & B. Praak",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/78/82/0f7882f6-5113-e247-7900-da892f13407d/mzaf_10065803658176366903.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c2/b7/1e/c2b71ec2-da3e-0324-1e23-6a89af88471e/8903431618290_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Suicide",
+      "Suicide"
+    ]
+  },
+  {
+    "title": "Kala Chashma",
+    "movie": "Baar Baar Dekho",
+    "singers": [
+      "Amar Arshi, Badshah, Neha Kakkar & Indeep Bakshi"
+    ],
+    "artists": [
+      "Amar Arshi, Badshah, Neha Kakkar & Indeep Bakshi"
+    ],
+    "composers": [
+      "Amar Arshi, Badshah, Neha Kakkar & Indeep Bakshi"
+    ],
+    "lyricist": "Amar Arshi, Badshah, Neha Kakkar & Indeep Bakshi",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/40/3e/0b403e59-7e56-248f-9363-662fa5d4a6d8/mzaf_7321027000281469165.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/b8/58/14b85883-40a4-0a2e-de65-130f55726ee6/840780180390.png/400x400bb.jpg",
+    "aliases": [
+      "Kala Chashma",
+      "Kala Chashma"
+    ]
+  },
+  {
+    "title": "Let's Nacho",
+    "movie": "Kapoor & Sons (Since 1921) [Original Motion Picture Soundtrack]",
+    "singers": [
+      "Nucleya, Benny Dayal & Badshah"
+    ],
+    "artists": [
+      "Nucleya, Benny Dayal & Badshah"
+    ],
+    "composers": [
+      "Nucleya, Benny Dayal & Badshah"
+    ],
+    "lyricist": "Nucleya, Benny Dayal & Badshah",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/18/63/c71863b7-9659-0820-486a-9210e39b8c72/mzaf_5664363915621521960.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/ec/4e/b9ec4e53-c55a-3f64-f6c2-92e72dcaec50/886445771978.jpg/400x400bb.jpg",
+    "aliases": [
+      "Let's Nacho",
+      "Let's Nacho"
+    ]
+  },
+  {
+    "title": "BomBae",
+    "movie": "BomBae - Single",
+    "singers": [
+      "Fuse ODG, Zack Knight & Badshah"
+    ],
+    "artists": [
+      "Fuse ODG, Zack Knight & Badshah"
+    ],
+    "composers": [
+      "Fuse ODG, Zack Knight & Badshah"
+    ],
+    "lyricist": "Fuse ODG, Zack Knight & Badshah",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/21/b8/10/21b81064-0d20-bd31-e8ca-e23b668bdf33/mzaf_12805397776750967935.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/86/5c/c2/865cc247-fe4a-63b4-68e3-38a1ab110b34/859717398791_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "BomBae",
+      "BomBae"
+    ]
+  },
+  {
+    "title": "Ikk Kudi",
+    "movie": "Udta Punjab",
+    "singers": [
+      "Shahid Mallya"
+    ],
+    "artists": [
+      "Shahid Mallya"
+    ],
+    "composers": [
+      "Shahid Mallya"
+    ],
+    "lyricist": "Shahid Mallya",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/3a/1e/0f3a1eff-db7d-cb47-f27b-e0cedff62d43/mzaf_6299092825460663812.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/ea/fa/90eafa2f-427a-d499-fb1f-56d60e6e28f9/8718857700036.png/400x400bb.jpg",
+    "aliases": [
+      "Ikk Kudi",
+      "Ikk Kudi"
+    ]
+  },
+  {
+    "title": "Hass Nache Le",
+    "movie": "Udta Punjab",
+    "singers": [
+      "Shahid Mallya & Shellee"
+    ],
+    "artists": [
+      "Shahid Mallya & Shellee"
+    ],
+    "composers": [
+      "Shahid Mallya & Shellee"
+    ],
+    "lyricist": "Shahid Mallya & Shellee",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/d2/4d/5bd24dad-9ef3-2296-3805-d964541ee921/mzaf_448672699901178459.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/ea/fa/90eafa2f-427a-d499-fb1f-56d60e6e28f9/8718857700036.png/400x400bb.jpg",
+    "aliases": [
+      "Hass Nache Le",
+      "Hass Nache Le"
+    ]
+  },
+  {
+    "title": "Mitran Da Junction",
+    "movie": "Sardaarji 2 - EP",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c3/30/03/c3300350-2ecc-214e-c7f2-9fbf81c78c2d/mzaf_252908635884351580.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/03/34/2b033426-6575-722c-b12e-bb125cfb9fdd/8902633345492.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mitran Da Junction",
+      "Mitran Da Junction"
+    ]
+  },
+  {
+    "title": "Do You Know",
+    "movie": "Do You Know - Single",
+    "singers": [
+      "Diljit Dosanjh"
+    ],
+    "artists": [
+      "Diljit Dosanjh"
+    ],
+    "composers": [
+      "Diljit Dosanjh"
+    ],
+    "lyricist": "Diljit Dosanjh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ed/de/ab/eddeabcb-0d22-d8eb-18c4-f3ab14f70e2c/mzaf_11597844146912458794.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/dd/42/a6dd42c7-5948-93bb-f641-b5ce1208818b/859718245810_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Do You Know",
+      "Do You Know"
+    ]
+  },
+  {
+    "title": "Da Da Dasse",
+    "movie": "Udta Punjab",
+    "singers": [
+      "Kanika Kapoor, Babu Haabi & Shellee"
+    ],
+    "artists": [
+      "Kanika Kapoor, Babu Haabi & Shellee"
+    ],
+    "composers": [
+      "Kanika Kapoor, Babu Haabi & Shellee"
+    ],
+    "lyricist": "Kanika Kapoor, Babu Haabi & Shellee",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/5e/45/585e457e-964d-f9d2-fd48-9db830cbd33d/mzaf_14511136321514562333.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/ea/fa/90eafa2f-427a-d499-fb1f-56d60e6e28f9/8718857700036.png/400x400bb.jpg",
+    "aliases": [
+      "Da Da Dasse",
+      "Da Da Dasse"
+    ]
+  },
+  {
+    "title": "Chitta Ve",
+    "movie": "Udta Punjab",
+    "singers": [
+      "Babu Haabi, Shahid Mallya, Bhanu Prtap & Shellee"
+    ],
+    "artists": [
+      "Babu Haabi, Shahid Mallya, Bhanu Prtap & Shellee"
+    ],
+    "composers": [
+      "Babu Haabi, Shahid Mallya, Bhanu Prtap & Shellee"
+    ],
+    "lyricist": "Babu Haabi, Shahid Mallya, Bhanu Prtap & Shellee",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/19/4d/70194de9-5c74-dab3-d1e7-f6fcabace092/mzaf_11758487786031814224.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/ea/fa/90eafa2f-427a-d499-fb1f-56d60e6e28f9/8718857700036.png/400x400bb.jpg",
+    "aliases": [
+      "Chitta Ve",
+      "Chitta Ve"
+    ]
+  },
+  {
+    "title": "Kho Gaye Hum Kahan",
+    "movie": "Baar Baar Dekho",
+    "singers": [
+      "Jasleen Royal & Prateek Kuhad"
+    ],
+    "artists": [
+      "Jasleen Royal & Prateek Kuhad"
+    ],
+    "composers": [
+      "Jasleen Royal & Prateek Kuhad"
+    ],
+    "lyricist": "Jasleen Royal & Prateek Kuhad",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f9/e2/fe/f9e2fe6c-8d1b-df0b-7725-e5c5c43f81f0/mzaf_8867008531454071213.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/b8/58/14b85883-40a4-0a2e-de65-130f55726ee6/840780180390.png/400x400bb.jpg",
+    "aliases": [
+      "Kho Gaye Hum Kahan",
+      "Kho Gaye Hum Kahan"
+    ]
+  },
+  {
+    "title": "Nachde Ne Saare",
+    "movie": "Baar Baar Dekho",
+    "singers": [
+      "Jasleen Royal, Harshdeep Kaur & Siddharth Mahadevan"
+    ],
+    "artists": [
+      "Jasleen Royal, Harshdeep Kaur & Siddharth Mahadevan"
+    ],
+    "composers": [
+      "Jasleen Royal, Harshdeep Kaur & Siddharth Mahadevan"
+    ],
+    "lyricist": "Jasleen Royal, Harshdeep Kaur & Siddharth Mahadevan",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/fc/80/2afc8083-29a5-56bf-9cb6-5c6c995e6998/mzaf_15761810932781093493.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/b8/58/14b85883-40a4-0a2e-de65-130f55726ee6/840780180390.png/400x400bb.jpg",
+    "aliases": [
+      "Nachde Ne Saare",
+      "Nachde Ne Saare"
+    ]
+  },
+  {
+    "title": "Raatein",
+    "movie": "Shivaay",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/a7/a9/8ea7a927-5af7-c811-93d1-75c9244d3109/mzaf_12882699713490164577.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/20/55/b520556d-a1b7-ed6a-db24-5de2f1762998/8902894358422_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Raatein",
+      "Raatein"
+    ]
+  },
+  {
+    "title": "Dark Necessities",
+    "movie": "The Getaway",
+    "singers": [
+      "Red Hot Chili Peppers"
+    ],
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "composers": [
+      "Red Hot Chili Peppers"
+    ],
+    "lyricist": "Red Hot Chili Peppers",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c2/b9/bf/c2b9bfe5-440c-48cf-4b9e-7921c1768e66/mzaf_14394701260435106542.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/3e/ed/223eedeb-3ad1-2bd8-c863-ab6fb39d658a/093624920137.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dark Necessities",
+      "Dark Necessities"
     ]
   },
   {
@@ -21958,6 +33444,762 @@ module.exports = [
     ]
   },
   {
+    "title": "Gerua",
+    "movie": "Dilwale",
+    "singers": [
+      "Pritam, Arijit Singh & Antara Mitra"
+    ],
+    "artists": [
+      "Pritam, Arijit Singh & Antara Mitra"
+    ],
+    "composers": [
+      "Pritam, Arijit Singh & Antara Mitra"
+    ],
+    "lyricist": "Pritam, Arijit Singh & Antara Mitra",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/6e/24/bf6e24d8-d4d5-1cac-adc6-4a0fc07e98da/mzaf_14186979808495752044.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/c8/ee/ddc8ee1d-baeb-0c8b-383f-1eb21bd172c2/886445593280.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gerua",
+      "Gerua"
+    ]
+  },
+  {
+    "title": "Soch Na Sake",
+    "movie": "Airlift",
+    "singers": [
+      "Amaal Mallik, Arijit Singh & Tulsi Kumar"
+    ],
+    "artists": [
+      "Amaal Mallik, Arijit Singh & Tulsi Kumar"
+    ],
+    "composers": [
+      "Amaal Mallik, Arijit Singh & Tulsi Kumar"
+    ],
+    "lyricist": "Amaal Mallik, Arijit Singh & Tulsi Kumar",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/9f/cc/729fccc5-f040-286a-9280-c4db3340e895/mzaf_7361386354918913207.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e5/c2/73/e5c27399-7cda-db04-b038-5b95b1cf4fc4/8902894357623_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soch Na Sake",
+      "Soch Na Sake"
+    ]
+  },
+  {
+    "title": "Sanam Re",
+    "movie": "Sanam Re",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c8/7d/4e/c87d4e0a-cdb2-8521-b60b-b2dac4aaa88a/mzaf_12668250169635608901.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/1d/e4/fe1de42c-cc56-cd1d-fd40-339bbfa8f0f3/8902894357647_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sanam Re",
+      "Sanam Re"
+    ]
+  },
+  {
+    "title": "Deewani Mastani",
+    "movie": "Bajirao Mastani",
+    "singers": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri & Siddharth-Garima"
+    ],
+    "artists": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri & Siddharth-Garima"
+    ],
+    "composers": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri & Siddharth-Garima"
+    ],
+    "lyricist": "Sanjay Leela Bhansali, Shreya Ghoshal, Ganesh Chandanshive, Mujtaba Aziz Naza, Shadab Faridi, Altamash Faridi, Farhan Sabri & Siddharth-Garima",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/e6/b9/efe6b9d4-3318-19ff-01fa-5c51f2ffe9b9/mzaf_3533703985365202572.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/4f/8f/f14f8fe3-4fda-8244-8dff-0db4be58bd4a/196871079808.jpg/400x400bb.jpg",
+    "aliases": [
+      "Deewani Mastani",
+      "Deewani Mastani"
+    ]
+  },
+  {
+    "title": "Hasi (Female Version)",
+    "movie": "Hamari Adhuri Kahani",
+    "singers": [
+      "Ami Mishra & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Ami Mishra & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Ami Mishra & Shreya Ghoshal"
+    ],
+    "lyricist": "Ami Mishra & Shreya Ghoshal",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/fc/bb/80fcbb3b-2926-fce3-8a94-1f3e75d405ef/mzaf_5129663069638421628.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/94/26/28942687-425c-d8d0-4284-3a54e4d1170b/886445273656.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hasi (Female Version)",
+      "Hasi (Female Version)"
+    ]
+  },
+  {
+    "title": "Pinga",
+    "movie": "Bajirao Mastani",
+    "singers": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Vaishali Made & Siddharth-Garima"
+    ],
+    "artists": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Vaishali Made & Siddharth-Garima"
+    ],
+    "composers": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Vaishali Made & Siddharth-Garima"
+    ],
+    "lyricist": "Sanjay Leela Bhansali, Shreya Ghoshal, Vaishali Made & Siddharth-Garima",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/72/82/7c728264-50f4-13bd-2d87-9a5a8dc89dd7/mzaf_10977958289261201521.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/4f/8f/f14f8fe3-4fda-8244-8dff-0db4be58bd4a/196871079808.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pinga",
+      "Pinga"
+    ]
+  },
+  {
+    "title": "Tu Jo Mila",
+    "movie": "Bajrangi Bhaijaan",
+    "singers": [
+      "Pritam & KK"
+    ],
+    "artists": [
+      "Pritam & KK"
+    ],
+    "composers": [
+      "Pritam & KK"
+    ],
+    "lyricist": "Pritam & KK",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/a5/92/37a59273-a004-d6ae-964c-c6ca0537aa89/mzaf_547361140659420623.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/06/e6/9306e63e-5dc3-1b60-3488-1332bbfacfd7/8902894357128_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Jo Mila",
+      "Tu Jo Mila"
+    ]
+  },
+  {
+    "title": "Eventually",
+    "movie": "Currents",
+    "singers": [
+      "Tame Impala"
+    ],
+    "artists": [
+      "Tame Impala"
+    ],
+    "composers": [
+      "Tame Impala"
+    ],
+    "lyricist": "Tame Impala",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/09/93/7d/09937dd0-967b-b304-a485-053dfaf7d0c6/mzaf_16227325571594810181.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/2e/b4/a82eb490-f30a-a321-461a-0383c88fec95/15UMGIM23316.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Eventually",
+      "Eventually"
+    ]
+  },
+  {
+    "title": "Love Me Like You Do",
+    "movie": "Delirium (Deluxe)",
+    "singers": [
+      "Ellie Goulding"
+    ],
+    "artists": [
+      "Ellie Goulding"
+    ],
+    "composers": [
+      "Ellie Goulding"
+    ],
+    "lyricist": "Ellie Goulding",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/81/9b/6f819bc4-4aaf-c4a8-2dd3-ff1d8174560a/mzaf_12728576242903871412.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/09/7e/df097e10-36b1-a35c-bf5e-2ef138bd2ed7/15UMGIM68751.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Love Me Like You Do (From \"Fifty Shades of Grey\")",
+      "Love Me Like You Do"
+    ]
+  },
+  {
+    "title": "Tu Chahiye",
+    "movie": "Bajrangi Bhaijaan",
+    "singers": [
+      "Pritam & Atif Aslam"
+    ],
+    "artists": [
+      "Pritam & Atif Aslam"
+    ],
+    "composers": [
+      "Pritam & Atif Aslam"
+    ],
+    "lyricist": "Pritam & Atif Aslam",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e5/66/44/e566443d-505a-8b59-74c8-b26d97c5ab2d/mzaf_17852269062245579990.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/06/e6/9306e63e-5dc3-1b60-3488-1332bbfacfd7/8902894357128_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Chahiye",
+      "Tu Chahiye"
+    ]
+  },
+  {
+    "title": "Tajdar-E-Haram (Coke Studio Season 8)",
+    "movie": "Tajdar-E-Haram (Coke Studio Season 8) - EP",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b9/75/0b/b9750bad-dc50-f831-6a76-1db3ff3a95f3/mzaf_16667428091119990004.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/67/ad/4167ad0c-1dfd-6655-d62d-61d3059cdd10/7316476372880.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tajdar-E-Haram (Coke Studio Season 8)",
+      "Tajdar-E-Haram (Coke Studio Season 8)"
+    ]
+  },
+  {
+    "title": "Mar Jaayen",
+    "movie": "Loveshhuda",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/53/6a/30536a51-c62f-44fc-93f8-9278312da42a/mzaf_11517645227731123908.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/77/0b/3f770bc7-a87c-daf1-41e0-1feb510e818c/8901854042357.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mar Jaayen",
+      "Mar Jaayen"
+    ]
+  },
+  {
+    "title": "Matargashti",
+    "movie": "Tamasha",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/7c/ec/0a7cecfe-be6e-d602-b9f1-b61525c34c9a/mzaf_2446319335603350763.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/ac/67/cbac673a-9213-7118-bb4e-2440273afb03/8902894357470_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Matargashti",
+      "Matargashti"
+    ]
+  },
+  {
+    "title": "Khuda Bhi",
+    "movie": "Ek Paheli Leela",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d9/7b/0e/d97b0e07-a626-aada-3d14-ebda9a98ba2c/mzaf_4814068500424787811.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/63/45/5d634565-bc36-3bd4-7c8c-2d6b85a0c2ef/8902894356916_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Khuda Bhi",
+      "Khuda Bhi"
+    ]
+  },
+  {
+    "title": "Khoya Khoya",
+    "movie": "Hero",
+    "singers": [
+      "Sachin-Jigar, Mohit Chauhan & Priya Panchal"
+    ],
+    "artists": [
+      "Sachin-Jigar, Mohit Chauhan & Priya Panchal"
+    ],
+    "composers": [
+      "Sachin-Jigar, Mohit Chauhan & Priya Panchal"
+    ],
+    "lyricist": "Sachin-Jigar, Mohit Chauhan & Priya Panchal",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9a/47/28/9a4728d3-3918-f67d-2484-3e8ede497b8e/mzaf_17541898117287375162.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/92/5b/ed/925bed07-724b-06e3-dc21-7df19ea142b1/8902894357302_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Khoya Khoya",
+      "Khoya Khoya"
+    ]
+  },
+  {
+    "title": "Sapna Jahan",
+    "movie": "Brothers",
+    "singers": [
+      "Ajay-Atul, Sonu Nigam & Neeti Mohan"
+    ],
+    "artists": [
+      "Ajay-Atul, Sonu Nigam & Neeti Mohan"
+    ],
+    "composers": [
+      "Ajay-Atul, Sonu Nigam & Neeti Mohan"
+    ],
+    "lyricist": "Ajay-Atul, Sonu Nigam & Neeti Mohan",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5e/1c/66/5e1c66ec-d64c-3d5c-e30e-cb1d7c0614f1/mzaf_6375058661507362123.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/51/ff/e051ff62-591e-14af-a317-84b387f28ea3/886445395211.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sapna Jahan",
+      "Sapna Jahan"
+    ]
+  },
+  {
+    "title": "Zindagi Kuch Toh Bata (Reprise)",
+    "movie": "Bajrangi Bhaijaan",
+    "singers": [
+      "Pritam & Jubin Nautiyal"
+    ],
+    "artists": [
+      "Pritam & Jubin Nautiyal"
+    ],
+    "composers": [
+      "Pritam & Jubin Nautiyal"
+    ],
+    "lyricist": "Pritam & Jubin Nautiyal",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/e9/28/4fe92898-0aee-01e1-5c91-75e40b475cbd/mzaf_11912084479994268033.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/06/e6/9306e63e-5dc3-1b60-3488-1332bbfacfd7/8902894357128_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Zindagi Kuch Toh Bata (Reprise)",
+      "Zindagi Kuch Toh Bata (Reprise)"
+    ]
+  },
+  {
+    "title": "Janam Janam",
+    "movie": "Dilwale",
+    "singers": [
+      "Pritam, Antara Mitra & Arijit Singh"
+    ],
+    "artists": [
+      "Pritam, Antara Mitra & Arijit Singh"
+    ],
+    "composers": [
+      "Pritam, Antara Mitra & Arijit Singh"
+    ],
+    "lyricist": "Pritam, Antara Mitra & Arijit Singh",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/1c/75/4b1c7599-19a8-8579-fc48-0c01408e4b98/mzaf_16429554466082850436.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/c8/ee/ddc8ee1d-baeb-0c8b-383f-1eb21bd172c2/886445593280.jpg/400x400bb.jpg",
+    "aliases": [
+      "Janam Janam",
+      "Janam Janam"
+    ]
+  },
+  {
+    "title": "Shaam Shaandaar",
+    "movie": "Shaandaar",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bd/4e/6f/bd4e6ff0-3506-268f-32d5-95331267218f/mzaf_196880743907990619.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/6f/77/2c6f77e5-f46b-6dae-cf8d-da087028fdb6/8718857670285.png/400x400bb.jpg",
+    "aliases": [
+      "Shaam Shaandaar",
+      "Shaam Shaandaar"
+    ]
+  },
+  {
+    "title": "Humnava",
+    "movie": "Hamari Adhuri Kahani",
+    "singers": [
+      "Mithoon & Papon"
+    ],
+    "artists": [
+      "Mithoon & Papon"
+    ],
+    "composers": [
+      "Mithoon & Papon"
+    ],
+    "lyricist": "Mithoon & Papon",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/c4/a1/0bc4a199-4e95-65da-92bc-c21cbafe64aa/mzaf_5608540598464225297.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/94/26/28942687-425c-d8d0-4284-3a54e4d1170b/886445273656.jpg/400x400bb.jpg",
+    "aliases": [
+      "Humnava",
+      "Humnava"
+    ]
+  },
+  {
+    "title": "Mere Humsafar",
+    "movie": "All Is Well",
+    "singers": [
+      "Mithoon & Tulsi Kumar"
+    ],
+    "artists": [
+      "Mithoon & Tulsi Kumar"
+    ],
+    "composers": [
+      "Mithoon & Tulsi Kumar"
+    ],
+    "lyricist": "Mithoon & Tulsi Kumar",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/24/14/51/241451eb-9626-3b23-6f83-7b045e2cf8bb/mzaf_13582990303824586440.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b9/91/9e/b9919e4d-b41b-b3b1-3267-e531f50771db/8902894357180_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mere Humsafar",
+      "Mere Humsafar"
+    ]
+  },
+  {
+    "title": "Main Hoon Hero Tera (Armaan Malik Version)",
+    "movie": "Hero",
+    "singers": [
+      "Armaan Malik"
+    ],
+    "artists": [
+      "Armaan Malik"
+    ],
+    "composers": [
+      "Armaan Malik"
+    ],
+    "lyricist": "Armaan Malik",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4b/e3/08/4be3080b-bc59-7e7b-1038-476c4416d90e/mzaf_1629681522339424450.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/92/5b/ed/925bed07-724b-06e3-dc21-7df19ea142b1/8902894357302_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Hoon Hero Tera (Armaan Malik Version)",
+      "Main Hoon Hero Tera (Armaan Malik Version)"
+    ]
+  },
+  {
+    "title": "Main Rahoon Ya Na Rahoon",
+    "movie": "Main Rahoon Ya Na Rahoon - Single",
+    "singers": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "artists": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "composers": [
+      "Armaan Malik & Amaal Mallik"
+    ],
+    "lyricist": "Armaan Malik & Amaal Mallik",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a9/fa/48/a9fa4864-25cb-3c94-9e98-340100b2a0c6/mzaf_15455283878759063087.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/dc/7a/70/dc7a709c-4a54-717f-4d6c-8e50c1dd0164/8903431613820_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Rahoon Ya Na Rahoon",
+      "Main Rahoon Ya Na Rahoon"
+    ]
+  },
+  {
+    "title": "Tumhe Apna Banane Ka",
+    "movie": "Hate Story 3",
+    "singers": [
+      "Armaan Malik & Neeti Mohan"
+    ],
+    "artists": [
+      "Armaan Malik & Neeti Mohan"
+    ],
+    "composers": [
+      "Armaan Malik & Neeti Mohan"
+    ],
+    "lyricist": "Armaan Malik & Neeti Mohan",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/47/d8/0747d8b3-e2df-31a2-6b93-e97a9811b094/mzaf_1248432949148942536.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/80/c5/98/80c598f3-a4ef-4bd9-85b2-f6ba0381e276/8902894357517_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tumhe Apna Banane Ka",
+      "Tumhe Apna Banane Ka"
+    ]
+  },
+  {
+    "title": "Baaki Baatein Peene Baad (Shots)",
+    "movie": "Baaki Baatein Peene Baad (Shots) [feat. Badshah] - Single",
+    "singers": [
+      "Arjun Kanungo"
+    ],
+    "artists": [
+      "Arjun Kanungo"
+    ],
+    "composers": [
+      "Arjun Kanungo"
+    ],
+    "lyricist": "Arjun Kanungo",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/df/8d/0cdf8ddf-c1a5-bc2a-992f-cb67365dd29b/mzaf_16700094291405962238.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/48/23/7b/48237b3e-cbfd-b443-6621-2e0ce96c0572/886445516999.jpg/400x400bb.jpg",
+    "aliases": [
+      "Baaki Baatein Peene Baad (Shots) [feat. Badshah]",
+      "Baaki Baatein Peene Baad (Shots)"
+    ]
+  },
+  {
+    "title": "Badla Badla",
+    "movie": "Badlapur",
+    "singers": [
+      "Sachin-Jigar, Vishal Dadlani, Jasleen Royal, Suraj Jagan & Priya Saraiya"
+    ],
+    "artists": [
+      "Sachin-Jigar, Vishal Dadlani, Jasleen Royal, Suraj Jagan & Priya Saraiya"
+    ],
+    "composers": [
+      "Sachin-Jigar, Vishal Dadlani, Jasleen Royal, Suraj Jagan & Priya Saraiya"
+    ],
+    "lyricist": "Sachin-Jigar, Vishal Dadlani, Jasleen Royal, Suraj Jagan & Priya Saraiya",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/c0/c4/75c0c4af-ba6b-1a70-80b5-9429652348ba/mzaf_3269988371857065085.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/85/12/358512ee-128b-977f-40bc-669beb1bcc8d/196871079747.jpg/400x400bb.jpg",
+    "aliases": [
+      "Badla Badla",
+      "Badla Badla"
+    ]
+  },
+  {
+    "title": "Choo Lo",
+    "movie": "Aalas Ka Pedh",
+    "singers": [
+      "The Local Train"
+    ],
+    "artists": [
+      "The Local Train"
+    ],
+    "composers": [
+      "The Local Train"
+    ],
+    "lyricist": "The Local Train",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/eb/24/54eb2491-8858-bcbe-efe4-0c74ffd60dd0/mzaf_4910576119017201720.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/ab/c3/b4abc3c3-bd25-b8cb-0011-4311e3f9497e/197189936111.jpg/400x400bb.jpg",
+    "aliases": [
+      "Choo Lo",
+      "Choo Lo"
+    ]
+  },
+  {
     "title": "I Don't Dance",
     "movie": "I Don't Dance (Deluxe Edition)",
     "singers": [
@@ -22543,6 +34785,762 @@ module.exports = [
     "aliases": [
       "Samjhawan",
       "Samjhawan"
+    ]
+  },
+  {
+    "title": "Sooraj Dooba Hain",
+    "movie": "Roy",
+    "singers": [
+      "Arijit Singh & Aditi Singh Sharma"
+    ],
+    "artists": [
+      "Arijit Singh & Aditi Singh Sharma"
+    ],
+    "composers": [
+      "Arijit Singh & Aditi Singh Sharma"
+    ],
+    "lyricist": "Arijit Singh & Aditi Singh Sharma",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/be/66/f3be66d2-7d04-a46a-5461-fca00fec1eac/mzaf_14629173701620458221.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/fb/65/e7fb6545-17e3-bb5f-ae1a-02895f26a0c5/8902894356688_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sooraj Dooba Hain",
+      "Sooraj Dooba Hain"
+    ]
+  },
+  {
+    "title": "Mast Magan",
+    "movie": "2 States",
+    "singers": [
+      "Arijit Singh & Chinmayi Sripada"
+    ],
+    "artists": [
+      "Arijit Singh & Chinmayi Sripada"
+    ],
+    "composers": [
+      "Arijit Singh & Chinmayi Sripada"
+    ],
+    "lyricist": "Arijit Singh & Chinmayi Sripada",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/06/cb/8106cb3a-d580-f3d9-a395-72ec2f17c45b/mzaf_9326055917836660950.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/1b/83/e11b8398-0089-cfb1-f998-16125b3f17c4/8902894355612_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mast Magan",
+      "Mast Magan"
+    ]
+  },
+  {
+    "title": "Manwa Laage",
+    "movie": "Happy New Year",
+    "singers": [
+      "Shreya Ghoshal & Arijit Singh"
+    ],
+    "artists": [
+      "Shreya Ghoshal & Arijit Singh"
+    ],
+    "composers": [
+      "Shreya Ghoshal & Arijit Singh"
+    ],
+    "lyricist": "Shreya Ghoshal & Arijit Singh",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/c5/80/b8c580f1-a0d3-f97b-182b-0ad433e15206/mzaf_2137440550280544636.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/70/67/b9706751-6c69-66d5-e20e-a0e58c9f3122/8902894356312_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Manwa Laage",
+      "Manwa Laage"
+    ]
+  },
+  {
+    "title": "Raat Bhar",
+    "movie": "Heropanti",
+    "singers": [
+      "Arijit Singh & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Arijit Singh & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Arijit Singh & Shreya Ghoshal"
+    ],
+    "lyricist": "Arijit Singh & Shreya Ghoshal",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/47/34/01473438-8874-44c7-8a48-2e6a82c87414/mzaf_6797366352675399061.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/e1/dd/3fe1dd34-e0bb-3285-38c5-f58dba4db008/8902894355759_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Raat Bhar",
+      "Raat Bhar"
+    ]
+  },
+  {
+    "title": "India Waale",
+    "movie": "Happy New Year",
+    "singers": [
+      "Neeti Mohan, Vishal Dadlani, KK & Shankar Mahadevan"
+    ],
+    "artists": [
+      "Neeti Mohan, Vishal Dadlani, KK & Shankar Mahadevan"
+    ],
+    "composers": [
+      "Neeti Mohan, Vishal Dadlani, KK & Shankar Mahadevan"
+    ],
+    "lyricist": "Neeti Mohan, Vishal Dadlani, KK & Shankar Mahadevan",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/1f/d6/901fd6da-3847-883f-b813-6552729e2de2/mzaf_5645660118035709508.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/70/67/b9706751-6c69-66d5-e20e-a0e58c9f3122/8902894356312_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "India Waale",
+      "India Waale"
+    ]
+  },
+  {
+    "title": "Tera Naam Doon",
+    "movie": "Entertainment",
+    "singers": [
+      "Atif Aslam, Shalmali Kholgade & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam, Shalmali Kholgade & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam, Shalmali Kholgade & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam, Shalmali Kholgade & Sachin-Jigar",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/c0/de/95c0def6-eadf-7fa0-dab5-6f348c3b0630/mzaf_12373767175409176905.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/51/ba/80/51ba809a-a4e6-331a-7884-ff243a08d865/8901854037186.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tera Naam Doon",
+      "Tera Naam Doon"
+    ]
+  },
+  {
+    "title": "Rabba",
+    "movie": "Heropanti",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/c0/6d/ccc06d41-7857-11fb-cdea-95c1d56c3d9e/mzaf_17103092625832090562.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/e1/dd/3fe1dd34-e0bb-3285-38c5-f58dba4db008/8902894355759_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Rabba",
+      "Rabba"
+    ]
+  },
+  {
+    "title": "Meherbani (feat. Jubin Nautiyal)",
+    "movie": "The Shaukeens",
+    "singers": [
+      "Arko"
+    ],
+    "artists": [
+      "Arko"
+    ],
+    "composers": [
+      "Arko"
+    ],
+    "lyricist": "Arko",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/19/5e/18195eb3-2eb0-be04-1351-b628021949ac/mzaf_6433422634147644741.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/4e/6d/204e6dee-b958-ac17-eebf-45fbc6007289/840780181267.png/400x400bb.jpg",
+    "aliases": [
+      "Meherbani (feat. Jubin Nautiyal)",
+      "Meherbani (feat. Jubin Nautiyal)"
+    ]
+  },
+  {
+    "title": "Meherbaan",
+    "movie": "Bang Bang",
+    "singers": [
+      "Ash King, Shilpa Rao, Vishal & Shekhar & Shekhar Ravjiani"
+    ],
+    "artists": [
+      "Ash King, Shilpa Rao, Vishal & Shekhar & Shekhar Ravjiani"
+    ],
+    "composers": [
+      "Ash King, Shilpa Rao, Vishal & Shekhar & Shekhar Ravjiani"
+    ],
+    "lyricist": "Ash King, Shilpa Rao, Vishal & Shekhar & Shekhar Ravjiani",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/14/c0/1e14c017-a2bf-5318-f5fa-43bdb47bb9a1/mzaf_17763189106720446531.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/01/97/250197ec-0724-b228-4bb6-b2763b1892f7/8718857799191.png/400x400bb.jpg",
+    "aliases": [
+      "Meherbaan",
+      "Meherbaan"
+    ]
+  },
+  {
+    "title": "Tu Meri",
+    "movie": "Bang Bang",
+    "singers": [
+      "Vishal Dadlani & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Vishal Dadlani & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Vishal Dadlani & Vishal & Shekhar"
+    ],
+    "lyricist": "Vishal Dadlani & Vishal & Shekhar",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/ac/de/c9acde0a-3c2e-2fc2-4f34-9da4ad995a03/mzaf_14779625243052307565.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/01/97/250197ec-0724-b228-4bb6-b2763b1892f7/8718857799191.png/400x400bb.jpg",
+    "aliases": [
+      "Tu Meri",
+      "Tu Meri"
+    ]
+  },
+  {
+    "title": "Bang Bang",
+    "movie": "Bang Bang",
+    "singers": [
+      "Benny Dayal, Neeti Mohan & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Benny Dayal, Neeti Mohan & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Benny Dayal, Neeti Mohan & Vishal & Shekhar"
+    ],
+    "lyricist": "Benny Dayal, Neeti Mohan & Vishal & Shekhar",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/b1/04/52b104bf-9c43-67ba-69a2-da72fe4d79ec/mzaf_3601427321924691061.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/01/97/250197ec-0724-b228-4bb6-b2763b1892f7/8718857799191.png/400x400bb.jpg",
+    "aliases": [
+      "Bang Bang",
+      "Bang Bang"
+    ]
+  },
+  {
+    "title": "Uff",
+    "movie": "Bang Bang",
+    "singers": [
+      "Harshdeep Kaur, Benny Dayal & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Harshdeep Kaur, Benny Dayal & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Harshdeep Kaur, Benny Dayal & Vishal & Shekhar"
+    ],
+    "lyricist": "Harshdeep Kaur, Benny Dayal & Vishal & Shekhar",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/9f/d1/519fd1b8-b868-108c-1b68-4f0ce906c6f3/mzaf_17532572969123197641.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/01/97/250197ec-0724-b228-4bb6-b2763b1892f7/8718857799191.png/400x400bb.jpg",
+    "aliases": [
+      "Uff",
+      "Uff"
+    ]
+  },
+  {
+    "title": "Ishq Bulaava",
+    "movie": "Hasee Toh Phasee",
+    "singers": [
+      "Vishal & Shekhar, Sanam Puri & Shipra Goyal"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Sanam Puri & Shipra Goyal"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Sanam Puri & Shipra Goyal"
+    ],
+    "lyricist": "Vishal & Shekhar, Sanam Puri & Shipra Goyal",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f5/17/47/f517473d-dbaf-11c0-fc6d-4ec71831ca84/mzaf_9790488857545861858.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/61/f8/1661f8e0-7d25-0f4e-a50e-5338808dfdbb/886444396479.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Bulaava",
+      "Ishq Bulaava"
+    ]
+  },
+  {
+    "title": "Dance Basanti",
+    "movie": "Ungli",
+    "singers": [
+      "Sachin-Jigar, Vishal Dadlani & Anushka Manchanda"
+    ],
+    "artists": [
+      "Sachin-Jigar, Vishal Dadlani & Anushka Manchanda"
+    ],
+    "composers": [
+      "Sachin-Jigar, Vishal Dadlani & Anushka Manchanda"
+    ],
+    "lyricist": "Sachin-Jigar, Vishal Dadlani & Anushka Manchanda",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/65/bb/dc65bb63-1556-9272-8d99-44fb40a61db4/mzaf_10486958672958499901.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/6f/24/de6f2468-8955-0c61-5808-e2c43dd3f4be/886444926515.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dance Basanti",
+      "Dance Basanti"
+    ]
+  },
+  {
+    "title": "Lucky Tu Lucky Me",
+    "movie": "Humpty Sharma Ki Dulhania",
+    "singers": [
+      "Sachin-Jigar, Benny Dayal, Anushka Manchanda & Varun Dhawan"
+    ],
+    "artists": [
+      "Sachin-Jigar, Benny Dayal, Anushka Manchanda & Varun Dhawan"
+    ],
+    "composers": [
+      "Sachin-Jigar, Benny Dayal, Anushka Manchanda & Varun Dhawan"
+    ],
+    "lyricist": "Sachin-Jigar, Benny Dayal, Anushka Manchanda & Varun Dhawan",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/18/36/7c18361e-e78b-542c-4122-bcc6111f7ab2/mzaf_10422138842820737451.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/a5/a4/24a5a4bf-5854-abf3-a834-845c0fef65c6/886444676540.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lucky Tu Lucky Me",
+      "Lucky Tu Lucky Me"
+    ]
+  },
+  {
+    "title": "London Thumakda",
+    "movie": "Queen",
+    "singers": [
+      "Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi"
+    ],
+    "artists": [
+      "Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi"
+    ],
+    "composers": [
+      "Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi"
+    ],
+    "lyricist": "Labh Janjua, Sonu Kakkar, Neha Kakkar & Amit Trivedi",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/f2/15/04f2159c-f378-3323-d3a0-c055474ec688/mzaf_11306147181651969029.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ed/4c/52/ed4c520a-0714-0234-60cf-5f5b09ada16b/8902894355360_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "London Thumakda",
+      "London Thumakda"
+    ]
+  },
+  {
+    "title": "O Gujariya",
+    "movie": "Queen",
+    "singers": [
+      "Shefali Alvares, Nikhil D'Souza & Amit Trivedi"
+    ],
+    "artists": [
+      "Shefali Alvares, Nikhil D'Souza & Amit Trivedi"
+    ],
+    "composers": [
+      "Shefali Alvares, Nikhil D'Souza & Amit Trivedi"
+    ],
+    "lyricist": "Shefali Alvares, Nikhil D'Souza & Amit Trivedi",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/98/c3/7298c3aa-a02c-4d6b-fd38-405020e82081/mzaf_13101691290972372328.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ed/4c/52/ed4c520a-0714-0234-60cf-5f5b09ada16b/8902894355360_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "O Gujariya",
+      "O Gujariya"
+    ]
+  },
+  {
+    "title": "Kinare",
+    "movie": "Queen",
+    "singers": [
+      "Mohan Kanan & Amit Trivedi"
+    ],
+    "artists": [
+      "Mohan Kanan & Amit Trivedi"
+    ],
+    "composers": [
+      "Mohan Kanan & Amit Trivedi"
+    ],
+    "lyricist": "Mohan Kanan & Amit Trivedi",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/4b/ef/c34bef7e-d64b-2a01-c7ec-960048a8647b/mzaf_5374057784869352334.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ed/4c/52/ed4c520a-0714-0234-60cf-5f5b09ada16b/8902894355360_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kinare",
+      "Kinare"
+    ]
+  },
+  {
+    "title": "Jugni",
+    "movie": "Queen",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/af/aa/3f/afaa3ff7-7813-c835-9e0f-db599238ac9b/mzaf_3038398277502932685.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ed/4c/52/ed4c520a-0714-0234-60cf-5f5b09ada16b/8902894355360_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jugni",
+      "Jugni"
+    ]
+  },
+  {
+    "title": "Harjaiyaan",
+    "movie": "Queen",
+    "singers": [
+      "Nandini Srikar & Amit Trivedi"
+    ],
+    "artists": [
+      "Nandini Srikar & Amit Trivedi"
+    ],
+    "composers": [
+      "Nandini Srikar & Amit Trivedi"
+    ],
+    "lyricist": "Nandini Srikar & Amit Trivedi",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/c0/d8/11c0d8a8-2577-88cd-43d3-3b8a885a68f0/mzaf_18093224393391935378.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ed/4c/52/ed4c520a-0714-0234-60cf-5f5b09ada16b/8902894355360_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Harjaiyaan",
+      "Harjaiyaan"
+    ]
+  },
+  {
+    "title": "Jealous",
+    "movie": "Jealous - Single",
+    "singers": [
+      "Labrinth"
+    ],
+    "artists": [
+      "Labrinth"
+    ],
+    "composers": [
+      "Labrinth"
+    ],
+    "lyricist": "Labrinth",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/0b/db/dd0bdb53-8197-da2e-d3bc-7e73780abe66/mzaf_16958870047245020086.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/8d/66/618d66e6-c256-ef8f-d068-ead507f47609/886444898225.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jealous",
+      "Jealous"
+    ]
+  },
+  {
+    "title": "Punjabi Wedding Song",
+    "movie": "Hasee Toh Phasee",
+    "singers": [
+      "Vishal & Shekhar, Sunidhi Chauhan & Benny Dayal"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Sunidhi Chauhan & Benny Dayal"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Sunidhi Chauhan & Benny Dayal"
+    ],
+    "lyricist": "Vishal & Shekhar, Sunidhi Chauhan & Benny Dayal",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/6e/b1/946eb1b1-a758-79b0-2f50-43edd1b1faf0/mzaf_8661949036957218883.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/61/f8/1661f8e0-7d25-0f4e-a50e-5338808dfdbb/886444396479.jpg/400x400bb.jpg",
+    "aliases": [
+      "Punjabi Wedding Song",
+      "Punjabi Wedding Song"
+    ]
+  },
+  {
+    "title": "Auliya",
+    "movie": "Ungli",
+    "singers": [
+      "Salim-Sulaiman & Armaan Malik"
+    ],
+    "artists": [
+      "Salim-Sulaiman & Armaan Malik"
+    ],
+    "composers": [
+      "Salim-Sulaiman & Armaan Malik"
+    ],
+    "lyricist": "Salim-Sulaiman & Armaan Malik",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/77/ab/82/77ab826d-fa85-f32a-c10f-04e24ebdcf05/mzaf_10806932419202210912.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/6f/24/de6f2468-8955-0c61-5808-e2c43dd3f4be/886444926515.jpg/400x400bb.jpg",
+    "aliases": [
+      "Auliya",
+      "Auliya"
+    ]
+  },
+  {
+    "title": "Joker",
+    "movie": "Joker - Single",
+    "singers": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "artists": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "composers": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "lyricist": "Harrdy Sandhu & B. Praak",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/c1/f4/dcc1f44b-a110-3c59-9d95-66b3f02495f8/mzaf_17496221823444324211.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/d7/78/8cd778bf-7f23-c31f-2b18-727b0ac00e0e/8903431570390_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Joker",
+      "Joker"
+    ]
+  },
+  {
+    "title": "Abhi Toh Party Shuru Hui Hai",
+    "movie": "Khoobsurat",
+    "singers": [
+      "Badshah & Aastha"
+    ],
+    "artists": [
+      "Badshah & Aastha"
+    ],
+    "composers": [
+      "Badshah & Aastha"
+    ],
+    "lyricist": "Badshah & Aastha",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/b9/90/cdb990a5-155d-41ef-78d1-72f404da8438/mzaf_9064427207501693721.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/0a/42/a90a42be-f307-77aa-56ff-fcaefcfb1f08/8902894356282_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Abhi Toh Party Shuru Hui Hai",
+      "Abhi Toh Party Shuru Hui Hai"
+    ]
+  },
+  {
+    "title": "Saturday Saturday",
+    "movie": "Humpty Sharma Ki Dulhania",
+    "singers": [
+      "Sharib Toshi, Badshah, Indeep Bakshi & Akriti Kakkar"
+    ],
+    "artists": [
+      "Sharib Toshi, Badshah, Indeep Bakshi & Akriti Kakkar"
+    ],
+    "composers": [
+      "Sharib Toshi, Badshah, Indeep Bakshi & Akriti Kakkar"
+    ],
+    "lyricist": "Sharib Toshi, Badshah, Indeep Bakshi & Akriti Kakkar",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/36/ec/3f36ec8a-06b8-f14d-c715-b80e1526d4a2/mzaf_1485983431588059130.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/a5/a4/24a5a4bf-5854-abf3-a834-845c0fef65c6/886444676540.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saturday Saturday",
+      "Saturday Saturday"
+    ]
+  },
+  {
+    "title": "Preet",
+    "movie": "Khoobsurat",
+    "singers": [
+      "Jasleen Royal"
+    ],
+    "artists": [
+      "Jasleen Royal"
+    ],
+    "composers": [
+      "Jasleen Royal"
+    ],
+    "lyricist": "Jasleen Royal",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/c9/35/d9c935f3-90d2-3ea8-b2fb-7ead017b338f/mzaf_8811795785442244244.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/0a/42/a90a42be-f307-77aa-56ff-fcaefcfb1f08/8902894356282_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Preet",
+      "Preet"
     ]
   },
   {
@@ -23526,6 +36524,958 @@ module.exports = [
     ]
   },
   {
+    "title": "Tum Hi Ho",
+    "movie": "Aashiqui 2",
+    "singers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "artists": [
+      "Mithoon & Arijit Singh"
+    ],
+    "composers": [
+      "Mithoon & Arijit Singh"
+    ],
+    "lyricist": "Mithoon & Arijit Singh",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/de/b9/38deb942-d44a-f2bb-205c-ddf05be84693/mzaf_9747647124859107103.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tum Hi Ho",
+      "Tum Hi Ho"
+    ]
+  },
+  {
+    "title": "Meri Aashiqui",
+    "movie": "Aashiqui 2",
+    "singers": [
+      "Palak Muchhal & Arijit Singh"
+    ],
+    "artists": [
+      "Palak Muchhal & Arijit Singh"
+    ],
+    "composers": [
+      "Palak Muchhal & Arijit Singh"
+    ],
+    "lyricist": "Palak Muchhal & Arijit Singh",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/06/b1/98/06b198f3-c1dc-ac05-9704-b6af4565ae33/mzaf_2079088425058325605.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Meri Aashiqui",
+      "Meri Aashiqui"
+    ]
+  },
+  {
+    "title": "Nagada Sang Dhol",
+    "movie": "Goliyon Ki Raasleela Ram-Leela",
+    "singers": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir & Siddharth-Garima"
+    ],
+    "artists": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir & Siddharth-Garima"
+    ],
+    "composers": [
+      "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir & Siddharth-Garima"
+    ],
+    "lyricist": "Sanjay Leela Bhansali, Shreya Ghoshal, Osman Mir & Siddharth-Garima",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/61/f8/9d61f83f-aa69-c546-c815-3004b90164b3/mzaf_2767219084759408058.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/c2/6a/0ac26af9-78c9-d0f2-9292-316925bed3d8/196871079914.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nagada Sang Dhol",
+      "Nagada Sang Dhol"
+    ]
+  },
+  {
+    "title": "Sunn Raha Hai (Female Version)",
+    "movie": "Aashiqui 2",
+    "singers": [
+      "Shreya Ghoshal"
+    ],
+    "artists": [
+      "Shreya Ghoshal"
+    ],
+    "composers": [
+      "Shreya Ghoshal"
+    ],
+    "lyricist": "Shreya Ghoshal",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/c6/78/f7c678f7-f477-294d-b821-1aebf9e3be8a/mzaf_6992444648096213882.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sunn Raha Hai (Female Version)",
+      "Sunn Raha Hai (Female Version)"
+    ]
+  },
+  {
+    "title": "Party On My Mind",
+    "movie": "Race 2",
+    "singers": [
+      "KK, Shefali Alvares, Yo Yo Honey Singh, Pritam & Prashant Ingole"
+    ],
+    "artists": [
+      "KK, Shefali Alvares, Yo Yo Honey Singh, Pritam & Prashant Ingole"
+    ],
+    "composers": [
+      "KK, Shefali Alvares, Yo Yo Honey Singh, Pritam & Prashant Ingole"
+    ],
+    "lyricist": "KK, Shefali Alvares, Yo Yo Honey Singh, Pritam & Prashant Ingole",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/6a/f1/c86af1ba-d9ef-eb8e-fded-2151811dabf5/mzaf_14475075248705205501.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/79/f6/0779f68f-462f-e8d5-7de1-84ca6be69888/8901854022311.jpg/400x400bb.jpg",
+    "aliases": [
+      "Party On My Mind",
+      "Party On My Mind"
+    ]
+  },
+  {
+    "title": "Piya Aaye Na",
+    "movie": "Aashiqui 2",
+    "singers": [
+      "Tulsi Kumar & KK"
+    ],
+    "artists": [
+      "Tulsi Kumar & KK"
+    ],
+    "composers": [
+      "Tulsi Kumar & KK"
+    ],
+    "lyricist": "Tulsi Kumar & KK",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/f9/77/45f977aa-7f9b-9a72-fd0e-d42c7bef604f/mzaf_18158004089772531637.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/23/ee/bb23eeed-0c35-4f1d-2b11-485622777ae4/8902894353007_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Piya Aaye Na",
+      "Piya Aaye Na"
+    ]
+  },
+  {
+    "title": "Main Rang Sharbaton Ka",
+    "movie": "Phata Poster Nikhla Hero",
+    "singers": [
+      "Atif Aslam, Chinmayi Sripada & Pritam"
+    ],
+    "artists": [
+      "Atif Aslam, Chinmayi Sripada & Pritam"
+    ],
+    "composers": [
+      "Atif Aslam, Chinmayi Sripada & Pritam"
+    ],
+    "lyricist": "Atif Aslam, Chinmayi Sripada & Pritam",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/75/b5/e875b550-3369-f2f3-d293-58df3eb9553e/mzaf_10131649015532923239.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/02/98/a6/0298a63c-c22f-52d9-a62c-1e7c19980a3a/8901854030330.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Rang Sharbaton Ka",
+      "Main Rang Sharbaton Ka"
+    ]
+  },
+  {
+    "title": "Be Intehaan",
+    "movie": "Race 2",
+    "singers": [
+      "Atif Aslam, Sunidhi Chauhan & Pritam"
+    ],
+    "artists": [
+      "Atif Aslam, Sunidhi Chauhan & Pritam"
+    ],
+    "composers": [
+      "Atif Aslam, Sunidhi Chauhan & Pritam"
+    ],
+    "lyricist": "Atif Aslam, Sunidhi Chauhan & Pritam",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/8d/09/a68d09f8-2f09-a183-9902-c558088ad02c/mzaf_11840669720819877789.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/79/f6/0779f68f-462f-e8d5-7de1-84ca6be69888/8901854022311.jpg/400x400bb.jpg",
+    "aliases": [
+      "Be Intehaan",
+      "Be Intehaan"
+    ]
+  },
+  {
+    "title": "Allah Duhai Hai",
+    "movie": "Race 2",
+    "singers": [
+      "Atif Aslam, Anushka Manchanda, Vishal Dadlani, Ritu Pathak, Michie One & Pritam"
+    ],
+    "artists": [
+      "Atif Aslam, Anushka Manchanda, Vishal Dadlani, Ritu Pathak, Michie One & Pritam"
+    ],
+    "composers": [
+      "Atif Aslam, Anushka Manchanda, Vishal Dadlani, Ritu Pathak, Michie One & Pritam"
+    ],
+    "lyricist": "Atif Aslam, Anushka Manchanda, Vishal Dadlani, Ritu Pathak, Michie One & Pritam",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/72/26/ff722659-5709-287f-8cd2-b8efba01739a/mzaf_2492468459901666612.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/79/f6/0779f68f-462f-e8d5-7de1-84ca6be69888/8901854022311.jpg/400x400bb.jpg",
+    "aliases": [
+      "Allah Duhai Hai",
+      "Allah Duhai Hai"
+    ]
+  },
+  {
+    "title": "Rang Jo Lagyo",
+    "movie": "Ramaiya Vastavaiya",
+    "singers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam, Shreya Ghoshal & Sachin-Jigar",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/55/b6/ed55b68e-93d1-798e-2c0d-3b6870e3272f/mzaf_7842857411548302132.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/f4/ac/0cf4acd9-9510-3c12-b453-50021a4985ec/8901854027637.jpg/400x400bb.jpg",
+    "aliases": [
+      "Rang Jo Lagyo",
+      "Rang Jo Lagyo"
+    ]
+  },
+  {
+    "title": "Bairiyaa",
+    "movie": "Ramaiya Vastavaiya",
+    "singers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam, Shreya Ghoshal & Sachin-Jigar",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ab/a4/30/aba4300b-d4b8-56aa-41ff-c50dbce75862/mzaf_14053168795633019125.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/f4/ac/0cf4acd9-9510-3c12-b453-50021a4985ec/8901854027637.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bairiyaa",
+      "Bairiyaa"
+    ]
+  },
+  {
+    "title": "Ilahi (Reprise)",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "singers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "artists": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "composers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "lyricist": "Pritam & Mohit Chauhan",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/3a/cc/573acc95-6fb2-7b7f-1ff4-f9126107d87d/mzaf_13979411723522206592.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ilahi (Reprise)",
+      "Ilahi (Reprise)"
+    ]
+  },
+  {
+    "title": "Bezubaan",
+    "movie": "ABCD - Any Body Can Dance",
+    "singers": [
+      "Mohit Chauhan, Priya Panchal, Deane Sequeira, Tanvi Shah & Sachin-Jigar"
+    ],
+    "artists": [
+      "Mohit Chauhan, Priya Panchal, Deane Sequeira, Tanvi Shah & Sachin-Jigar"
+    ],
+    "composers": [
+      "Mohit Chauhan, Priya Panchal, Deane Sequeira, Tanvi Shah & Sachin-Jigar"
+    ],
+    "lyricist": "Mohit Chauhan, Priya Panchal, Deane Sequeira, Tanvi Shah & Sachin-Jigar",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b4/e2/0b/b4e20b71-18bc-6a19-01cb-dcd0be3f1c2d/mzaf_7422886098249142315.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3c/63/39/3c633925-639a-b7f7-3cfa-177ac4b18dee/886443824058.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bezubaan",
+      "Bezubaan"
+    ]
+  },
+  {
+    "title": "Tu Hi Junoon",
+    "movie": "Dhoom : 3",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/cc/82/11cc82ff-c45e-f893-5f63-85cdde8c48fe/mzaf_16116264826461281770.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/db/e0/1adbe03a-4256-94fe-a432-1c70119a61f0/849486012318_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Hi Junoon",
+      "Tu Hi Junoon"
+    ]
+  },
+  {
+    "title": "Badtameez Dil",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "singers": [
+      "Pritam, Benny Dayal & Shefali Alvares"
+    ],
+    "artists": [
+      "Pritam, Benny Dayal & Shefali Alvares"
+    ],
+    "composers": [
+      "Pritam, Benny Dayal & Shefali Alvares"
+    ],
+    "lyricist": "Pritam, Benny Dayal & Shefali Alvares",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/e2/af/88e2af36-3b58-3f34-32c3-d94d3086c8d5/mzaf_15476348080733865142.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Badtameez Dil",
+      "Badtameez Dil"
+    ]
+  },
+  {
+    "title": "Balam Pichkari",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "singers": [
+      "Pritam, Vishal Dadlani & Shalmali Kholgade"
+    ],
+    "artists": [
+      "Pritam, Vishal Dadlani & Shalmali Kholgade"
+    ],
+    "composers": [
+      "Pritam, Vishal Dadlani & Shalmali Kholgade"
+    ],
+    "lyricist": "Pritam, Vishal Dadlani & Shalmali Kholgade",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/e7/d2/d3e7d290-b0bb-00b6-a4d9-311bab6e2363/mzaf_5724100094974808629.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Balam Pichkari",
+      "Balam Pichkari"
+    ]
+  },
+  {
+    "title": "Ghagra",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "singers": [
+      "Pritam, Rekha Bhardwaj & Vishal Dadlani"
+    ],
+    "artists": [
+      "Pritam, Rekha Bhardwaj & Vishal Dadlani"
+    ],
+    "composers": [
+      "Pritam, Rekha Bhardwaj & Vishal Dadlani"
+    ],
+    "lyricist": "Pritam, Rekha Bhardwaj & Vishal Dadlani",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/6b/ca/a16bcab1-b22f-538d-dab0-1d31ecd98968/mzaf_11397127908347810085.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ghagra",
+      "Ghagra"
+    ]
+  },
+  {
+    "title": "Lat Lag Gayee",
+    "movie": "Race 2",
+    "singers": [
+      "Benny Dayal, Shalmali Kholgade & Pritam"
+    ],
+    "artists": [
+      "Benny Dayal, Shalmali Kholgade & Pritam"
+    ],
+    "composers": [
+      "Benny Dayal, Shalmali Kholgade & Pritam"
+    ],
+    "lyricist": "Benny Dayal, Shalmali Kholgade & Pritam",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/38/a4/8738a401-01da-b1a6-6731-e5f3d7c426ac/mzaf_17790103610232326737.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/79/f6/0779f68f-462f-e8d5-7de1-84ca6be69888/8901854022311.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lat Lag Gayee",
+      "Lat Lag Gayee"
+    ]
+  },
+  {
+    "title": "Shubhaarambh",
+    "movie": "Kai Po Che - Single",
+    "singers": [
+      "Amit Trivedi, Shruti Pathak & Divya Kumar"
+    ],
+    "artists": [
+      "Amit Trivedi, Shruti Pathak & Divya Kumar"
+    ],
+    "composers": [
+      "Amit Trivedi, Shruti Pathak & Divya Kumar"
+    ],
+    "lyricist": "Amit Trivedi, Shruti Pathak & Divya Kumar",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ea/05/24/ea052405-9719-6ffb-d792-588a37b1dd6f/mzaf_5264308015141700101.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/dc/1e/0e/dc1e0e16-f67c-a634-bcd9-e7b93bae55f9/886443858671.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shubhaarambh",
+      "Shubhaarambh"
+    ]
+  },
+  {
+    "title": "Sawaar Loon",
+    "movie": "Lootera",
+    "singers": [
+      "Monali Thakur & Amit Trivedi"
+    ],
+    "artists": [
+      "Monali Thakur & Amit Trivedi"
+    ],
+    "composers": [
+      "Monali Thakur & Amit Trivedi"
+    ],
+    "lyricist": "Monali Thakur & Amit Trivedi",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/e7/34/bbe73483-33c7-ff28-1656-14b9ae1962bd/mzaf_5078469326229541507.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/40/28/2740286f-fa6e-23dc-cae2-8fbfb2ee3e1d/8902894353533_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sawaar Loon",
+      "Sawaar Loon"
+    ]
+  },
+  {
+    "title": "Manja",
+    "movie": "Kai Po Che - Single",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/44/63/9144635a-9273-5cd0-1d1a-c7599dbd8959/mzaf_13824958762749192217.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/dc/1e/0e/dc1e0e16-f67c-a634-bcd9-e7b93bae55f9/886443858671.jpg/400x400bb.jpg",
+    "aliases": [
+      "Manja",
+      "Manja"
+    ]
+  },
+  {
+    "title": "Monta Re",
+    "movie": "Lootera",
+    "singers": [
+      "Swanand Kirkire, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "artists": [
+      "Swanand Kirkire, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "composers": [
+      "Swanand Kirkire, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "lyricist": "Swanand Kirkire, Amitabh Bhattacharya & Amit Trivedi",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/88/ec/f8/88ecf8c1-e00b-faee-eb44-358cd5428b1b/mzaf_7768096744189149542.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/40/28/2740286f-fa6e-23dc-cae2-8fbfb2ee3e1d/8902894353533_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Monta Re",
+      "Monta Re"
+    ]
+  },
+  {
+    "title": "Manmarziyan",
+    "movie": "Lootera",
+    "singers": [
+      "Shilpa Rao, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "artists": [
+      "Shilpa Rao, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "composers": [
+      "Shilpa Rao, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "lyricist": "Shilpa Rao, Amitabh Bhattacharya & Amit Trivedi",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/f4/0e/6af40ee0-6bb3-dcd6-c253-0dccbd011bff/mzaf_11210279200717822533.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/40/28/2740286f-fa6e-23dc-cae2-8fbfb2ee3e1d/8902894353533_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Manmarziyan",
+      "Manmarziyan"
+    ]
+  },
+  {
+    "title": "Lazy Lad",
+    "movie": "Ghanchakkar - EP",
+    "singers": [
+      "Amit Trivedi & Richa Sharma"
+    ],
+    "artists": [
+      "Amit Trivedi & Richa Sharma"
+    ],
+    "composers": [
+      "Amit Trivedi & Richa Sharma"
+    ],
+    "lyricist": "Amit Trivedi & Richa Sharma",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/39/bf/a739bfff-9fee-ad27-df5c-944abc103543/mzaf_13252218005502342195.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fd/69/a2/fd69a290-2fa9-adc9-8cfe-c9c7b111070a/886444010795.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lazy Lad",
+      "Lazy Lad"
+    ]
+  },
+  {
+    "title": "Shikayatein",
+    "movie": "Lootera",
+    "singers": [
+      "Mohan Kanan, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "artists": [
+      "Mohan Kanan, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "composers": [
+      "Mohan Kanan, Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "lyricist": "Mohan Kanan, Amitabh Bhattacharya & Amit Trivedi",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/79/34/1c79344f-395e-6f94-ab67-7030b6d3ecc5/mzaf_10318952465616703291.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/40/28/2740286f-fa6e-23dc-cae2-8fbfb2ee3e1d/8902894353533_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shikayatein",
+      "Shikayatein"
+    ]
+  },
+  {
+    "title": "Meethi Boliyaan",
+    "movie": "Kai Po Che - Single",
+    "singers": [
+      "Amit Trivedi & Mili Nair"
+    ],
+    "artists": [
+      "Amit Trivedi & Mili Nair"
+    ],
+    "composers": [
+      "Amit Trivedi & Mili Nair"
+    ],
+    "lyricist": "Amit Trivedi & Mili Nair",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/35/0d/ef350ddd-b3e7-aa37-2149-4910087fa4de/mzaf_836031893527305889.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/dc/1e/0e/dc1e0e16-f67c-a634-bcd9-e7b93bae55f9/886443858671.jpg/400x400bb.jpg",
+    "aliases": [
+      "Meethi Boliyaan",
+      "Meethi Boliyaan"
+    ]
+  },
+  {
+    "title": "Ankahee",
+    "movie": "Lootera",
+    "singers": [
+      "Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "artists": [
+      "Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "composers": [
+      "Amitabh Bhattacharya & Amit Trivedi"
+    ],
+    "lyricist": "Amitabh Bhattacharya & Amit Trivedi",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ad/98/44/ad98442c-bfa0-65e8-827e-ee5e95d72e59/mzaf_7619753182819141092.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/40/28/2740286f-fa6e-23dc-cae2-8fbfb2ee3e1d/8902894353533_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ankahee",
+      "Ankahee"
+    ]
+  },
+  {
+    "title": "Still Into You",
+    "movie": "Paramore",
+    "singers": [
+      "Paramore"
+    ],
+    "artists": [
+      "Paramore"
+    ],
+    "composers": [
+      "Paramore"
+    ],
+    "lyricist": "Paramore",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/a5/2b/eba52b2a-4b67-feec-d164-18d62272389b/mzaf_9008510425763008488.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/cb/9d/32cb9d04-ef0f-93bb-fd2f-19b395785025/075679956187.jpg/400x400bb.jpg",
+    "aliases": [
+      "Still Into You",
+      "Still Into You"
+    ]
+  },
+  {
+    "title": "Kamli",
+    "movie": "Dhoom : 3",
+    "singers": [
+      "Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sunidhi Chauhan"
+    ],
+    "lyricist": "Sunidhi Chauhan",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/f1/ba/8df1ba2f-6f35-57bf-0e5d-dce7bc911fda/mzaf_697037541651634276.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/db/e0/1adbe03a-4256-94fe-a432-1c70119a61f0/849486012318_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kamli",
+      "Kamli"
+    ]
+  },
+  {
+    "title": "Yaaram",
+    "movie": "Ek Thi Daayan - EP",
+    "singers": [
+      "Vishal Bhardwaj, Clinton Cerejo & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Vishal Bhardwaj, Clinton Cerejo & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Vishal Bhardwaj, Clinton Cerejo & Sunidhi Chauhan"
+    ],
+    "lyricist": "Vishal Bhardwaj, Clinton Cerejo & Sunidhi Chauhan",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e2/43/c9/e243c969-8aa6-89ff-2b98-b3fb1a54246a/mzaf_3545084704444353472.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/17/2c/e1172c26-7261-d867-9d5f-ac953bef1367/886443875814.jpg/400x400bb.jpg",
+    "aliases": [
+      "Yaaram",
+      "Yaaram"
+    ]
+  },
+  {
+    "title": "Tumko To Aana Hi Tha",
+    "movie": "Jai Ho",
+    "singers": [
+      "Armaan Malik & Marianne D'Cruz"
+    ],
+    "artists": [
+      "Armaan Malik & Marianne D'Cruz"
+    ],
+    "composers": [
+      "Armaan Malik & Marianne D'Cruz"
+    ],
+    "lyricist": "Armaan Malik & Marianne D'Cruz",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/e0/01/f8e00105-67e7-9ce7-6a14-a0a5087f18b4/mzaf_16307247916492841965.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/5f/15/bb5f1567-3ca0-2534-f9c5-fc9ec05e4fb9/8902894355186_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tumko To Aana Hi Tha",
+      "Tumko To Aana Hi Tha"
+    ]
+  },
+  {
+    "title": "Soch",
+    "movie": "Soch - Single",
+    "singers": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "artists": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "composers": [
+      "Harrdy Sandhu & B. Praak"
+    ],
+    "lyricist": "Harrdy Sandhu & B. Praak",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0e/a8/b1/0ea8b1f0-1108-8e22-2800-2b624661915b/mzaf_2081569724044338527.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/e3/bd/ffe3bdfa-ecaa-85ba-99d4-dd3c89b1c945/8902894354905_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soch",
+      "Soch"
+    ]
+  },
+  {
+    "title": "Malang",
+    "movie": "Dhoom : 3",
+    "singers": [
+      "Siddharth Mahadevan & Shilpa Rao"
+    ],
+    "artists": [
+      "Siddharth Mahadevan & Shilpa Rao"
+    ],
+    "composers": [
+      "Siddharth Mahadevan & Shilpa Rao"
+    ],
+    "lyricist": "Siddharth Mahadevan & Shilpa Rao",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/2b/0f/a42b0f63-d49b-db5d-8f08-6004b35c5052/mzaf_14085484907257751659.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/db/e0/1adbe03a-4256-94fe-a432-1c70119a61f0/849486012318_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Malang",
+      "Malang"
+    ]
+  },
+  {
+    "title": "Maye Ni",
+    "movie": "Maye Ni - Single",
+    "singers": [
+      "Jasleen Royal & Neeraj Rajawat"
+    ],
+    "artists": [
+      "Jasleen Royal & Neeraj Rajawat"
+    ],
+    "composers": [
+      "Jasleen Royal & Neeraj Rajawat"
+    ],
+    "lyricist": "Jasleen Royal & Neeraj Rajawat",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f9/27/4e/f9274ee3-b0c8-7ec2-d0d3-638983274afd/mzaf_3435123116535496179.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/52/d7/5052d75a-9262-6d74-5050-461074c282da/8903242680820.jpg/400x400bb.jpg",
+    "aliases": [
+      "Maye Ni",
+      "Maye Ni"
+    ]
+  },
+  {
     "title": "Girl On Fire",
     "movie": "Girl On Fire (Remixes) - EP",
     "singers": [
@@ -23545,7 +37495,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/0b/dd/600bdd5f-031d-d404-f776-c981fcdf3f41/mzaf_10924302464946730977.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a7/66/bd/a766bd53-e015-62e7-fbbc-ab7dd628a989/886443653634.jpg/400x400bb.jpg",
     "aliases": [
@@ -23573,7 +37523,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/c6/6f/9fc66f54-71ef-33c7-83a8-d79ad4a5d35f/mzaf_6327917667657948007.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/a3/3e/89a33e77-4e57-742b-e1ae-b1abf1d4d338/79316_-_Lee_Brice.jpg/400x400bb.jpg",
     "aliases": [
@@ -23601,7 +37551,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/9d/9c/b69d9c42-c118-7f2b-dbee-76a4dccc091b/mzaf_2776863823996985261.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/26/a3/0426a3a1-3d0a-9c4f-a7be-3cc52db56711/886443620544.jpg/400x400bb.jpg",
     "aliases": [
@@ -23629,7 +37579,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/d2/08/0fd208aa-6c86-63d9-7b78-0516d62f2dcd/mzaf_7185609313160297339.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/27/2f/fe272f90-3bf9-b6e3-ffba-7068e9958c9c/886443601017.jpg/400x400bb.jpg",
     "aliases": [
@@ -23657,7 +37607,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/d2/9c/bdd29cd1-9676-b9d7-b226-852007b65194/mzaf_1651414876810827502.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/65/e5/ba65e507-b023-5430-1760-fbcc4fc64625/24UMGIM61051.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -23685,7 +37635,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/80/87/1780878f-8be0-5e8c-fd1c-a8f9e358bdf7/mzaf_11353114912560621881.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/27/2f/fe272f90-3bf9-b6e3-ffba-7068e9958c9c/886443601017.jpg/400x400bb.jpg",
     "aliases": [
@@ -23713,7 +37663,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/dc/df/11dcdf39-1aec-645b-fa43-9aa2b1d5b7e0/mzaf_15327017405575313441.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/fd/24/65fd24f2-9f94-d224-da9d-faa8ff92171d/886443595606.jpg/400x400bb.jpg",
     "aliases": [
@@ -23741,7 +37691,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2f/0e/a8/2f0ea8af-c04c-7112-ba8f-9b4f2701204e/mzaf_7763140995704470821.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/29/c4/5829c49f-0da7-19e6-8676-89947613887d/8902894351249_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -23769,7 +37719,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/bc/69/4b/bc694b91-e5dd-69a6-899a-a854e0656b46/mzaf_164000825067630618.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/0d/ac/59/0dac59e7-135b-021f-78c1-4e678ccfccba/8712944478808.jpg/400x400bb.jpg",
     "aliases": [
@@ -23797,7 +37747,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/13/22/7e1322c7-980d-160f-8c68-dc9b9863a559/mzaf_1440735671923738990.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/89/cd/bb89cdb5-4456-2b75-d1f9-e61009a4c8cc/886443609532.jpg/400x400bb.jpg",
     "aliases": [
@@ -23825,7 +37775,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/a4/32/0ca432eb-fc53-8a08-acdd-55d9dcab98b0/mzaf_4093649230372607608.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/57/b3/3157b3d9-6551-e44e-46c0-488686998a05/13UABIM58339.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -23853,7 +37803,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/98/87/6b98879c-5091-bcaa-24c9-07c69252db8c/mzaf_12123656044443906655.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/b0/de/2cb0de7b-4559-d885-36f8-271c950cba34/886443562097.jpg/400x400bb.jpg",
     "aliases": [
@@ -23881,7 +37831,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/f4/11/5df411a7-7de9-a768-3eef-1b74cc77efcb/mzaf_2117023069067957023.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/ac/8a/2cac8ac4-cb90-ac44-0808-a8e3ccbe05d0/075679962577.jpg/400x400bb.jpg",
     "aliases": [
@@ -23909,7 +37859,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/ac/32/46ac3295-4700-141a-221f-c397cee54b43/mzaf_14778414709584444908.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -23937,7 +37887,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/f5/d8/7ff5d850-871d-6621-2b74-3a772a6eec89/mzaf_52696194311988270.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -23965,7 +37915,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/2e/2d/e92e2d2e-99d1-01b9-74df-80adfafd1c32/mzaf_16482401030460101344.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -23993,7 +37943,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/88/79/ed8879dc-6b99-081c-7fa7-b773b7c95723/mzaf_6101746706585069584.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -24021,7 +37971,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/19/2c/04192c05-4e74-93d4-a0d1-b6cf8470b24a/mzaf_13543998043313054487.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -24049,7 +37999,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/0a/db/0c0adb62-ef35-a464-107a-bb5df620a939/mzaf_11349690117068195064.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -24077,7 +38027,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/78/9a/02789ab2-5b92-d90b-3b07-5bbed3ebb484/mzaf_8714928276369520449.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -24105,7 +38055,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/9a/32/8a9a3291-733a-b24d-7466-36a2ea2d66e6/mzaf_11917506171363000062.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/65/4a/5b654a60-886f-8bbf-2f39-5ea0dacb8022/886443625099.jpg/400x400bb.jpg",
     "aliases": [
@@ -24133,12 +38083,516 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/d6/6a/3fd66ae7-a98f-713f-8be3-519955617db3/mzaf_17583571402367409544.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/dd/ec/3dddec12-be24-6746-f20b-24dd599e1b52/196871082891.jpg/400x400bb.jpg",
     "aliases": [
       "Tum Hi Ho Bandhu",
       "Tum Hi Ho Bandhu"
+    ]
+  },
+  {
+    "title": "Radha",
+    "movie": "Student of the Year",
+    "singers": [
+      "Vishal & Shekhar, Shekhar Ravjiani, Shreya Ghoshal, Udit Narayan & Vishal Dadlani"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Shekhar Ravjiani, Shreya Ghoshal, Udit Narayan & Vishal Dadlani"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Shekhar Ravjiani, Shreya Ghoshal, Udit Narayan & Vishal Dadlani"
+    ],
+    "lyricist": "Vishal & Shekhar, Shekhar Ravjiani, Shreya Ghoshal, Udit Narayan & Vishal Dadlani",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/6b/5e/fd6b5ed1-1da6-f85b-7457-494ceeeaa227/mzaf_1808157577858544095.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/27/2f/fe272f90-3bf9-b6e3-ffba-7068e9958c9c/886443601017.jpg/400x400bb.jpg",
+    "aliases": [
+      "Radha",
+      "Radha"
+    ]
+  },
+  {
+    "title": "Piya O Re Piya",
+    "movie": "Tere Naal Love Ho Gaya",
+    "singers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam, Shreya Ghoshal & Sachin-Jigar",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/23/48/a22348bf-dad7-426d-fe40-eea05002ed6e/mzaf_14719254493263136213.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/b9/df/2ab9dfce-fafb-1237-cc7e-7e34fb9e7a9f/8901854017904.jpg/400x400bb.jpg",
+    "aliases": [
+      "Piya O Re Piya",
+      "Piya O Re Piya"
+    ]
+  },
+  {
+    "title": "Mashallah",
+    "movie": "Ek Tha Tiger",
+    "singers": [
+      "Shreya Ghoshal & Wajid"
+    ],
+    "artists": [
+      "Shreya Ghoshal & Wajid"
+    ],
+    "composers": [
+      "Shreya Ghoshal & Wajid"
+    ],
+    "lyricist": "Shreya Ghoshal & Wajid",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/06/ee/2b06eed0-9b3a-e5c5-e04e-fb56c0b8c86d/mzaf_15601095564585674289.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/eb/b9/efebb98b-c9c8-33b9-7476-2e01a622edc0/849486005914_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mashallah",
+      "Mashallah"
+    ]
+  },
+  {
+    "title": "Saans",
+    "movie": "Jab Tak Hai Jaan",
+    "singers": [
+      "Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "lyricist": "Mohit Chauhan & Shreya Ghoshal",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/ea/b9/3beab912-c08e-360f-e590-bdb5d474f478/mzaf_9970515705231615025.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/52/4d/2f524d1f-8ca3-5fa3-26c0-1ba1ac5b06fa/849486008274_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saans",
+      "Saans"
+    ]
+  },
+  {
+    "title": "Tujhe Sochta Hoon",
+    "movie": "Jannat 2",
+    "singers": [
+      "KK & Pritam"
+    ],
+    "artists": [
+      "KK & Pritam"
+    ],
+    "composers": [
+      "KK & Pritam"
+    ],
+    "lyricist": "KK & Pritam",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/58/41/0d58412a-7816-f853-f4b4-54855fc7fa03/mzaf_9575172414821253889.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/5c/d0/d75cd0e6-93c6-9219-cfcd-9436c6b85ba7/886443444584.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tujhe Sochta Hoon",
+      "Tujhe Sochta Hoon"
+    ]
+  },
+  {
+    "title": "When I Was Your Man",
+    "movie": "Unorthodox Jukebox",
+    "singers": [
+      "Bruno Mars"
+    ],
+    "artists": [
+      "Bruno Mars"
+    ],
+    "composers": [
+      "Bruno Mars"
+    ],
+    "lyricist": "Bruno Mars",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/7a/86/327a86eb-ebc8-573b-0b8c-e768393714bf/mzaf_2690413210587989406.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/400x400bb.jpg",
+    "aliases": [
+      "When I Was Your Man",
+      "When I Was Your Man"
+    ]
+  },
+  {
+    "title": "Aa Bhi Ja Mere Mehermaan",
+    "movie": "Jayantabhai Ki Luv Story - EP",
+    "singers": [
+      "Atif Aslam & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam & Sachin-Jigar",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/c6/a0/78c6a09e-894b-5592-ae00-1d65d54d7094/mzaf_6548990920147017176.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/4e/bf/814ebf7b-9eb7-034c-1f67-581b933d2267/8901854024131.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aa Bhi Ja Mere Mehermaan",
+      "Aa Bhi Ja Mere Mehermaan"
+    ]
+  },
+  {
+    "title": "Tu Mohabbat Hai",
+    "movie": "Tere Naal Love Ho Gaya",
+    "singers": [
+      "Atif Aslam, Monali Thakur, Priya Saraiya & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam, Monali Thakur, Priya Saraiya & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam, Monali Thakur, Priya Saraiya & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam, Monali Thakur, Priya Saraiya & Sachin-Jigar",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/ff/9d/50ff9dc8-d495-875d-b4a5-08c94dd960e8/mzaf_14779639399678698217.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/b9/df/2ab9dfce-fafb-1237-cc7e-7e34fb9e7a9f/8901854017904.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Mohabbat Hai",
+      "Tu Mohabbat Hai"
+    ]
+  },
+  {
+    "title": "Rab Ka Shukrana",
+    "movie": "Jannat 2",
+    "singers": [
+      "Mohit Chauhan & Pritam"
+    ],
+    "artists": [
+      "Mohit Chauhan & Pritam"
+    ],
+    "composers": [
+      "Mohit Chauhan & Pritam"
+    ],
+    "lyricist": "Mohit Chauhan & Pritam",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/b4/69/0eb469e0-c109-6c2b-0179-03ba09291b33/mzaf_2102852886662634252.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/5c/d0/d75cd0e6-93c6-9219-cfcd-9436c6b85ba7/886443444584.jpg/400x400bb.jpg",
+    "aliases": [
+      "Rab Ka Shukrana",
+      "Rab Ka Shukrana"
+    ]
+  },
+  {
+    "title": "Raabta",
+    "movie": "Agent Vinod",
+    "singers": [
+      "Pritam & Arijit Singh"
+    ],
+    "artists": [
+      "Pritam & Arijit Singh"
+    ],
+    "composers": [
+      "Pritam & Arijit Singh"
+    ],
+    "lyricist": "Pritam & Arijit Singh",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/0d/d5/8c0dd542-884d-423e-e7d9-f32f4fdc4219/mzaf_8521687348942687843.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dc/a5/46/dca54628-5ca4-148c-d5c3-6219abc886e1/8902894698825_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Raabta",
+      "Raabta"
+    ]
+  },
+  {
+    "title": "Duaa",
+    "movie": "Shanghai",
+    "singers": [
+      "Nandini Srikar, Arijit Singh & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Nandini Srikar, Arijit Singh & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Nandini Srikar, Arijit Singh & Vishal & Shekhar"
+    ],
+    "lyricist": "Nandini Srikar, Arijit Singh & Vishal & Shekhar",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/7b/08/0a7b0801-90c0-76e1-81f8-b1df73605264/mzaf_5549261883975779705.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/04/06/300406d6-7233-9a43-fc80-eba3a1196c8e/8902894699211_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Duaa",
+      "Duaa"
+    ]
+  },
+  {
+    "title": "Vele",
+    "movie": "Student of the Year",
+    "singers": [
+      "Vishal & Shekhar, Shekhar Ravjiani & Vishal Dadlani"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Shekhar Ravjiani & Vishal Dadlani"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Shekhar Ravjiani & Vishal Dadlani"
+    ],
+    "lyricist": "Vishal & Shekhar, Shekhar Ravjiani & Vishal Dadlani",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/af/80/77af80a6-23c0-34a6-8f97-9a99b8b57a2c/mzaf_13944134613767859508.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/27/2f/fe272f90-3bf9-b6e3-ffba-7068e9958c9c/886443601017.jpg/400x400bb.jpg",
+    "aliases": [
+      "Vele",
+      "Vele"
+    ]
+  },
+  {
+    "title": "Navrai Maajhi",
+    "movie": "English Vinglish - EP",
+    "singers": [
+      "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire & Natalie Di Luccio"
+    ],
+    "artists": [
+      "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire & Natalie Di Luccio"
+    ],
+    "composers": [
+      "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire & Natalie Di Luccio"
+    ],
+    "lyricist": "Amit Trivedi, Sunidhi Chauhan, Swanand Kirkire, Neelambari Kirkire & Natalie Di Luccio",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/14/58/fd145825-28bc-1b97-2555-ce24af71d6a4/mzaf_8781952178431129035.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/17/12/c017125b-242a-e5b1-a12e-68142c74e7a7/196871086172.jpg/400x400bb.jpg",
+    "aliases": [
+      "Navrai Maajhi",
+      "Navrai Maajhi"
+    ]
+  },
+  {
+    "title": "Dreamum Wakeupum",
+    "movie": "Aiyyaa",
+    "singers": [
+      "Sowmya Raoh & Amit Trivedi"
+    ],
+    "artists": [
+      "Sowmya Raoh & Amit Trivedi"
+    ],
+    "composers": [
+      "Sowmya Raoh & Amit Trivedi"
+    ],
+    "lyricist": "Sowmya Raoh & Amit Trivedi",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/f7/23/8ef723ca-b129-af90-d3fd-ed108b9d0cb0/mzaf_8969802738467024784.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/86/f3/58/86f358d9-a82a-7a7e-9246-255cc44a61d1/8902894350983_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dreamum Wakeupum",
+      "Dreamum Wakeupum"
+    ]
+  },
+  {
+    "title": "KikliKalerdi",
+    "movie": "Luv Shuv Tey Chicken Khurana",
+    "singers": [
+      "Amit Trivedi, Pinky Maidasani & Yo Yo Honey Singh"
+    ],
+    "artists": [
+      "Amit Trivedi, Pinky Maidasani & Yo Yo Honey Singh"
+    ],
+    "composers": [
+      "Amit Trivedi, Pinky Maidasani & Yo Yo Honey Singh"
+    ],
+    "lyricist": "Amit Trivedi, Pinky Maidasani & Yo Yo Honey Singh",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/94/cf/fa94cf3f-1dd4-3519-0b77-6da374c3e00e/mzaf_5276851258943203203.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/2b/a3/ef2ba3a3-fc15-e6a8-162e-c12ea101756b/886443687400.jpg/400x400bb.jpg",
+    "aliases": [
+      "KikliKalerdi",
+      "KikliKalerdi"
+    ]
+  },
+  {
+    "title": "Hookah Bar",
+    "movie": "Khiladi 786",
+    "singers": [
+      "Himesh Reshammiya, Vineet Singh & Aaman Trikha"
+    ],
+    "artists": [
+      "Himesh Reshammiya, Vineet Singh & Aaman Trikha"
+    ],
+    "composers": [
+      "Himesh Reshammiya, Vineet Singh & Aaman Trikha"
+    ],
+    "lyricist": "Himesh Reshammiya, Vineet Singh & Aaman Trikha",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ee/a2/09/eea209cc-08f7-a835-faed-c6b9defc7adf/mzaf_15089614314366252162.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/eb/3c/67/eb3c6723-4210-3c5e-5f47-6fc2de47892a/8902894351485_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hookah Bar",
+      "Hookah Bar"
+    ]
+  },
+  {
+    "title": "Ishq Shava",
+    "movie": "Jab Tak Hai Jaan",
+    "singers": [
+      "Raghav Mathur & Shilpa Rao"
+    ],
+    "artists": [
+      "Raghav Mathur & Shilpa Rao"
+    ],
+    "composers": [
+      "Raghav Mathur & Shilpa Rao"
+    ],
+    "lyricist": "Raghav Mathur & Shilpa Rao",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/89/83/a28983a8-8a9f-485d-fff6-a437b27002fb/mzaf_16559312854590915591.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/52/4d/2f524d1f-8ca3-5fa3-26c0-1ba1ac5b06fa/849486008274_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Shava",
+      "Ishq Shava"
+    ]
+  },
+  {
+    "title": "Skyfall",
+    "movie": "Skyfall - Single",
+    "singers": [
+      "Adele"
+    ],
+    "artists": [
+      "Adele"
+    ],
+    "composers": [
+      "Adele"
+    ],
+    "lyricist": "Adele",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/48/0e/6c480edc-89f5-a9cf-b309-63c5237efe92/mzaf_3142604484249449871.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/400x400bb.jpg",
+    "aliases": [
+      "Skyfall",
+      "Skyfall"
     ]
   },
   {
@@ -24161,7 +38615,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/d2/d5/c4d2d580-074d-b9f3-1f19-4d63f7eda301/mzaf_10243399677134905294.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/23/a2/ec23a27b-c220-60f9-819a-ddf1f5cec07f/mzi.vribnyar.jpg/400x400bb.jpg",
     "aliases": [
@@ -24189,7 +38643,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/04/58/33045842-cdbd-7ebc-7fcd-a4935e669a55/mzaf_9958400367304057406.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/0b/5a/f30b5a14-7bc9-e81a-fb7a-8a2783d15be5/884977880991.jpg/400x400bb.jpg",
     "aliases": [
@@ -24217,7 +38671,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9b/45/4c/9b454c59-5d00-2e80-490b-f7a863420f7f/mzaf_5137181253784843264.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/d6/a3/95/d6a39575-24ab-54fc-7aba-73217f889ac4/888002141491.jpg/400x400bb.jpg",
     "aliases": [
@@ -24245,7 +38699,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e0/76/dc/e076dcc0-1971-437c-4f14-d1804fd03470/mzaf_2359131541841490932.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/41/bb/85/41bb85be-f5b4-cc5e-be2f-4943a6dda4ee/00050087247157.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24273,7 +38727,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/5f/1c/ca5f1c76-5b25-ac96-5e85-38ec756efa71/mzaf_7889556519055486468.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/64/30/b56430c1-aafb-4af5-0f29-f278c02d2093/093624826903.jpg/400x400bb.jpg",
     "aliases": [
@@ -24301,7 +38755,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/82/c5/9e82c5af-4a3c-db30-01cf-e1ce06486a35/mzaf_7810280987745310751.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/3f/4c/b03f4cca-8a6a-f506-4490-3263b4fb620c/8902894696296_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -24329,7 +38783,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/b6/47/9cb647c8-7a88-e45a-3d96-26d60432fd9e/mzaf_18327520659217913330.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/07/86/83/07868369-2b62-343b-9993-4311f9d59dfa/886443435902.jpg/400x400bb.jpg",
     "aliases": [
@@ -24357,7 +38811,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/42/4e/a3424ef4-fde1-ceaf-b387-fd3d8749f2fd/mzaf_4804773218858699234.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c0/e0/b4/c0e0b438-b24b-d14c-90ec-9ac9ff8bb77b/887396366008.tif/400x400bb.jpg",
     "aliases": [
@@ -24385,7 +38839,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/3f/00/293f00b6-0aef-d680-1ab9-425683817919/mzaf_15236656003572706167.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9e/40/6c/9e406c96-5c04-396c-1d92-cbdb09967e83/886443011052.jpg/400x400bb.jpg",
     "aliases": [
@@ -24413,7 +38867,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/72/5e/ce725e63-6977-b281-3766-fff46d6e0c07/mzaf_7464998292185183397.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -24441,7 +38895,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/e8/9a/1de89aed-47a3-cd41-d9ad-fbd1f9c6c154/mzaf_388238856976260175.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -24469,7 +38923,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/63/85/4a6385ef-b80a-5e40-0bf2-245fa5b3dc52/mzaf_1146936378720252898.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/8a/98/b38a9867-2a9c-de2f-2d80-c624fb2200ec/11UMGIM19347.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24497,7 +38951,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/ce/de/63cede62-324d-74cb-8389-411ddb043c78/mzaf_15665454585245884515.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/400x400bb.jpg",
     "aliases": [
@@ -24525,7 +38979,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d9/31/9a/d9319a9f-cca5-e48c-4823-545fb6f1ea40/mzaf_14496394946122474943.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/c2/33/7ac23345-dba2-c541-f995-5e45fd6ac988/17UM1IM42577.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24553,7 +39007,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/bd/79/9bbd7999-806a-6b9b-ed00-960bda00d9b3/mzaf_12450013582398290286.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/3f/4c/b03f4cca-8a6a-f506-4490-3263b4fb620c/8902894696296_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -24581,12 +39035,796 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f7/37/df/f737df23-e8e5-f1de-f974-d05d6cc0f0c7/mzaf_5326951730694102496.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/c2/33/7ac23345-dba2-c541-f995-5e45fd6ac988/17UM1IM42577.rgb.jpg/400x400bb.jpg",
     "aliases": [
       "Remember Me (Reunion)",
       "Remember Me (Reunion)"
+    ]
+  },
+  {
+    "title": "Teri Meri",
+    "movie": "Bodyguard",
+    "singers": [
+      "Rahat Fateh Ali Khan & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Rahat Fateh Ali Khan & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Rahat Fateh Ali Khan & Shreya Ghoshal"
+    ],
+    "lyricist": "Rahat Fateh Ali Khan & Shreya Ghoshal",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/e5/61/7ce56139-27f0-adc2-910c-585947bc7978/mzaf_5981256548607018969.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/33/0a/b5/330ab537-2408-e167-867c-7c4d15430fd6/8902894696722_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Teri Meri",
+      "Teri Meri"
+    ]
+  },
+  {
+    "title": "Chikni Chameli",
+    "movie": "Agneepath",
+    "singers": [
+      "Shreya Ghoshal & Ajay-Atul"
+    ],
+    "artists": [
+      "Shreya Ghoshal & Ajay-Atul"
+    ],
+    "composers": [
+      "Shreya Ghoshal & Ajay-Atul"
+    ],
+    "lyricist": "Shreya Ghoshal & Ajay-Atul",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/9e/d7/a39ed7ef-c701-852b-c3fe-1a272c2f628a/mzaf_6941640775895803860.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/25/8a/ec258a58-4047-3a3e-9da4-9dcad1157c79/886443303317.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chikni Chameli",
+      "Chikni Chameli"
+    ]
+  },
+  {
+    "title": "Make Some Noise For the Desi Boyz",
+    "movie": "Desi Boyz",
+    "singers": [
+      "Pritam, KK & Bob"
+    ],
+    "artists": [
+      "Pritam, KK & Bob"
+    ],
+    "composers": [
+      "Pritam, KK & Bob"
+    ],
+    "lyricist": "Pritam, KK & Bob",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/79/43/827943ee-59e8-b535-52dd-c2b68ae62163/mzaf_5249414782359432432.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/44/05/d04405c9-20f8-f11a-fa14-8867e988a409/8902894697743_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Make Some Noise For the Desi Boyz",
+      "Make Some Noise For the Desi Boyz"
+    ]
+  },
+  {
+    "title": "Hona Tha Pyar",
+    "movie": "Bol",
+    "singers": [
+      "Atif Aslam & Hadiqa Kiani"
+    ],
+    "artists": [
+      "Atif Aslam & Hadiqa Kiani"
+    ],
+    "composers": [
+      "Atif Aslam & Hadiqa Kiani"
+    ],
+    "lyricist": "Atif Aslam & Hadiqa Kiani",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/b3/b0/e2b3b0b0-abab-8f10-9a8d-1f2440c09880/mzaf_11191039235051607460.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/8e/1c/d68e1c6e-439d-ace4-5d4f-2016707c3143/8901854004126.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hona Tha Pyar",
+      "Hona Tha Pyar"
+    ]
+  },
+  {
+    "title": "Le Jaa Tu Mujhe",
+    "movie": "F.A.L.T.U",
+    "singers": [
+      "Atif Aslam & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam & Sachin-Jigar",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/1a/d2/fa1ad22a-c037-2382-194b-bf2cad58b4a7/mzaf_5719708317228628405.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/ab/e6/c4abe6df-3cc3-f93f-97f8-ae2fdadc517e/886443087507.jpg/400x400bb.jpg",
+    "aliases": [
+      "Le Jaa Tu Mujhe",
+      "Le Jaa Tu Mujhe"
+    ]
+  },
+  {
+    "title": "Phir Se Ud Chala",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/18/40/62184006-a552-20c9-c649-0e4ddf89ef20/mzaf_15859590105678244902.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Phir Se Ud Chala",
+      "Phir Se Ud Chala"
+    ]
+  },
+  {
+    "title": "Khaabon Ke Parinday",
+    "movie": "Zindagi Na Milegi Dobara",
+    "singers": [
+      "Alyssa Mendonsa & Mohit Chauhan"
+    ],
+    "artists": [
+      "Alyssa Mendonsa & Mohit Chauhan"
+    ],
+    "composers": [
+      "Alyssa Mendonsa & Mohit Chauhan"
+    ],
+    "lyricist": "Alyssa Mendonsa & Mohit Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/04/41/a604411e-ee76-44a2-2573-4a88e2766920/mzaf_5818575573709889759.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/3f/4c/b03f4cca-8a6a-f506-4490-3263b4fb620c/8902894696296_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Khaabon Ke Parinday",
+      "Khaabon Ke Parinday"
+    ]
+  },
+  {
+    "title": "Saadda Haq",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/0f/d2/480fd20b-748e-32c4-6a56-65a9e9bfc55b/mzaf_15349903457343378098.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saadda Haq",
+      "Saadda Haq"
+    ]
+  },
+  {
+    "title": "Tum Ho",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan & Suzanne D'Mello"
+    ],
+    "artists": [
+      "Mohit Chauhan & Suzanne D'Mello"
+    ],
+    "composers": [
+      "Mohit Chauhan & Suzanne D'Mello"
+    ],
+    "lyricist": "Mohit Chauhan & Suzanne D'Mello",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/35/07/363507ef-1f7f-a0c9-7262-8e48dfaa8a8a/mzaf_7353474988137651869.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tum Ho",
+      "Tum Ho"
+    ]
+  },
+  {
+    "title": "Jo Bhi Main",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ed/cb/98/edcb9815-bb8d-105f-5f1d-85780176a642/mzaf_16512545729352654139.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jo Bhi Main",
+      "Jo Bhi Main"
+    ]
+  },
+  {
+    "title": "Haawa Haawa",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/83/47/ac8347d5-d865-246c-0b1b-7f9d2aa4ad73/mzaf_6299538756254266908.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Haawa Haawa",
+      "Haawa Haawa"
+    ]
+  },
+  {
+    "title": "Aur Ho",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan & Alma Ferovic"
+    ],
+    "artists": [
+      "Mohit Chauhan & Alma Ferovic"
+    ],
+    "composers": [
+      "Mohit Chauhan & Alma Ferovic"
+    ],
+    "lyricist": "Mohit Chauhan & Alma Ferovic",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/69/bb/1a/69bb1a08-06f8-724f-bc60-07e69b2440d2/mzaf_18282672799974239166.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aur Ho",
+      "Aur Ho"
+    ]
+  },
+  {
+    "title": "Sheher Mein",
+    "movie": "Rockstar",
+    "singers": [
+      "Mohit Chauhan & Karthik"
+    ],
+    "artists": [
+      "Mohit Chauhan & Karthik"
+    ],
+    "composers": [
+      "Mohit Chauhan & Karthik"
+    ],
+    "lyricist": "Mohit Chauhan & Karthik",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/18/3b/0e183bc6-904c-7274-12ad-07404bcc9faf/mzaf_1650167069069755274.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/ac/41/56ac41f7-99f3-3eae-3b07-443167292c4e/8902894697408_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sheher Mein",
+      "Sheher Mein"
+    ]
+  },
+  {
+    "title": "Achha Lagta Hai",
+    "movie": "Aarakshan",
+    "singers": [
+      "Mohit Chauhan, Shreya Ghoshal, Neuman Pinto & Shankar Ehsaan Loy"
+    ],
+    "artists": [
+      "Mohit Chauhan, Shreya Ghoshal, Neuman Pinto & Shankar Ehsaan Loy"
+    ],
+    "composers": [
+      "Mohit Chauhan, Shreya Ghoshal, Neuman Pinto & Shankar Ehsaan Loy"
+    ],
+    "lyricist": "Mohit Chauhan, Shreya Ghoshal, Neuman Pinto & Shankar Ehsaan Loy",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/bb/b3/1abbb371-6315-313f-30cb-17c803facd90/mzaf_4011290381811569315.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f5/ed/20/f5ed208f-0f5b-843f-a85a-c4695c5268bb/886443100893.jpg/400x400bb.jpg",
+    "aliases": [
+      "Achha Lagta Hai",
+      "Achha Lagta Hai"
+    ]
+  },
+  {
+    "title": "Yun Hi",
+    "movie": "Tanu Weds Manu",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/bc/91/94bc9185-a36c-8450-02b0-a4f16b1448b1/mzaf_9847713156410120419.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/5f/48/1a5f4834-59b0-c7c8-d8fd-995b1c5e5e60/8902894694032_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Yun Hi",
+      "Yun Hi"
+    ]
+  },
+  {
+    "title": "Dil Ye Bekarar Kyun Hai",
+    "movie": "Players",
+    "singers": [
+      "Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Mohit Chauhan & Shreya Ghoshal"
+    ],
+    "lyricist": "Mohit Chauhan & Shreya Ghoshal",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/3c/fc/823cfc94-8c3a-d5c0-29c0-e5ab353261bf/mzaf_17101438336134612407.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/bb/97/60bb9794-5003-5f31-929c-e4ac707fe941/8902894698122_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Ye Bekarar Kyun Hai",
+      "Dil Ye Bekarar Kyun Hai"
+    ]
+  },
+  {
+    "title": "Abhi Mujh Mein Kahin",
+    "movie": "Agneepath",
+    "singers": [
+      "Sonu Nigam & Ajay-Atul"
+    ],
+    "artists": [
+      "Sonu Nigam & Ajay-Atul"
+    ],
+    "composers": [
+      "Sonu Nigam & Ajay-Atul"
+    ],
+    "lyricist": "Sonu Nigam & Ajay-Atul",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/d8/d1/c7d8d1a5-6c24-0175-cfef-e5b5b836b70c/mzaf_12991514154981661781.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/25/8a/ec258a58-4047-3a3e-9da4-9dcad1157c79/886443303317.jpg/400x400bb.jpg",
+    "aliases": [
+      "Abhi Mujh Mein Kahin",
+      "Abhi Mujh Mein Kahin"
+    ]
+  },
+  {
+    "title": "Allah Maaf Kare",
+    "movie": "Desi Boyz",
+    "singers": [
+      "Pritam, Sonu Nigam & Shilpa Rao"
+    ],
+    "artists": [
+      "Pritam, Sonu Nigam & Shilpa Rao"
+    ],
+    "composers": [
+      "Pritam, Sonu Nigam & Shilpa Rao"
+    ],
+    "lyricist": "Pritam, Sonu Nigam & Shilpa Rao",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/52/63/5f526368-eb90-a9eb-8642-cbf1f1465248/mzaf_1057531023452169496.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/44/05/d04405c9-20f8-f11a-fa14-8867e988a409/8902894697743_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Allah Maaf Kare",
+      "Allah Maaf Kare"
+    ]
+  },
+  {
+    "title": "Subha Hone Na De",
+    "movie": "Desi Boyz",
+    "singers": [
+      "Pritam, Mika Singh & Shefali Alvares"
+    ],
+    "artists": [
+      "Pritam, Mika Singh & Shefali Alvares"
+    ],
+    "composers": [
+      "Pritam, Mika Singh & Shefali Alvares"
+    ],
+    "lyricist": "Pritam, Mika Singh & Shefali Alvares",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f7/04/b0/f704b00f-31b5-b310-2c24-0359d3049aa6/mzaf_72235167749780642.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/44/05/d04405c9-20f8-f11a-fa14-8867e988a409/8902894697743_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Subha Hone Na De",
+      "Subha Hone Na De"
+    ]
+  },
+  {
+    "title": "Ishq Sufiyana",
+    "movie": "The Dirty Picture",
+    "singers": [
+      "Kamal Khan & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Kamal Khan & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Kamal Khan & Vishal & Shekhar"
+    ],
+    "lyricist": "Kamal Khan & Vishal & Shekhar",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/d7/53/19d7530b-d68a-1572-34fa-56c29d2738dd/mzaf_15542661164164397714.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/fd/c3/bd/fdc3bd51-1d54-eb0d-0005-5feaa63f7d3d/8902894697859_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Sufiyana",
+      "Ishq Sufiyana"
+    ]
+  },
+  {
+    "title": "Ek Main Aur Ekk Tu",
+    "movie": "Ek Main Aur Ekk Tu",
+    "singers": [
+      "Benny Dayal, Anushka Manchanda & Amit Trivedi"
+    ],
+    "artists": [
+      "Benny Dayal, Anushka Manchanda & Amit Trivedi"
+    ],
+    "composers": [
+      "Benny Dayal, Anushka Manchanda & Amit Trivedi"
+    ],
+    "lyricist": "Benny Dayal, Anushka Manchanda & Amit Trivedi",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c8/af/ea/c8afeac2-f073-2e62-a0c1-f35998b34e88/mzaf_14968542491017300808.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e7/05/fe/e705fee9-8b16-9dce-7788-5ed19082b767/8902894698320_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ek Main Aur Ekk Tu",
+      "Ek Main Aur Ekk Tu"
+    ]
+  },
+  {
+    "title": "Aunty Ji",
+    "movie": "Ek Main Aur Ekk Tu",
+    "singers": [
+      "Ash King, Neuman Pinto, Bianca Gomes & Amit Trivedi"
+    ],
+    "artists": [
+      "Ash King, Neuman Pinto, Bianca Gomes & Amit Trivedi"
+    ],
+    "composers": [
+      "Ash King, Neuman Pinto, Bianca Gomes & Amit Trivedi"
+    ],
+    "lyricist": "Ash King, Neuman Pinto, Bianca Gomes & Amit Trivedi",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b2/ce/e3/b2cee3a0-d194-c662-da53-2f458d6397c9/mzaf_11957522638890678709.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e7/05/fe/e705fee9-8b16-9dce-7788-5ed19082b767/8902894698320_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aunty Ji",
+      "Aunty Ji"
+    ]
+  },
+  {
+    "title": "Aye Khuda",
+    "movie": "Murder 2",
+    "singers": [
+      "Kshitij Tarey, Saim Bhat & Mithoon"
+    ],
+    "artists": [
+      "Kshitij Tarey, Saim Bhat & Mithoon"
+    ],
+    "composers": [
+      "Kshitij Tarey, Saim Bhat & Mithoon"
+    ],
+    "lyricist": "Kshitij Tarey, Saim Bhat & Mithoon",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/6b/94/316b941d-18de-4dd2-f0a4-fcff78649227/mzaf_10298749725782807766.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/cc/4b/bbcc4bd9-b705-8cff-d637-6379ac87b9a6/8902894695916_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aye Khuda",
+      "Aye Khuda"
+    ]
+  },
+  {
+    "title": "The Edge of Glory",
+    "movie": "Born This Way (Special Edition)",
+    "singers": [
+      "Lady Gaga"
+    ],
+    "artists": [
+      "Lady Gaga"
+    ],
+    "composers": [
+      "Lady Gaga"
+    ],
+    "lyricist": "Lady Gaga",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/53/9b/72539bcd-cd48-ef0b-431a-51474268f3f5/mzaf_5808317234516900035.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "The Edge of Glory",
+      "The Edge of Glory"
+    ]
+  },
+  {
+    "title": "Te Amo (Duet)",
+    "movie": "Dum Maaro Dum",
+    "singers": [
+      "Pritam, Ash King & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Pritam, Ash King & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Pritam, Ash King & Sunidhi Chauhan"
+    ],
+    "lyricist": "Pritam, Ash King & Sunidhi Chauhan",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/3e/e4/923ee408-f625-8092-9cc0-7e1b4cadfa9d/mzaf_6551253718572258727.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/9c/18/919c1814-d24a-1dcf-edda-d9ffdcd83e7c/8902894694599_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Te Amo (Duet)",
+      "Te Amo (Duet)"
+    ]
+  },
+  {
+    "title": "Gubbare",
+    "movie": "Ek Main Aur Ekk Tu",
+    "singers": [
+      "Amit Trivedi, Shilpa Rao, Nikhil D'Souza & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Amit Trivedi, Shilpa Rao, Nikhil D'Souza & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Amit Trivedi, Shilpa Rao, Nikhil D'Souza & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Amit Trivedi, Shilpa Rao, Nikhil D'Souza & Amitabh Bhattacharya",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/bf/ba/cfbfbab8-028f-1022-77b4-4374c9f53acc/mzaf_15511399478655720836.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e7/05/fe/e705fee9-8b16-9dce-7788-5ed19082b767/8902894698320_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gubbare",
+      "Gubbare"
+    ]
+  },
+  {
+    "title": "Jazba",
+    "movie": "Ladies vs Ricky Bahl",
+    "singers": [
+      "Shilpa Rao"
+    ],
+    "artists": [
+      "Shilpa Rao"
+    ],
+    "composers": [
+      "Shilpa Rao"
+    ],
+    "lyricist": "Shilpa Rao",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/fd/3d/d0fd3d91-b630-7e5f-1150-d0ffaca49552/mzaf_14024258659470343483.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/23/df/6723df06-0d59-c866-89b1-7bbad040d376/849486022089_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jazba",
+      "Jazba"
+    ]
+  },
+  {
+    "title": "Chammak Challo",
+    "movie": "Ra-One",
+    "singers": [
+      "Akon & Hamsika Iyer"
+    ],
+    "artists": [
+      "Akon & Hamsika Iyer"
+    ],
+    "composers": [
+      "Akon & Hamsika Iyer"
+    ],
+    "lyricist": "Akon & Hamsika Iyer",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/b3/a1/80b3a1f4-ef63-5cb3-a7be-d99569ebaff5/mzaf_4012032261111955588.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/f0/42/0cf042ce-94bf-0e40-1691-2aef999a5dbc/8902894697309_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chammak Challo",
+      "Chammak Challo"
     ]
   },
   {
@@ -24609,7 +39847,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/8e/1d/118e1d8c-0219-6d87-3d12-fe5cda932c6f/mzaf_489811067806918436.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/d2/a7/92d2a780-3aa9-8b58-b753-62e4175dd2ec/884977451856.jpg/400x400bb.jpg",
     "aliases": [
@@ -24637,7 +39875,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/ab/28/63ab28ab-41f9-50c4-db31-2cad9b2e54a0/mzaf_11660729677411019253.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0b/3e/28/0b3e2872-acd3-df9d-3987-9316ba133915/00602527610825.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24665,7 +39903,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/95/e4/3995e4c4-1f73-5266-8ac7-2f65f32f0ea4/mzaf_13213175163588790042.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1a/8f/d6/1a8fd6fb-9430-07b5-872f-fa29747bfd18/00050087163228.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24693,7 +39931,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/0b/96/9a0b96eb-1bfc-c992-e7d2-44ae5e46ad6f/mzaf_3887941683077919120.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/d8/c8/eed8c8a1-b596-465b-281d-c436daaebf90/8902894690041_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -24721,7 +39959,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/db/90/0fdb90ac-55cd-9f6b-5e45-32fb868d7cdd/mzaf_4938171246802966027.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/400x400bb.jpg",
     "aliases": [
@@ -24749,7 +39987,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/a4/50/bea45010-4616-54fe-06a9-f05974295adf/mzaf_14887498129012842732.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/05/02/500502db-7560-d457-9269-085d1ad4b9e1/10UMGIM29127.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24777,7 +40015,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/ee/06/19ee06be-a55b-39f2-c367-ffb0b577bc42/mzaf_864096193827270374.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/9d/22/be9d22c2-99b2-9e26-11dd-d1a043779b8d/10UMGIM27798.rgb.jpg/400x400bb.jpg",
     "aliases": [
@@ -24805,7 +40043,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/89/bd/6b/89bd6b8b-8c8c-7414-32a0-9aa009472f85/mzaf_13090980529940963645.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/91/88/8b918873-638a-ae83-705d-76dead26576b/887158714818_cover.jpg/400x400bb.jpg",
     "aliases": [
@@ -24833,7 +40071,7 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/b4/a1/dbb4a1a6-d51b-2816-a2cc-7015f92fd2c4/mzaf_747489561941178244.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/92/1d/88921d57-d5b1-25f7-8897-3dbb3858e1d4/8901854003938.jpg/400x400bb.jpg",
     "aliases": [
@@ -24861,12 +40099,740 @@ module.exports = [
       "Party",
       "Romantic"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/72/a6/8972a62c-0b49-cd20-0f97-4feb2a6241fb/mzaf_2390407734219077173.plus.aac.p.m4a",
     "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/fa/65/8cfa6553-c2f6-0fd2-51a6-b2572eb1990b/10DMGIM01899.rgb.jpg/400x400bb.jpg",
     "aliases": [
       "I See the Light",
       "I See the Light"
+    ]
+  },
+  {
+    "title": "Jeene Laga Hoon",
+    "movie": "Ramaiya Vastavaiya",
+    "singers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "artists": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "composers": [
+      "Atif Aslam, Shreya Ghoshal & Sachin-Jigar"
+    ],
+    "lyricist": "Atif Aslam, Shreya Ghoshal & Sachin-Jigar",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/42/27/6c42274a-832c-9c1b-b955-5328aa0e91b6/mzaf_14885254077776408990.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/f4/ac/0cf4acd9-9510-3c12-b453-50021a4985ec/8901854027637.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jeene Laga Hoon",
+      "Jeene Laga Hoon"
+    ]
+  },
+  {
+    "title": "Bahara",
+    "movie": "I Hate Luv Storys",
+    "singers": [
+      "Shreya Ghoshal, Vishal & Shekhar & Sona Mohapatra"
+    ],
+    "artists": [
+      "Shreya Ghoshal, Vishal & Shekhar & Sona Mohapatra"
+    ],
+    "composers": [
+      "Shreya Ghoshal, Vishal & Shekhar & Sona Mohapatra"
+    ],
+    "lyricist": "Shreya Ghoshal, Vishal & Shekhar & Sona Mohapatra",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/79/e6/9179e6e2-57d7-1d48-499f-87ed4f7b17b0/mzaf_1038007058879769956.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/92/20/a7922048-2338-074c-17f4-5318e9097577/884977629200.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bahara",
+      "Bahara"
+    ]
+  },
+  {
+    "title": "Sajde",
+    "movie": "Khatta Meetha",
+    "singers": [
+      "Pritam, KK & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Pritam, KK & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Pritam, KK & Sunidhi Chauhan"
+    ],
+    "lyricist": "Pritam, KK & Sunidhi Chauhan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8f/5d/22/8f5d225d-8756-a067-9c58-91430d1adf4f/mzaf_544507948479732571.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/ed/9a/c1ed9ab3-5c73-5153-67a7-baca56057417/8902894688413_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sajde",
+      "Sajde"
+    ]
+  },
+  {
+    "title": "Dil Kyun Yeh Mera",
+    "movie": "Kites",
+    "singers": [
+      "KK"
+    ],
+    "artists": [
+      "KK"
+    ],
+    "composers": [
+      "KK"
+    ],
+    "lyricist": "KK",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/0d/c2/120dc25a-1705-8f7a-1411-63f3c5018e9e/mzaf_7954506366470194317.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e5/a6/d6/e5a6d673-914b-96e0-de92-dd00328ab2bd/8902894686938_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Kyun Yeh Mera",
+      "Dil Kyun Yeh Mera"
+    ]
+  },
+  {
+    "title": "Aa Bhi Jaa Sanam",
+    "movie": "Prince",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/68/0f/df680f76-1550-8a97-0294-33355e194fca/mzaf_16138497171447207910.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/92/1d/88921d57-d5b1-25f7-8897-3dbb3858e1d4/8901854003938.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aa Bhi Jaa Sanam",
+      "Aa Bhi Jaa Sanam"
+    ]
+  },
+  {
+    "title": "O Mere Khuda",
+    "movie": "Prince",
+    "singers": [
+      "Atif Aslam & Garima Jhingon"
+    ],
+    "artists": [
+      "Atif Aslam & Garima Jhingon"
+    ],
+    "composers": [
+      "Atif Aslam & Garima Jhingon"
+    ],
+    "lyricist": "Atif Aslam & Garima Jhingon",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/58/9d/14589dd5-1771-c68b-d466-1a953eae2f18/mzaf_14249793714638128714.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/92/1d/88921d57-d5b1-25f7-8897-3dbb3858e1d4/8901854003938.jpg/400x400bb.jpg",
+    "aliases": [
+      "O Mere Khuda",
+      "O Mere Khuda"
+    ]
+  },
+  {
+    "title": "Kaun Hoon Main",
+    "movie": "Prince",
+    "singers": [
+      "Atif Aslam"
+    ],
+    "artists": [
+      "Atif Aslam"
+    ],
+    "composers": [
+      "Atif Aslam"
+    ],
+    "lyricist": "Atif Aslam",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/48/5c/9e485cd5-4528-a6a0-3c4b-6f7814e3c6c4/mzaf_761321104222306221.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/92/1d/88921d57-d5b1-25f7-8897-3dbb3858e1d4/8901854003938.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaun Hoon Main",
+      "Kaun Hoon Main"
+    ]
+  },
+  {
+    "title": "Pee Loon",
+    "movie": "Once Upon a Time In Mumbaai",
+    "singers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "artists": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "composers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "lyricist": "Pritam & Mohit Chauhan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/01/44/a7014423-fbed-c623-aa04-41bc84215593/mzaf_11299150908396348912.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/d9/23/f3d92398-118c-10c9-2ef8-5f28cff344c2/8902894688512_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pee Loon",
+      "Pee Loon"
+    ]
+  },
+  {
+    "title": "Tujhe Bhula Diya",
+    "movie": "Anjaana Anjaani",
+    "singers": [
+      "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar"
+    ],
+    "lyricist": "Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak & Vishal & Shekhar",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/e4/8c/e2e48c66-5145-8bc2-15d5-ed54eac021e5/mzaf_6476384826244653728.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/8b/d8/a1/8bd8a190-8b8c-35f8-8573-614428dd6e42/8902894689113_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tujhe Bhula Diya",
+      "Tujhe Bhula Diya"
+    ]
+  },
+  {
+    "title": "Bheegi Si Bhaagi Si",
+    "movie": "Raajneeti",
+    "singers": [
+      "Pritam, Mohit Chauhan & Antara Mitra"
+    ],
+    "artists": [
+      "Pritam, Mohit Chauhan & Antara Mitra"
+    ],
+    "composers": [
+      "Pritam, Mohit Chauhan & Antara Mitra"
+    ],
+    "lyricist": "Pritam, Mohit Chauhan & Antara Mitra",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/a5/28/bfa52889-2c76-2a19-bd2c-2509501b2613/mzaf_11094967831530697.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/eb/e1/da/ebe1da1c-a07a-43b6-d64d-3c1bedde43e8/884977611403.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bheegi Si Bhaagi Si",
+      "Bheegi Si Bhaagi Si"
+    ]
+  },
+  {
+    "title": "Abhi Kuch Dino Se",
+    "movie": "Dil Toh Baccha Hai Ji",
+    "singers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "artists": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "composers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "lyricist": "Pritam & Mohit Chauhan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/aa/b5/43aab5ab-34b0-22c1-45a3-0a23ae09f586/mzaf_17418050589695183881.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/29/a8/4d/29a84d42-f74b-d652-9459-f217a5c584e1/8902894690553_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Abhi Kuch Dino Se",
+      "Abhi Kuch Dino Se"
+    ]
+  },
+  {
+    "title": "Tujhko Jo Paaya",
+    "movie": "Crook",
+    "singers": [
+      "Mohit Chauhan & Pritam"
+    ],
+    "artists": [
+      "Mohit Chauhan & Pritam"
+    ],
+    "composers": [
+      "Mohit Chauhan & Pritam"
+    ],
+    "lyricist": "Mohit Chauhan & Pritam",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/83/48/a7834853-acd5-cd0c-ea9f-cabc6b9cbec6/mzaf_2556134586638453063.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/d5/db/8dd5db1c-e1d2-5b0d-f644-af70b673a1ad/884977744330.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tujhko Jo Paaya",
+      "Tujhko Jo Paaya"
+    ]
+  },
+  {
+    "title": "Chori Kiya Re Jiya",
+    "movie": "Dabangg",
+    "singers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "lyricist": "Sonu Nigam & Shreya Ghoshal",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/63/71/046371d1-6b6e-961e-cf5f-e62a3acb9009/mzaf_6231526023890386666.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/1f/56/d71f5669-03dc-e787-7999-6be9112c8601/8902894688765_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chori Kiya Re Jiya",
+      "Chori Kiya Re Jiya"
+    ]
+  },
+  {
+    "title": "Bin Tere",
+    "movie": "I Hate Luv Storys",
+    "singers": [
+      "Shafqat Amanat Ali, Vishal & Shekhar & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Shafqat Amanat Ali, Vishal & Shekhar & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Shafqat Amanat Ali, Vishal & Shekhar & Sunidhi Chauhan"
+    ],
+    "lyricist": "Shafqat Amanat Ali, Vishal & Shekhar & Sunidhi Chauhan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/47/21/e34721b2-10c1-a36f-b904-ddd9b63db1ea/mzaf_17410533736535216988.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/92/20/a7922048-2338-074c-17f4-5318e9097577/884977629200.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bin Tere",
+      "Bin Tere"
+    ]
+  },
+  {
+    "title": "I Hate Luv Storys",
+    "movie": "I Hate Luv Storys",
+    "singers": [
+      "Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "artists": [
+      "Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "composers": [
+      "Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "lyricist": "Vishal & Shekhar & Vishal Dadlani",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/a1/ee/31a1ee8e-31b2-15b0-855f-51ef9a712688/mzaf_7987571014058752876.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/92/20/a7922048-2338-074c-17f4-5318e9097577/884977629200.jpg/400x400bb.jpg",
+    "aliases": [
+      "I Hate Luv Storys",
+      "I Hate Luv Storys"
+    ]
+  },
+  {
+    "title": "Aas Paas Khuda",
+    "movie": "Anjaana Anjaani",
+    "singers": [
+      "Rahat Fateh Ali Khan & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Rahat Fateh Ali Khan & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Rahat Fateh Ali Khan & Vishal & Shekhar"
+    ],
+    "lyricist": "Rahat Fateh Ali Khan & Vishal & Shekhar",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fd/9f/a6/fd9fa6d0-5973-3562-3dd4-2a86af64b87a/mzaf_4085411997634171970.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/8b/d8/a1/8bd8a190-8b8c-35f8-8573-614428dd6e42/8902894689113_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aas Paas Khuda",
+      "Aas Paas Khuda"
+    ]
+  },
+  {
+    "title": "Adhoore",
+    "movie": "Break Ke Baad",
+    "singers": [
+      "Vishal Dadlani, Alyssa Mendonsa & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Vishal Dadlani, Alyssa Mendonsa & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Vishal Dadlani, Alyssa Mendonsa & Vishal & Shekhar"
+    ],
+    "lyricist": "Vishal Dadlani, Alyssa Mendonsa & Vishal & Shekhar",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/5c/a6/075ca682-9679-736a-b311-4918e45d5122/mzaf_6546968418535329877.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/73/ee/0b/73ee0b88-6216-d896-0676-105d01d91e67/8902894689731_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Adhoore",
+      "Adhoore"
+    ]
+  },
+  {
+    "title": "Gal Mitthi Mitthi",
+    "movie": "Aisha",
+    "singers": [
+      "Amit Trivedi & Tochi Raina"
+    ],
+    "artists": [
+      "Amit Trivedi & Tochi Raina"
+    ],
+    "composers": [
+      "Amit Trivedi & Tochi Raina"
+    ],
+    "lyricist": "Amit Trivedi & Tochi Raina",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/69/40/c5694028-e7dd-f282-8650-b9490a882385/mzaf_15530524377610201066.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/7c/a1/787ca1e2-4736-96de-b77c-21cfd6b05864/884977646542.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gal Mitthi Mitthi",
+      "Gal Mitthi Mitthi"
+    ]
+  },
+  {
+    "title": "Sham",
+    "movie": "Aisha",
+    "singers": [
+      "Amit Trivedi, Nikhil D'Souza & Neuman Pinto"
+    ],
+    "artists": [
+      "Amit Trivedi, Nikhil D'Souza & Neuman Pinto"
+    ],
+    "composers": [
+      "Amit Trivedi, Nikhil D'Souza & Neuman Pinto"
+    ],
+    "lyricist": "Amit Trivedi, Nikhil D'Souza & Neuman Pinto",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/24/78/dd2478f7-fa6f-cc58-43aa-24d973e07612/mzaf_14081810194429568032.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/7c/a1/787ca1e2-4736-96de-b77c-21cfd6b05864/884977646542.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sham",
+      "Sham"
+    ]
+  },
+  {
+    "title": "Suno Aisha",
+    "movie": "Aisha",
+    "singers": [
+      "Amit Trivedi, Nakash Aziz & Ash King"
+    ],
+    "artists": [
+      "Amit Trivedi, Nakash Aziz & Ash King"
+    ],
+    "composers": [
+      "Amit Trivedi, Nakash Aziz & Ash King"
+    ],
+    "lyricist": "Amit Trivedi, Nakash Aziz & Ash King",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/aa/0b/ddaa0bf2-198e-9241-c751-ac0e7bd96454/mzaf_6574041302141753594.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/7c/a1/787ca1e2-4736-96de-b77c-21cfd6b05864/884977646542.jpg/400x400bb.jpg",
+    "aliases": [
+      "Suno Aisha",
+      "Suno Aisha"
+    ]
+  },
+  {
+    "title": "Aazaadiyan (Pairon Ki Bediyan)",
+    "movie": "Udaan",
+    "singers": [
+      "Amit Trivedi, Neuman Pinto, Nikhil D'Souza & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Amit Trivedi, Neuman Pinto, Nikhil D'Souza & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Amit Trivedi, Neuman Pinto, Nikhil D'Souza & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Amit Trivedi, Neuman Pinto, Nikhil D'Souza & Amitabh Bhattacharya",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/9a/4a/9d9a4a28-dfe8-706a-e464-5ec2f5697307/mzaf_11883798731355587837.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/3a/25/663a254c-3bd3-d502-e472-aa351d752040/8902894688505_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aazaadiyan (Pairon Ki Bediyan)",
+      "Aazaadiyan (Pairon Ki Bediyan)"
+    ]
+  },
+  {
+    "title": "Club Can't Handle Me (feat. David Guetta)",
+    "movie": "Club Can't Handle Me - Single",
+    "singers": [
+      "Flo Rida"
+    ],
+    "artists": [
+      "Flo Rida"
+    ],
+    "composers": [
+      "Flo Rida"
+    ],
+    "lyricist": "Flo Rida",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/07/97/ff0797ab-a24b-5423-64b3-c5b6e0173583/mzaf_11135363908447775433.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/10/ba/c510baab-02c1-29bc-ce00-a7fa29c8f1af/mzi.hrvbfleo.jpg/400x400bb.jpg",
+    "aliases": [
+      "Club Can't Handle Me (feat. David Guetta) [From \"Step Up 3D\"]",
+      "Club Can't Handle Me (feat. David Guetta)"
+    ]
+  },
+  {
+    "title": "Ainvayi Ainvayi",
+    "movie": "Band Baaja Baaraat",
+    "singers": [
+      "Salim Merchant & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Salim Merchant & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Salim Merchant & Sunidhi Chauhan"
+    ],
+    "lyricist": "Salim Merchant & Sunidhi Chauhan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/1b/8e/751b8e3a-f8c0-6fad-53c3-fb47e8be7eb3/mzaf_4204017061187993793.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/aa/b4/d9aab481-1333-7f89-8be6-0b9261db4e07/849486012813_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ainvayi Ainvayi",
+      "Ainvayi Ainvayi"
+    ]
+  },
+  {
+    "title": "Aapka Kya Hoga (Dhanno)",
+    "movie": "Housefull",
+    "singers": [
+      "Mika Singh, Sunidhi Chauhan & Sajid Khan"
+    ],
+    "artists": [
+      "Mika Singh, Sunidhi Chauhan & Sajid Khan"
+    ],
+    "composers": [
+      "Mika Singh, Sunidhi Chauhan & Sajid Khan"
+    ],
+    "lyricist": "Mika Singh, Sunidhi Chauhan & Sajid Khan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cc/5f/c1/cc5fc1ef-8b76-9789-a2ca-c2c2e46d811c/mzaf_16598872158585109172.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/23/dd/4323dd95-bd30-8b9b-af31-4c32154db028/8902894686921_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aapka Kya Hoga (Dhanno)",
+      "Aapka Kya Hoga (Dhanno)"
+    ]
+  },
+  {
+    "title": "I Feel Good",
+    "movie": "Anjaana Anjaani",
+    "singers": [
+      "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar"
+    ],
+    "lyricist": "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/42/78/f9/4278f9f2-5f16-28ac-4f4b-fd3644e5a7bf/mzaf_436647825558007394.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/8b/d8/a1/8bd8a190-8b8c-35f8-8573-614428dd6e42/8902894689113_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "I Feel Good",
+      "I Feel Good"
+    ]
+  },
+  {
+    "title": "Anjaana Anjaani",
+    "movie": "Anjaana Anjaani",
+    "singers": [
+      "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar"
+    ],
+    "lyricist": "Vishal Dadlani, Shilpa Rao & Vishal & Shekhar",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party",
+      "Romantic"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/d8/63/ead8636c-d74c-3746-2abe-ced554a59065/mzaf_4014768381503516131.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/8b/d8/a1/8bd8a190-8b8c-35f8-8573-614428dd6e42/8902894689113_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Anjaana Anjaani",
+      "Anjaana Anjaani"
     ]
   },
   {
@@ -25312,6 +41278,604 @@ module.exports = [
     ]
   },
   {
+    "title": "Shukran Allah",
+    "movie": "Kurbaan",
+    "singers": [
+      "Salim Merchant, Salim-Sulaiman, Sonu Nigam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Salim Merchant, Salim-Sulaiman, Sonu Nigam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Salim Merchant, Salim-Sulaiman, Sonu Nigam & Shreya Ghoshal"
+    ],
+    "lyricist": "Salim Merchant, Salim-Sulaiman, Sonu Nigam & Shreya Ghoshal",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/95/bf/c395bfb4-81ec-8b11-0e13-0d908a39f36e/mzaf_8472382234280554134.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2f/46/a8/2f46a861-e694-80e9-8a31-027977af95c7/884977367751.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shukran Allah",
+      "Shukran Allah"
+    ]
+  },
+  {
+    "title": "Dil Ibadat",
+    "movie": "Tum Mile",
+    "singers": [
+      "KK & Pritam"
+    ],
+    "artists": [
+      "KK & Pritam"
+    ],
+    "composers": [
+      "KK & Pritam"
+    ],
+    "lyricist": "KK & Pritam",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/28/81/7e/28817e78-8282-511f-3f31-d65da84dd3ff/mzaf_11920694479473906136.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/b4/e3/a7b4e3c0-5407-bb18-09fa-f43e6367ddf5/884977348316.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Ibadat",
+      "Dil Ibadat"
+    ]
+  },
+  {
+    "title": "Hai Junoon",
+    "movie": "New York",
+    "singers": [
+      "KK"
+    ],
+    "artists": [
+      "KK"
+    ],
+    "composers": [
+      "KK"
+    ],
+    "lyricist": "KK",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/aa/22/41aa228d-9a09-2872-4ddd-09c876282fb3/mzaf_3012656348432593293.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/67/5a/93675a87-51de-408f-3e1c-6b718af8ce81/849486008045_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hai Junoon",
+      "Hai Junoon"
+    ]
+  },
+  {
+    "title": "Dooriyan",
+    "movie": "Love Aaj Kal",
+    "singers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "artists": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "composers": [
+      "Pritam & Mohit Chauhan"
+    ],
+    "lyricist": "Pritam & Mohit Chauhan",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/fd/6c/3afd6c59-09a1-8587-795c-537fdb807e5f/mzaf_14422382797970666821.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/c9/98/6cc9988b-b6ce-51e5-9396-fd11d65ad8a7/196871083010.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dooriyan",
+      "Dooriyan"
+    ]
+  },
+  {
+    "title": "Tune Jo Na Kaha",
+    "movie": "New York",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/43/e6/ed43e64f-231e-06a5-8e02-341ee4b1b597/mzaf_7067163473511570473.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/93/67/5a/93675a87-51de-408f-3e1c-6b718af8ce81/849486008045_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tune Jo Na Kaha",
+      "Tune Jo Na Kaha"
+    ]
+  },
+  {
+    "title": "Masakali",
+    "movie": "Delhi-6",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/52/f0/1352f0b6-32c1-9333-89f0-6c6b291d4399/mzaf_2759395075577371419.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/fe/21/e2fe21b6-50e6-7b4b-285a-d40394baba4e/8902894628990_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Masakali",
+      "Masakali"
+    ]
+  },
+  {
+    "title": "Pehli Baar Mohabbat",
+    "movie": "Kaminey",
+    "singers": [
+      "Mohit Chauhan"
+    ],
+    "artists": [
+      "Mohit Chauhan"
+    ],
+    "composers": [
+      "Mohit Chauhan"
+    ],
+    "lyricist": "Mohit Chauhan",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0a/7c/ef/0a7cef63-d11d-cc18-d84b-dc296f2a4ae4/mzaf_16024705001601860142.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f1/f0/04f1f07b-3c95-af68-ce04-078ca9978e78/8902894683999_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pehli Baar Mohabbat",
+      "Pehli Baar Mohabbat"
+    ]
+  },
+  {
+    "title": "Iktara",
+    "movie": "Wake Up Sid",
+    "singers": [
+      "Amit Trivedi, Kavita Seth & Amitabh Bhattacharya"
+    ],
+    "artists": [
+      "Amit Trivedi, Kavita Seth & Amitabh Bhattacharya"
+    ],
+    "composers": [
+      "Amit Trivedi, Kavita Seth & Amitabh Bhattacharya"
+    ],
+    "lyricist": "Amit Trivedi, Kavita Seth & Amitabh Bhattacharya",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/00/9c/f8009ce1-c649-b84f-e091-53172b83ef91/mzaf_3024731672455939718.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/c8/f8/5cc8f804-a9d6-7a11-57f6-840e1e2c9419/884977322910.jpg/400x400bb.jpg",
+    "aliases": [
+      "Iktara",
+      "Iktara"
+    ]
+  },
+  {
+    "title": "Pardesi",
+    "movie": "Dev D",
+    "singers": [
+      "Tochi Raina & Amit Trivedi"
+    ],
+    "artists": [
+      "Tochi Raina & Amit Trivedi"
+    ],
+    "composers": [
+      "Tochi Raina & Amit Trivedi"
+    ],
+    "lyricist": "Tochi Raina & Amit Trivedi",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cc/45/ea/cc45ea7d-d8ce-f67d-261d-bc5ed71d346e/mzaf_17500628862027238662.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/d9/ab/f2d9aba0-d556-2754-5b29-21b40114cb7a/8902894628846_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pardesi",
+      "Pardesi"
+    ]
+  },
+  {
+    "title": "Dhol Yaara Dhol",
+    "movie": "Dev D",
+    "singers": [
+      "Shilpa Rao, Kshitij Tarey & Amit Trivedi"
+    ],
+    "artists": [
+      "Shilpa Rao, Kshitij Tarey & Amit Trivedi"
+    ],
+    "composers": [
+      "Shilpa Rao, Kshitij Tarey & Amit Trivedi"
+    ],
+    "lyricist": "Shilpa Rao, Kshitij Tarey & Amit Trivedi",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/59/7a/1e/597a1eaf-55fb-c73b-5457-dfd7f40eed34/mzaf_16682913511338458900.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/d9/ab/f2d9aba0-d556-2754-5b29-21b40114cb7a/8902894628846_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dhol Yaara Dhol",
+      "Dhol Yaara Dhol"
+    ]
+  },
+  {
+    "title": "Nayan Tarse",
+    "movie": "Dev D",
+    "singers": [
+      "Amit Trivedi"
+    ],
+    "artists": [
+      "Amit Trivedi"
+    ],
+    "composers": [
+      "Amit Trivedi"
+    ],
+    "lyricist": "Amit Trivedi",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/36/7c/13367cee-0117-56e2-8aa7-3ee631a1c8d5/mzaf_16526274050245583015.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/d9/ab/f2d9aba0-d556-2754-5b29-21b40114cb7a/8902894628846_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nayan Tarse",
+      "Nayan Tarse"
+    ]
+  },
+  {
+    "title": "Gettin' You Home",
+    "movie": "The Man I Want to Be",
+    "singers": [
+      "Chris Young"
+    ],
+    "artists": [
+      "Chris Young"
+    ],
+    "composers": [
+      "Chris Young"
+    ],
+    "lyricist": "Chris Young",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/f4/ed/c3f4edbd-b31f-2f2e-1eb1-47b3ab209fca/mzaf_1852723102335490018.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/4a/c7/43/4ac74335-e7b4-3cc2-76da-bab79a6348f4/dj.ftlvrtzm.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gettin' You Home",
+      "Gettin' You Home"
+    ]
+  },
+  {
+    "title": "Whatcha Say",
+    "movie": "Jason Derulo",
+    "singers": [
+      "Jason Derulo"
+    ],
+    "artists": [
+      "Jason Derulo"
+    ],
+    "composers": [
+      "Jason Derulo"
+    ],
+    "lyricist": "Jason Derulo",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/6c/6a/556c6a31-68c7-122e-d4e7-3ff36827e0cb/mzaf_12170192900401901020.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2a/e1/fc/2ae1fc34-a98d-20bf-33ed-71e321773b0a/dj.lykipmdm.jpg/400x400bb.jpg",
+    "aliases": [
+      "Whatcha Say",
+      "Whatcha Say"
+    ]
+  },
+  {
+    "title": "Replay",
+    "movie": "Replay - Single",
+    "singers": [
+      "Iyaz"
+    ],
+    "artists": [
+      "Iyaz"
+    ],
+    "composers": [
+      "Iyaz"
+    ],
+    "lyricist": "Iyaz",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/91/67/7c916728-48c7-7cd6-0d82-1ee253bb067e/mzaf_1054678641743982446.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/c0/13/1b/mzi.nnistjgw.jpg/400x400bb.jpg",
+    "aliases": [
+      "Replay",
+      "Replay"
+    ]
+  },
+  {
+    "title": "Dynamite",
+    "movie": "Rokstarr (Bonus Track Version)",
+    "singers": [
+      "Taio Cruz"
+    ],
+    "artists": [
+      "Taio Cruz"
+    ],
+    "composers": [
+      "Taio Cruz"
+    ],
+    "lyricist": "Taio Cruz",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/9d/51/c69d51c6-05ca-a0e4-4c43-c9743257048b/mzaf_17316422719838636186.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/74/be/ed/74beed71-6a6c-df84-bb80-bf470dee2bf4/10UMGIM07696.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dynamite",
+      "Dynamite"
+    ]
+  },
+  {
+    "title": "Alejandro",
+    "movie": "The Fame Monster (Deluxe Edition)",
+    "singers": [
+      "Lady Gaga"
+    ],
+    "artists": [
+      "Lady Gaga"
+    ],
+    "composers": [
+      "Lady Gaga"
+    ],
+    "lyricist": "Lady Gaga",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/9c/e9/cf9ce9f7-f1de-d9f7-f8c8-0815ed5a8bbd/mzaf_6375785484637425672.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Alejandro",
+      "Alejandro"
+    ]
+  },
+  {
+    "title": "All I Wanted",
+    "movie": "Brand New Eyes (Deluxe Version)",
+    "singers": [
+      "Paramore"
+    ],
+    "artists": [
+      "Paramore"
+    ],
+    "composers": [
+      "Paramore"
+    ],
+    "lyricist": "Paramore",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/15/13/681513b3-9b1d-b595-87a5-9f3f89064f31/mzaf_10274762722318579110.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/97/17/049717b9-67ea-126b-7b3b-eaaa7f048dd8/dj.gczfwqsh.jpg/400x400bb.jpg",
+    "aliases": [
+      "All I Wanted",
+      "All I Wanted"
+    ]
+  },
+  {
+    "title": "Mama's Song",
+    "movie": "Play On",
+    "singers": [
+      "Carrie Underwood"
+    ],
+    "artists": [
+      "Carrie Underwood"
+    ],
+    "composers": [
+      "Carrie Underwood"
+    ],
+    "lyricist": "Carrie Underwood",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/fb/10/45fb10d2-7987-b055-b458-82eb562edfcd/mzaf_6529785826257815987.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/3c/7f/e93c7f81-262d-40c1-0ef6-a5624c076f6c/dj.slprfiyl.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mama's Song",
+      "Mama's Song"
+    ]
+  },
+  {
+    "title": "21 Guns",
+    "movie": "21st Century Breakdown (Deluxe Edition)",
+    "singers": [
+      "Green Day"
+    ],
+    "artists": [
+      "Green Day"
+    ],
+    "composers": [
+      "Green Day"
+    ],
+    "lyricist": "Green Day",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/2b/35/b52b35c0-e2b1-4aa8-3aa8-43daede77621/mzaf_3845353262823725441.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b8/36/d6/b836d655-7ef3-5c93-734e-fb77c4981308/mzi.opxridrf.jpg/400x400bb.jpg",
+    "aliases": [
+      "21 Guns",
+      "21 Guns"
+    ]
+  },
+  {
+    "title": "Give Me Some Sunshine",
+    "movie": "3 Idiots",
+    "singers": [
+      "Suraj Jagan & Sharman Joshi"
+    ],
+    "artists": [
+      "Suraj Jagan & Sharman Joshi"
+    ],
+    "composers": [
+      "Suraj Jagan & Sharman Joshi"
+    ],
+    "lyricist": "Suraj Jagan & Sharman Joshi",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/f0/e6/d9f0e614-efbb-fe86-9794-c9c0e6f53636/mzaf_11667882222710872599.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/99/7c/6e997cb1-1d80-3dc1-121d-53919ccace52/840214403941.png/400x400bb.jpg",
+    "aliases": [
+      "Give Me Some Sunshine",
+      "Give Me Some Sunshine"
+    ]
+  },
+  {
+    "title": "Marjaani",
+    "movie": "Billu",
+    "singers": [
+      "Pritam, Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Pritam, Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Pritam, Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "lyricist": "Pritam, Sukhwinder Singh & Sunidhi Chauhan",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/22/86/d72286f7-fbd0-2679-3621-47466cd8a14c/mzaf_17884787513766813200.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/c7/e5/96c7e577-6109-903a-9dcc-974332428105/8902894628907_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Marjaani",
+      "Marjaani"
+    ]
+  },
+  {
+    "title": "Raat Ke Dhai Baje",
+    "movie": "Kaminey",
+    "singers": [
+      "Suresh Wadkar, Rekha Bhardwaj, Sunidhi Chauhan & Kunal Ganjawala"
+    ],
+    "artists": [
+      "Suresh Wadkar, Rekha Bhardwaj, Sunidhi Chauhan & Kunal Ganjawala"
+    ],
+    "composers": [
+      "Suresh Wadkar, Rekha Bhardwaj, Sunidhi Chauhan & Kunal Ganjawala"
+    ],
+    "lyricist": "Suresh Wadkar, Rekha Bhardwaj, Sunidhi Chauhan & Kunal Ganjawala",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/fe/a0/fafea0b4-9c95-f649-3b73-66c8e6ef2a1e/mzaf_676302286237522289.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f1/f0/04f1f07b-3c95-af68-ce04-078ca9978e78/8902894683999_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Raat Ke Dhai Baje",
+      "Raat Ke Dhai Baje"
+    ]
+  },
+  {
+    "title": "Abacha",
+    "movie": "Konchem Istam Konchem Kastam",
+    "singers": [
+      "Mahalaxmi Aiyar & Shilpa Rao"
+    ],
+    "artists": [
+      "Mahalaxmi Aiyar & Shilpa Rao"
+    ],
+    "composers": [
+      "Mahalaxmi Aiyar & Shilpa Rao"
+    ],
+    "lyricist": "Mahalaxmi Aiyar & Shilpa Rao",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/62/7d/a0627daf-10a5-5714-59c8-a8a4fa1f3839/mzaf_9732561506081261699.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/d8/1f/8cd81ff8-5464-3832-5e9c-9f706c5f86f1/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Abacha",
+      "Abacha"
+    ]
+  },
+  {
     "title": "Breakeven (Falling to Pieces)",
     "movie": "The Script (Deluxe)",
     "singers": [
@@ -25725,6 +42289,552 @@ module.exports = [
     "aliases": [
       "I Like to Move It",
       "I Like to Move It"
+    ]
+  },
+  {
+    "title": "Tujh Mein Rab Dikhta Hai - II",
+    "movie": "Rab Ne Bana Di Jodi",
+    "singers": [
+      "Shreya Ghoshal"
+    ],
+    "artists": [
+      "Shreya Ghoshal"
+    ],
+    "composers": [
+      "Shreya Ghoshal"
+    ],
+    "lyricist": "Shreya Ghoshal",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/75/78/a57578ba-dda6-af13-e21b-e8e7e86d9cee/mzaf_2460126937453009886.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/7a/8b/e57a8bb7-8513-3bf9-8268-cc3062ae00df/849486008052_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tujh Mein Rab Dikhta Hai - II",
+      "Tujh Mein Rab Dikhta Hai - II"
+    ]
+  },
+  {
+    "title": "Kaise Mujhe",
+    "movie": "Ghajini",
+    "singers": [
+      "Benny Dayal & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Benny Dayal & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Benny Dayal & Shreya Ghoshal"
+    ],
+    "lyricist": "Benny Dayal & Shreya Ghoshal",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/06/f9/7906f941-9418-84fe-cee3-c127d60ad017/mzaf_5871060890045161576.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/2a/54/b12a5476-65db-75b9-be67-611bede2596e/8902894628464_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaise Mujhe",
+      "Kaise Mujhe"
+    ]
+  },
+  {
+    "title": "Aahista Aahista",
+    "movie": "Bachna Ae Haseeno",
+    "singers": [
+      "Vishal & Shekhar, Lucky Ali & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Lucky Ali & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Lucky Ali & Shreya Ghoshal"
+    ],
+    "lyricist": "Vishal & Shekhar, Lucky Ali & Shreya Ghoshal",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/e2/b5/ade2b53f-2684-206f-fd00-4522b5df96a3/mzaf_6881887833305330139.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aahista Aahista",
+      "Aahista Aahista"
+    ]
+  },
+  {
+    "title": "Tere Naina",
+    "movie": "Chandni Chowk To China",
+    "singers": [
+      "Shankar Mahadevan & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Shankar Mahadevan & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Shankar Mahadevan & Shreya Ghoshal"
+    ],
+    "lyricist": "Shankar Mahadevan & Shreya Ghoshal",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/80/69/cb806909-13a2-ca26-efdc-0fb2f674b9c8/mzaf_4859373263745329310.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/f2/ab/74f2abb3-245a-62d2-2869-895e8c37fc3b/8902894628532_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tere Naina",
+      "Tere Naina"
+    ]
+  },
+  {
+    "title": "Zara Sa",
+    "movie": "Jannat",
+    "singers": [
+      "KK & Pritam"
+    ],
+    "artists": [
+      "KK & Pritam"
+    ],
+    "composers": [
+      "KK & Pritam"
+    ],
+    "lyricist": "KK & Pritam",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/f5/c0/4df5c07a-53ff-8e08-5bf2-a102e0444f4d/mzaf_2883771190480476336.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/a3/cf/e9a3cf5e-09c3-3d6b-3bf2-c609475b6543/888880551801.jpg/400x400bb.jpg",
+    "aliases": [
+      "Zara Sa",
+      "Zara Sa"
+    ]
+  },
+  {
+    "title": "Khuda Jaane",
+    "movie": "Bachna Ae Haseeno",
+    "singers": [
+      "Vishal & Shekhar, KK & Shilpa Rao"
+    ],
+    "artists": [
+      "Vishal & Shekhar, KK & Shilpa Rao"
+    ],
+    "composers": [
+      "Vishal & Shekhar, KK & Shilpa Rao"
+    ],
+    "lyricist": "Vishal & Shekhar, KK & Shilpa Rao",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/3e/9b/073e9b86-f18f-f88a-8cf4-aa1173bbea4c/mzaf_1018658659811187633.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Khuda Jaane",
+      "Khuda Jaane"
+    ]
+  },
+  {
+    "title": "Haan Tu Hain",
+    "movie": "Jannat",
+    "singers": [
+      "KK & Pritam"
+    ],
+    "artists": [
+      "KK & Pritam"
+    ],
+    "composers": [
+      "KK & Pritam"
+    ],
+    "lyricist": "KK & Pritam",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/46/f0/c4/46f0c47b-4029-30d9-02d7-c1d37a15f379/mzaf_2374302508600237409.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/a3/cf/e9a3cf5e-09c3-3d6b-3bf2-c609475b6543/888880551801.jpg/400x400bb.jpg",
+    "aliases": [
+      "Haan Tu Hain",
+      "Haan Tu Hain"
+    ]
+  },
+  {
+    "title": "Bakhuda Tumhi Ho",
+    "movie": "Kismat Konnection",
+    "singers": [
+      "Atif Aslam, Alka Yagnik & Pritam"
+    ],
+    "artists": [
+      "Atif Aslam, Alka Yagnik & Pritam"
+    ],
+    "composers": [
+      "Atif Aslam, Alka Yagnik & Pritam"
+    ],
+    "lyricist": "Atif Aslam, Alka Yagnik & Pritam",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/86/57/d98657eb-bb97-00c6-e173-185a2532d2bf/mzaf_6313600134709219555.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/c8/e4/03c8e4d9-d521-09b2-610f-1ea075e5cae2/8901854001989.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bakhuda Tumhi Ho",
+      "Bakhuda Tumhi Ho"
+    ]
+  },
+  {
+    "title": "Kuchh Khaas",
+    "movie": "Fashion",
+    "singers": [
+      "Mohit Chauhan & Neha Bhasin"
+    ],
+    "artists": [
+      "Mohit Chauhan & Neha Bhasin"
+    ],
+    "composers": [
+      "Mohit Chauhan & Neha Bhasin"
+    ],
+    "lyricist": "Mohit Chauhan & Neha Bhasin",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/96/d5/5796d50e-0eb1-188b-ea8a-58d7f4eec074/mzaf_10360054015323509606.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/94/83/9b/94839bee-f6a4-95f1-241b-a58ae5755734/8902894627573_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kuchh Khaas",
+      "Kuchh Khaas"
+    ]
+  },
+  {
+    "title": "Is This Love",
+    "movie": "Kismat Konnection",
+    "singers": [
+      "Mohit Chauhan, Shreya Ghoshal & Pritam"
+    ],
+    "artists": [
+      "Mohit Chauhan, Shreya Ghoshal & Pritam"
+    ],
+    "composers": [
+      "Mohit Chauhan, Shreya Ghoshal & Pritam"
+    ],
+    "lyricist": "Mohit Chauhan, Shreya Ghoshal & Pritam",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/e3/62/79e362fb-94be-6453-09b3-b7daaf15dfa5/mzaf_16934707252572110954.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/c8/e4/03c8e4d9-d521-09b2-610f-1ea075e5cae2/8901854001989.jpg/400x400bb.jpg",
+    "aliases": [
+      "Is This Love",
+      "Is This Love"
+    ]
+  },
+  {
+    "title": "Guzarish",
+    "movie": "Ghajini",
+    "singers": [
+      "Javed Ali & Sonu Nigam"
+    ],
+    "artists": [
+      "Javed Ali & Sonu Nigam"
+    ],
+    "composers": [
+      "Javed Ali & Sonu Nigam"
+    ],
+    "lyricist": "Javed Ali & Sonu Nigam",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/3b/ca/3c3bca53-bec8-7a33-623f-bc3fe62fcdb9/mzaf_14156368471513799765.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/2a/54/b12a5476-65db-75b9-be67-611bede2596e/8902894628464_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Guzarish",
+      "Guzarish"
+    ]
+  },
+  {
+    "title": "Soniyo",
+    "movie": "RAAZ - The Mystery Continues",
+    "singers": [
+      "Raju Singh, Sonu Nigam, Shreya Ghoshal & Neeraj Shridhar"
+    ],
+    "artists": [
+      "Raju Singh, Sonu Nigam, Shreya Ghoshal & Neeraj Shridhar"
+    ],
+    "composers": [
+      "Raju Singh, Sonu Nigam, Shreya Ghoshal & Neeraj Shridhar"
+    ],
+    "lyricist": "Raju Singh, Sonu Nigam, Shreya Ghoshal & Neeraj Shridhar",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/19/51/ac/1951ac5b-81c8-72ea-ffe5-31e1a3369d9b/mzaf_17405745395809731793.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/77/4d/9f/774d9f5c-830a-c140-f1ae-6e637dc9af14/888880931542.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soniyo",
+      "Soniyo"
+    ]
+  },
+  {
+    "title": "Desi Girl",
+    "movie": "Dostana",
+    "singers": [
+      "Shankar Mahadevan, Vishal & Shekhar, Vishal Dadlani & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Shankar Mahadevan, Vishal & Shekhar, Vishal Dadlani & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Shankar Mahadevan, Vishal & Shekhar, Vishal Dadlani & Sunidhi Chauhan"
+    ],
+    "lyricist": "Shankar Mahadevan, Vishal & Shekhar, Vishal Dadlani & Sunidhi Chauhan",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/58/80/b45880d1-8f73-2281-aedb-384f28e5d76c/mzaf_5076496193019092454.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/9b/79/c69b795c-b12a-00c2-e520-7699cdc59b94/888880739896.jpg/400x400bb.jpg",
+    "aliases": [
+      "Desi Girl",
+      "Desi Girl"
+    ]
+  },
+  {
+    "title": "Falak Tak",
+    "movie": "Tashan",
+    "singers": [
+      "Vishal & Shekhar, Mahalakshmi Iyer & Udit Narayan"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Mahalakshmi Iyer & Udit Narayan"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Mahalakshmi Iyer & Udit Narayan"
+    ],
+    "lyricist": "Vishal & Shekhar, Mahalakshmi Iyer & Udit Narayan",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/36/e3/06/36e3069e-546d-0196-bb91-d56628f24f3e/mzaf_13989714078449819764.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/18/7f/2e187f10-7b65-79d6-3109-d23f8e6a81de/849486008120_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Falak Tak",
+      "Falak Tak"
+    ]
+  },
+  {
+    "title": "Jaane Kyun",
+    "movie": "Dostana",
+    "singers": [
+      "Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "artists": [
+      "Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "composers": [
+      "Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "lyricist": "Vishal & Shekhar & Vishal Dadlani",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/bd/36/c4bd36a9-0eb3-42d8-f2e0-670eec07bff6/mzaf_18174768095165944377.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/9b/79/c69b795c-b12a-00c2-e520-7699cdc59b94/888880739896.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jaane Kyun",
+      "Jaane Kyun"
+    ]
+  },
+  {
+    "title": "Jogi Mahi",
+    "movie": "Bachna Ae Haseeno",
+    "singers": [
+      "Vishal & Shekhar, Sukhwinder Singh, Shekhar Ravjiani & Himani Kapoor"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Sukhwinder Singh, Shekhar Ravjiani & Himani Kapoor"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Sukhwinder Singh, Shekhar Ravjiani & Himani Kapoor"
+    ],
+    "lyricist": "Vishal & Shekhar, Sukhwinder Singh, Shekhar Ravjiani & Himani Kapoor",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/00/0d/f8000dd5-24b3-da38-8c2a-a84dfe393712/mzaf_10625339550113510551.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jogi Mahi",
+      "Jogi Mahi"
+    ]
+  },
+  {
+    "title": "Use Somebody",
+    "movie": "Only By the Night",
+    "singers": [
+      "Kings of Leon"
+    ],
+    "artists": [
+      "Kings of Leon"
+    ],
+    "composers": [
+      "Kings of Leon"
+    ],
+    "lyricist": "Kings of Leon",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/1d/b3/231db3c5-a99c-3fba-5d3b-f6e9cdbeb841/mzaf_12581310710694950303.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/74/25/4c/74254c8b-e03d-44e8-304d-4cde508b8cfb/dj.swemfdrr.jpg/400x400bb.jpg",
+    "aliases": [
+      "Use Somebody",
+      "Use Somebody"
+    ]
+  },
+  {
+    "title": "Dance Pe Chance",
+    "movie": "Rab Ne Bana Di Jodi",
+    "singers": [
+      "Labh Janjua & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Labh Janjua & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Labh Janjua & Sunidhi Chauhan"
+    ],
+    "lyricist": "Labh Janjua & Sunidhi Chauhan",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/31/dc/44/31dc4467-2712-a39d-ba01-8fed5c97794c/mzaf_2836571548538950490.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e5/7a/8b/e57a8bb7-8513-3bf9-8268-cc3062ae00df/849486008052_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dance Pe Chance",
+      "Dance Pe Chance"
+    ]
+  },
+  {
+    "title": "Shut Up & Bounce",
+    "movie": "Dostana",
+    "singers": [
+      "Sunidhi Chauhan, Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "artists": [
+      "Sunidhi Chauhan, Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "composers": [
+      "Sunidhi Chauhan, Vishal & Shekhar & Vishal Dadlani"
+    ],
+    "lyricist": "Sunidhi Chauhan, Vishal & Shekhar & Vishal Dadlani",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/b4/ee/2bb4ee00-9052-32df-6545-c5050d3ab86d/mzaf_577037142125423925.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/9b/79/c69b795c-b12a-00c2-e520-7699cdc59b94/888880739896.jpg/400x400bb.jpg",
+    "aliases": [
+      "Shut Up & Bounce",
+      "Shut Up & Bounce"
+    ]
+  },
+  {
+    "title": "Lucky Boy",
+    "movie": "Bachna Ae Haseeno",
+    "singers": [
+      "Vishal & Shekhar, Sunidhi Chauhan, Hard Kaur & Raja Hassan"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Sunidhi Chauhan, Hard Kaur & Raja Hassan"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Sunidhi Chauhan, Hard Kaur & Raja Hassan"
+    ],
+    "lyricist": "Vishal & Shekhar, Sunidhi Chauhan, Hard Kaur & Raja Hassan",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/e5/6e/4de56ecc-c29b-27f1-fb61-922e457fb2b1/mzaf_8391696447855782544.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/ca/0e/95ca0eee-4709-b2a0-7e2d-7097c944d2cc/849486005822_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lucky Boy",
+      "Lucky Boy"
+    ]
+  },
+  {
+    "title": "Move Your Body Now",
+    "movie": "Kismat Konnection",
+    "singers": [
+      "Shaan, Hard Kaur, Suheil, Akriti Kakar & Pritam"
+    ],
+    "artists": [
+      "Shaan, Hard Kaur, Suheil, Akriti Kakar & Pritam"
+    ],
+    "composers": [
+      "Shaan, Hard Kaur, Suheil, Akriti Kakar & Pritam"
+    ],
+    "lyricist": "Shaan, Hard Kaur, Suheil, Akriti Kakar & Pritam",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/22/47/d92247d3-52bc-6f04-b924-0e2bccd2992a/mzaf_16944084363481813937.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/c8/e4/03c8e4d9-d521-09b2-610f-1ea075e5cae2/8901854001989.jpg/400x400bb.jpg",
+    "aliases": [
+      "Move Your Body Now",
+      "Move Your Body Now"
     ]
   },
   {
@@ -26196,6 +43306,474 @@ module.exports = [
     ]
   },
   {
+    "title": "Main Agar Kahoon",
+    "movie": "Om Shanti Om",
+    "singers": [
+      "Sonu Nigam, Shreya Ghoshal & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Sonu Nigam, Shreya Ghoshal & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Sonu Nigam, Shreya Ghoshal & Vishal & Shekhar"
+    ],
+    "lyricist": "Sonu Nigam, Shreya Ghoshal & Vishal & Shekhar",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/c6/6d/6fc66d9a-e830-b08a-ffe1-b67ed7d991e5/mzaf_5170129302151051752.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/16/13/4c161318-5bf1-ea55-774d-2f55e2361d10/8902894623179_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Main Agar Kahoon",
+      "Main Agar Kahoon"
+    ]
+  },
+  {
+    "title": "Dhoom Taana",
+    "movie": "Om Shanti Om",
+    "singers": [
+      "Shreya Ghoshal, Abhijeet & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Shreya Ghoshal, Abhijeet & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Shreya Ghoshal, Abhijeet & Vishal & Shekhar"
+    ],
+    "lyricist": "Shreya Ghoshal, Abhijeet & Vishal & Shekhar",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/d7/bd/48d7bd7a-9563-00fd-458a-0d2a37672498/mzaf_1883958839063097535.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/16/13/4c161318-5bf1-ea55-774d-2f55e2361d10/8902894623179_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dhoom Taana",
+      "Dhoom Taana"
+    ]
+  },
+  {
+    "title": "Beete Lamhein",
+    "movie": "The Train",
+    "singers": [
+      "KK"
+    ],
+    "artists": [
+      "KK"
+    ],
+    "composers": [
+      "KK"
+    ],
+    "lyricist": "KK",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/77/e0/b377e053-7ce5-2d12-122f-5d5183a5ec95/mzaf_2747069318556323826.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b7/c5/24b7c575-6e67-e5ea-2419-7d8aebb9c90f/8902894621069_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Beete Lamhein",
+      "Beete Lamhein"
+    ]
+  },
+  {
+    "title": "Ab To Forever",
+    "movie": "Ta Ra Rum Pum",
+    "singers": [
+      "Vishal & Shekhar, Shreya Ghoshal, Vishal Dadlani & KK"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Shreya Ghoshal, Vishal Dadlani & KK"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Shreya Ghoshal, Vishal Dadlani & KK"
+    ],
+    "lyricist": "Vishal & Shekhar, Shreya Ghoshal, Vishal Dadlani & KK",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/81/0d/2a810d51-5a7f-12ac-a27b-045a0f757ee7/mzaf_7225345353699729626.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/6f/ff/aa6fff68-2afb-9b5e-fb15-0a9404978265/849486008106_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ab To Forever",
+      "Ab To Forever"
+    ]
+  },
+  {
+    "title": "Jhoom Barabar Jhoom",
+    "movie": "Jhoom Barabar Jhoom",
+    "singers": [
+      "KK, Mahalakshmi Iyer, Shankar Mahadevan & Sukhvinder Singh"
+    ],
+    "artists": [
+      "KK, Mahalakshmi Iyer, Shankar Mahadevan & Sukhvinder Singh"
+    ],
+    "composers": [
+      "KK, Mahalakshmi Iyer, Shankar Mahadevan & Sukhvinder Singh"
+    ],
+    "lyricist": "KK, Mahalakshmi Iyer, Shankar Mahadevan & Sukhvinder Singh",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/35/5f/af/355fafdb-61b1-b0fb-de37-7f6170683aed/mzaf_13365725662503083498.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/99/b3/4299b3e6-984f-684e-f2f6-2302f9e81ed1/849486005945_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jhoom Barabar Jhoom",
+      "Jhoom Barabar Jhoom"
+    ]
+  },
+  {
+    "title": "Love Song",
+    "movie": "Little Voice",
+    "singers": [
+      "Sara Bareilles"
+    ],
+    "artists": [
+      "Sara Bareilles"
+    ],
+    "composers": [
+      "Sara Bareilles"
+    ],
+    "lyricist": "Sara Bareilles",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/62/23/5a62232b-78f6-7e99-bb42-6071dc5bbfe9/mzaf_538666090730031147.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/22/1c/8a221cd8-015e-6221-c0eb-fc3ccfa5a37c/827969482124.jpg/400x400bb.jpg",
+    "aliases": [
+      "Love Song",
+      "Love Song"
+    ]
+  },
+  {
+    "title": "Dholna",
+    "movie": "Heyy Babyy",
+    "singers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "lyricist": "Sonu Nigam & Shreya Ghoshal",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5a/99/69/5a9969db-56b0-2aaa-ddd7-6f4c0d9a7056/mzaf_6809277737978311746.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/30/9d/df/309ddfb6-11a6-adbe-5500-5eff36d51fb7/8902894622530_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dholna",
+      "Dholna"
+    ]
+  },
+  {
+    "title": "Wo Ajnabee",
+    "movie": "The Train",
+    "singers": [
+      "Mithoon & Shilpa Rao"
+    ],
+    "artists": [
+      "Mithoon & Shilpa Rao"
+    ],
+    "composers": [
+      "Mithoon & Shilpa Rao"
+    ],
+    "lyricist": "Mithoon & Shilpa Rao",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/42/86/6e4286c0-6ada-243f-a98c-75ef8114b3f0/mzaf_736176351547795253.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b7/c5/24b7c575-6e67-e5ea-2419-7d8aebb9c90f/8902894621069_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Wo Ajnabee",
+      "Wo Ajnabee"
+    ]
+  },
+  {
+    "title": "Mausam",
+    "movie": "The Train",
+    "singers": [
+      "Mithoon"
+    ],
+    "artists": [
+      "Mithoon"
+    ],
+    "composers": [
+      "Mithoon"
+    ],
+    "lyricist": "Mithoon",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/62/ad/a362ad22-a7a4-a538-e9f2-d741fdf62dfe/mzaf_16401244421533638088.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b7/c5/24b7c575-6e67-e5ea-2419-7d8aebb9c90f/8902894621069_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mausam",
+      "Mausam"
+    ]
+  },
+  {
+    "title": "Misery Business",
+    "movie": "Riot!",
+    "singers": [
+      "Paramore"
+    ],
+    "artists": [
+      "Paramore"
+    ],
+    "composers": [
+      "Paramore"
+    ],
+    "lyricist": "Paramore",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/45/e1/3645e1cb-e076-4c5a-606f-5099f3ac686c/mzaf_1349667424240188322.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg/400x400bb.jpg",
+    "aliases": [
+      "Misery Business",
+      "Misery Business"
+    ]
+  },
+  {
+    "title": "All Summer Long",
+    "movie": "Rock N Roll Jesus",
+    "singers": [
+      "Kid Rock"
+    ],
+    "artists": [
+      "Kid Rock"
+    ],
+    "composers": [
+      "Kid Rock"
+    ],
+    "lyricist": "Kid Rock",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/32/c0/fb32c07b-640f-b7c7-a2e7-2c72e145fc24/mzaf_1854940746220941159.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/45/cb/a3/45cba35e-7536-4a8b-0613-f589d1fcf809/075679955517.jpg/400x400bb.jpg",
+    "aliases": [
+      "All Summer Long",
+      "All Summer Long"
+    ]
+  },
+  {
+    "title": "Buy U a Drank (Shawty Snappin')",
+    "movie": "Epiphany (Expanded Edition)",
+    "singers": [
+      "T-Pain"
+    ],
+    "artists": [
+      "T-Pain"
+    ],
+    "composers": [
+      "T-Pain"
+    ],
+    "lyricist": "T-Pain",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/60/5e/bc605ede-ecda-fedf-768e-dd9a84b0de13/mzaf_10084103049860749705.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/f0/e1/00f0e199-13d5-33c4-bc76-edf88b3876b5/886449120666.jpg/400x400bb.jpg",
+    "aliases": [
+      "Buy U a Drank (Shawty Snappin') [feat. Yung Joc]",
+      "Buy U a Drank (Shawty Snappin')"
+    ]
+  },
+  {
+    "title": "Skinny Love",
+    "movie": "For Emma, Forever Ago",
+    "singers": [
+      "Bon Iver"
+    ],
+    "artists": [
+      "Bon Iver"
+    ],
+    "composers": [
+      "Bon Iver"
+    ],
+    "lyricist": "Bon Iver",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/53/ef/c353ef07-9302-e169-0c7d-e9873f99c1db/mzaf_15074454966550904398.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/2f/ea/212fea18-5fdc-ba4d-5dd7-1b07aaa88b67/656605211565.tif/400x400bb.jpg",
+    "aliases": [
+      "Skinny Love",
+      "Skinny Love"
+    ]
+  },
+  {
+    "title": "Bleeding Love",
+    "movie": "Spirit (The Deluxe Edition)",
+    "singers": [
+      "Leona Lewis"
+    ],
+    "artists": [
+      "Leona Lewis"
+    ],
+    "composers": [
+      "Leona Lewis"
+    ],
+    "lyricist": "Leona Lewis",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/5f/0b/ed5f0b87-a3d8-8e24-8019-f5c4cf3eafcb/mzaf_10706859781439569235.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/93/83/03/mzi.wuooifms.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bleeding Love",
+      "Bleeding Love"
+    ]
+  },
+  {
+    "title": "All-American Girl",
+    "movie": "Carnival Ride",
+    "singers": [
+      "Carrie Underwood"
+    ],
+    "artists": [
+      "Carrie Underwood"
+    ],
+    "composers": [
+      "Carrie Underwood"
+    ],
+    "lyricist": "Carrie Underwood",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/a4/a4/4ca4a441-6180-ed9d-ca81-66e4c337fd5b/mzaf_12898480476316433689.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/81/b9/2c81b9b2-6b48-b37f-dad3-7028cfe05340/dj.obikybjo.jpg/400x400bb.jpg",
+    "aliases": [
+      "All-American Girl",
+      "All-American Girl"
+    ]
+  },
+  {
+    "title": "Aao Milo Chalo",
+    "movie": "Jab We Met",
+    "singers": [
+      "Pritam, Shaan & Ustad Sultan Khan"
+    ],
+    "artists": [
+      "Pritam, Shaan & Ustad Sultan Khan"
+    ],
+    "composers": [
+      "Pritam, Shaan & Ustad Sultan Khan"
+    ],
+    "lyricist": "Pritam, Shaan & Ustad Sultan Khan",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ad/c9/33/adc933d6-999d-4975-51de-95a31f1f23d7/mzaf_8494934905098349518.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aao Milo Chalo",
+      "Aao Milo Chalo"
+    ]
+  },
+  {
+    "title": "You're My Love",
+    "movie": "Partner",
+    "singers": [
+      "Shaan, Shweta Pandit, Suzi Q & Earl D'Souza"
+    ],
+    "artists": [
+      "Shaan, Shweta Pandit, Suzi Q & Earl D'Souza"
+    ],
+    "composers": [
+      "Shaan, Shweta Pandit, Suzi Q & Earl D'Souza"
+    ],
+    "lyricist": "Shaan, Shweta Pandit, Suzi Q & Earl D'Souza",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/59/d4/5c59d47b-c1f3-89c2-406c-d22a5a5298f1/mzaf_411794920439404357.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/1c/19/79/1c197964-2718-ed49-f31a-13fc71739f95/8902894836487_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "You're My Love",
+      "You're My Love"
+    ]
+  },
+  {
+    "title": "Ta Ra Rum Pum",
+    "movie": "Ta Ra Rum Pum",
+    "singers": [
+      "Vishal & Shekhar, Mahalakshmi Iyer, Shaan, Shravan Suresh & Sneha Suresh"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Mahalakshmi Iyer, Shaan, Shravan Suresh & Sneha Suresh"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Mahalakshmi Iyer, Shaan, Shravan Suresh & Sneha Suresh"
+    ],
+    "lyricist": "Vishal & Shekhar, Mahalakshmi Iyer, Shaan, Shravan Suresh & Sneha Suresh",
+    "releaseYear": 2007,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/9f/59/c29f598d-4fee-e201-fa32-74de1f2aeb51/mzaf_4758581184253939360.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/6f/ff/aa6fff68-2afb-9b5e-fb15-0a9404978265/849486008106_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ta Ra Rum Pum",
+      "Ta Ra Rum Pum"
+    ]
+  },
+  {
     "title": "Animal I Have Become",
     "movie": "One-X (Deluxe Edition)",
     "singers": [
@@ -26612,6 +44190,474 @@ module.exports = [
     ]
   },
   {
+    "title": "Barso Re",
+    "movie": "Guru",
+    "singers": [
+      "A.R. Rahman, Shreya Ghoshal & Uday Majumdar"
+    ],
+    "artists": [
+      "A.R. Rahman, Shreya Ghoshal & Uday Majumdar"
+    ],
+    "composers": [
+      "A.R. Rahman, Shreya Ghoshal & Uday Majumdar"
+    ],
+    "lyricist": "A.R. Rahman, Shreya Ghoshal & Uday Majumdar",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/c9/32/64c932f0-4109-6760-2002-130797769cff/mzaf_3510266217199157761.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/8c/69/8d8c697e-f108-9e69-0cb1-475b45ab26a8/886970389020.jpg/400x400bb.jpg",
+    "aliases": [
+      "Barso Re",
+      "Barso Re"
+    ]
+  },
+  {
+    "title": "Kya Mujhe Pyaar Hai",
+    "movie": "Woh Lamhe",
+    "singers": [
+      "Pritam & KK"
+    ],
+    "artists": [
+      "Pritam & KK"
+    ],
+    "composers": [
+      "Pritam & KK"
+    ],
+    "lyricist": "Pritam & KK",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/34/32/2f343228-df07-a771-8bf2-05011afa282c/mzaf_2073241524310681578.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/f2/02/23f2021c-ae86-a637-ee5a-6e9e9b1bcc26/8902894601832_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kya Mujhe Pyaar Hai",
+      "Kya Mujhe Pyaar Hai"
+    ]
+  },
+  {
+    "title": "Touch Me",
+    "movie": "Dhoom:2",
+    "singers": [
+      "KK & Alisha Chinai"
+    ],
+    "artists": [
+      "KK & Alisha Chinai"
+    ],
+    "composers": [
+      "KK & Alisha Chinai"
+    ],
+    "lyricist": "KK & Alisha Chinai",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3f/95/e3/3f95e31d-60a7-e3da-5a72-4145b4520d16/mzaf_17680255659365565570.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a2/63/62a2636a-f3cf-21e8-fa7b-8a4ca1d0bd24/849486005877_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Touch Me",
+      "Touch Me"
+    ]
+  },
+  {
+    "title": "Mere Haath Mein",
+    "movie": "Fanaa",
+    "singers": [
+      "Aamir Khan, Kajol, Sonu Nigam & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Aamir Khan, Kajol, Sonu Nigam & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Aamir Khan, Kajol, Sonu Nigam & Sunidhi Chauhan"
+    ],
+    "lyricist": "Aamir Khan, Kajol, Sonu Nigam & Sunidhi Chauhan",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/ac/3c/c7ac3c86-93fc-00a1-2961-65ff2ff64677/mzaf_10634176023812107998.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6c/aa/dc/6caadc6b-8c42-a122-b3e1-41e6f14f0c22/849486005921_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mere Haath Mein",
+      "Mere Haath Mein"
+    ]
+  },
+  {
+    "title": "Kabhi Alvida Naa Kehna",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "singers": [
+      "Alka Yagnik, Shankar Ehsaan Loy & Sonu Nigam"
+    ],
+    "artists": [
+      "Alka Yagnik, Shankar Ehsaan Loy & Sonu Nigam"
+    ],
+    "composers": [
+      "Alka Yagnik, Shankar Ehsaan Loy & Sonu Nigam"
+    ],
+    "lyricist": "Alka Yagnik, Shankar Ehsaan Loy & Sonu Nigam",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/47/c6/de47c68d-317f-bdd0-1e66-a9fd2b35f224/mzaf_13935183512895658484.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/3e/84/153e841c-14dc-4841-7e2d-f677dd9bff61/888880946089.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kabhi Alvida Naa Kehna",
+      "Kabhi Alvida Naa Kehna"
+    ]
+  },
+  {
+    "title": "Dekho Na",
+    "movie": "Fanaa",
+    "singers": [
+      "Sonu Nigam & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sonu Nigam & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sonu Nigam & Sunidhi Chauhan"
+    ],
+    "lyricist": "Sonu Nigam & Sunidhi Chauhan",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3a/5d/01/3a5d01a3-a82d-a236-9a53-299f9a677f48/mzaf_2759647044594360560.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6c/aa/dc/6caadc6b-8c42-a122-b3e1-41e6f14f0c22/849486005921_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dekho Na",
+      "Dekho Na"
+    ]
+  },
+  {
+    "title": "Tainu Leke",
+    "movie": "Salaam-E-Ishq",
+    "singers": [
+      "Sonu Nigam & Mahalakshmi Iyer"
+    ],
+    "artists": [
+      "Sonu Nigam & Mahalakshmi Iyer"
+    ],
+    "composers": [
+      "Sonu Nigam & Mahalakshmi Iyer"
+    ],
+    "lyricist": "Sonu Nigam & Mahalakshmi Iyer",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/57/6c/82576cfa-fabd-f0bf-bb5a-5f146c112410/mzaf_7855436305613527218.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/6a/cc/b16accb9-8890-a3ad-6206-add2f69dfee8/8902894602082_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tainu Leke",
+      "Tainu Leke"
+    ]
+  },
+  {
+    "title": "Maula Mere Maula",
+    "movie": "Anwar",
+    "singers": [
+      "Roop Kumar Rathod"
+    ],
+    "artists": [
+      "Roop Kumar Rathod"
+    ],
+    "composers": [
+      "Roop Kumar Rathod"
+    ],
+    "lyricist": "Roop Kumar Rathod",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/86/20/528620f1-40f2-178b-0ac2-05f3f4a18a4a/mzaf_4872020521374200423.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/fa/58/0bfa58d1-a5b0-a1a9-502b-710d23fb7a18/191773226787.jpg/400x400bb.jpg",
+    "aliases": [
+      "Maula Mere Maula",
+      "Maula Mere Maula"
+    ]
+  },
+  {
+    "title": "Dani California",
+    "movie": "Stadium Arcadium",
+    "singers": [
+      "Red Hot Chili Peppers"
+    ],
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "composers": [
+      "Red Hot Chili Peppers"
+    ],
+    "lyricist": "Red Hot Chili Peppers",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/8c/ec/de8cecc8-6f49-a4fb-20fb-e2e07dcaf485/mzaf_10997164662025171315.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5e/49/35/5e493511-d87b-5aa2-b379-30fffbae902b/093624932154.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dani California",
+      "Dani California"
+    ]
+  },
+  {
+    "title": "My Wish",
+    "movie": "Me and My Gang (Bonus Track Version)",
+    "singers": [
+      "Rascal Flatts"
+    ],
+    "artists": [
+      "Rascal Flatts"
+    ],
+    "composers": [
+      "Rascal Flatts"
+    ],
+    "lyricist": "Rascal Flatts",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/ca/d7/06cad742-ef5f-f4c8-3e85-2c4786510b93/mzaf_2814810772621672360.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/2a/4b/662a4b5e-bc4f-94bf-bc9b-e10fbfedbabc/06PNDIM00970.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "My Wish",
+      "My Wish"
+    ]
+  },
+  {
+    "title": "SOS",
+    "movie": "A Girl Like Me (Bonus Track Version)",
+    "singers": [
+      "Rihanna"
+    ],
+    "artists": [
+      "Rihanna"
+    ],
+    "composers": [
+      "Rihanna"
+    ],
+    "lyricist": "Rihanna",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/33/1a/14331a37-869e-6bf2-1948-6d247604ddad/mzaf_10059486702684661535.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/35/c6/58/35c65858-52cd-94f5-2f8f-fbaa811a49da/16UMGIM58854.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "SOS",
+      "SOS"
+    ]
+  },
+  {
+    "title": "Say It Right",
+    "movie": "Loose",
+    "singers": [
+      "Nelly Furtado"
+    ],
+    "artists": [
+      "Nelly Furtado"
+    ],
+    "composers": [
+      "Nelly Furtado"
+    ],
+    "lyricist": "Nelly Furtado",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/30/b7/0a30b7af-6624-e880-9e25-ac1754f3d183/mzaf_11689621448438519627.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Say It Right",
+      "Say It Right"
+    ]
+  },
+  {
+    "title": "Give It Away",
+    "movie": "It Just Comes Natural",
+    "singers": [
+      "George Strait"
+    ],
+    "artists": [
+      "George Strait"
+    ],
+    "composers": [
+      "George Strait"
+    ],
+    "lyricist": "George Strait",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/57/c1/fc57c1b3-25f8-5ea0-fbd7-d6352da61a0b/mzaf_880279003633052634.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/57/33/c2/5733c27f-54d7-3de4-daea-7f37399322ab/00602498889602.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Give It Away",
+      "Give It Away"
+    ]
+  },
+  {
+    "title": "Crazy Kiya Re",
+    "movie": "Dhoom:2",
+    "singers": [
+      "Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sunidhi Chauhan"
+    ],
+    "lyricist": "Sunidhi Chauhan",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/f0/80/fbf080e3-174a-a19b-b71e-0c31425f5b0d/mzaf_14616046893043202549.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a2/63/62a2636a-f3cf-21e8-fa7b-8a4ca1d0bd24/849486005877_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Crazy Kiya Re",
+      "Crazy Kiya Re"
+    ]
+  },
+  {
+    "title": "Beedi",
+    "movie": "Omkara",
+    "singers": [
+      "Vishal Bhardwaj, Sunidhi Chauhan, Sukhwinder Singh, Nachiketa Chakraborty & Clinton Cerejo"
+    ],
+    "artists": [
+      "Vishal Bhardwaj, Sunidhi Chauhan, Sukhwinder Singh, Nachiketa Chakraborty & Clinton Cerejo"
+    ],
+    "composers": [
+      "Vishal Bhardwaj, Sunidhi Chauhan, Sukhwinder Singh, Nachiketa Chakraborty & Clinton Cerejo"
+    ],
+    "lyricist": "Vishal Bhardwaj, Sunidhi Chauhan, Sukhwinder Singh, Nachiketa Chakraborty & Clinton Cerejo",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/98/3e/d0/983ed045-1779-89f6-d872-66f3142b1569/mzaf_10032372685880438914.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/54/19/ff5419cf-966b-0c4d-ebca-5c466f1fb6cc/828970000123.jpg/400x400bb.jpg",
+    "aliases": [
+      "Beedi",
+      "Beedi"
+    ]
+  },
+  {
+    "title": "Aashiqui Mein Teri",
+    "movie": "36 China Town",
+    "singers": [
+      "Himesh Reshammiya & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Himesh Reshammiya & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Himesh Reshammiya & Sunidhi Chauhan"
+    ],
+    "lyricist": "Himesh Reshammiya & Sunidhi Chauhan",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/c5/a5/2ac5a5a9-425b-9d22-232a-4167db287ae0/mzaf_6753669883063249744.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/aa/8a/87/aa8a8747-a8ff-5a42-f9c5-fe97d8969c54/8901854004133.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aashiqui Mein Teri",
+      "Aashiqui Mein Teri"
+    ]
+  },
+  {
+    "title": "Aur Mohabbat Hai",
+    "movie": "Bollywood Hits",
+    "singers": [
+      "Shaan"
+    ],
+    "artists": [
+      "Shaan"
+    ],
+    "composers": [
+      "Shaan"
+    ],
+    "lyricist": "Shaan",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/11/b3/8b/11b38b7a-ccba-f0ca-32c8-80004ffbdb1b/mzaf_13341840714228488756.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3a/2b/76/3a2b7632-21dc-4d04-3a3b-2dfb9f411273/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aur Mohabbat Hai (From \"Main Prem Ki Diwani Hoon\")",
+      "Aur Mohabbat Hai"
+    ]
+  },
+  {
+    "title": "Javeda Zindagi",
+    "movie": "Anwar",
+    "singers": [
+      "Kshitij & Shilpa Rao"
+    ],
+    "artists": [
+      "Kshitij & Shilpa Rao"
+    ],
+    "composers": [
+      "Kshitij & Shilpa Rao"
+    ],
+    "lyricist": "Kshitij & Shilpa Rao",
+    "releaseYear": 2006,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/77/de/1a77deeb-85d0-cfc2-0746-0cd432651a6c/mzaf_4424679064812643846.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/fa/58/0bfa58d1-a5b0-a1a9-502b-710d23fb7a18/191773226787.jpg/400x400bb.jpg",
+    "aliases": [
+      "Javeda Zindagi",
+      "Javeda Zindagi"
+    ]
+  },
+  {
     "title": "Best of You",
     "movie": "In Your Honor",
     "singers": [
@@ -26921,6 +44967,604 @@ module.exports = [
     "aliases": [
       "Chasing Cars",
       "Chasing Cars"
+    ]
+  },
+  {
+    "title": "Ye Ishq Hai",
+    "movie": "Jab We Met",
+    "singers": [
+      "Pritam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Pritam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Pritam & Shreya Ghoshal"
+    ],
+    "lyricist": "Pritam & Shreya Ghoshal",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/05/e5/0305e587-259a-b430-8d63-e5e43b1715e8/mzaf_1397947645979200325.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ye Ishq Hai",
+      "Ye Ishq Hai"
+    ]
+  },
+  {
+    "title": "Deewangi Deewangi",
+    "movie": "Om Shanti Om",
+    "singers": [
+      "Shaan, Udit Narayan, Shreya Ghoshal, Sunidhi Chauhan, Rahul Saxena & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Shaan, Udit Narayan, Shreya Ghoshal, Sunidhi Chauhan, Rahul Saxena & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Shaan, Udit Narayan, Shreya Ghoshal, Sunidhi Chauhan, Rahul Saxena & Vishal & Shekhar"
+    ],
+    "lyricist": "Shaan, Udit Narayan, Shreya Ghoshal, Sunidhi Chauhan, Rahul Saxena & Vishal & Shekhar",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/5b/bb/f45bbb00-f83b-b5ef-cad0-3b3b38ffbc93/mzaf_7548587024638479035.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/16/13/4c161318-5bf1-ea55-774d-2f55e2361d10/8902894623179_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Deewangi Deewangi",
+      "Deewangi Deewangi"
+    ]
+  },
+  {
+    "title": "Dus Bahane",
+    "movie": "Dus",
+    "singers": [
+      "Shaan & KK"
+    ],
+    "artists": [
+      "Shaan & KK"
+    ],
+    "composers": [
+      "Shaan & KK"
+    ],
+    "lyricist": "Shaan & KK",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/7c/b3/697cb396-61a0-e60c-df88-6b330c0cd7cf/mzaf_11384481886068100120.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/6c/9f/02/6c9f0295-4afc-e7c2-1969-e10f55282afb/8902894610759_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dus Bahane",
+      "Dus Bahane"
+    ]
+  },
+  {
+    "title": "Woh Lamhe Woh Baatein",
+    "movie": "Zeher",
+    "singers": [
+      "Roop Kumar Rathod, Sayeed Quadri, Mithoon, Naresh Sharma & Atif Aslam"
+    ],
+    "artists": [
+      "Roop Kumar Rathod, Sayeed Quadri, Mithoon, Naresh Sharma & Atif Aslam"
+    ],
+    "composers": [
+      "Roop Kumar Rathod, Sayeed Quadri, Mithoon, Naresh Sharma & Atif Aslam"
+    ],
+    "lyricist": "Roop Kumar Rathod, Sayeed Quadri, Mithoon, Naresh Sharma & Atif Aslam",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/ca/a3/c5caa321-497e-84f9-6c69-1ac257f518df/mzaf_7054101797817312922.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/4e/5a/9d4e5a11-1eb8-ae96-eb4b-cf01c89f583c/0602465590869.jpg/400x400bb.jpg",
+    "aliases": [
+      "Woh Lamhe Woh Baatein",
+      "Woh Lamhe Woh Baatein"
+    ]
+  },
+  {
+    "title": "Khoon Chala",
+    "movie": "Rang De Basanti",
+    "singers": [
+      "A.R. Rahman & Mohit Chauhan"
+    ],
+    "artists": [
+      "A.R. Rahman & Mohit Chauhan"
+    ],
+    "composers": [
+      "A.R. Rahman & Mohit Chauhan"
+    ],
+    "lyricist": "A.R. Rahman & Mohit Chauhan",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/e3/be/dce3be56-90d9-b7ec-1198-e43abf8f0167/mzaf_10084912141662433678.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/2c/6c/912c6c29-bbec-e560-0088-0cdd4201359a/888880944825.jpg/400x400bb.jpg",
+    "aliases": [
+      "Khoon Chala",
+      "Khoon Chala"
+    ]
+  },
+  {
+    "title": "Nagada Nagada",
+    "movie": "Jab We Met",
+    "singers": [
+      "Pritam, Sonu Nigam & Javed Ali"
+    ],
+    "artists": [
+      "Pritam, Sonu Nigam & Javed Ali"
+    ],
+    "composers": [
+      "Pritam, Sonu Nigam & Javed Ali"
+    ],
+    "lyricist": "Pritam, Sonu Nigam & Javed Ali",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/16/ee/ce16ee7a-c633-f39e-9552-605ce789e13c/mzaf_6311591887088604748.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nagada Nagada",
+      "Nagada Nagada"
+    ]
+  },
+  {
+    "title": "Mast Kalandar",
+    "movie": "Heyy Babyy",
+    "singers": [
+      "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan"
+    ],
+    "artists": [
+      "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan"
+    ],
+    "composers": [
+      "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan"
+    ],
+    "lyricist": "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/ca/bf/f8cabfef-c92e-015a-d0f4-5a8d67401755/mzaf_6610986524016059301.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/30/9d/df/309ddfb6-11a6-adbe-5500-5eff36d51fb7/8902894622530_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mast Kalandar",
+      "Mast Kalandar"
+    ]
+  },
+  {
+    "title": "Chori Chori",
+    "movie": "Lucky - No Time For Love",
+    "singers": [
+      "Alka Yagnik & Sonu Nigam"
+    ],
+    "artists": [
+      "Alka Yagnik & Sonu Nigam"
+    ],
+    "composers": [
+      "Alka Yagnik & Sonu Nigam"
+    ],
+    "lyricist": "Alka Yagnik & Sonu Nigam",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/2c/c5/2d2cc5b6-b87e-fe03-cc68-7dd4e0a57fb8/mzaf_16466135798408439132.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/22/2b/af/222baf16-aafe-4346-85bb-c3bdebaa9ab8/8902894119153_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chori Chori",
+      "Chori Chori"
+    ]
+  },
+  {
+    "title": "Mauja Hi Mauja",
+    "movie": "Jab We Met",
+    "singers": [
+      "Pritam & Mika Singh"
+    ],
+    "artists": [
+      "Pritam & Mika Singh"
+    ],
+    "composers": [
+      "Pritam & Mika Singh"
+    ],
+    "lyricist": "Pritam & Mika Singh",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/1d/09/041d09d7-a360-21c2-c4e3-a5378f0db855/mzaf_12873879781101561989.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/c7/43/3dc74387-e7f4-2342-397c-4cf2037c69a5/8902894623223_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mauja Hi Mauja",
+      "Mauja Hi Mauja"
+    ]
+  },
+  {
+    "title": "My Dil Goes Mmmm",
+    "movie": "Salaam Namaste",
+    "singers": [
+      "Vishal & Shekhar, Gayatri Iyer & Shaan"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Gayatri Iyer & Shaan"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Gayatri Iyer & Shaan"
+    ],
+    "lyricist": "Vishal & Shekhar, Gayatri Iyer & Shaan",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/a0/c2/eba0c223-0aa7-42bd-047a-26c6794bade4/mzaf_1231262330775546876.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f5/11/1d/f5111d96-0ade-8d52-85da-82cabfe91ca3/849486008090_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "My Dil Goes Mmmm",
+      "My Dil Goes Mmmm"
+    ]
+  },
+  {
+    "title": "Dard - E - Disco",
+    "movie": "Om Shanti Om",
+    "singers": [
+      "Sukhwinder Singh, Marianne, Nisha, Caralisa & Vishal & Shekhar"
+    ],
+    "artists": [
+      "Sukhwinder Singh, Marianne, Nisha, Caralisa & Vishal & Shekhar"
+    ],
+    "composers": [
+      "Sukhwinder Singh, Marianne, Nisha, Caralisa & Vishal & Shekhar"
+    ],
+    "lyricist": "Sukhwinder Singh, Marianne, Nisha, Caralisa & Vishal & Shekhar",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/32/ec/c932ec79-17ad-237f-9a65-e50dbfa278fe/mzaf_6194138917818143375.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/16/13/4c161318-5bf1-ea55-774d-2f55e2361d10/8902894623179_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dard - E - Disco",
+      "Dard - E - Disco"
+    ]
+  },
+  {
+    "title": "Hey Shona",
+    "movie": "Ta Ra Rum Pum",
+    "singers": [
+      "Vishal & Shekhar, Shaan & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Shaan & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Shaan & Sunidhi Chauhan"
+    ],
+    "lyricist": "Vishal & Shekhar, Shaan & Sunidhi Chauhan",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/9b/c4/969bc421-2ec7-d38b-bfb6-dcb6c5d987ef/mzaf_10201790723172796048.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/6f/ff/aa6fff68-2afb-9b5e-fb15-0a9404978265/849486008106_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hey Shona",
+      "Hey Shona"
+    ]
+  },
+  {
+    "title": "Salaam Namaste",
+    "movie": "Salaam Namaste",
+    "singers": [
+      "Vishal & Shekhar, Kunal Ganjawala & Vasundhara Das"
+    ],
+    "artists": [
+      "Vishal & Shekhar, Kunal Ganjawala & Vasundhara Das"
+    ],
+    "composers": [
+      "Vishal & Shekhar, Kunal Ganjawala & Vasundhara Das"
+    ],
+    "lyricist": "Vishal & Shekhar, Kunal Ganjawala & Vasundhara Das",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9d/8c/5f/9d8c5f35-18aa-a873-1195-e325147a50a6/mzaf_16363544924692106732.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f5/11/1d/f5111d96-0ade-8d52-85da-82cabfe91ca3/849486008090_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Salaam Namaste",
+      "Salaam Namaste"
+    ]
+  },
+  {
+    "title": "Temperature",
+    "movie": "The Trinity",
+    "singers": [
+      "Sean Paul"
+    ],
+    "artists": [
+      "Sean Paul"
+    ],
+    "composers": [
+      "Sean Paul"
+    ],
+    "lyricist": "Sean Paul",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/9e/32/ed9e3204-fba5-3294-ceea-2a2b314274cd/mzaf_2436026840062453824.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/6b/a9/89/6ba9895c-5aff-8be1-4ff9-9f88369077b1/dj.decwpjor.jpg/400x400bb.jpg",
+    "aliases": [
+      "Temperature",
+      "Temperature"
+    ]
+  },
+  {
+    "title": "Summertime",
+    "movie": "The Road and the Radio",
+    "singers": [
+      "Kenny Chesney"
+    ],
+    "artists": [
+      "Kenny Chesney"
+    ],
+    "composers": [
+      "Kenny Chesney"
+    ],
+    "lyricist": "Kenny Chesney",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/e3/49/2fe349ef-99d0-8f7e-2c95-132b3f19b004/mzaf_17681074792028035206.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5d/7d/f2/5d7df222-335e-eae6-2b83-8cc731af5b7c/mzi.sxhpnzpg.jpg/400x400bb.jpg",
+    "aliases": [
+      "Summertime",
+      "Summertime"
+    ]
+  },
+  {
+    "title": "Over My Head (Cable Car)",
+    "movie": "How to Save a Life",
+    "singers": [
+      "The Fray"
+    ],
+    "artists": [
+      "The Fray"
+    ],
+    "composers": [
+      "The Fray"
+    ],
+    "lyricist": "The Fray",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/56/ed/c056ed49-e8b4-7588-bd22-9e51a2e461f6/mzaf_1584178635666733969.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/6c/0f/1a6c0f8b-0156-3428-93af-fae481fac7d9/dj.jmgcmbga.jpg/400x400bb.jpg",
+    "aliases": [
+      "Over My Head (Cable Car)",
+      "Over My Head (Cable Car)"
+    ]
+  },
+  {
+    "title": "Animals",
+    "movie": "All the Right Reasons",
+    "singers": [
+      "Nickelback"
+    ],
+    "artists": [
+      "Nickelback"
+    ],
+    "composers": [
+      "Nickelback"
+    ],
+    "lyricist": "Nickelback",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/93/c4/9493c479-b0ef-b601-f34b-4e7acc7bb118/mzaf_7491165438262272562.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f8/e0/db/f8e0db52-f6e5-5d85-6e0a-ae73e5caab11/mzi.qohxegpg.jpg/400x400bb.jpg",
+    "aliases": [
+      "Animals",
+      "Animals"
+    ]
+  },
+  {
+    "title": "Photograph",
+    "movie": "All the Right Reasons",
+    "singers": [
+      "Nickelback"
+    ],
+    "artists": [
+      "Nickelback"
+    ],
+    "composers": [
+      "Nickelback"
+    ],
+    "lyricist": "Nickelback",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/c3/5d/67c35da7-d5e9-79a0-7f43-51c60dc3e700/mzaf_13162411422826125005.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f8/e0/db/f8e0db52-f6e5-5d85-6e0a-ae73e5caab11/mzi.qohxegpg.jpg/400x400bb.jpg",
+    "aliases": [
+      "Photograph",
+      "Photograph"
+    ]
+  },
+  {
+    "title": "Far Away",
+    "movie": "All the Right Reasons",
+    "singers": [
+      "Nickelback"
+    ],
+    "artists": [
+      "Nickelback"
+    ],
+    "composers": [
+      "Nickelback"
+    ],
+    "lyricist": "Nickelback",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/36/7e/4d367e38-406b-9bce-5bf3-54cbcc111023/mzaf_11245272641014233466.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f8/e0/db/f8e0db52-f6e5-5d85-6e0a-ae73e5caab11/mzi.qohxegpg.jpg/400x400bb.jpg",
+    "aliases": [
+      "Far Away",
+      "Far Away"
+    ]
+  },
+  {
+    "title": "Play Something Country",
+    "movie": "Hillbilly Deluxe",
+    "singers": [
+      "Brooks & Dunn"
+    ],
+    "artists": [
+      "Brooks & Dunn"
+    ],
+    "composers": [
+      "Brooks & Dunn"
+    ],
+    "lyricist": "Brooks & Dunn",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d5/8d/40/d58d408f-bb32-5867-bde8-a1149c0a52a0/mzaf_7215799982620353873.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/11/0e/2c/110e2c42-ce4e-f1e5-1b3e-9f01b56dc04f/884977848410.jpg/400x400bb.jpg",
+    "aliases": [
+      "Play Something Country",
+      "Play Something Country"
+    ]
+  },
+  {
+    "title": "First Day of My Life",
+    "movie": "I'm Wide Awake, It's Morning",
+    "singers": [
+      "Bright Eyes"
+    ],
+    "artists": [
+      "Bright Eyes"
+    ],
+    "composers": [
+      "Bright Eyes"
+    ],
+    "lyricist": "Bright Eyes",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/3e/1a/9c3e1a0c-c8ec-6378-a0f1-e1ad14f1c53a/mzaf_451736197271651757.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/83/fd/0d83fd2e-1cb5-7965-b392-f91f80188290/508.jpg/400x400bb.jpg",
+    "aliases": [
+      "First Day of My Life",
+      "First Day of My Life"
+    ]
+  },
+  {
+    "title": "Be Without You (Kendu Mix)",
+    "movie": "The Breakthrough (Deluxe)",
+    "singers": [
+      "Mary J. Blige"
+    ],
+    "artists": [
+      "Mary J. Blige"
+    ],
+    "composers": [
+      "Mary J. Blige"
+    ],
+    "lyricist": "Mary J. Blige",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/fd/52/09fd52a7-847b-238f-5820-300e712895b7/mzaf_14477967215197233589.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/d0/84/8ed08455-44e9-718c-d2a3-2997ea329b12/15UMGIM00591.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Be Without You (Kendu Mix)",
+      "Be Without You (Kendu Mix)"
+    ]
+  },
+  {
+    "title": "Do U Wanna Partner",
+    "movie": "Partner",
+    "singers": [
+      "Wajid, Shaan, Udit Narayan, Suzi Q & Clington"
+    ],
+    "artists": [
+      "Wajid, Shaan, Udit Narayan, Suzi Q & Clington"
+    ],
+    "composers": [
+      "Wajid, Shaan, Udit Narayan, Suzi Q & Clington"
+    ],
+    "lyricist": "Wajid, Shaan, Udit Narayan, Suzi Q & Clington",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/80/50/1d/80501d9d-7d9f-167e-fe18-c169d29dd5eb/mzaf_12520793643984940805.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/1c/19/79/1c197964-2718-ed49-f31a-13fc71739f95/8902894836487_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Do U Wanna Partner",
+      "Do U Wanna Partner"
     ]
   },
   {
@@ -27574,6 +46218,422 @@ module.exports = [
     ]
   },
   {
+    "title": "Chale Jaise Hawaien",
+    "movie": "Main Hoon Na",
+    "singers": [
+      "KK & Vasundhara Das"
+    ],
+    "artists": [
+      "KK & Vasundhara Das"
+    ],
+    "composers": [
+      "KK & Vasundhara Das"
+    ],
+    "lyricist": "KK & Vasundhara Das",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/70/d0/ee/70d0ee7a-e998-9332-54f6-7509933e87bf/mzaf_8421201735471132897.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/e5/1c/dae51cac-d526-1dc3-5bcc-3d1418fa5fc5/8902894117388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chale Jaise Hawaien",
+      "Chale Jaise Hawaien"
+    ]
+  },
+  {
+    "title": "Aadat",
+    "movie": "Kalyug",
+    "singers": [
+      "Jal, Mithoon & Atif Aslam"
+    ],
+    "artists": [
+      "Jal, Mithoon & Atif Aslam"
+    ],
+    "composers": [
+      "Jal, Mithoon & Atif Aslam"
+    ],
+    "lyricist": "Jal, Mithoon & Atif Aslam",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/f8/67/f1f86771-97d0-91a3-f619-659586af410c/mzaf_8775280278482094900.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/41/48/27414810-2929-aa34-e145-000948a5c8b7/0602465586596.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aadat",
+      "Aadat"
+    ]
+  },
+  {
+    "title": "Do Pal",
+    "movie": "Veer-Zaara",
+    "singers": [
+      "Lata Mangeshkar & Sonu Nigam"
+    ],
+    "artists": [
+      "Lata Mangeshkar & Sonu Nigam"
+    ],
+    "composers": [
+      "Lata Mangeshkar & Sonu Nigam"
+    ],
+    "lyricist": "Lata Mangeshkar & Sonu Nigam",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/07/54/d307545a-aae9-0127-12b2-1b0b2ee5904c/mzaf_11177958550768726359.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/bf/16/54bf16a4-e56b-64aa-4afa-f5a122d1e283/849486008182_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Do Pal",
+      "Do Pal"
+    ]
+  },
+  {
+    "title": "Tumse Milke Dil Ka",
+    "movie": "Main Hoon Na",
+    "singers": [
+      "Sonu Nigam & Sabri Brothers"
+    ],
+    "artists": [
+      "Sonu Nigam & Sabri Brothers"
+    ],
+    "composers": [
+      "Sonu Nigam & Sabri Brothers"
+    ],
+    "lyricist": "Sonu Nigam & Sabri Brothers",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/8c/c6/958cc616-cb38-617f-b8a8-d236c76ebe3a/mzaf_12855382740684885872.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/e5/1c/dae51cac-d526-1dc3-5bcc-3d1418fa5fc5/8902894117388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tumse Milke Dil Ka",
+      "Tumse Milke Dil Ka"
+    ]
+  },
+  {
+    "title": "Mujhse Shaadi Karogi",
+    "movie": "Mujhse Shaadi Karogi",
+    "singers": [
+      "Sonu Nigam, Udit Narayan & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sonu Nigam, Udit Narayan & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sonu Nigam, Udit Narayan & Sunidhi Chauhan"
+    ],
+    "lyricist": "Sonu Nigam, Udit Narayan & Sunidhi Chauhan",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/0a/0f/6a0a0fc0-251c-900a-a014-d4ae1e5a4651/mzaf_5818473179479469602.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cf/53/9c/cf539c00-d56d-07c6-2177-c43392ea9f36/8902894117753_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mujhse Shaadi Karogi",
+      "Mujhse Shaadi Karogi"
+    ]
+  },
+  {
+    "title": "Ishq Hua",
+    "movie": "Aaja Nachle",
+    "singers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "lyricist": "Sonu Nigam & Shreya Ghoshal",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/73/9e/a9739ee0-8e52-a9a5-ce6a-bab23984e366/mzaf_10586314019136888132.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/77/7a/0f777a59-0a16-89d5-7273-d6de038ae7c0/849486005808_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Hua",
+      "Ishq Hua"
+    ]
+  },
+  {
+    "title": "Aaja Soniye",
+    "movie": "Mujhse Shaadi Karogi",
+    "singers": [
+      "Sonu Nigam & Alka Yagnik"
+    ],
+    "artists": [
+      "Sonu Nigam & Alka Yagnik"
+    ],
+    "composers": [
+      "Sonu Nigam & Alka Yagnik"
+    ],
+    "lyricist": "Sonu Nigam & Alka Yagnik",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/67/66/6b676698-2004-77cd-6aa3-135c7a4da385/mzaf_11144387109357001238.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cf/53/9c/cf539c00-d56d-07c6-2177-c43392ea9f36/8902894117753_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aaja Soniye",
+      "Aaja Soniye"
+    ]
+  },
+  {
+    "title": "Kandhon Se Milte Hain Kandhe",
+    "movie": "Lakshya",
+    "singers": [
+      "Shankar Mahadevan, Sonu Nigam, Hariharan, Kunal Ganjawala, Roop Kumar Rathod, Shankar Ehsaan Loy & Vijay Prakash"
+    ],
+    "artists": [
+      "Shankar Mahadevan, Sonu Nigam, Hariharan, Kunal Ganjawala, Roop Kumar Rathod, Shankar Ehsaan Loy & Vijay Prakash"
+    ],
+    "composers": [
+      "Shankar Mahadevan, Sonu Nigam, Hariharan, Kunal Ganjawala, Roop Kumar Rathod, Shankar Ehsaan Loy & Vijay Prakash"
+    ],
+    "lyricist": "Shankar Mahadevan, Sonu Nigam, Hariharan, Kunal Ganjawala, Roop Kumar Rathod, Shankar Ehsaan Loy & Vijay Prakash",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/87/f6/5587f667-4fde-ec5c-df5d-33133a8ca335/mzaf_12807623195945782534.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/41/81/c3/4181c3fc-4d54-c26b-2c8c-58746c112121/884977585810.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kandhon Se Milte Hain Kandhe",
+      "Kandhon Se Milte Hain Kandhe"
+    ]
+  },
+  {
+    "title": "Bless the Broken Road",
+    "movie": "Feels Like Today",
+    "singers": [
+      "Rascal Flatts"
+    ],
+    "artists": [
+      "Rascal Flatts"
+    ],
+    "composers": [
+      "Rascal Flatts"
+    ],
+    "lyricist": "Rascal Flatts",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/1b/8b/771b8b8e-0a00-f210-1270-8944f5bb841b/mzaf_11893806614961595569.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/e0/12/63e0128b-8e87-af19-cfe4-9d1a4864c2b7/06UMGIM24656.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bless the Broken Road",
+      "Bless the Broken Road"
+    ]
+  },
+  {
+    "title": "Float On",
+    "movie": "Good News for People Who Love Bad News",
+    "singers": [
+      "Modest Mouse"
+    ],
+    "artists": [
+      "Modest Mouse"
+    ],
+    "composers": [
+      "Modest Mouse"
+    ],
+    "lyricist": "Modest Mouse",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/d2/e6/6ad2e6b3-89e8-00b4-eb27-188b045ebd9d/mzaf_17149316111005193085.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/02/da/f902dad6-7a7e-203a-5648-78e67d42b515/mzi.fcuuybmm.jpg/400x400bb.jpg",
+    "aliases": [
+      "Float On",
+      "Float On"
+    ]
+  },
+  {
+    "title": "Lonely",
+    "movie": "Trouble (Deluxe Edition)",
+    "singers": [
+      "Akon"
+    ],
+    "artists": [
+      "Akon"
+    ],
+    "composers": [
+      "Akon"
+    ],
+    "lyricist": "Akon",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/54/0d/86540d69-0859-a791-5257-6a2784f81095/mzaf_1649354300942287070.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/05/cd/f8/05cdf871-c9a7-e29c-d00b-3214173806d4/14UMGIM28691.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lonely",
+      "Lonely"
+    ]
+  },
+  {
+    "title": "Because of You",
+    "movie": "Breakaway",
+    "singers": [
+      "Kelly Clarkson"
+    ],
+    "artists": [
+      "Kelly Clarkson"
+    ],
+    "composers": [
+      "Kelly Clarkson"
+    ],
+    "lyricist": "Kelly Clarkson",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/e8/8c/21e88c85-0a7c-c9d5-8d70-8f6f9014c65d/mzaf_12962252855820215890.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/7e/c5/e37ec5d7-725b-695c-333c-ee0deb5adcc6/dj.mveioodu.jpg/400x400bb.jpg",
+    "aliases": [
+      "Because of You",
+      "Because of You"
+    ]
+  },
+  {
+    "title": "Dhoom Machale",
+    "movie": "Dhoom",
+    "singers": [
+      "Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sunidhi Chauhan"
+    ],
+    "lyricist": "Sunidhi Chauhan",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/8d/0d/de8d0d16-40d8-efc0-a316-7b314d2d42be/mzaf_14876172602053870216.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/16/6f/37166fe6-9203-aa32-9202-ed73344eeae3/849486005860_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dhoom Machale",
+      "Dhoom Machale"
+    ]
+  },
+  {
+    "title": "Saaki",
+    "movie": "Musafir",
+    "singers": [
+      "Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "lyricist": "Sukhwinder Singh & Sunidhi Chauhan",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/78/08/4578082d-1626-906e-de24-898387e5e118/mzaf_3249086481520968034.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/6c/07/b2/6c07b2a6-efc4-5236-6877-bfb8a58dc171/8902894118361_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Saaki",
+      "Saaki"
+    ]
+  },
+  {
+    "title": "Gori Gori Gori Gori",
+    "movie": "Main Hoon Na",
+    "singers": [
+      "Anu Malik, KK, Shreya Ghoshal & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Anu Malik, KK, Shreya Ghoshal & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Anu Malik, KK, Shreya Ghoshal & Sunidhi Chauhan"
+    ],
+    "lyricist": "Anu Malik, KK, Shreya Ghoshal & Sunidhi Chauhan",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/38/78/4e3878c4-de34-680d-6c8d-f6908fcf7d20/mzaf_14367204587917135543.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/e5/1c/dae51cac-d526-1dc3-5bcc-3d1418fa5fc5/8902894117388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gori Gori Gori Gori",
+      "Gori Gori Gori Gori"
+    ]
+  },
+  {
+    "title": "Tumhe Jo Maine Dekha",
+    "movie": "Main Hoon Na",
+    "singers": [
+      "Abhijeet & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Abhijeet & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Abhijeet & Shreya Ghoshal"
+    ],
+    "lyricist": "Abhijeet & Shreya Ghoshal",
+    "releaseYear": 2004,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/e3/af/2fe3af87-eccb-a4f2-57a2-6d28b9a8d0ed/mzaf_14364585902930458236.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/e5/1c/dae51cac-d526-1dc3-5bcc-3d1418fa5fc5/8902894117388_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tumhe Jo Maine Dekha",
+      "Tumhe Jo Maine Dekha"
+    ]
+  },
+  {
     "title": "Stacy's Mom",
     "movie": "Welcome Interstate Managers",
     "singers": [
@@ -27857,6 +46917,136 @@ module.exports = [
     "aliases": [
       "Suno Na Suno Na",
       "Suno Na Suno Na"
+    ]
+  },
+  {
+    "title": "Dil Dooba",
+    "movie": "Khakee",
+    "singers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "artists": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "composers": [
+      "Sonu Nigam & Shreya Ghoshal"
+    ],
+    "lyricist": "Sonu Nigam & Shreya Ghoshal",
+    "releaseYear": 2003,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a7/76/54/a776545b-9f90-cc7a-492b-371357a974db/mzaf_1280967401337204402.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/ae/f7/78aef78b-9372-5f6f-7c74-9de4c49c8c66/8902894116817_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dil Dooba",
+      "Dil Dooba"
+    ]
+  },
+  {
+    "title": "It's the Time to Disco",
+    "movie": "Kal Ho Naa Ho",
+    "singers": [
+      "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan"
+    ],
+    "artists": [
+      "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan"
+    ],
+    "composers": [
+      "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan"
+    ],
+    "lyricist": "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan",
+    "releaseYear": 2003,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/56/84/aa5684b2-1723-3baf-f218-7b4b6777d4a8/mzaf_4868343062264457349.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/82/da/fb82dab1-d0cd-714c-000c-6450774fd5d4/888880945587.jpg/400x400bb.jpg",
+    "aliases": [
+      "It's the Time to Disco",
+      "It's the Time to Disco"
+    ]
+  },
+  {
+    "title": "Tu Aashiqui Hai",
+    "movie": "Jhankaar Beats",
+    "singers": [
+      "Vishal & Shekhar & KK"
+    ],
+    "artists": [
+      "Vishal & Shekhar & KK"
+    ],
+    "composers": [
+      "Vishal & Shekhar & KK"
+    ],
+    "lyricist": "Vishal & Shekhar & KK",
+    "releaseYear": 2003,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/eb/17/e1eb1726-e436-110e-6fa3-9a21c3a0cf0e/mzaf_9918625364416071792.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4c/06/48/4c0648b0-bbb0-8215-2cf0-2acd51b2880a/886445784718.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tu Aashiqui Hai",
+      "Tu Aashiqui Hai"
+    ]
+  },
+  {
+    "title": "Daughters",
+    "movie": "Heavier Things",
+    "singers": [
+      "John Mayer"
+    ],
+    "artists": [
+      "John Mayer"
+    ],
+    "composers": [
+      "John Mayer"
+    ],
+    "lyricist": "John Mayer",
+    "releaseYear": 2003,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/b3/f1/10b3f190-f646-0d9e-f658-8d7260878b62/mzaf_8203961900915440914.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/df/0a/be/mzi.bwiyzxrl.jpg/400x400bb.jpg",
+    "aliases": [
+      "Daughters",
+      "Daughters"
+    ]
+  },
+  {
+    "title": "Ocean Avenue",
+    "movie": "Ocean Avenue",
+    "singers": [
+      "Yellowcard"
+    ],
+    "artists": [
+      "Yellowcard"
+    ],
+    "composers": [
+      "Yellowcard"
+    ],
+    "lyricist": "Yellowcard",
+    "releaseYear": 2003,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/10/e7/68/10e76877-174d-7a42-b002-148824891b2f/mzaf_8791734343275536748.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/e0/d7/21e0d77b-e66c-0d04-c11f-f4287afd24cd/13UABIM59255.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ocean Avenue",
+      "Ocean Avenue"
     ]
   },
   {
@@ -28224,6 +47414,188 @@ module.exports = [
     ]
   },
   {
+    "title": "Dola Re Dola",
+    "movie": "Old Bollywood Songs",
+    "singers": [
+      "Kavita Krishnamurthy, Shreya Ghoshal & KK"
+    ],
+    "artists": [
+      "Kavita Krishnamurthy, Shreya Ghoshal & KK"
+    ],
+    "composers": [
+      "Kavita Krishnamurthy, Shreya Ghoshal & KK"
+    ],
+    "lyricist": "Kavita Krishnamurthy, Shreya Ghoshal & KK",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/25/99/3d2599f6-2f5c-52cf-bf59-8ddfa3b3ad91/mzaf_3878804461410871773.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/a2/77/4aa27736-93a2-0463-95d4-d7189e4d1ada/23UMGIM53694.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dola Re Dola (From \"Devdas\")",
+      "Dola Re Dola"
+    ]
+  },
+  {
+    "title": "Song: Maar Dala",
+    "movie": "Devdas - An Adaptation of Sarat Chandra Chattopadhyay's \"Devdas\"",
+    "singers": [
+      "Kavita Krishnamurthy & KK"
+    ],
+    "artists": [
+      "Kavita Krishnamurthy & KK"
+    ],
+    "composers": [
+      "Kavita Krishnamurthy & KK"
+    ],
+    "lyricist": "Kavita Krishnamurthy & KK",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/05/df/4305df57-4341-37ff-b72b-ec8533927d6d/mzaf_7544481407105116473.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/0d/ec/e90dec5c-e868-81ca-c0cb-1e71c8f3892a/00044006724829.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Song: Maar Dala",
+      "Song: Maar Dala"
+    ]
+  },
+  {
+    "title": "Song: Dola Re",
+    "movie": "Devdas - An Adaptation of Sarat Chandra Chattopadhyay's \"Devdas\"",
+    "singers": [
+      "Kavita Krishnamurthy, Shreya Ghoshal & KK"
+    ],
+    "artists": [
+      "Kavita Krishnamurthy, Shreya Ghoshal & KK"
+    ],
+    "composers": [
+      "Kavita Krishnamurthy, Shreya Ghoshal & KK"
+    ],
+    "lyricist": "Kavita Krishnamurthy, Shreya Ghoshal & KK",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/db/90/f2/db90f229-4800-c92e-719d-0b4442aca792/mzaf_151595453083401309.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/0d/ec/e90dec5c-e868-81ca-c0cb-1e71c8f3892a/00044006724829.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Song: Dola Re",
+      "Song: Dola Re"
+    ]
+  },
+  {
+    "title": "Drive (For Daddy Gene)",
+    "movie": "Drive",
+    "singers": [
+      "Alan Jackson"
+    ],
+    "artists": [
+      "Alan Jackson"
+    ],
+    "composers": [
+      "Alan Jackson"
+    ],
+    "lyricist": "Alan Jackson",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/9e/26/819e26ac-5a60-d354-6ab2-5ebda596974b/mzaf_7216972223299980788.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/ff/d1/7affd173-b1d0-63e6-7733-e42dcb7cc52c/dj.xmftukxb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Drive (For Daddy Gene)",
+      "Drive (For Daddy Gene)"
+    ]
+  },
+  {
+    "title": "Here Without You",
+    "movie": "The Greatest Hits",
+    "singers": [
+      "3 Doors Down"
+    ],
+    "artists": [
+      "3 Doors Down"
+    ],
+    "composers": [
+      "3 Doors Down"
+    ],
+    "lyricist": "3 Doors Down",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/92/83/ba9283e1-eca3-32fe-ee0e-40efb1784ed8/mzaf_6633723536355717712.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0b/c1/03/0bc10342-a863-560f-15ef-0348f49d23e6/12UMGIM57106.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Here Without You",
+      "Here Without You"
+    ]
+  },
+  {
+    "title": "Ladki Kyon",
+    "movie": "Hum Tum",
+    "singers": [
+      "Alka Yagnik & Shaan"
+    ],
+    "artists": [
+      "Alka Yagnik & Shaan"
+    ],
+    "composers": [
+      "Alka Yagnik & Shaan"
+    ],
+    "lyricist": "Alka Yagnik & Shaan",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/05/7b/17057ba3-53d9-785d-421c-9316cd6506ad/mzaf_8843881329063428770.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/6f/c0/876fc0b0-3b55-5a9c-87b7-0f10956f42d0/849486005938_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ladki Kyon",
+      "Ladki Kyon"
+    ]
+  },
+  {
+    "title": "Rama Re",
+    "movie": "Kaante",
+    "singers": [
+      "Sanjay Dutt, Shaan, Zubeen Garg, Anand Raj Anand & Sudesh Bhonsle"
+    ],
+    "artists": [
+      "Sanjay Dutt, Shaan, Zubeen Garg, Anand Raj Anand & Sudesh Bhonsle"
+    ],
+    "composers": [
+      "Sanjay Dutt, Shaan, Zubeen Garg, Anand Raj Anand & Sudesh Bhonsle"
+    ],
+    "lyricist": "Sanjay Dutt, Shaan, Zubeen Garg, Anand Raj Anand & Sudesh Bhonsle",
+    "releaseYear": 2002,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/62/03/916203f9-1329-bbb2-a71d-c8c828ce575b/mzaf_15225354956042178365.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/91/40/b69140e9-3abb-f19c-374f-a569aa278ba9/8902894115629_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Rama Re",
+      "Rama Re"
+    ]
+  },
+  {
     "title": "U Remind Me",
     "movie": "8701",
     "singers": [
@@ -28562,6 +47934,344 @@ module.exports = [
     ]
   },
   {
+    "title": "Teri Ore",
+    "movie": "Singh Is Kinng",
+    "singers": [
+      "Rahat Fateh Ali Khan, Shreya Ghoshal & Pritam"
+    ],
+    "artists": [
+      "Rahat Fateh Ali Khan, Shreya Ghoshal & Pritam"
+    ],
+    "composers": [
+      "Rahat Fateh Ali Khan, Shreya Ghoshal & Pritam"
+    ],
+    "lyricist": "Rahat Fateh Ali Khan, Shreya Ghoshal & Pritam",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/1e/13/721e13a2-7ea0-1dfb-7d9c-c5bbcf1f4df4/mzaf_14014711574677331364.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/f5/72/41f572a8-c21d-fbfa-8765-1d89d3ce48aa/191773507848.jpg/400x400bb.jpg",
+    "aliases": [
+      "Teri Ore",
+      "Teri Ore"
+    ]
+  },
+  {
+    "title": "Such Keh Raha Hai",
+    "movie": "Rehnaa Hai Terre Dil Mein",
+    "singers": [
+      "KK"
+    ],
+    "artists": [
+      "KK"
+    ],
+    "composers": [
+      "KK"
+    ],
+    "lyricist": "KK",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/93/e2/9593e28e-4825-3828-a4c5-4c2b8ff4eea4/mzaf_15845681997790354508.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/ba/de/0dbade87-5227-0960-6fa2-49f52ad0c335/191773226831.jpg/400x400bb.jpg",
+    "aliases": [
+      "Such Keh Raha Hai",
+      "Such Keh Raha Hai"
+    ]
+  },
+  {
+    "title": "Koi Kahe Kehta Rahe",
+    "movie": "Dil Chahta Hai",
+    "singers": [
+      "Shankar Mahadevan, Shaan & KK"
+    ],
+    "artists": [
+      "Shankar Mahadevan, Shaan & KK"
+    ],
+    "composers": [
+      "Shankar Mahadevan, Shaan & KK"
+    ],
+    "lyricist": "Shankar Mahadevan, Shaan & KK",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/17/6f/a5176fc0-4344-52ee-2e62-fa364ab911e1/mzaf_15111418004004397174.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/df/62/2bdf6213-3d11-5f01-cc5e-ddfcc15923b4/8902894114844_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Koi Kahe Kehta Rahe",
+      "Koi Kahe Kehta Rahe"
+    ]
+  },
+  {
+    "title": "You Are My Soniya",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "singers": [
+      "Sandesh Shandilya, Sonu Nigam & Alka Yagnik"
+    ],
+    "artists": [
+      "Sandesh Shandilya, Sonu Nigam & Alka Yagnik"
+    ],
+    "composers": [
+      "Sandesh Shandilya, Sonu Nigam & Alka Yagnik"
+    ],
+    "lyricist": "Sandesh Shandilya, Sonu Nigam & Alka Yagnik",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/53/d7/d853d75c-8c6a-9a9f-5ba3-6935c95bf4f8/mzaf_16690337702403925658.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/86/d3/96/86d396fd-9230-aab9-115b-bada9149d8de/888880945778.jpg/400x400bb.jpg",
+    "aliases": [
+      "You Are My Soniya",
+      "You Are My Soniya"
+    ]
+  },
+  {
+    "title": "Bole Chudiyan",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "singers": [
+      "Amit Kumar, Jatin-Lalit, Sonu Nigam, Alka Yagnik, Udit Narayan & Kavita Krishnamurthy"
+    ],
+    "artists": [
+      "Amit Kumar, Jatin-Lalit, Sonu Nigam, Alka Yagnik, Udit Narayan & Kavita Krishnamurthy"
+    ],
+    "composers": [
+      "Amit Kumar, Jatin-Lalit, Sonu Nigam, Alka Yagnik, Udit Narayan & Kavita Krishnamurthy"
+    ],
+    "lyricist": "Amit Kumar, Jatin-Lalit, Sonu Nigam, Alka Yagnik, Udit Narayan & Kavita Krishnamurthy",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/2a/45/f42a4573-fb69-35de-f613-452240ae2132/mzaf_7059332756905048572.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/86/d3/96/86d396fd-9230-aab9-115b-bada9149d8de/888880945778.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bole Chudiyan",
+      "Bole Chudiyan"
+    ]
+  },
+  {
+    "title": "Tanhayee",
+    "movie": "Dil Chahta Hai",
+    "singers": [
+      "Sonu Nigam"
+    ],
+    "artists": [
+      "Sonu Nigam"
+    ],
+    "composers": [
+      "Sonu Nigam"
+    ],
+    "lyricist": "Sonu Nigam",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/b1/e6/e7b1e60d-2882-01db-4df1-7ad45b3af6b7/mzaf_6650471814990456755.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/df/62/2bdf6213-3d11-5f01-cc5e-ddfcc15923b4/8902894114844_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tanhayee",
+      "Tanhayee"
+    ]
+  },
+  {
+    "title": "Deewana Hai Dekho",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "singers": [
+      "Alka Yagnik, Sandesh Shandilya, Sonu Nigam & Kareena Kapoor"
+    ],
+    "artists": [
+      "Alka Yagnik, Sandesh Shandilya, Sonu Nigam & Kareena Kapoor"
+    ],
+    "composers": [
+      "Alka Yagnik, Sandesh Shandilya, Sonu Nigam & Kareena Kapoor"
+    ],
+    "lyricist": "Alka Yagnik, Sandesh Shandilya, Sonu Nigam & Kareena Kapoor",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/bd/89/b1bd8936-75e4-582e-400c-f0be78aac632/mzaf_1036105975093843047.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/86/d3/96/86d396fd-9230-aab9-115b-bada9149d8de/888880945778.jpg/400x400bb.jpg",
+    "aliases": [
+      "Deewana Hai Dekho",
+      "Deewana Hai Dekho"
+    ]
+  },
+  {
+    "title": "Inn Lamhon Ke Daaman Mein",
+    "movie": "Jodhaa Akbar",
+    "singers": [
+      "A.R. Rahman, Sonu Nigam & Madhushree"
+    ],
+    "artists": [
+      "A.R. Rahman, Sonu Nigam & Madhushree"
+    ],
+    "composers": [
+      "A.R. Rahman, Sonu Nigam & Madhushree"
+    ],
+    "lyricist": "A.R. Rahman, Sonu Nigam & Madhushree",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/0b/02/3b0b0209-3165-9dd9-0de9-c9b70fc7ed18/mzaf_1960892636379375020.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/ad/89/25ad8924-f933-e7fd-a0aa-17305e14eb2d/886448872016.jpg/400x400bb.jpg",
+    "aliases": [
+      "Inn Lamhon Ke Daaman Mein",
+      "Inn Lamhon Ke Daaman Mein"
+    ]
+  },
+  {
+    "title": "Austin",
+    "movie": "Blake Shelton",
+    "singers": [
+      "Blake Shelton"
+    ],
+    "artists": [
+      "Blake Shelton"
+    ],
+    "composers": [
+      "Blake Shelton"
+    ],
+    "lyricist": "Blake Shelton",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/4d/0c/bd4d0ce4-1b37-c1ea-ec8d-72393d8d2cbb/mzaf_16703396037635815718.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/7b/50/877b5043-910e-f11c-ff01-6dbd8edba2f6/075992473125.jpg/400x400bb.jpg",
+    "aliases": [
+      "Austin",
+      "Austin"
+    ]
+  },
+  {
+    "title": "Your Body Is a Wonderland",
+    "movie": "Room for Squares",
+    "singers": [
+      "John Mayer"
+    ],
+    "artists": [
+      "John Mayer"
+    ],
+    "composers": [
+      "John Mayer"
+    ],
+    "lyricist": "John Mayer",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/de/fc/d8defcfd-a289-0f06-29ad-c1ae840bbbe4/mzaf_14169385725248915194.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/01/40/0b014055-6f12-94f6-6be6-35bb27676253/mzi.tciowflu.jpg/400x400bb.jpg",
+    "aliases": [
+      "Your Body Is a Wonderland",
+      "Your Body Is a Wonderland"
+    ]
+  },
+  {
+    "title": "Fallin'",
+    "movie": "Songs In A Minor",
+    "singers": [
+      "Alicia Keys"
+    ],
+    "artists": [
+      "Alicia Keys"
+    ],
+    "composers": [
+      "Alicia Keys"
+    ],
+    "lyricist": "Alicia Keys",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/22/91/392291b5-39f1-8189-3a9b-924361e70776/mzaf_5017281125172140671.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/4d/55/bb4d552c-04d8-29ba-1b41-6ff8bcd199a5/808132000222.jpg/400x400bb.jpg",
+    "aliases": [
+      "Fallin'",
+      "Fallin'"
+    ]
+  },
+  {
+    "title": "Say \"Shava Shava\"",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "singers": [
+      "Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Amitabh Bachchan, Sunidhi Chauhan & Udit Narayan"
+    ],
+    "artists": [
+      "Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Amitabh Bachchan, Sunidhi Chauhan & Udit Narayan"
+    ],
+    "composers": [
+      "Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Amitabh Bachchan, Sunidhi Chauhan & Udit Narayan"
+    ],
+    "lyricist": "Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Amitabh Bachchan, Sunidhi Chauhan & Udit Narayan",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/76/49/0d76493a-40d1-ed8e-3af7-3b9a42d01462/mzaf_11891494801790486594.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/86/d3/96/86d396fd-9230-aab9-115b-bada9149d8de/888880945778.jpg/400x400bb.jpg",
+    "aliases": [
+      "Say \"Shava Shava\"",
+      "Say \"Shava Shava\""
+    ]
+  },
+  {
+    "title": "O Re Kanchi",
+    "movie": "Best of Me Shaan",
+    "singers": [
+      "Anu Malik, Shaan & Sunita Rao"
+    ],
+    "artists": [
+      "Anu Malik, Shaan & Sunita Rao"
+    ],
+    "composers": [
+      "Anu Malik, Shaan & Sunita Rao"
+    ],
+    "lyricist": "Anu Malik, Shaan & Sunita Rao",
+    "releaseYear": 2001,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/00/07/720007c4-6cb7-d69d-4389-c6bfba8ccbde/mzaf_13333772001558564950.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a8/19/9c/a8199c0b-2343-b06a-30da-6daaa78ab090/886444020817.jpg/400x400bb.jpg",
+    "aliases": [
+      "O Re Kanchi",
+      "O Re Kanchi"
+    ]
+  },
+  {
     "title": "I Wish",
     "movie": "TP-2.com",
     "singers": [
@@ -28585,6 +48295,188 @@ module.exports = [
     "aliases": [
       "I Wish",
       "I Wish"
+    ]
+  },
+  {
+    "title": "Aisa Lagta Hai",
+    "movie": "Refugee",
+    "singers": [
+      "Sonu Nigam & Alka Yagnik"
+    ],
+    "artists": [
+      "Sonu Nigam & Alka Yagnik"
+    ],
+    "composers": [
+      "Sonu Nigam & Alka Yagnik"
+    ],
+    "lyricist": "Sonu Nigam & Alka Yagnik",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/22/0e/90220e65-d7c1-ecbd-1510-e5ef619fdd49/mzaf_10420130478632650544.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/fe/a8/c2fea855-3918-41a7-7c21-f9a40cfcbe7d/191773221539.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aisa Lagta Hai",
+      "Aisa Lagta Hai"
+    ]
+  },
+  {
+    "title": "It's Gonna Be Me",
+    "movie": "No Strings Attached",
+    "singers": [
+      "*NSYNC"
+    ],
+    "artists": [
+      "*NSYNC"
+    ],
+    "composers": [
+      "*NSYNC"
+    ],
+    "lyricist": "*NSYNC",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/ce/c3/45cec315-753e-38c4-9413-4caaa8cb3516/mzaf_3751673309724355352.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/400x400bb.jpg",
+    "aliases": [
+      "It's Gonna Be Me",
+      "It's Gonna Be Me"
+    ]
+  },
+  {
+    "title": "Independent Women, Pt. 1",
+    "movie": "Survivor (International Edition)",
+    "singers": [
+      "Destiny's Child"
+    ],
+    "artists": [
+      "Destiny's Child"
+    ],
+    "composers": [
+      "Destiny's Child"
+    ],
+    "lyricist": "Destiny's Child",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/a2/ce/39a2ce45-09d0-1f71-41cc-cd034b361251/mzaf_965337791333781365.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/1c/f9/mzi.giffxgjz.jpg/400x400bb.jpg",
+    "aliases": [
+      "Independent Women, Pt. 1",
+      "Independent Women, Pt. 1"
+    ]
+  },
+  {
+    "title": "Ek Pal Ka Jeena",
+    "movie": "Live The Moment",
+    "singers": [
+      "Lucky Ali"
+    ],
+    "artists": [
+      "Lucky Ali"
+    ],
+    "composers": [
+      "Lucky Ali"
+    ],
+    "lyricist": "Lucky Ali",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/c3/bd/43c3bd32-5ff8-0794-7f49-a75a83acbc1e/mzaf_16501690986618423658.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1b/6e/49/1b6e4960-30b7-5f7a-d9cc-e4ee0d4a0a73/195081227306.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ek Pal Ka Jeena (From \"Kaho Naa Pyar Hai\")",
+      "Ek Pal Ka Jeena"
+    ]
+  },
+  {
+    "title": "Na Tum Jano Na Hum",
+    "movie": "Kaho Naa Pyaar Hai",
+    "singers": [
+      "Lucky Ali & Ramya"
+    ],
+    "artists": [
+      "Lucky Ali & Ramya"
+    ],
+    "composers": [
+      "Lucky Ali & Ramya"
+    ],
+    "lyricist": "Lucky Ali & Ramya",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/88/c0/5188c026-34f7-ab19-4ffc-e78af15c5d01/mzaf_13151901840523954211.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/a5/e0/57a5e064-f087-e318-582f-27ab8eb71496/192562328149.jpg/400x400bb.jpg",
+    "aliases": [
+      "Na Tum Jano Na Hum",
+      "Na Tum Jano Na Hum"
+    ]
+  },
+  {
+    "title": "Bumbro",
+    "movie": "Mission Kashmir",
+    "singers": [
+      "Shankar Mahadevan, Sunidhi Chauhan & Jaspinder Narula"
+    ],
+    "artists": [
+      "Shankar Mahadevan, Sunidhi Chauhan & Jaspinder Narula"
+    ],
+    "composers": [
+      "Shankar Mahadevan, Sunidhi Chauhan & Jaspinder Narula"
+    ],
+    "lyricist": "Shankar Mahadevan, Sunidhi Chauhan & Jaspinder Narula",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/65/0e/f6650e62-1240-cedf-1121-5f49c025faab/mzaf_11924583854834290633.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/85/a0/5285a06a-e4b0-effa-e151-4bf88cd4144a/8901854010714.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bumbro",
+      "Bumbro"
+    ]
+  },
+  {
+    "title": "Banthan Ke",
+    "movie": "Kurukshetra",
+    "singers": [
+      "Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Sukhwinder Singh & Sunidhi Chauhan"
+    ],
+    "lyricist": "Sukhwinder Singh & Sunidhi Chauhan",
+    "releaseYear": 2000,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/c6/a7/7bc6a700-deb3-d09c-50be-9907fea49180/mzaf_3505347763539733838.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/65/14/8f/65148fd8-7150-1849-2345-22054bd8992c/191773226510.jpg/400x400bb.jpg",
+    "aliases": [
+      "Banthan Ke",
+      "Banthan Ke"
     ]
   },
   {
@@ -28801,6 +48693,141 @@ module.exports = [
     "aliases": [
       "Ramta Jogi",
       "Ramta Jogi"
+    ]
+  },
+  {
+    "title": "Tadap Tadap",
+    "movie": "Hum Dil De Chuke Sanam",
+    "singers": [
+      "KK & Dominique"
+    ],
+    "artists": [
+      "KK & Dominique"
+    ],
+    "composers": [
+      "KK & Dominique"
+    ],
+    "lyricist": "KK & Dominique",
+    "releaseYear": 1999,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/f7/13/d3f71348-d3be-f9c8-cc85-34b60980c928/mzaf_9454317526068580195.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/33/15/df/3315dfba-4511-56c7-c949-5d5564ddfedc/8902894112963_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Tadap Tadap",
+      "Tadap Tadap"
+    ]
+  },
+  {
+    "title": "Ishq Bina",
+    "movie": "Taal",
+    "singers": [
+      "Anuradha Sriram, Sujatha, A.R. Rahman & Sonu Nigam"
+    ],
+    "artists": [
+      "Anuradha Sriram, Sujatha, A.R. Rahman & Sonu Nigam"
+    ],
+    "composers": [
+      "Anuradha Sriram, Sujatha, A.R. Rahman & Sonu Nigam"
+    ],
+    "lyricist": "Anuradha Sriram, Sujatha, A.R. Rahman & Sonu Nigam",
+    "releaseYear": 1999,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/66/9f/52669f9d-d401-8a4c-9993-d6cfe01df2bb/mzaf_888573462831177056.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/6d/a1/e46da195-d6c9-8a99-cb2d-1b20cbc6ce04/8901854004515.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ishq Bina",
+      "Ishq Bina"
+    ]
+  },
+  {
+    "title": "Banke Tera Jogi",
+    "movie": "Phir Bhi Dil Hai Hindustani",
+    "singers": [
+      "Jatin-Lalit, Alka Yagnik & Sonu Nigam"
+    ],
+    "artists": [
+      "Jatin-Lalit, Alka Yagnik & Sonu Nigam"
+    ],
+    "composers": [
+      "Jatin-Lalit, Alka Yagnik & Sonu Nigam"
+    ],
+    "lyricist": "Jatin-Lalit, Alka Yagnik & Sonu Nigam",
+    "releaseYear": 1999,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2f/f4/23/2ff423b8-d145-7ef7-e39e-b2652b2daae1/mzaf_13755673852136547897.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ac/09/3c/ac093c92-7126-9043-a7be-0739c0482ff1/888880945921.jpg/400x400bb.jpg",
+    "aliases": [
+      "Banke Tera Jogi",
+      "Banke Tera Jogi"
+    ]
+  },
+  {
+    "title": "Drive",
+    "movie": "Make Yourself",
+    "singers": [
+      "Incubus"
+    ],
+    "artists": [
+      "Incubus"
+    ],
+    "composers": [
+      "Incubus"
+    ],
+    "lyricist": "Incubus",
+    "releaseYear": 1999,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/90/2c/73/902c733f-0f98-1546-5289-3e4a932934da/mzaf_4267315690504644514.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dd/a4/c1/dda4c166-da07-ba22-60e4-499b477c6e77/mzi.ffqrqnqb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Drive",
+      "Drive"
+    ]
+  },
+  {
+    "title": "Californication",
+    "movie": "Californication (Remastered)",
+    "singers": [
+      "Red Hot Chili Peppers"
+    ],
+    "artists": [
+      "Red Hot Chili Peppers"
+    ],
+    "composers": [
+      "Red Hot Chili Peppers"
+    ],
+    "lyricist": "Red Hot Chili Peppers",
+    "releaseYear": 1999,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/de/6a/e7de6ab4-0e39-70b4-575a-5b82fba18d8e/mzaf_1705322343755871716.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/400x400bb.jpg",
+    "aliases": [
+      "Californication",
+      "Californication"
     ]
   },
   {
@@ -29101,6 +49128,60 @@ module.exports = [
     ]
   },
   {
+    "title": "Satarangi Re",
+    "movie": "Dil Se",
+    "singers": [
+      "Sonu Nigam & Kavita Krishnamurthy"
+    ],
+    "artists": [
+      "Sonu Nigam & Kavita Krishnamurthy"
+    ],
+    "composers": [
+      "Sonu Nigam & Kavita Krishnamurthy"
+    ],
+    "lyricist": "Sonu Nigam & Kavita Krishnamurthy",
+    "releaseYear": 1998,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/00/e7/ab00e7c5-3e03-0249-73fd-536536aa8624/mzaf_7454627306779791925.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/f8/85/8ef88544-a6c7-018b-0a75-dc3b6b024fa0/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Satarangi Re",
+      "Satarangi Re"
+    ]
+  },
+  {
+    "title": "Sweet Lady",
+    "movie": "Tyrese",
+    "singers": [
+      "Tyrese"
+    ],
+    "artists": [
+      "Tyrese"
+    ],
+    "composers": [
+      "Tyrese"
+    ],
+    "lyricist": "Tyrese",
+    "releaseYear": 1998,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/53/4b/92534b1f-f4a3-a0df-5dc3-d2f277820f2a/mzaf_10201745514742772590.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/0e/cb/91/mzi.tauiaxci.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sweet Lady",
+      "Sweet Lady"
+    ]
+  },
+  {
     "title": "My Hero",
     "movie": "The Colour And The Shape",
     "singers": [
@@ -29317,6 +49398,33 @@ module.exports = [
     ]
   },
   {
+    "title": "Yeh Dil Deewana",
+    "movie": "Pardes",
+    "singers": [
+      "Sonu Nigam, Hema Sardesai & Shankar Mahadevan"
+    ],
+    "artists": [
+      "Sonu Nigam, Hema Sardesai & Shankar Mahadevan"
+    ],
+    "composers": [
+      "Sonu Nigam, Hema Sardesai & Shankar Mahadevan"
+    ],
+    "lyricist": "Sonu Nigam, Hema Sardesai & Shankar Mahadevan",
+    "releaseYear": 1997,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/a7/38/74a738d8-28c2-f79f-de34-cee002bf16d4/mzaf_16288540265028665677.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/86/e0/f086e0b3-4b4c-f513-afd3-6e6ae9f6715e/8901854004386.jpg/400x400bb.jpg",
+    "aliases": [
+      "Yeh Dil Deewana",
+      "Yeh Dil Deewana"
+    ]
+  },
+  {
     "title": "Standing Outside a Broken Phone Booth with Money in My Hand",
     "movie": "Rocket",
     "singers": [
@@ -29422,6 +49530,60 @@ module.exports = [
     "aliases": [
       "Psycho. A Suite for Strings: The Murder",
       "Psycho. A Suite for Strings: The Murder"
+    ]
+  },
+  {
+    "title": "Wannabe (Radio Edit)",
+    "movie": "Spice",
+    "singers": [
+      "Spice Girls"
+    ],
+    "artists": [
+      "Spice Girls"
+    ],
+    "composers": [
+      "Spice Girls"
+    ],
+    "lyricist": "Spice Girls",
+    "releaseYear": 1996,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/bf/08/93bf08b8-cc15-2ddb-9a49-2c221707b139/mzaf_6707128577346358435.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/85/6e/88856e99-7323-7737-3634-435da9fcefa0/13UABIM59225.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Wannabe (Radio Edit)",
+      "Wannabe (Radio Edit)"
+    ]
+  },
+  {
+    "title": "My Boo (Hitman's Club Mix)",
+    "movie": "My Boo (Hitman's Club Mix) - Single",
+    "singers": [
+      "Ghost Town DJs"
+    ],
+    "artists": [
+      "Ghost Town DJs"
+    ],
+    "composers": [
+      "Ghost Town DJs"
+    ],
+    "lyricist": "Ghost Town DJs",
+    "releaseYear": 1996,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/70/ad/4d70ad51-f6f6-e706-9bc9-e46f4baad9d4/mzaf_8438369614738312668.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/1b/f1/a51bf19e-f7b5-f9b7-773c-7c4bfb696415/886445901610.jpg/400x400bb.jpg",
+    "aliases": [
+      "My Boo (Hitman's Club Mix)",
+      "My Boo (Hitman's Club Mix)"
     ]
   },
   {
@@ -29803,6 +49965,60 @@ module.exports = [
     ]
   },
   {
+    "title": "Lover, You Should've Come Over",
+    "movie": "Grace",
+    "singers": [
+      "Jeff Buckley"
+    ],
+    "artists": [
+      "Jeff Buckley"
+    ],
+    "composers": [
+      "Jeff Buckley"
+    ],
+    "lyricist": "Jeff Buckley",
+    "releaseYear": 1994,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/0c/4e/db0c4edc-9daa-e262-55b9-89984c3f6aa6/mzaf_16142695276315265640.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/400x400bb.jpg",
+    "aliases": [
+      "Lover, You Should've Come Over",
+      "Lover, You Should've Come Over"
+    ]
+  },
+  {
+    "title": "Kiss from a Rose",
+    "movie": "Seal: Best 1991-2004 (Deluxe Version)",
+    "singers": [
+      "Seal"
+    ],
+    "artists": [
+      "Seal"
+    ],
+    "composers": [
+      "Seal"
+    ],
+    "lyricist": "Seal",
+    "releaseYear": 1994,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/32/60/5b32607f-683f-4298-1c4c-3f2086508444/mzaf_572188254823172236.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/b5/79/9cb579e1-0b40-3fd1-961e-2e0a65e69f4a/s06.mfkmyngx.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kiss from a Rose",
+      "Kiss from a Rose"
+    ]
+  },
+  {
     "title": "Animal (Remastered)",
     "movie": "Vs.",
     "singers": [
@@ -30181,6 +50397,60 @@ module.exports = [
     ]
   },
   {
+    "title": "November Rain",
+    "movie": "Use Your Illusion I",
+    "singers": [
+      "Guns N' Roses"
+    ],
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "composers": [
+      "Guns N' Roses"
+    ],
+    "lyricist": "Guns N' Roses",
+    "releaseYear": 1991,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/6b/0c/676b0cc6-2f6e-555a-b4f1-a514ab21adb4/mzaf_10772491023997849447.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/e2/1f/6ae21fa9-c897-3be1-2967-50eefae22b93/06UMGIM05041.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "November Rain",
+      "November Rain"
+    ]
+  },
+  {
+    "title": "Knockin' On Heaven's Door",
+    "movie": "Use Your Illusion II",
+    "singers": [
+      "Guns N' Roses"
+    ],
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "composers": [
+      "Guns N' Roses"
+    ],
+    "lyricist": "Guns N' Roses",
+    "releaseYear": 1991,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/89/c7/2589c7d3-0ff3-4c6a-9749-701905d04804/mzaf_10333496898164783588.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/8e/35/db8e356d-76e8-1e10-d7cb-87870bdbfad2/18UMGIM31437.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Knockin' On Heaven's Door",
+      "Knockin' On Heaven's Door"
+    ]
+  },
+  {
     "title": "Thunderstruck",
     "movie": "Iron Man 2",
     "singers": [
@@ -30205,6 +50475,60 @@ module.exports = [
     "aliases": [
       "Thunderstruck",
       "Thunderstruck"
+    ]
+  },
+  {
+    "title": "Sandese Aate Hai",
+    "movie": "Border",
+    "singers": [
+      "Sonu Nigam & Roop Kumar Rathod"
+    ],
+    "artists": [
+      "Sonu Nigam & Roop Kumar Rathod"
+    ],
+    "composers": [
+      "Sonu Nigam & Roop Kumar Rathod"
+    ],
+    "lyricist": "Sonu Nigam & Roop Kumar Rathod",
+    "releaseYear": 1990,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/e9/2f/b0e92f91-f855-f8e2-2bec-3a4f149f91d3/mzaf_18149588985147616899.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d7/20/98/d720985d-12f8-c7d2-73e5-5f2f16249de9/cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Sandese Aate Hai",
+      "Sandese Aate Hai"
+    ]
+  },
+  {
+    "title": "Show Me Love",
+    "movie": "Show Me Love",
+    "singers": [
+      "Robin S."
+    ],
+    "artists": [
+      "Robin S."
+    ],
+    "composers": [
+      "Robin S."
+    ],
+    "lyricist": "Robin S.",
+    "releaseYear": 1990,
+    "decade": "1990s",
+    "genre": [
+      "Bollywood",
+      "Retro"
+    ],
+    "difficulty": 4,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/80/2d/df802df9-5ef8-ceff-9525-d2635bdcd01c/mzaf_12123587685204224481.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8f/fc/e8/8ffce812-173c-5d0d-a264-07f81247c212/mzi.cdsdlqei.jpg/400x400bb.jpg",
+    "aliases": [
+      "Show Me Love",
+      "Show Me Love"
     ]
   },
   {
@@ -30289,6 +50613,34 @@ module.exports = [
     "aliases": [
       "With or Without You",
       "With or Without You"
+    ]
+  },
+  {
+    "title": "Paradise City",
+    "movie": "Appetite for Destruction",
+    "singers": [
+      "Guns N' Roses"
+    ],
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "composers": [
+      "Guns N' Roses"
+    ],
+    "lyricist": "Guns N' Roses",
+    "releaseYear": 1987,
+    "decade": "1980s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/a5/32/e6a53212-5ed3-66f0-3023-da69802f7073/mzaf_8548715333446017239.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/47/b7/5647b700-6b9d-9e72-ec9f-51140b6d4492/00602567673781.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Paradise City",
+      "Paradise City"
     ]
   },
   {
@@ -30485,6 +50837,62 @@ module.exports = [
     "aliases": [
       "Dust My Broom",
       "Dust My Broom"
+    ]
+  },
+  {
+    "title": "Summer of '69",
+    "movie": "Reckless (30th Anniversary) [Deluxe Edition]",
+    "singers": [
+      "Bryan Adams"
+    ],
+    "artists": [
+      "Bryan Adams"
+    ],
+    "composers": [
+      "Bryan Adams"
+    ],
+    "lyricist": "Bryan Adams",
+    "releaseYear": 1984,
+    "decade": "1980s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/3e/b2/a73eb26b-db02-90f3-0ac6-d0a3170fa876/mzaf_14223839568238436580.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/9b/c2/e49bc283-607b-9f0b-d7d4-adaba6cd3ff3/14UMGIM34434.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Summer of '69",
+      "Summer of '69"
+    ]
+  },
+  {
+    "title": "Let's Go Crazy",
+    "movie": "Purple Rain (Deluxe Expanded Edition) [2015 Paisley Park Remaster]",
+    "singers": [
+      "Prince & The Revolution"
+    ],
+    "artists": [
+      "Prince & The Revolution"
+    ],
+    "composers": [
+      "Prince & The Revolution"
+    ],
+    "lyricist": "Prince & The Revolution",
+    "releaseYear": 1984,
+    "decade": "1980s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/99/8b/38998b6e-08ae-79c0-045c-15f649fa4f5a/mzaf_12306155360479044302.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/b6/79/c1b679f5-d59d-1b3e-62ab-514de20f06c6/093624912002.jpg/400x400bb.jpg",
+    "aliases": [
+      "Let's Go Crazy",
+      "Let's Go Crazy"
     ]
   },
   {
@@ -30824,6 +51232,34 @@ module.exports = [
     ]
   },
   {
+    "title": "Every Breath You Take",
+    "movie": "The Very Best of Sting & The Police",
+    "singers": [
+      "The Police"
+    ],
+    "artists": [
+      "The Police"
+    ],
+    "composers": [
+      "The Police"
+    ],
+    "lyricist": "The Police",
+    "releaseYear": 1983,
+    "decade": "1980s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/b4/79/6cb47947-0860-8788-95b1-a2b0a908f342/mzaf_4654925634744235278.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Every Breath You Take",
+      "Every Breath You Take"
+    ]
+  },
+  {
     "title": "5 Little Ducks",
     "movie": "Animal Songs",
     "singers": [
@@ -31048,6 +51484,34 @@ module.exports = [
     ]
   },
   {
+    "title": "You Make My Dreams (Come True)",
+    "movie": "The Very Best of Daryl Hall & John Oates",
+    "singers": [
+      "Daryl Hall & John Oates"
+    ],
+    "artists": [
+      "Daryl Hall & John Oates"
+    ],
+    "composers": [
+      "Daryl Hall & John Oates"
+    ],
+    "lyricist": "Daryl Hall & John Oates",
+    "releaseYear": 1980,
+    "decade": "1980s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/3a/99/b63a99b4-2078-2424-0696-cbb58914b6e2/mzaf_16330303502382701826.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9b/30/4c/9b304cad-7427-b463-6bf7-8c1cf4fae484/078636931920.jpg/400x400bb.jpg",
+    "aliases": [
+      "You Make My Dreams (Come True)",
+      "You Make My Dreams (Come True)"
+    ]
+  },
+  {
     "title": "Here Sits a Monkey",
     "movie": "Animal Songs",
     "singers": [
@@ -31101,6 +51565,62 @@ module.exports = [
     "aliases": [
       "Escape (The Pina Colada Song)",
       "Escape (The Pina Colada Song)"
+    ]
+  },
+  {
+    "title": "Comfortably Numb",
+    "movie": "The Wall",
+    "singers": [
+      "Pink Floyd"
+    ],
+    "artists": [
+      "Pink Floyd"
+    ],
+    "composers": [
+      "Pink Floyd"
+    ],
+    "lyricist": "Pink Floyd",
+    "releaseYear": 1979,
+    "decade": "1970s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/1b/39/af1b3957-d1d3-06c9-d547-633cb081b677/mzaf_3421307010114212683.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/400x400bb.jpg",
+    "aliases": [
+      "Comfortably Numb",
+      "Comfortably Numb"
+    ]
+  },
+  {
+    "title": "Hey You",
+    "movie": "The Wall",
+    "singers": [
+      "Pink Floyd"
+    ],
+    "artists": [
+      "Pink Floyd"
+    ],
+    "composers": [
+      "Pink Floyd"
+    ],
+    "lyricist": "Pink Floyd",
+    "releaseYear": 1979,
+    "decade": "1970s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/8b/07/de8b0756-b9be-79d0-cd73-60ee3fd12973/mzaf_17754900632443928998.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/17/ec/3e17ec6d-f980-c64f-19e0-a6fd8bbf0c10/886445635850.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hey You",
+      "Hey You"
     ]
   },
   {
@@ -31493,6 +52013,62 @@ module.exports = [
     "aliases": [
       "Bohemian Rhapsody",
       "Bohemian Rhapsody"
+    ]
+  },
+  {
+    "title": "Jolene",
+    "movie": "Jolene",
+    "singers": [
+      "Dolly Parton"
+    ],
+    "artists": [
+      "Dolly Parton"
+    ],
+    "composers": [
+      "Dolly Parton"
+    ],
+    "lyricist": "Dolly Parton",
+    "releaseYear": 1973,
+    "decade": "1970s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/bf/b6/fcbfb6fa-5293-1bb8-f250-7feaf5183892/mzaf_10820724967096911306.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0b/f8/1e/0bf81e88-de6e-aba3-9fd4-e7407bfbcc31/886445438048.jpg/400x400bb.jpg",
+    "aliases": [
+      "Jolene",
+      "Jolene"
+    ]
+  },
+  {
+    "title": "Time",
+    "movie": "The Dark Side of the Moon",
+    "singers": [
+      "Pink Floyd"
+    ],
+    "artists": [
+      "Pink Floyd"
+    ],
+    "composers": [
+      "Pink Floyd"
+    ],
+    "lyricist": "Pink Floyd",
+    "releaseYear": 1973,
+    "decade": "1970s",
+    "genre": [
+      "Bollywood",
+      "Retro",
+      "Classical"
+    ],
+    "difficulty": 5,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/73/36/a27336b7-07c8-207a-74fd-9926910f9903/mzaf_10065953245083721782.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/76/b0/3e76b0e3-762b-2286-a019-8afb19cee541/886445635829.jpg/400x400bb.jpg",
+    "aliases": [
+      "Time",
+      "Time"
     ]
   },
   {

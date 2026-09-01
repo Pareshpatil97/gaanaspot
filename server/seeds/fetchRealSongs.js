@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 async function buildExpandedSongDatabase() {
-  console.log("Fetching massive, strictly-filtered Bollywood songs catalog across all eras (1970 - 2026)...");
+  console.log("Fetching and compiling massive 2000 - 2026 Bollywood songs catalog...");
 
   const searchTerms = [
     // 2024 - 2026 Hits
@@ -10,73 +10,88 @@ async function buildExpandedSongDatabase() {
     "Animal Movie Songs", "Chandu Champion Songs", "Bad Newz Songs", "Bhool Bhulaiyaa 3 Songs", "Singham Again Songs",
     "Teri Baaton Mein Aisa Uljha Jiya Songs", "Amar Singh Chamkila Songs", "Article 370 Songs", "Crew Movie Songs", "Dunki Songs",
     "Merry Christmas Hindi Songs", "Yodha Movie Songs", "Mr and Mrs Mahi Songs", "Khel Khel Mein Songs", "Jigra Songs",
+    "Vedaa Movie Songs", "Sarfira Movie Songs", "Auron Mein Kahan Dum Tha", "Ulajh Movie Songs", "Kill Movie Songs",
+    "Maidaan Movie Songs", "Bade Miyan Chote Miyan 2024", "Shaitaan Movie Songs", "Do Patti Songs", "Vicky Vidya Ka Woh Wala Video",
     
-    // 2021 - 2023 Modern Hits
+    // 2021 - 2023 Blockbusters & Hits
     "Jawan Movie Songs", "Pathaan Movie Songs", "Rocky Aur Rani Kii Prem Kahaani Songs", "Tu Jhoothi Main Makkaar Songs",
     "Gadar 2 Songs", "Tiger 3 Songs", "Brahmastra Songs", "RRR Hindi Songs", "Bhool Bhulaiyaa 2 Songs", "Gangubai Kathiawadi Songs",
     "Bhediya Movie Songs", "Shershaah Songs", "Pushpa Hindi Songs", "Atrangi Re Songs", "Sooryavanshi Songs", "Mimi Movie Songs",
     "Zara Hatke Zara Bachke Songs", "Satyaprem Ki Katha Songs", "Selfiee Movie Songs", "Vikram Vedha Hindi Songs", "Lal Singh Chaddha Songs",
     "Chor Nikal Ke Bhaga Songs", "Cirkus Songs", "Phone Bhoot Songs", "Jug Jugg Jeeyo Songs", "Ek Villain Returns Songs",
-    
-    // 2010 - 2020 Superhits
+    "Gehraiyaan Songs", "Badhaai Do Songs", "Jayeshbhai Jordaar Songs", "Samrat Prithviraj Songs", "Shamshera Songs",
+    "Darlings Movie Songs", "Raksha Bandhan Songs", "Goodbye Movie Songs", "Doctor G Songs", "Thank God Movie Songs",
+    "Govinda Naam Mera Songs", "An Action Hero Songs", "Freddy Movie Songs", "Mission Majnu Songs", "Shehzada Songs",
+    "Mrs Chatterjee Vs Norway Songs", "Bheed Movie Songs", "Gumraah Movie Songs", "Kisi Ka Bhai Kisi Ki Jaan Songs", "IB71 Songs",
+    "Adipurush Hindi Songs", "Bawaal Songs", "Dream Girl 2 Songs", "The Great Indian Family", "Fukrey 3 Songs",
+    "Mission Raniganj Songs", "Yaariyan 2 Songs", "Tejas Movie Songs", "Aankh Micholi Songs", "Tiger 3 Songs", "Sam Bahadur Songs",
+
+    // 2015 - 2020 Superhits
     "Kabir Singh Songs", "War Movie Songs", "Gully Boy Songs", "Padmaavat Songs", "Simmba Songs", "Stree Movie Songs", "Sanju Movie Songs",
     "Baaghi 2 Songs", "Raazi Movie Songs", "Sonu Ke Titu Ki Sweety Songs", "Dangal Movie Songs", "Ae Dil Hai Mushkil Songs", "Sultan Movie Songs",
-    "Bajrangi Bhaijaan Songs", "Tamasha Movie Songs", "Aashiqui 2 Songs", "Yeh Jawaani Hai Deewani Songs", "Queen Movie Songs",
-    "Kapoor and Sons Songs", "Badrinath Ki Dulhania Songs", "Dil Dhadakne Do Songs", "Barfi Movie Songs", "Ek Villain Songs",
+    "Bajrangi Bhaijaan Songs", "Tamasha Movie Songs", "Kapoor and Sons Songs", "Badrinath Ki Dulhania Songs", "Dil Dhadakne Do Songs",
+    "Kedarnath Songs", "Luka Chuppi Songs", "Kesari Movie Songs", "Kalank Songs", "Bharat Movie Songs", "Mission Mangal Songs",
+    "Chhichhore Songs", "Dream Girl Songs", "Housefull 4 Songs", "Pati Patni Aur Woh Songs", "Good Newwz Songs", "Tanhaji Songs",
+    "Malang Movie Songs", "Shubh Mangal Zyada Saavdhan Songs", "Thappad Songs", "Baaghi 3 Songs", "Angrezi Medium Songs",
+    "Gulabo Sitabo Songs", "Dil Bechara Songs", "Laxmii Songs", "Ludo Movie Songs", "Chhalaang Songs", "Durgamati Songs",
+    "Coolie No 1 2020 Songs", "Indoo Ki Jawani Songs", "Roohi Movie Songs", "Mumbai Saga Songs", "Saina Movie Songs",
+    "Radhe Songs", "Sardar Udham Songs", "BellBottom Songs", "Chehre Movie Songs", "Haseen Dillruba Songs", "Hungama 2 Songs",
+    "Toofaan Songs", "Bhuj Songs", "Shiddat Movie Songs", "Sanak Songs", "Rashmi Rocket Songs", "Bunty Aur Babli 2 Songs",
+    "Antim Songs", "Tadap Songs", "Chandigarh Kare Aashiqui Songs", "Velle Movie Songs", "83 Movie Hindi Songs",
+
+    // 2010 - 2014 Romantic & Dance Eras
+    "Aashiqui 2 Songs", "Yeh Jawaani Hai Deewani Songs", "Queen Movie Songs", "Barfi Movie Songs", "Ek Villain Songs",
     "Chennai Express Songs", "Cocktail Movie Songs", "Rockstar Movie Songs", "Zindagi Na Milegi Dobara Songs", "Agneepath Movie Songs",
     "Student of the Year Songs", "Jab Tak Hai Jaan Songs", "Goliyon Ki Raasleela Ram-Leela Songs", "Highway Movie Songs", "2 States Movie Songs",
-    "Hass Pyaar Movie Songs", "Ki and Ka Songs", "Baar Baar Dekho Songs", "Dear Zindagi Songs", "Raees Movie Songs", "Badrinath Ki Dulhania Songs",
-    "Half Girlfriend Songs", "Toilet Ek Prem Katha Songs", "Bareilly Ki Barfi Songs", "Secret Superstar Songs", "Tiger Zinda Hai Songs",
-    "Luka Chuppi Songs", "Kesari Movie Songs", "Kalank Songs", "Bharat Movie Songs", "Mission Mangal Songs", "Housefull 4 Songs",
-    "Pati Patni Aur Woh Songs", "Good Newwz Songs", "Tanhaji Songs", "Malang Movie Songs", "Shubh Mangal Zyada Saavdhan Songs",
-    
-    // 2000 - 2010 Golden Decade
+    "Dabangg Songs", "Band Baaja Baaraat Songs", "Tanu Weds Manu Songs", "Singhan Songs", "Bodyguard Songs", "Ra.One Songs",
+    "Don 2 Songs", "Rowdy Rathore Songs", "Bol Bachchan Songs", "Ek Tha Tiger Songs", "OMG Oh My God Songs", "Talaash Songs",
+    "Special 26 Songs", "Kai Po Che Songs", "Jolly LLB Songs", "Aashiqui 2 Songs", "Shootout at Wadala Songs", "Fukrey Songs",
+    "Lootera Songs", "Bhaag Milkha Bhaag Songs", "Grand Masti Songs", "Besharam Songs", "Krrish 3 Songs", "Dhoom 3 Songs",
+    "Yaariyan Songs", "Jai Ho Songs", "Gunday Songs", "Shaadi Ke Side Effects", "Queen Songs", "Main Tera Hero Songs",
+    "2 States Songs", "Heropanti Songs", "Citylights Songs", "Holiday Movie Songs", "Humshakals Songs", "Ek Villain Songs",
+    "Humpty Sharma Ki Dulhania Songs", "Kick Movie Songs", "Entertainment Songs", "Singham Returns Songs", "Mardaani Songs",
+    "Mary Kom Songs", "Creature 3D Songs", "Finding Fanny Songs", "Daawat-e-Ishq Songs", "Khoobsurat Songs", "Bang Bang Songs",
+    "Haider Songs", "Happy New Year Songs", "Kill Dil Songs", "Action Jackson Songs", "PK Movie Songs",
+
+    // 2000 - 2009 Golden Decade
     "Kabhi Khushi Kabhie Gham Songs", "Kal Ho Naa Ho Songs", "Dil Chahta Hai Songs", "Main Hoon Na Songs", "Dhoom 2 Songs",
     "Jab We Met Songs", "Om Shanti Om Songs", "Ghajini Movie Songs", "3 Idiots Songs", "Rab Ne Bana Di Jodi Songs", "Devdas Movie Songs",
     "Bunty Aur Babli Songs", "Fanaa Movie Songs", "Rang De Basanti Songs", "Taare Zameen Par Songs", "Kaho Naa Pyaar Hai Songs",
     "Lagaan Movie Songs", "Saathiya Movie Songs", "Veer Zaara Songs", "Swades Movie Songs", "Chak De India Songs", "Race Movie Songs",
     "Jaane Tu Ya Jaane Na Songs", "Dostana Movie Songs", "Rock On Songs", "Ajab Prem Ki Ghazab Kahani Songs", "Gori Tere Pyaar Mein Songs",
-    "Rehnaa Hai Terre Dil Mein Songs", "Mohabbatein Songs", "Kaho Na Pyaar Hai Songs", "Chori Chori Chupke Chupke Songs", "Hum Tum Songs",
+    "Rehnaa Hai Terre Dil Mein Songs", "Mohabbatein Songs", "Chori Chori Chupke Chupke Songs", "Hum Tum Songs",
     "Mujhse Shaadi Karogi Songs", "Aitraaz Songs", "No Entry Songs", "Salaam Namaste Songs", "Garam Masala Songs", "Krrish Songs",
     "Don 2006 Songs", "Dhoom 1 Songs", "Namastey London Songs", "Heyy Babyy Songs", "Partner Movie Songs", "Bhool Bhulaiyaa 1 Songs",
     "Welcome Movie Songs", "Jodhaa Akbar Songs", "Jannat Movie Songs", "Singh Is Kinng Songs", "Bachna Ae Haseeno Songs", "Kaminey Songs",
-    "Wake Up Sid Songs", "All The Best Songs", "De Dana Dan Songs", "Once Upon a Time in Mumbaai Songs", "Dabangg Songs", "Band Baaja Baaraat Songs",
-    
-    // 1990s Evergreen Era
-    "Dilwale Dulhania Le Jayenge Songs", "Kuch Kuch Hota Hai Songs", "Hum Aapke Hain Koun Songs", "Dil To Pagal Hai Songs",
-    "Baazigar Songs", "Mohra Movie Songs", "Raja Hindustani Songs", "Pardes Movie Songs", "Taal Movie Songs", "Dil Se Songs",
-    "Hum Dil De Chuke Sanam Songs", "Border Movie Songs", "1942 A Love Story Songs", "Aashiqui 1990 Songs", "Saajan Movie Songs",
-    "Jo Jeeta Wohi Sikandar Songs", "Darr Movie Songs", "Khiladi Movie Songs", "Main Khiladi Tu Anari Songs", "Andaz Apna Apna Songs",
-    "Rangeela Movie Songs", "Gupt Movie Songs", "Soldier Movie Songs", "Sarfarosh Songs", "Biwi No 1 Songs", "Hum Saath Saath Hain Songs",
-    "Karan Arjun Songs", "Raja Movie 1995 Songs", "Coolie No 1 Songs", "Jeet Movie Songs", "Judwaa Songs", "Hero No 1 Songs",
-    "Pyaar Kiya To Darna Kya Songs", "Ghulam Movie Songs", "Major Saab Songs", "Soldier 1998 Songs", "Sirf Tum Songs", "Hum Dil De Chuke Sanam Songs",
-    "Mann Movie Songs", "Haseena Maan Jaayegi Songs", "Vaastav Songs", "Kaho Naa Pyaar Hai 1999 Songs",
-    
-    // 1970s - 1980s Retro Classics
-    "Sholay Movie Songs", "Don 1978 Songs", "Deewaar Movie Songs", "Amar Akbar Anthony Songs", "Mr India 1987 Songs", "Qayamat Se Qayamat Tak Songs",
-    "Maine Pyar Kiya Songs", "Tezaab Movie Songs", "Chandni Movie Songs", "Karz 1980 Songs", "Hum Kisise Kum Naheen Songs",
-    "Kabhie Kabhie 1976 Songs", "Silsila Movie Songs", "Yaadon Ki Baaraat Songs", "Aradhana Movie Songs", "Kati Patang Songs",
-    "Hare Rama Hare Krishna Songs", "Bobby 1973 Songs", "Chupke Chupke 1975 Songs", "Muqaddar Ka Sikandar Songs", "Laawaris 1981 Songs",
-    "Disco Dancer Songs", "Hero 1983 Songs", "Ram Lakhan Songs", "Tridev Movie Songs", "Chalbaaz 1989 Songs", "Satyam Shivam Sundaram Songs",
-    "Gol Maal 1979 Songs", "Namak Halaal Songs", "Sharaabi Songs", "Sanam Teri Kasam 1982 Songs", "Himmatwala 1983 Songs", "Nagina Songs",
-    "Mr Natwarlal Songs", "Suhaag 1979 Songs", "The Burning Train Songs", "Do Aur Do Paanch Songs", "Dostana 1980 Songs",
-    
-    // Top Legend Artists
-    "Arijit Singh Best Hindi Songs", "Shreya Ghoshal Romantic Hindi Songs", "Sonu Nigam Evergreen Songs", "KK Hindi Melodies",
-    "Mohit Chauhan Bollywood Songs", "Jubin Nautiyal Romantic Songs", "Sunidhi Chauhan Item Songs", "Shaan Bollywood Songs",
-    "Kishore Kumar Romantic Hits", "Lata Mangeshkar Solos", "Mohammed Rafi Classic Hits", "Mukesh Hindi Melodies",
-    "Asha Bhosle Evergreen Hits", "Udit Narayan 90s Romantic Songs", "Alka Yagnik Romantic Duets", "Kumar Sanu 90s Melodies",
-    "A R Rahman Hindi Soundtrack", "Pritam Chakraborty Bollywood Hits", "Sachin Jigar Hits", "Vishal Shekhar Bollywood Hits",
-    "Atif Aslam Bollywood Hits", "Rahat Fateh Ali Khan Hindi Songs", "Lucky Ali Evergreen Songs", "Badshah Bollywood Party Songs",
-    "Diljit Dosanjh Bollywood Songs", "B Praak Hindi Songs", "Vishal Mishra Songs", "Shilpa Rao Bollywood Songs"
+    "Wake Up Sid Songs", "All The Best Songs", "De Dana Dan Songs", "Once Upon a Time in Mumbaai Songs",
+
+    // Top Artists 2000-2026 Focus
+    "Arijit Singh Best Songs", "Shreya Ghoshal Romantic Hits", "Sonu Nigam 2000s Songs", "KK Best Bollywood Songs",
+    "Mohit Chauhan Bollywood Songs", "Jubin Nautiyal Hits", "Sunidhi Chauhan Hits", "Shaan Bollywood Hits",
+    "Atif Aslam Bollywood Melodies", "Pritam Bollywood Soundtracks", "Sachin Jigar Songs", "Vishal Shekhar Hits",
+    "Amit Trivedi Bollywood Hits", "Mithoon Romantic Songs", "Darshan Raval Bollywood", "Jasleen Royal Songs",
+    "B Praak Bollywood Hits", "Vishal Mishra Hindi Songs", "Shilpa Rao Melodies", "Armaan Malik Romantic Hits",
+    "Neha Kakkar Hits", "Badshah Bollywood Party Songs", "Diljit Dosanjh Hindi Songs", "Anuv Jain Songs"
   ];
 
   const songMap = new Map();
 
+  // Load existing songs if available
+  let existing = [];
+  try {
+    existing = require('./songData.js');
+    for (const s of existing) {
+      const key = (s.title || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+      if (key.length >= 2) songMap.set(key, s);
+    }
+  } catch(e) {}
+
+  console.log(`Loaded ${songMap.size} existing clean songs. Querying new 2000-2026 tracks...`);
+
   for (const term of searchTerms) {
     try {
-      await new Promise(r => setTimeout(r, 450)); // Respect iTunes rate limits
-      const url = `https://itunes.apple.com/search?term=${encodeURIComponent(term)}&media=music&entity=song&limit=40`;
+      await new Promise(r => setTimeout(r, 400)); // Respect iTunes rate limits
+      const url = `https://itunes.apple.com/search?term=${encodeURIComponent(term)}&media=music&entity=song&limit=45`;
       const res = await fetch(url);
       if (!res.ok) continue;
       const data = await res.json();
@@ -87,7 +102,6 @@ async function buildExpandedSongDatabase() {
         const rawTitle = track.trackName;
         const lowerTitle = rawTitle.toLowerCase();
         const lowerArtist = (track.artistName || '').toLowerCase();
-        const lowerAlbum = (track.collectionName || '').toLowerCase();
 
         // 1. Strictly exclude non-songs and non-Bollywood items
         if (
@@ -139,8 +153,6 @@ async function buildExpandedSongDatabase() {
           .trim();
 
         if (cleanTitle.length < 2) cleanTitle = rawTitle;
-
-        // Skip titles that are purely numbers or too short
         if (/^\d+$/.test(cleanTitle) || cleanTitle.length < 2) continue;
 
         const dedupeKey = cleanTitle.toLowerCase().replace(/[^a-z0-9]/g, '');
@@ -163,13 +175,18 @@ async function buildExpandedSongDatabase() {
         else if (releaseYear >= 1990 && releaseYear < 2000) genre.push('Retro');
         else if (releaseYear < 1990) genre.push('Retro', 'Classical');
 
-        // Calibrate difficulty: 1 (Easy), 2 (Medium), 3 (Hard), 4 (Expert), 5 (Impossible)
+        // Balanced Difficulty Calibration (rebalanced Easy -> Medium -> Hard -> Expert -> Impossible):
+        // 1: Top 2022-2026 Mega Hits
+        // 2: 2012-2021 Superhits
+        // 3: 2000-2011 Classics
+        // 4: 1990-1999 Evergreen
+        // 5: Pre-1990 Retro
         let difficulty = 2;
-        if (releaseYear >= 2018) difficulty = 1; // Latest mega hits
-        else if (releaseYear >= 2010) difficulty = 2; // 2010s hits
-        else if (releaseYear >= 2000) difficulty = 3; // 2000s classics
-        else if (releaseYear >= 1990) difficulty = 4; // 90s evergreen
-        else difficulty = 5; // 70s-80s retro
+        if (releaseYear >= 2022) difficulty = 1;
+        else if (releaseYear >= 2012) difficulty = 2;
+        else if (releaseYear >= 2000) difficulty = 3;
+        else if (releaseYear >= 1990) difficulty = 4;
+        else difficulty = 5;
 
         songMap.set(dedupeKey, {
           title: cleanTitle,
@@ -188,22 +205,36 @@ async function buildExpandedSongDatabase() {
         });
       }
     } catch (e) {
-      console.warn(`Fetch error for "${term}":`, e.message);
+      console.warn(`Fetch notice for "${term}":`, e.message);
     }
   }
 
   const allSongs = Array.from(songMap.values());
-  // Sort from latest (2026) to oldest (1970s)
+
+  // Rebalance all existing songs' difficulties so Medium has a robust share:
+  for (const s of allSongs) {
+    const yr = s.releaseYear || 2020;
+    if (yr >= 2023) s.difficulty = 1; // Easy (Ultra fresh viral hits)
+    else if (yr >= 2013) s.difficulty = 2; // Medium (Pushed from Easy to Medium: 2013-2022 superhits!)
+    else if (yr >= 2000) s.difficulty = 3; // Hard (2000-2012 Golden decade classics)
+    else if (yr >= 1990) s.difficulty = 4; // Expert (90s romantic hits)
+    else s.difficulty = 5; // Impossible (70s-80s retro tracks)
+  }
+
+  // Sort from latest (2026) to oldest
   allSongs.sort((a, b) => b.releaseYear - a.releaseYear);
 
   console.log(`\n🎉 Compiled ${allSongs.length} pure Bollywood songs with real audio streams across all decades!`);
 
-  // Count by decade
-  const counts = {};
+  // Count by decade & difficulty
+  const decadeCounts = {};
+  const diffCounts = {};
   allSongs.forEach(s => {
-    counts[s.decade] = (counts[s.decade] || 0) + 1;
+    decadeCounts[s.decade] = (decadeCounts[s.decade] || 0) + 1;
+    diffCounts[s.difficulty] = (diffCounts[s.difficulty] || 0) + 1;
   });
-  console.log('Decade breakdown:', counts);
+  console.log('Decade breakdown:', decadeCounts);
+  console.log('Difficulty breakdown:', diffCounts);
 
   const fileContent = `// Auto-generated Pure Bollywood song catalog across 1970-2026\nmodule.exports = ${JSON.stringify(allSongs, null, 2)};\n`;
   
