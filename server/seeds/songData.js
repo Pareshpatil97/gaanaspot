@@ -1,4 +1,4 @@
-// Auto-generated Pure Bollywood song catalog across 1970-2026
+// Auto-generated 100% Pure Bollywood song catalog
 module.exports = [
   {
     "title": "Mad - Wicked Wonderland",
@@ -1618,33 +1618,6 @@ module.exports = [
     "aliases": [
       "Brunette",
       "Brunette"
-    ]
-  },
-  {
-    "title": "Abracadabra",
-    "movie": "MAYHEM",
-    "singers": [
-      "Lady Gaga"
-    ],
-    "artists": [
-      "Lady Gaga"
-    ],
-    "composers": [
-      "Lady Gaga"
-    ],
-    "lyricist": "Lady Gaga",
-    "releaseYear": 2025,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 1,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7f/f0/f5/7ff0f508-1e7a-fefc-0c78-5bd659286525/mzaf_16241395143868251571.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Abracadabra",
-      "Abracadabra"
     ]
   },
   {
@@ -14770,33 +14743,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Creepin'",
-    "movie": "HEROES & VILLAINS",
-    "singers": [
-      "Metro Boomin, The Weeknd & 21 Savage"
-    ],
-    "artists": [
-      "Metro Boomin, The Weeknd & 21 Savage"
-    ],
-    "composers": [
-      "Metro Boomin, The Weeknd & 21 Savage"
-    ],
-    "lyricist": "Metro Boomin, The Weeknd & 21 Savage",
-    "releaseYear": 2022,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/ba/83/47ba83bd-ff6a-d4b2-f126-545a170f0775/mzaf_2932236241939206370.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/f7/2b/82f72ba4-524c-fc9d-cb8c-5a96d2ddf536/22UM1IM35267.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Creepin'",
-      "Creepin'"
-    ]
-  },
-  {
     "title": "Shaamat (Ankit Tiwari Version)",
     "movie": "Ek Villain Returns",
     "singers": [
@@ -18250,33 +18196,6 @@ module.exports = [
     "aliases": [
       "Drunk (And I Don't Wanna Go Home)",
       "Drunk (And I Don't Wanna Go Home)"
-    ]
-  },
-  {
-    "title": "Moth To A Flame",
-    "movie": "Moth To A Flame - Single",
-    "singers": [
-      "Swedish House Mafia & The Weeknd"
-    ],
-    "artists": [
-      "Swedish House Mafia & The Weeknd"
-    ],
-    "composers": [
-      "Swedish House Mafia & The Weeknd"
-    ],
-    "lyricist": "Swedish House Mafia & The Weeknd",
-    "releaseYear": 2021,
-    "decade": "2020s",
-    "genre": [
-      "Bollywood",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/33/d2/2633d2b9-58f1-f9c0-7b43-b9d5ab1e5005/mzaf_15573204222455676396.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/56/e7/2f56e79c-fdaa-c0d5-545e-9942e54301c3/21UM1IM29516.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Moth To A Flame",
-      "Moth To A Flame"
     ]
   },
   {
@@ -23028,34 +22947,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Hollywood's Bleeding",
-    "movie": "Hollywood's Bleeding",
-    "singers": [
-      "Post Malone"
-    ],
-    "artists": [
-      "Post Malone"
-    ],
-    "composers": [
-      "Post Malone"
-    ],
-    "lyricist": "Post Malone",
-    "releaseYear": 2019,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/cb/eb/39cbeb3a-b2de-ec65-64de-362391da9774/mzaf_14039724316393614108.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Hollywood's Bleeding",
-      "Hollywood's Bleeding"
-    ]
-  },
-  {
     "title": "Look What God Gave Her",
     "movie": "Center Point Road",
     "singers": [
@@ -24677,34 +24568,6 @@ module.exports = [
     "aliases": [
       "Selfie Photo (From \"Golak Bugni Bank Te Batua\" Soundtrack) [with Jatinder Shah]",
       "Selfie Photo"
-    ]
-  },
-  {
-    "title": "Shallow",
-    "movie": "A Star Is Born Soundtrack",
-    "singers": [
-      "Lady Gaga & Bradley Cooper"
-    ],
-    "artists": [
-      "Lady Gaga & Bradley Cooper"
-    ],
-    "composers": [
-      "Lady Gaga & Bradley Cooper"
-    ],
-    "lyricist": "Lady Gaga & Bradley Cooper",
-    "releaseYear": 2018,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/cc/ed/0ccced59-6e6f-f0a0-0c9a-d20bfd475052/mzaf_26600833784075363.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/9f/ef/b19fef51-79de-a940-e8ab-9e4e07b04d96/18UMGIM53752.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Shallow",
-      "Shallow"
     ]
   },
   {
@@ -26444,34 +26307,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Hope (feat. Winona Oak)",
-    "movie": "Sick Boy",
-    "singers": [
-      "The Chainsmokers"
-    ],
-    "artists": [
-      "The Chainsmokers"
-    ],
-    "composers": [
-      "The Chainsmokers"
-    ],
-    "lyricist": "The Chainsmokers",
-    "releaseYear": 2018,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/e1/a3/dce1a3dd-233c-a5da-cede-87a0aad18740/mzaf_9316751557773368912.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/24/e1/6324e131-0034-4753-9cc6-ade1da39a4a8/886447471074.jpg/400x400bb.jpg",
-    "aliases": [
-      "Hope (feat. Winona Oak)",
-      "Hope (feat. Winona Oak)"
-    ]
-  },
-  {
     "title": "Remind Me to Forget",
     "movie": "Remind Me to Forget - Single",
     "singers": [
@@ -26525,34 +26360,6 @@ module.exports = [
     "aliases": [
       "Bollywood - Dance Music",
       "Bollywood - Dance Music"
-    ]
-  },
-  {
-    "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
-    "movie": "Hollywood's Bleeding",
-    "singers": [
-      "Post Malone & Swae Lee"
-    ],
-    "artists": [
-      "Post Malone & Swae Lee"
-    ],
-    "composers": [
-      "Post Malone & Swae Lee"
-    ],
-    "lyricist": "Post Malone & Swae Lee",
-    "releaseYear": 2018,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/dd/38/89dd38a1-9e5d-f924-41a1-585f67870ca7/mzaf_17506666060631337235.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Sunflower (Spider-Man: Into the Spider-Verse)",
-      "Sunflower (Spider-Man: Into the Spider-Verse)"
     ]
   },
   {
@@ -27113,34 +26920,6 @@ module.exports = [
     "aliases": [
       "Mann Melo",
       "Mann Melo"
-    ]
-  },
-  {
-    "title": "Paris",
-    "movie": "Memories...Do Not Open",
-    "singers": [
-      "The Chainsmokers"
-    ],
-    "artists": [
-      "The Chainsmokers"
-    ],
-    "composers": [
-      "The Chainsmokers"
-    ],
-    "lyricist": "The Chainsmokers",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/da/a7/1fdaa7c3-9af3-bd5f-9048-406a31e21c1d/mzaf_14744732617925969794.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9d/56/6f/9d566f55-5253-bed6-5c31-df952dae649d/886446379289.jpg/400x400bb.jpg",
-    "aliases": [
-      "Paris",
-      "Paris"
     ]
   },
   {
@@ -27900,34 +27679,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Sign of the Times",
-    "movie": "Harry Styles",
-    "singers": [
-      "Harry Styles"
-    ],
-    "artists": [
-      "Harry Styles"
-    ],
-    "composers": [
-      "Harry Styles"
-    ],
-    "lyricist": "Harry Styles",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/58/37/bd5837c2-3b3b-5f32-c292-fc0af38f6ea6/mzaf_10433939766410649853.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/400x400bb.jpg",
-    "aliases": [
-      "Sign of the Times",
-      "Sign of the Times"
-    ]
-  },
-  {
     "title": "Clean White Noise - Loopable with no fade",
     "movie": "Best White Noise For Baby Sleep - Loopable With No Fade",
     "singers": [
@@ -28485,34 +28236,6 @@ module.exports = [
     "aliases": [
       "Vedha's Angst",
       "Vedha's Angst"
-    ]
-  },
-  {
-    "title": "Never Be the Same",
-    "movie": "Camila",
-    "singers": [
-      "Camila Cabello"
-    ],
-    "artists": [
-      "Camila Cabello"
-    ],
-    "composers": [
-      "Camila Cabello"
-    ],
-    "lyricist": "Camila Cabello",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4e/7b/a2/4e7ba217-b7cb-0df2-2ea4-19120bd497bc/mzaf_3130532990706214969.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/28/70/85287029-19b9-cbe3-d1ab-300781875bf4/886446870298.jpg/400x400bb.jpg",
-    "aliases": [
-      "Never Be the Same",
-      "Never Be the Same"
     ]
   },
   {
@@ -29552,34 +29275,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Dusk Till Dawn (feat. Sia)",
-    "movie": "Dusk Till Dawn (Radio Edit) [feat. Sia] - Single",
-    "singers": [
-      "ZAYN"
-    ],
-    "artists": [
-      "ZAYN"
-    ],
-    "composers": [
-      "ZAYN"
-    ],
-    "lyricist": "ZAYN",
-    "releaseYear": 2017,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7c/68/6e/7c686e96-5eae-14e4-3059-d8c2e0c97658/mzaf_16705803503687192662.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/25/4c/9d254c6f-1af8-c3e2-ff1a-f30ca2dbe45b/886446731896.jpg/400x400bb.jpg",
-    "aliases": [
-      "Dusk Till Dawn (feat. Sia)",
-      "Dusk Till Dawn (feat. Sia)"
-    ]
-  },
-  {
     "title": "Hold On",
     "movie": "Hold On - Single",
     "singers": [
@@ -30224,34 +29919,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Treat You Better",
-    "movie": "Illuminate (Deluxe)",
-    "singers": [
-      "Shawn Mendes"
-    ],
-    "artists": [
-      "Shawn Mendes"
-    ],
-    "composers": [
-      "Shawn Mendes"
-    ],
-    "lyricist": "Shawn Mendes",
-    "releaseYear": 2016,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/01/6a/55016ae7-ea0f-46b9-b1e9-bdcd2a2e43a6/mzaf_8546251326492891284.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/57/e4/5c57e46a-0950-7ebd-8010-28453c1c0055/16UMGIM51723.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Treat You Better",
-      "Treat You Better"
-    ]
-  },
-  {
     "title": "Fighter (feat. Yoonmirae & Autolaser)",
     "movie": "Identity",
     "singers": [
@@ -30501,34 +30168,6 @@ module.exports = [
     "aliases": [
       "Enna Sona",
       "Enna Sona"
-    ]
-  },
-  {
-    "title": "Work (feat. Drake)",
-    "movie": "ANTI (Deluxe)",
-    "singers": [
-      "Rihanna"
-    ],
-    "artists": [
-      "Rihanna"
-    ],
-    "composers": [
-      "Rihanna"
-    ],
-    "lyricist": "Rihanna",
-    "releaseYear": 2016,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/de/8e/b8de8e33-7ff1-9138-1d39-e3896f2cbeea/mzaf_8152061522966058173.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/da/90/9cda90c9-df1a-078b-319c-bdf2801e8d1f/16UMGIM03373.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Work (feat. Drake)",
-      "Work (feat. Drake)"
     ]
   },
   {
@@ -32996,34 +32635,6 @@ module.exports = [
     ]
   },
   {
-    "title": "How Deep Is Your Love",
-    "movie": "How Deep Is Your Love - Single",
-    "singers": [
-      "Calvin Harris, Disciples"
-    ],
-    "artists": [
-      "Calvin Harris, Disciples"
-    ],
-    "composers": [
-      "Calvin Harris, Disciples"
-    ],
-    "lyricist": "Calvin Harris, Disciples",
-    "releaseYear": 2015,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/18/5f/ac/185fac75-50f2-9369-e00e-a901d8eef571/mzaf_2487812233239225711.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/5c/85/045c85d9-94cb-a9c7-f39b-aa5b7e803c04/dj.dkdebfmh.jpg/400x400bb.jpg",
-    "aliases": [
-      "How Deep Is Your Love",
-      "How Deep Is Your Love"
-    ]
-  },
-  {
     "title": "Selfie Le Le Re",
     "movie": "Bajrangi Bhaijaan",
     "singers": [
@@ -33273,34 +32884,6 @@ module.exports = [
     "aliases": [
       "If Only",
       "If Only"
-    ]
-  },
-  {
-    "title": "Send My Love (To Your New Lover)",
-    "movie": "25",
-    "singers": [
-      "Adele"
-    ],
-    "artists": [
-      "Adele"
-    ],
-    "composers": [
-      "Adele"
-    ],
-    "lyricist": "Adele",
-    "releaseYear": 2015,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/78/ac/a878acab-3521-d480-1e9b-7c340988fcde/mzaf_2543120675258451649.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/400x400bb.jpg",
-    "aliases": [
-      "Send My Love (To Your New Lover)",
-      "Send My Love (To Your New Lover)"
     ]
   },
   {
@@ -34225,34 +33808,6 @@ module.exports = [
     "aliases": [
       "I Don't Dance",
       "I Don't Dance"
-    ]
-  },
-  {
-    "title": "Night Changes",
-    "movie": "FOUR (The Ultimate Edition)",
-    "singers": [
-      "One Direction"
-    ],
-    "artists": [
-      "One Direction"
-    ],
-    "composers": [
-      "One Direction"
-    ],
-    "lyricist": "One Direction",
-    "releaseYear": 2014,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 2,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/ae/38/f6ae3840-e2c4-ff25-2546-cebe08431326/mzaf_15724118202843096992.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/e4/98/14e49846-57a9-dc8d-6fa3-5e03ccf3606c/dj.ljogvxod.jpg/400x400bb.jpg",
-    "aliases": [
-      "Night Changes",
-      "Night Changes"
     ]
   },
   {
@@ -37756,34 +37311,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Part of Me",
-    "movie": "Teenage Dream: The Complete Confection",
-    "singers": [
-      "Katy Perry"
-    ],
-    "artists": [
-      "Katy Perry"
-    ],
-    "composers": [
-      "Katy Perry"
-    ],
-    "lyricist": "Katy Perry",
-    "releaseYear": 2012,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/a4/32/0ca432eb-fc53-8a08-acdd-55d9dcab98b0/mzaf_4093649230372607608.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/57/b3/3157b3d9-6551-e44e-46c0-488686998a05/13UABIM58339.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Part of Me",
-      "Part of Me"
-    ]
-  },
-  {
     "title": "Just Give Me a Reason (feat. Nate Ruess)",
     "movie": "The Truth About Love",
     "singers": [
@@ -38232,34 +37759,6 @@ module.exports = [
     ]
   },
   {
-    "title": "When I Was Your Man",
-    "movie": "Unorthodox Jukebox",
-    "singers": [
-      "Bruno Mars"
-    ],
-    "artists": [
-      "Bruno Mars"
-    ],
-    "composers": [
-      "Bruno Mars"
-    ],
-    "lyricist": "Bruno Mars",
-    "releaseYear": 2012,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/7a/86/327a86eb-ebc8-573b-0b8c-e768393714bf/mzaf_2690413210587989406.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/400x400bb.jpg",
-    "aliases": [
-      "When I Was Your Man",
-      "When I Was Your Man"
-    ]
-  },
-  {
     "title": "Aa Bhi Ja Mere Mehermaan",
     "movie": "Jayantabhai Ki Luv Story - EP",
     "singers": [
@@ -38565,34 +38064,6 @@ module.exports = [
     "aliases": [
       "Ishq Shava",
       "Ishq Shava"
-    ]
-  },
-  {
-    "title": "Skyfall",
-    "movie": "Skyfall - Single",
-    "singers": [
-      "Adele"
-    ],
-    "artists": [
-      "Adele"
-    ],
-    "composers": [
-      "Adele"
-    ],
-    "lyricist": "Adele",
-    "releaseYear": 2012,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/48/0e/6c480edc-89f5-a9cf-b309-63c5237efe92/mzaf_3142604484249449871.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/400x400bb.jpg",
-    "aliases": [
-      "Skyfall",
-      "Skyfall"
     ]
   },
   {
@@ -38929,34 +38400,6 @@ module.exports = [
     "aliases": [
       "Somebody That I Used to Know (feat. Kimbra)",
       "Somebody That I Used to Know (feat. Kimbra)"
-    ]
-  },
-  {
-    "title": "It Will Rain",
-    "movie": "The Twilight Saga: Breaking Dawn, Pt. 1 [Deluxe Version]",
-    "singers": [
-      "Bruno Mars"
-    ],
-    "artists": [
-      "Bruno Mars"
-    ],
-    "composers": [
-      "Bruno Mars"
-    ],
-    "lyricist": "Bruno Mars",
-    "releaseYear": 2011,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/ce/de/63cede62-324d-74cb-8389-411ddb043c78/mzaf_15665454585245884515.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/2e/83/f52e8357-9cf4-e644-c365-3c21839f85ac/mzi.staekbjw.jpg/400x400bb.jpg",
-    "aliases": [
-      "It Will Rain",
-      "It Will Rain"
     ]
   },
   {
@@ -39685,34 +39128,6 @@ module.exports = [
     "aliases": [
       "Aye Khuda",
       "Aye Khuda"
-    ]
-  },
-  {
-    "title": "The Edge of Glory",
-    "movie": "Born This Way (Special Edition)",
-    "singers": [
-      "Lady Gaga"
-    ],
-    "artists": [
-      "Lady Gaga"
-    ],
-    "composers": [
-      "Lady Gaga"
-    ],
-    "lyricist": "Lady Gaga",
-    "releaseYear": 2011,
-    "decade": "2010s",
-    "genre": [
-      "Bollywood",
-      "Party",
-      "Romantic"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/53/9b/72539bcd-cd48-ef0b-431a-51474268f3f5/mzaf_5808317234516900035.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9f/0f/429f0fd2-30bd-b64e-27fc-76d8fbbd0988/11UMGIM12476.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "The Edge of Glory",
-      "The Edge of Glory"
     ]
   },
   {
@@ -41665,32 +41080,6 @@ module.exports = [
     "aliases": [
       "Dynamite",
       "Dynamite"
-    ]
-  },
-  {
-    "title": "Alejandro",
-    "movie": "The Fame Monster (Deluxe Edition)",
-    "singers": [
-      "Lady Gaga"
-    ],
-    "artists": [
-      "Lady Gaga"
-    ],
-    "composers": [
-      "Lady Gaga"
-    ],
-    "lyricist": "Lady Gaga",
-    "releaseYear": 2009,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/9c/e9/cf9ce9f7-f1de-d9f7-f8c8-0815ed5a8bbd/mzaf_6375785484637425672.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "Alejandro",
-      "Alejandro"
     ]
   },
   {
@@ -44447,32 +43836,6 @@ module.exports = [
     "aliases": [
       "My Wish",
       "My Wish"
-    ]
-  },
-  {
-    "title": "SOS",
-    "movie": "A Girl Like Me (Bonus Track Version)",
-    "singers": [
-      "Rihanna"
-    ],
-    "artists": [
-      "Rihanna"
-    ],
-    "composers": [
-      "Rihanna"
-    ],
-    "lyricist": "Rihanna",
-    "releaseYear": 2006,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/33/1a/14331a37-869e-6bf2-1948-6d247604ddad/mzaf_10059486702684661535.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/35/c6/58/35c65858-52cd-94f5-2f8f-fbaa811a49da/16UMGIM58854.rgb.jpg/400x400bb.jpg",
-    "aliases": [
-      "SOS",
-      "SOS"
     ]
   },
   {
@@ -47307,32 +46670,6 @@ module.exports = [
     "aliases": [
       "Shree Hanuman Chalisa Path 1",
       "Shree Hanuman Chalisa Path 1"
-    ]
-  },
-  {
-    "title": "Cry Me a River",
-    "movie": "Justified",
-    "singers": [
-      "Justin Timberlake"
-    ],
-    "artists": [
-      "Justin Timberlake"
-    ],
-    "composers": [
-      "Justin Timberlake"
-    ],
-    "lyricist": "Justin Timberlake",
-    "releaseYear": 2002,
-    "decade": "2000s",
-    "genre": [
-      "Bollywood"
-    ],
-    "difficulty": 3,
-    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/2f/13/f92f132d-8336-b7af-cbd6-aa62a78d0fbc/mzaf_13014445371283907307.plus.aac.p.m4a",
-    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/400x400bb.jpg",
-    "aliases": [
-      "Cry Me a River",
-      "Cry Me a River"
     ]
   },
   {
@@ -52713,6 +52050,1275 @@ module.exports = [
     "aliases": [
       "Some Day My Prince Will Come",
       "Some Day My Prince Will Come"
+    ]
+  },
+  {
+    "title": "Badtameez Dil",
+    "movie": "Pritam's Musical Journey",
+    "singers": [
+      "Benny Dayal & Shefali Alvares"
+    ],
+    "artists": [
+      "Benny Dayal & Shefali Alvares"
+    ],
+    "composers": [
+      "Benny Dayal & Shefali Alvares"
+    ],
+    "lyricist": "Benny Dayal & Shefali Alvares",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/df/af/e5/dfafe5f1-6e07-b3a2-f1c6-023a4279e026/mzaf_473048141481207378.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/84/c8/9a/84c89ae0-5927-7474-8469-1c98e4bd8fa5/8903431716101_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Badtameez Dil (From \"Yeh Jawaani Hai Deewani\")",
+      "Badtameez Dil"
+    ]
+  },
+  {
+    "title": "Kar Gayi Chull\")",
+    "movie": "Best Of 2016",
+    "singers": [
+      "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar & Neha Kakkar"
+    ],
+    "artists": [
+      "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar & Neha Kakkar"
+    ],
+    "composers": [
+      "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar & Neha Kakkar"
+    ],
+    "lyricist": "Badshah, Amaal Mallik, Fazilpuria, Sukriti Kakar & Neha Kakkar",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/05/e9/47/05e947db-cfd3-cb8c-82e7-972fafb20cca/mzaf_5492832900389336462.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/8f/99/a78f9980-cd65-299f-d86d-cece71ebf415/886446286020.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kar Gayi Chull (From \"Kapoor & Sons (Since 1921)\")",
+      "Kar Gayi Chull"
+    ]
+  },
+  {
+    "title": "Subha Hone Na De",
+    "movie": "Hits of Akshay Kumar",
+    "singers": [
+      "Mika Singh & Shefali Alvares"
+    ],
+    "artists": [
+      "Mika Singh & Shefali Alvares"
+    ],
+    "composers": [
+      "Mika Singh & Shefali Alvares"
+    ],
+    "lyricist": "Mika Singh & Shefali Alvares",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f6/ef/c4/f6efc41c-2ab8-7e53-7da5-a5c213bcff01/mzaf_6716201837204792512.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/be/85/1a/be851aab-0d7c-1524-1e25-830c889b71b8/8903431652331_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Subha Hone Na De (From \"Desi Boyz\")",
+      "Subha Hone Na De"
+    ]
+  },
+  {
+    "title": "Gallan Goodiyaan",
+    "movie": "Jhakass Stylebaaz Anil Kapoor",
+    "singers": [
+      "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh"
+    ],
+    "artists": [
+      "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh"
+    ],
+    "composers": [
+      "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh"
+    ],
+    "lyricist": "Yashita Sharma, Manish Kumar Tipu, Farhan Akhtar, Shankar Mahadevan & Sukhwinder Singh",
+    "releaseYear": 2015,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3f/d9/02/3fd902f8-14e9-85ae-0a38-2dd35943d86b/mzaf_17509990870081966347.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2a/a7/2b/2aa72b4d-51a0-9b7e-2dad-0eeaca51a14c/8903431631619_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Gallan Goodiyaan (From \"Dil Dhadakne Do\")",
+      "Gallan Goodiyaan"
+    ]
+  },
+  {
+    "title": "Dilliwaali Girlfriend",
+    "movie": "Best of Arijit Singh",
+    "singers": [
+      "Arijit Singh & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Arijit Singh & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Arijit Singh & Sunidhi Chauhan"
+    ],
+    "lyricist": "Arijit Singh & Sunidhi Chauhan",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/9c/9f/e89c9fbf-e88d-5727-1cc2-049019822990/mzaf_7544898805015679606.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/11/b9/2d11b994-b4fa-19eb-953d-70b472165e95/8903431566911_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dilliwaali Girlfriend (From \"Yeh Jawaani Hai Deewani\")",
+      "Dilliwaali Girlfriend"
+    ]
+  },
+  {
+    "title": "Chammak Challo (International Version)",
+    "movie": "Ra-One",
+    "singers": [
+      "Akon"
+    ],
+    "artists": [
+      "Akon"
+    ],
+    "composers": [
+      "Akon"
+    ],
+    "lyricist": "Akon",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/da/61/c6da617c-8faa-937d-cb13-c07c46f4a2f5/mzaf_8668304482189212536.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/f0/42/0cf042ce-94bf-0e40-1691-2aef999a5dbc/8902894697309_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chammak Challo (International Version)",
+      "Chammak Challo"
+    ]
+  },
+  {
+    "title": "Chammak Challo",
+    "movie": "Dance Mera Hit Hit",
+    "singers": [
+      "Akon & Hamsika Iyer"
+    ],
+    "artists": [
+      "Akon & Hamsika Iyer"
+    ],
+    "composers": [
+      "Akon & Hamsika Iyer"
+    ],
+    "lyricist": "Akon & Hamsika Iyer",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ed/2e/d7/ed2ed721-f3ea-8c1a-1cd0-e9b034532265/mzaf_3620711147327779999.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/27/69/dc2769b9-f87f-d386-3414-4c0c42f38e7b/8903431939845_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Chammak Challo (From \"Ra-One\")",
+      "Chammak Challo"
+    ]
+  },
+  {
+    "title": "It's the Time to Disco",
+    "movie": "KK: Best of Me",
+    "singers": [
+      "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan"
+    ],
+    "artists": [
+      "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan"
+    ],
+    "composers": [
+      "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan"
+    ],
+    "lyricist": "Shankar Ehsaan Loy, KK, Vasundhara Das, Loy Mendonsa & Shaan",
+    "releaseYear": 2003,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/00/50/9e0050b0-444c-2b15-6b47-eb2aa1b0eed2/mzaf_6615476303644923612.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/87/69/0d876993-ec13-ab5a-a28f-2a11f453e1d3/886445194500.jpg/400x400bb.jpg",
+    "aliases": [
+      "It's the Time to Disco (From \"Kal Ho Naa Ho\")",
+      "It's the Time to Disco"
+    ]
+  },
+  {
+    "title": "London Thumakda",
+    "movie": "Best of Amit Trivedi",
+    "singers": [
+      "Labh Janjua, Sonu Kakkar & Neha Kakkar"
+    ],
+    "artists": [
+      "Labh Janjua, Sonu Kakkar & Neha Kakkar"
+    ],
+    "composers": [
+      "Labh Janjua, Sonu Kakkar & Neha Kakkar"
+    ],
+    "lyricist": "Labh Janjua, Sonu Kakkar & Neha Kakkar",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/75/ed/47/75ed471e-fa01-0f21-8e02-98e9dd29f920/mzaf_5581690910164453500.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/33/ed/2733ed07-cd8c-8038-8d9d-ee399d313df3/8903431777942_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "London Thumakda (From \"Queen\")",
+      "London Thumakda (From \"Queen\")"
+    ]
+  },
+  {
+    "title": "Mauja Hi Mauja",
+    "movie": "Charismatic Sasha - Shahid",
+    "singers": [
+      "Mika Singh"
+    ],
+    "artists": [
+      "Mika Singh"
+    ],
+    "composers": [
+      "Mika Singh"
+    ],
+    "lyricist": "Mika Singh",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/fd/29/f6fd2961-4af9-c994-0979-8a8c72db232f/mzaf_17009356990100753290.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/fd/68/7efd6872-703e-c305-e146-67c96130d8b6/8903431769565_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mauja Hi Mauja (From \"Jab We Met\")",
+      "Mauja Hi Mauja"
+    ]
+  },
+  {
+    "title": "Señorita",
+    "movie": "Zindagi Na Milegi Dobara",
+    "singers": [
+      "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez"
+    ],
+    "artists": [
+      "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez"
+    ],
+    "composers": [
+      "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez"
+    ],
+    "lyricist": "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/84/ed/6384ed32-cf48-c2ef-e227-0be060b312ea/mzaf_5057131307043397510.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/3f/4c/b03f4cca-8a6a-f506-4490-3263b4fb620c/8902894696296_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Señorita",
+      "Senorita"
+    ]
+  },
+  {
+    "title": "Senorita (feat. Kardinal Offishall, Deewun & ZJ Sparks)",
+    "movie": "Senorita (Bollywood Remix) [feat. Kardinal Offishall, Deewun & ZJ Sparks] - Single",
+    "singers": [
+      "I-Octane"
+    ],
+    "artists": [
+      "I-Octane"
+    ],
+    "composers": [
+      "I-Octane"
+    ],
+    "lyricist": "I-Octane",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4d/48/0c/4d480c87-186a-3096-52f1-79d50f84bbfe/mzaf_8632830386925145708.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8a/b2/4f/8ab24fe9-57a9-3c60-3119-4c25d949d4ac/723175968493.jpg/400x400bb.jpg",
+    "aliases": [
+      "Senorita (feat. Kardinal Offishall, Deewun & ZJ Sparks) [Bollywood Remix]",
+      "Senorita"
+    ]
+  },
+  {
+    "title": "Señorita",
+    "movie": "Best of Hrithik",
+    "singers": [
+      "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez"
+    ],
+    "artists": [
+      "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez"
+    ],
+    "composers": [
+      "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez"
+    ],
+    "lyricist": "Farhan Akhtar, Hrithik Roshan, Abhay Deol & Maria Del Mar Fernandez",
+    "releaseYear": 2011,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/36/13/75/3613756c-799b-1361-eb3f-6fdbbeea696f/mzaf_13177637674024504294.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/f7/09/faf709ee-c18d-1959-3ff1-b705547f7b3f/8903431614803_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Señorita (From \"Zindagi Na Milegi Dobara\")",
+      "Senorita"
+    ]
+  },
+  {
+    "title": "Senorita (J Balvin Version)",
+    "movie": "Senorita (J Balvin Version) - Single",
+    "singers": [
+      "Diljit Dosanjh & J Balvin"
+    ],
+    "artists": [
+      "Diljit Dosanjh & J Balvin"
+    ],
+    "composers": [
+      "Diljit Dosanjh & J Balvin"
+    ],
+    "lyricist": "Diljit Dosanjh & J Balvin",
+    "releaseYear": 2026,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/24/7b/0b247b10-0e06-045e-27ea-85e737093be9/mzaf_1616989521586494702.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/bb/e1/4fbbe172-2ff6-ab7f-6677-882cdbbb6277/5026854420592.jpg/400x400bb.jpg",
+    "aliases": [
+      "Senorita (J Balvin Version)",
+      "Senorita"
+    ]
+  },
+  {
+    "title": "Let's Nacho\")",
+    "movie": "Best Of 2016",
+    "singers": [
+      "Nucleya, Benny Dayal & Badshah"
+    ],
+    "artists": [
+      "Nucleya, Benny Dayal & Badshah"
+    ],
+    "composers": [
+      "Nucleya, Benny Dayal & Badshah"
+    ],
+    "lyricist": "Nucleya, Benny Dayal & Badshah",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/2c/6d/142c6d6a-7aab-b83d-6d67-4f0854c2ec3e/mzaf_1207548651220190282.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/8f/99/a78f9980-cd65-299f-d86d-cece71ebf415/886446286020.jpg/400x400bb.jpg",
+    "aliases": [
+      "Let's Nacho (From \"Kapoor & Sons (Since 1921)\")",
+      "Let's Nacho"
+    ]
+  },
+  {
+    "title": "Where's the Party Tonight (Jammin')",
+    "movie": "Jammin', 2",
+    "singers": [
+      "Shaan, Shraddha Sharma & Aby Mashe"
+    ],
+    "artists": [
+      "Shaan, Shraddha Sharma & Aby Mashe"
+    ],
+    "composers": [
+      "Shaan, Shraddha Sharma & Aby Mashe"
+    ],
+    "lyricist": "Shaan, Shraddha Sharma & Aby Mashe",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a1/19/a2/a119a24c-3205-6014-2484-a6d5a9cff599/mzaf_11018064712023308481.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/62/62/2f/62622fb7-1e2d-91a7-1ac3-d3638218fb43/886447781425.jpg/400x400bb.jpg",
+    "aliases": [
+      "Where's the Party Tonight (Jammin')",
+      "Where's the Party Tonight"
+    ]
+  },
+  {
+    "title": "Ainvayi Ainvayi",
+    "movie": "Dance Pe Chance - Best of Sunidhi Chauhan",
+    "singers": [
+      "Sunidhi Chauhan & Salim Merchant"
+    ],
+    "artists": [
+      "Sunidhi Chauhan & Salim Merchant"
+    ],
+    "composers": [
+      "Sunidhi Chauhan & Salim Merchant"
+    ],
+    "lyricist": "Sunidhi Chauhan & Salim Merchant",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/ec/b1/d4ecb119-2379-6754-3c10-a25e1a730919/mzaf_2363709284224219807.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/ed/a6/43/eda643e7-0b78-4d0f-6a8b-ced6c6cb925d/Dance_Pe_Chance_-_Best_Of_Sunidhi_Chauhan.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ainvayi Ainvayi (From \"Band Baaja Baaraat\")",
+      "Ainvayi Ainvayi"
+    ]
+  },
+  {
+    "title": "Ainvayi Ainvayi (Dilli Club Mix)",
+    "movie": "Band Baaja Baaraat",
+    "singers": [
+      "Master Salim & Sunidhi Chauhan"
+    ],
+    "artists": [
+      "Master Salim & Sunidhi Chauhan"
+    ],
+    "composers": [
+      "Master Salim & Sunidhi Chauhan"
+    ],
+    "lyricist": "Master Salim & Sunidhi Chauhan",
+    "releaseYear": 2010,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/1f/47/501f4708-ca98-7d18-07d9-b0ebe616a944/mzaf_4724153928163148284.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/aa/b4/d9aab481-1333-7f89-8be6-0b9261db4e07/849486012813_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Ainvayi Ainvayi (Dilli Club Mix)",
+      "Ainvayi Ainvayi"
+    ]
+  },
+  {
+    "title": "Coca Cola",
+    "movie": "Party Songs Neha Kakkar",
+    "singers": [
+      "Tony Kakkar, Neha Kakkar & Young Desi"
+    ],
+    "artists": [
+      "Tony Kakkar, Neha Kakkar & Young Desi"
+    ],
+    "composers": [
+      "Tony Kakkar, Neha Kakkar & Young Desi"
+    ],
+    "lyricist": "Tony Kakkar, Neha Kakkar & Young Desi",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f4/2c/23/f42c2326-d740-a7b1-eb3d-30d6a2c48e15/mzaf_10515152114354433459.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/da/f1/fadaf1cf-6de5-1ea8-3486-afe440d88189/8903431734693_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Coca Cola (From \"Luka Chuppi\")",
+      "Coca Cola (From \"Luka Chuppi\")"
+    ]
+  },
+  {
+    "title": "Coca Cola",
+    "movie": "Luka Chuppi",
+    "singers": [
+      "Tony Kakkar, Neha Kakkar & Young Desi"
+    ],
+    "artists": [
+      "Tony Kakkar, Neha Kakkar & Young Desi"
+    ],
+    "composers": [
+      "Tony Kakkar, Neha Kakkar & Young Desi"
+    ],
+    "lyricist": "Tony Kakkar, Neha Kakkar & Young Desi",
+    "releaseYear": 2019,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/60/a3/8d60a3a6-276d-14cc-20e4-8c636e4a8187/mzaf_14733574712882193336.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/82/33/2a823318-956a-a6f2-7ef8-588defb7baf1/8902894360685_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Coca Cola",
+      "Coca Cola (From \"Luka Chuppi\")"
+    ]
+  },
+  {
+    "title": "Coca-Cola (feat. Louis III)",
+    "movie": "Coca-Cola (feat. Louis III) - Single",
+    "singers": [
+      "Gabry Ponte"
+    ],
+    "artists": [
+      "Gabry Ponte"
+    ],
+    "composers": [
+      "Gabry Ponte"
+    ],
+    "lyricist": "Gabry Ponte",
+    "releaseYear": 2023,
+    "decade": "2020s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 1,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bb/39/5c/bb395c88-f0f3-d4cb-a227-d8eeffe39aff/mzaf_7242394322464211416.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/82/c3/e482c325-1ebb-4ba2-b03e-1a84a6b6f095/23SYMIM02844.rgb.jpg/400x400bb.jpg",
+    "aliases": [
+      "Coca-Cola (feat. Louis III)",
+      "Coca Cola (From \"Luka Chuppi\")"
+    ]
+  },
+  {
+    "title": "Kajra Re",
+    "movie": "Bollywood - Top Hits of Decade",
+    "singers": [
+      "Alisha Chinai, Shankar Mahadevan, Javed Ali & Shankar Ehsaan Loy"
+    ],
+    "artists": [
+      "Alisha Chinai, Shankar Mahadevan, Javed Ali & Shankar Ehsaan Loy"
+    ],
+    "composers": [
+      "Alisha Chinai, Shankar Mahadevan, Javed Ali & Shankar Ehsaan Loy"
+    ],
+    "lyricist": "Alisha Chinai, Shankar Mahadevan, Javed Ali & Shankar Ehsaan Loy",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/d5/1f/29d51f04-74e4-1230-2ba2-0b35a5c12d81/mzaf_10117743876348376007.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/cc/86/c3/cc86c3b9-aef5-fcb4-a417-fbf5ea4d480f/Bollywood_-_Top_Hits_of_Decade.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kajra Re (From \"Bunty Aur Babli\")",
+      "Kajra Re"
+    ]
+  },
+  {
+    "title": "Pappu Can't Dance",
+    "movie": "Jaane Tu... Ya Jaane Na",
+    "singers": [
+      "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi"
+    ],
+    "artists": [
+      "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi"
+    ],
+    "composers": [
+      "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi"
+    ],
+    "lyricist": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/ad/f6/73adf6ec-da8d-189d-50b9-b9d7deb4b8b3/mzaf_14544144901763906551.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/69/9d/1e/699d1e5f-9fb9-a4a9-3fe0-6cae29b7dd49/8902894626033_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pappu Can't Dance",
+      "Pappu Can't Dance"
+    ]
+  },
+  {
+    "title": "Pappu Can't Dance",
+    "movie": "A. R. Rahman All Time Favourites",
+    "singers": [
+      "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi"
+    ],
+    "artists": [
+      "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi"
+    ],
+    "composers": [
+      "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi"
+    ],
+    "lyricist": "Benny Dayal, Naresh Iyer, Satish Chakravarthy, Aslam, Blaaze, Tanvi & Bhargavi",
+    "releaseYear": 2008,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f9/0b/e2/f90be211-fa6a-e6aa-a944-b255ec59b8d7/mzaf_18367714187310958292.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/c4/5c/3cc45c79-ceb6-cfed-095a-10f8626bca2e/8903431883476_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Pappu Can't Dance (From \"Jaane Tu... Ya Jaane Na\")",
+      "Pappu Can't Dance"
+    ]
+  },
+  {
+    "title": "Soni De Nakhre",
+    "movie": "Partner",
+    "singers": [
+      "Wajid, Labh Janjua & Sneha Pant"
+    ],
+    "artists": [
+      "Wajid, Labh Janjua & Sneha Pant"
+    ],
+    "composers": [
+      "Wajid, Labh Janjua & Sneha Pant"
+    ],
+    "lyricist": "Wajid, Labh Janjua & Sneha Pant",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/e5/36/f6e5369d-a935-947a-3bdf-4d7a89f5fec5/mzaf_5168080575975374374.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/1c/19/79/1c197964-2718-ed49-f31a-13fc71739f95/8902894836487_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soni De Nakhre",
+      "Soni De Nakhre"
+    ]
+  },
+  {
+    "title": "Soni De Nakhre",
+    "movie": "All Time Hits Bollywood Dance Tracks",
+    "singers": [
+      "Wajid, Labh Janjua & Sneha Pant"
+    ],
+    "artists": [
+      "Wajid, Labh Janjua & Sneha Pant"
+    ],
+    "composers": [
+      "Wajid, Labh Janjua & Sneha Pant"
+    ],
+    "lyricist": "Wajid, Labh Janjua & Sneha Pant",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/ad/44/6ead4458-7f99-eb25-107c-68171f1ca5f9/mzaf_4784482686709783202.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/5a/b3/7a5ab396-360f-a8fc-4def-e43126d6abe4/8903431976932_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Soni De Nakhre (From \"Partner\")",
+      "Soni De Nakhre"
+    ]
+  },
+  {
+    "title": "Bom Diggy Diggy",
+    "movie": "Bollywood Best Party Songs 2018",
+    "singers": [
+      "Zack Knight & Jasmin Walia"
+    ],
+    "artists": [
+      "Zack Knight & Jasmin Walia"
+    ],
+    "composers": [
+      "Zack Knight & Jasmin Walia"
+    ],
+    "lyricist": "Zack Knight & Jasmin Walia",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/8d/c4/518dc45b-a962-b3c1-8646-81e1ca9a4dfd/mzaf_6950995823421280382.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/38/b1/a7/38b1a736-8619-4d37-2c77-36588be2dc0a/8903431699862_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bom Diggy Diggy (From \"Sonu Ke Titu Ki Sweety\")",
+      "Bom Diggy Diggy"
+    ]
+  },
+  {
+    "title": "Bom Diggy",
+    "movie": "Bom Diggy - Single",
+    "singers": [
+      "Zack Knight & Jasmin Walia"
+    ],
+    "artists": [
+      "Zack Knight & Jasmin Walia"
+    ],
+    "composers": [
+      "Zack Knight & Jasmin Walia"
+    ],
+    "lyricist": "Zack Knight & Jasmin Walia",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/97/8e/8e978e66-a66a-d0d1-eb29-36a25f27de21/mzaf_14539193485679607576.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5a/fa/f6/5afaf6cd-db39-af8f-b25c-74249e1741a1/191773635619.jpg/400x400bb.jpg",
+    "aliases": [
+      "Bom Diggy",
+      "Bom Diggy Diggy"
+    ]
+  },
+  {
+    "title": "Hookah Bar",
+    "movie": "Best of Akshay Kumar",
+    "singers": [
+      "Himesh Reshammiya, Vineet Singh & Aaman Trikha"
+    ],
+    "artists": [
+      "Himesh Reshammiya, Vineet Singh & Aaman Trikha"
+    ],
+    "composers": [
+      "Himesh Reshammiya, Vineet Singh & Aaman Trikha"
+    ],
+    "lyricist": "Himesh Reshammiya, Vineet Singh & Aaman Trikha",
+    "releaseYear": 2012,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/d3/d4/43d3d483-a4cd-8cb1-d2e0-eab701d6f6ba/mzaf_12058466852222328474.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c3/21/ea/c321ea70-dc37-5c73-4b40-2f0cff663be1/8903431630681_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Hookah Bar (From \"Khiladi 786\")",
+      "Hookah Bar"
+    ]
+  },
+  {
+    "title": "Dard - E - Disco",
+    "movie": "Dance Mera Hit Hit",
+    "singers": [
+      "Sukhwinder Singh, Marianne, Nisha & Caralisa"
+    ],
+    "artists": [
+      "Sukhwinder Singh, Marianne, Nisha & Caralisa"
+    ],
+    "composers": [
+      "Sukhwinder Singh, Marianne, Nisha & Caralisa"
+    ],
+    "lyricist": "Sukhwinder Singh, Marianne, Nisha & Caralisa",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/7f/2b/177f2bb8-0531-34dc-6ae0-0c13e9492754/mzaf_16729740899814190830.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/27/69/dc2769b9-f87f-d386-3414-4c0c42f38e7b/8903431939845_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dard - E - Disco (From \"Om Shanti Om\")",
+      "Dard - E - Disco"
+    ]
+  },
+  {
+    "title": "Dard - E - Tanhai (Kilogram Mix)",
+    "movie": "Jashnn",
+    "singers": [
+      "Nouman Javed, K & G"
+    ],
+    "artists": [
+      "Nouman Javed, K & G"
+    ],
+    "composers": [
+      "Nouman Javed, K & G"
+    ],
+    "lyricist": "Nouman Javed, K & G",
+    "releaseYear": 2009,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/aa/da/d2/aadad2e8-db79-151d-a55c-3e0214664810/mzaf_3612161552651412209.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/42/2a/3f/422a3fba-30f9-fa75-38ae-6124d1ca6932/8902894683760_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Dard - E - Tanhai (Kilogram Mix)",
+      "Dard - E - Disco"
+    ]
+  },
+  {
+    "title": "Char Baj Gaye",
+    "movie": "Workout Bollywood Style: 30 Mins Non Stop Mix",
+    "singers": [
+      "Sachin-Jigar & Hard Kaur"
+    ],
+    "artists": [
+      "Sachin-Jigar & Hard Kaur"
+    ],
+    "composers": [
+      "Sachin-Jigar & Hard Kaur"
+    ],
+    "lyricist": "Sachin-Jigar & Hard Kaur",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/d6/a5/88d6a572-9969-7a99-fac7-c46e2e4bd5ac/mzaf_6897507183938578753.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/2f/4c/9f2f4c34-d6f5-f945-00f8-af6c9655ba37/886444461115.jpg/400x400bb.jpg",
+    "aliases": [
+      "Char Baj Gaye (From \"F.A.L.T.U\") [122 - 128 BPM]",
+      "Char Baj Gaye - Party Abhi Baaki Hai"
+    ]
+  },
+  {
+    "title": "High Rated Gabru",
+    "movie": "Bollywood Best Party Songs 2018",
+    "singers": [
+      "Guru Randhawa"
+    ],
+    "artists": [
+      "Guru Randhawa"
+    ],
+    "composers": [
+      "Guru Randhawa"
+    ],
+    "lyricist": "Guru Randhawa",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/bd/36/91bd3631-c25f-be11-1ab3-ccfd3ae3eb86/mzaf_12391587860032942741.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/38/b1/a7/38b1a736-8619-4d37-2c77-36588be2dc0a/8903431699862_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "High Rated Gabru (From \"Nawabzaade\")",
+      "High Rated Gabru (From \"High Rated Gabru\")"
+    ]
+  },
+  {
+    "title": "High Rated Gabru",
+    "movie": "Top 20 Most Viewed Songs of the Decade (2010-2019)",
+    "singers": [
+      "Guru Randhawa"
+    ],
+    "artists": [
+      "Guru Randhawa"
+    ],
+    "composers": [
+      "Guru Randhawa"
+    ],
+    "lyricist": "Guru Randhawa",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/bf/bd/53bfbdd4-9b7e-b4f4-7aec-e0f2539a2360/mzaf_10306560489899066745.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/12/0d/6d/120d6da8-f58b-e7e0-636d-052550f4de87/8903431766908_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "High Rated Gabru (From \"High Rated Gabru\")",
+      "High Rated Gabru (From \"High Rated Gabru\")"
+    ]
+  },
+  {
+    "title": "High Rated Gabru",
+    "movie": "High Rated Gabru - Single",
+    "singers": [
+      "Guru Randhawa & Manj Musik"
+    ],
+    "artists": [
+      "Guru Randhawa & Manj Musik"
+    ],
+    "composers": [
+      "Guru Randhawa & Manj Musik"
+    ],
+    "lyricist": "Guru Randhawa & Manj Musik",
+    "releaseYear": 2017,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/a0/fe/d3a0fe8d-1004-93bc-5746-363dd3284dc0/mzaf_14362248372762399838.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/d5/f4/9cd5f417-3477-0f42-c9ff-5da0314fe724/8903431647344_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "High Rated Gabru",
+      "High Rated Gabru (From \"High Rated Gabru\")"
+    ]
+  },
+  {
+    "title": "Kaun Nachdi",
+    "movie": "Sonu Ke Titu Ki Sweety",
+    "singers": [
+      "Guru Randhawa & Neeti Mohan"
+    ],
+    "artists": [
+      "Guru Randhawa & Neeti Mohan"
+    ],
+    "composers": [
+      "Guru Randhawa & Neeti Mohan"
+    ],
+    "lyricist": "Guru Randhawa & Neeti Mohan",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/60/8f/05608fc2-cab2-53b4-06aa-bfbe74060e2d/mzaf_3206175427062053540.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/a5/b0/81a5b084-89f7-7ed8-372e-aefd67504922/8902894360074_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaun Nachdi",
+      "Kaun Nachdi (From \"Sonu Ke Titu Ki Sweety\")"
+    ]
+  },
+  {
+    "title": "Kaun Nachdi",
+    "movie": "High Rated Gabru - Guru Randhawa",
+    "singers": [
+      "Guru Randhawa & Neeti Mohan"
+    ],
+    "artists": [
+      "Guru Randhawa & Neeti Mohan"
+    ],
+    "composers": [
+      "Guru Randhawa & Neeti Mohan"
+    ],
+    "lyricist": "Guru Randhawa & Neeti Mohan",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e1/8d/8d/e18d8d92-ed51-eb39-7e2e-f2d7cf927fb4/mzaf_11363930255395173055.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c0/c9/31/c0c93141-f4fe-33f3-be2c-d082005451b9/8903431713704_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kaun Nachdi (From \"Sonu Ke Titu Ki Sweety\")",
+      "Kaun Nachdi (From \"Sonu Ke Titu Ki Sweety\")"
+    ]
+  },
+  {
+    "title": "Balam Pichkari",
+    "movie": "Pritam's Musical Journey",
+    "singers": [
+      "Vishal Dadlani & Shalmali Kholgade"
+    ],
+    "artists": [
+      "Vishal Dadlani & Shalmali Kholgade"
+    ],
+    "composers": [
+      "Vishal Dadlani & Shalmali Kholgade"
+    ],
+    "lyricist": "Vishal Dadlani & Shalmali Kholgade",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/5c/b1/7f5cb127-0b98-39da-ff79-5e69fed58be4/mzaf_7752171795135000935.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/84/c8/9a/84c89ae0-5927-7474-8469-1c98e4bd8fa5/8903431716101_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Balam Pichkari (From \"Yeh Jawaani Hai Deewani\")",
+      "Balam Pichkari"
+    ]
+  },
+  {
+    "title": "Aankh Marey",
+    "movie": "Party Songs Neha Kakkar",
+    "singers": [
+      "Neha Kakkar, Mika Singh & Kumar Sanu"
+    ],
+    "artists": [
+      "Neha Kakkar, Mika Singh & Kumar Sanu"
+    ],
+    "composers": [
+      "Neha Kakkar, Mika Singh & Kumar Sanu"
+    ],
+    "lyricist": "Neha Kakkar, Mika Singh & Kumar Sanu",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/82/8f/b6/828fb66a-dbc9-75fd-99ac-286bc35fde6d/mzaf_3617775786324078157.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/da/f1/fadaf1cf-6de5-1ea8-3486-afe440d88189/8903431734693_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Aankh Marey (From \"Simmba\")",
+      "Aankh Marey (From \"Simmba\")"
+    ]
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "movie": "Best of Arijit Singh",
+    "singers": [
+      "Arijit Singh"
+    ],
+    "artists": [
+      "Arijit Singh"
+    ],
+    "composers": [
+      "Arijit Singh"
+    ],
+    "lyricist": "Arijit Singh",
+    "releaseYear": 2016,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0d/e3/61/0de36146-b436-80a1-bb01-58c21e874878/mzaf_14279542726046675896.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c6/a4/7c/c6a47cfb-8fc0-8654-aa94-0f1977f6f865/Best-of-Arijit-Singh.jpg/400x400bb.jpg",
+    "aliases": [
+      "Nashe Si Chadh Gayi (From \"Befikre\")",
+      "Nashe Si Chadh Gayi"
+    ]
+  },
+  {
+    "title": "Kamariya",
+    "movie": "Bollywood Best Party Songs 2018",
+    "singers": [
+      "Aastha Gill, Sachin Sanghvi, Jigar Saraiya & Divya Kumar"
+    ],
+    "artists": [
+      "Aastha Gill, Sachin Sanghvi, Jigar Saraiya & Divya Kumar"
+    ],
+    "composers": [
+      "Aastha Gill, Sachin Sanghvi, Jigar Saraiya & Divya Kumar"
+    ],
+    "lyricist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya & Divya Kumar",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/e4/38/4ce438da-460f-2458-c077-7be74ba6fe67/mzaf_5943716134093787542.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/38/b1/a7/38b1a736-8619-4d37-2c77-36588be2dc0a/8903431699862_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kamariya (From \"Stree\")",
+      "Kamariya"
+    ]
+  },
+  {
+    "title": "Kamariya (Mixed)",
+    "movie": "Kamariya (Garba Remix By DJ Akhil Talreja (From \"Mitron\")) [DJ Mix]",
+    "singers": [
+      "Lijo George, DJ Chetas, Darshan Raval & DJ Akhil Talreja"
+    ],
+    "artists": [
+      "Lijo George, DJ Chetas, Darshan Raval & DJ Akhil Talreja"
+    ],
+    "composers": [
+      "Lijo George, DJ Chetas, Darshan Raval & DJ Akhil Talreja"
+    ],
+    "lyricist": "Lijo George, DJ Chetas, Darshan Raval & DJ Akhil Talreja",
+    "releaseYear": 2018,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/c8/a9/75c8a99c-5734-a4b8-d606-51ba52b80913/mzaf_1766660673845050586.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/09/eb/2009ebca-340b-9cc7-bc1f-5d75e4739818/886447383773.jpg/400x400bb.jpg",
+    "aliases": [
+      "Kamariya (Mixed) [Garba Remix By DJ Akhil Talreja (From \"Mitron\")]",
+      "Kamariya"
+    ]
+  },
+  {
+    "title": "Mast Kalandar",
+    "movie": "All Time Hits Bollywood Dance Tracks",
+    "singers": [
+      "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan"
+    ],
+    "artists": [
+      "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan"
+    ],
+    "composers": [
+      "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan"
+    ],
+    "lyricist": "Saleem Shahzada, Rehan Khan, Shankar Mahadevan & Sajid Khan",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9f/af/89/9faf89ee-b031-292f-cce3-2876073233e4/mzaf_3417940347010711228.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/5a/b3/7a5ab396-360f-a8fc-4def-e43126d6abe4/8903431976932_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mast Kalandar (From \"Heyy Babyy\")",
+      "Mast Kalandar"
+    ]
+  },
+  {
+    "title": "Mast Kalandar (Rock Version)",
+    "movie": "David",
+    "singers": [
+      "Rekha Bhardwaj"
+    ],
+    "artists": [
+      "Rekha Bhardwaj"
+    ],
+    "composers": [
+      "Rekha Bhardwaj"
+    ],
+    "lyricist": "Rekha Bhardwaj",
+    "releaseYear": 2013,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/0a/1b/950a1bdc-9eee-fe54-cfe6-41ca874d2943/mzaf_11047333120328382704.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/01/f3/1f/01f31f94-4a59-20b2-6fb9-71061c89249e/8902894352260_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Mast Kalandar (Rock Version)",
+      "Mast Kalandar"
+    ]
+  },
+  {
+    "title": "Billo Rani",
+    "movie": "Dhan Dhana Dhan Goal",
+    "singers": [
+      "Pritam, Anand Raj Anand & Richa Sharma"
+    ],
+    "artists": [
+      "Pritam, Anand Raj Anand & Richa Sharma"
+    ],
+    "composers": [
+      "Pritam, Anand Raj Anand & Richa Sharma"
+    ],
+    "lyricist": "Pritam, Anand Raj Anand & Richa Sharma",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9d/4a/55/9d4a555c-77e1-c3fb-6b9d-e57a7aba9c91/mzaf_3866958924052650630.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/25/84/c9258472-4193-8b78-6b4e-9d110ff49e32/8902894623834_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Billo Rani",
+      "Billo Rani"
+    ]
+  },
+  {
+    "title": "Billo Rani",
+    "movie": "All Time Hits Bollywood Dance Tracks",
+    "singers": [
+      "Anand Raj Anand & Richa Sharma"
+    ],
+    "artists": [
+      "Anand Raj Anand & Richa Sharma"
+    ],
+    "composers": [
+      "Anand Raj Anand & Richa Sharma"
+    ],
+    "lyricist": "Anand Raj Anand & Richa Sharma",
+    "releaseYear": 2005,
+    "decade": "2000s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 3,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/f7/cd/25f7cdcc-137e-9e9f-ff3b-102da69bf85f/mzaf_567580200440394520.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/5a/b3/7a5ab396-360f-a8fc-4def-e43126d6abe4/8903431976932_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "Billo Rani (From \"Dhan Dhana Dhan Goal\")",
+      "Billo Rani"
+    ]
+  },
+  {
+    "title": "O Gujariya",
+    "movie": "Queen Vibes",
+    "singers": [
+      "Shefali Alvares & Nikhil D'Souza"
+    ],
+    "artists": [
+      "Shefali Alvares & Nikhil D'Souza"
+    ],
+    "composers": [
+      "Shefali Alvares & Nikhil D'Souza"
+    ],
+    "lyricist": "Shefali Alvares & Nikhil D'Souza",
+    "releaseYear": 2014,
+    "decade": "2010s",
+    "genre": [
+      "Bollywood",
+      "Party"
+    ],
+    "difficulty": 2,
+    "audioPreviewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/ca/76/b5ca76b6-27d1-52bc-0424-1e8b35d6bc3d/mzaf_567355787348588432.plus.aac.p.m4a",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/21/e8/7821e880-fc70-41c5-1aba-bf9a8dc9257d/8903431987266_cover.jpg/400x400bb.jpg",
+    "aliases": [
+      "O Gujariya (From \"Queen\")",
+      "O Gujariya"
     ]
   }
 ];
